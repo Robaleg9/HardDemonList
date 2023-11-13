@@ -10,11 +10,15 @@ export async function fetchList() {
     const packResult = await fetch(`${dir}/_packlist.json`);
     try {
         const list = await listResult.json();
+        const packsList = await packResult.json();
         return await Promise.all(
             list.map(async (path, rank) => {
                 const levelResult = await fetch(`${dir}/${path}.json`);
                 try {
                     const level = await levelResult.json();
+                    let packs = packsList.filter((x) =>
+                        x.levels.includes(path)
+                    );
                     return [
                         {
                             ...level,
