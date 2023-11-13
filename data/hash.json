@@ -207,12 +207,19 @@
           "percent": 100,
           "hz": 120
         },
-           {
-            "user": "TheKhalilKind",
-            "link": "https://youtu.be/LKn6bDUMmJk",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
+        {
+          "user": "TheKhalilKind",
+          "link": "https://youtu.be/LKn6bDUMmJk",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        },
+        {
+          "user": "funkyfridaygamer (gmd)",
+          "link": "https://youtu.be/TKumAH0fDCU?si=WY08DDbB4Aft4grH",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
