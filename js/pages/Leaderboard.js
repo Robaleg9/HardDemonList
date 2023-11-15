@@ -13,7 +13,7 @@ export default {
         selected: 0,
         err: [],
     }),
-    template: `
+    template:  `
         <main v-if="loading">
             <Spinner></Spinner>
         </main>
