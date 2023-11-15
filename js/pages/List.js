@@ -1,5 +1,5 @@
 import { store } from '../main.js';
-import { embed } from '../util.js';
+import { embed, getFontColour } from '../util.js';
 import { score } from '../score.js';
 import { fetchEditors, fetchList } from '../content.js';
 
@@ -174,5 +174,6 @@ export default {
     methods: {
         embed,
         score,
+        getFontColour,
     },
 };
