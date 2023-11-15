@@ -8,6 +8,164 @@
             "no_concept",
             "silence"
         ],
-        "colour": "#d4af37" 
+        "colour": "#cc7900" 
+    },
+    {
+        "name": "Bossfight Pack 2",
+        "levels": [
+            "beast_mayhem_ii",
+            "surgeragon",
+            "the_eschaton"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "Creo Song Pack",
+        "levels": [
+            "advance3",
+            "time_decay",
+            "xes",
+            "acid_rush_iii"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "Fast Timings Pack",
+        "levels": [
+            "distorzona",
+            "somniare",
+            "sideways_8"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "Food Pack",
+        "levels": [
+            "milkshake_draft",
+            "i_love_lasagna",
+            "crispy_reaction",
+            "elemental_melons",
+            "popcorn"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "Gas Station Pack",
+        "levels": [
+            "spacial_rift",
+            "sideways_8",
+            "pressure_chamber",
+            "adrenaline_chamber",
+            "total_oblivion"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "GDSpeed Pack",
+        "levels": [
+            "stereophonic_system",
+            "impetus",
+            "quantum_variations",
+            "mechanical_torment"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "\"III\" Pack",
+        "levels": [
+            "rainfall_iii",
+            "toxin_lab_iii",
+            "acid_rush_iii"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "Impossible Ending Pack",
+        "levels": [
+            "pulsar",
+            "artemisia",
+            "i_cant_fix_you"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "Kinetic Energy Pack",
+        "levels": [
+            "impetus",
+            "action",
+            "snap"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "Korea Pack",
+        "levels": [
+            "azure_paralyzer",
+            "dualviper",
+            "i_cant_fix_you",
+            "necrofantasia",
+            "crimson_chamber"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "Megacollab Pack 3",
+        "levels": [
+            "sonic_chamber",
+            "artemisia",
+            "sideways_8",
+            "universal_perception",
+            "hyped_up"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "Memory Pack 3",
+        "levels": [
+            "screamroom",
+            "crispy_reaction",
+            "night_of_demon"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "Short and Sweet Pack",
+        "levels": [
+            "hibernal",
+            "brisban",
+            "mario_judas"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "SHOUTING PACK 3",
+        "levels": [
+            "blrpl_lghts",
+            "big_floppa",
+            "sideways_8",
+            "noem",
+            "hash"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "Toxin Pack",
+        "levels": [
+            "toxin_lab_iii",
+            "neurotoxin",
+            "acid_rush_iii"
+        ],
+        "colour": "#f8c300"
+    },
+    {
+        "name": "Xtrullor Song Pack 2",
+        "levels": [
+            "immortal_ichor",
+            "toxin_lab_iii",
+            "in_limbo"
+        ],
+        "colour": "#f8c300"
     }
 ]
+
+// Silver: 597e8d, Bronze: a62019
