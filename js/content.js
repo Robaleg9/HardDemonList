@@ -110,6 +110,17 @@ export async function fetchLeaderboard() {
             });
         });
     });
+    for (let user of Object.entries(scoreMap)) {
+        let levels = [...user[1]["verified"], ...user[1]["completed"]].map(
+            (x) => x["path"]
+        );
+        for (let pack of packResult) {
+            if (pack.levels.every((e1) => levels.includes(e1))) {
+                user[1]["packs"].push(pack);
+            }
+        }
+        
+    }
 
     // Wrap in extra Object containing the user and total score
     const res = Object.entries(scoreMap).map(([user, scores]) => {
