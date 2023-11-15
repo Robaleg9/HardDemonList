@@ -169,11 +169,230 @@
     {
         "name": "Acid-Notation Song Pack",
         "levels": [
-            "immortal_ichor",
-            "toxin_lab_iii",
-            "in_limbo"
+            "splendid_mold",
+            "shambolic",
+            "necrofantasia",
+            "psychosis"
         ],
         "colour": "#597e8d"
+    },
+    {
+        "name": "Armageddon Pack",
+        "levels": [
+            "weirdmaggedon",
+            "massacre",
+            "the_eschaton"
+        ],
+        "colour": "#597e8d"
+    },
+    {
+        "name": "Chamber Pack",
+        "levels": [
+            "sonic_chamber",
+            "pressure_chamber",
+            "adrenaline_chamber",
+            "crimson_chamber"
+        ],
+        "colour": "#597e8d"
+    },
+    {
+        "name": "Chaoz Impackt",
+        "levels": [
+            "elo2",
+            "e_v_a_c_u_a_t_i_o_n",
+            "speed_raxer"
+        ],
+        "colour": "#597e8d"
+    },
+    {
+        "name": "France Pack",
+        "levels": [
+            "quantum_variations",
+            "deadbeat",
+            "sharp"
+        ],
+        "colour": "#597e8d"
+    },
+    {
+        "name": "Glow Solo Pack",
+        "levels": [
+            "xes",
+            "eternal_flame",
+            "deadbeat"
+        ],
+        "colour": "#597e8d"
+    },
+    {
+        "name": "Impostor Pack",
+        "levels": [
+            "shadow_temple",
+            "action",
+            "switchblade",
+            "classical_rayoriens",
+            "apache"
+        ],
+        "colour": "#597e8d"
+    },
+    {
+        "name": "Italy Pack",
+        "levels": [
+            "distorzona",
+            "efetis_belis",
+            "flirt_drive"
+        ],
+        "colour": "#597e8d"
+    },
+    {
+        "name": "Megacollab Pack 2",
+        "levels": [
+            "spacial_rift",
+            "viridica",
+            "adrenaline_chamber",
+            "droppy",
+            "necrofantasia",
+            "speed_raxer"
+        ],
+        "colour": "#597e8d"
+    },
+    {
+        "name": "Memory Pack 2",
+        "levels": [
+            "flirt_drive",
+            "massacre",
+            "theory_of_intercept",
+            "mem"
+        ],
+        "colour": "#597e8d"
+    },
+    {
+        "name": "whispering pack",
+        "levels": [
+            "xes",
+            "screamroom",
+            "elo2",
+            "we_care",
+            "sharp"
+        ],
+        "colour": "#597e8d"
+    },
+    {
+        "name": "Xtrullor Song Pack 1",
+        "levels": [
+            "crispy_reaction",
+            "wonder_cosm",
+            "fusion",
+            "k_a_n_g"
+        ],
+        "colour": "#597e8d"
+    },
+    {
+        "name": "Early 2.0 Pack",
+        "levels": [
+            "artillery",
+            "wonder_cosm",
+            "massacre",
+            "voidless"
+        ],
+        "colour": "#a62019"
+    },
+    {
+        "name": "Nine Circles Pack",
+        "levels": [
+            "classical_rayoriens",
+            "ultra_circles",
+            "sharp",
+            "infernity",
+            "sweet_dreams"
+        ],
+        "colour": "#a62019"
+    },
+    {
+        "name": "Popular Pack",
+        "levels": [
+            "diffuse",
+            "the_furious",
+            "psychosis",
+            "araneo"
+        ],
+        "colour": "#a62019"
+    },
+    {
+        "name": "Replacement X Pack",
+        "levels": [
+            "speed_raxer",
+            "gimmix",
+            "xtravagant"
+        ],
+        "colour": "#a62019"
+    },
+    {
+        "name": "USA Pack",
+        "levels": [
+            "pursuit",
+            "torment",
+            "forrest_gamp"
+        ],
+        "colour": "#a62019"
+    },
+    {
+        "name": "\"What Were They Cooking?\" Pack",
+        "levels": [
+            "wonder_cosm",
+            "afterlocked",
+            "massacre"
+        ],
+        "colour": "#a62019"
+    },
+    {
+        "name": "Red Pack",
+        "levels": [
+            "scarlet_pulse",
+            "weirdmaggedon",
+            "in_limbo",
+            "pressure_chamber"
+        ],
+        "colour": "#ff0000"
+    },
+    {
+        "name": "Orange Pack",
+        "levels": [
+            "fusion",
+            "infernity",
+            "pursuit"
+        ],
+        "colour": "#ffa500"
+    },
+    {
+        "name": "Blue Pack",
+        "levels": [
+            "azure_paralyzer",
+            "hibernal",
+            "universal_perception",
+            "sky_temple",
+            "k_a_n_g"
+        ],
+        "colour": "#0072fa"
+    },
+    {
+        "name": "Purple Pack",
+        "levels": [
+            "blrpl_lghts",
+            "shadow_temple",
+            "time_decay",
+            "sweet_dreams",
+            "araneo"
+        ],
+        "colour": "#a200ff"
+    },
+    {
+        "name": "Black and White Pack",
+        "levels": [
+            "immortal_ichor",
+            "sideways_8",
+            "el_eyon",
+            "torment"
+        ],
+        "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 34%, rgba(255,255,255,1) 33%)"
     }
 ]
 
