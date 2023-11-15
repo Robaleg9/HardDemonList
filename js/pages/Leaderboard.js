@@ -13,7 +13,7 @@ export default {
         selected: 0,
         err: [],
     }),
-    template: `
+    template:  `
         <main v-if="loading">
             <Spinner></Spinner>
         </main>
@@ -43,8 +43,14 @@ export default {
                 </div>
                 <div class="player-container">
                     <div class="player">
-                        <h1>#{{ selected + 1 }} {{ entry.user }}</h1>
-                        <h3>{{ entry.total }}</h3>
+                        <h2>#{{ selected + 1 }} {{ entry.user }} - {{ entry.verified.length + entry.completed.length }} demons</h2>
+                        <h3>{{ entry.total }} points</h3>
+                        <p>Packs Bonus: {{ entry.packBonus }} points</p>
+                        <div class="packs" v-if="entry.packs.length > 0">
+                            <div v-for="pack in entry.packs" class="tag" :style="{background:pack.colour, color:getFontColour(pack.colour)}">
+                                {{pack.name}}
+                            </div>
+                        </div>
                         <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
                         <table class="table">
                             <tr v-for="score in entry.verified">
