@@ -115,20 +115,6 @@ export async function fetchLeaderboard() {
     const res = Object.entries(scoreMap).map(([user, scores]) => {
         const { verified, completed, progressed } = scores;
 
-        for (let pack of scores["packs"]) {
-            const packLevelScores = [];
-            const allUserLevels = [
-                ...scores["verified"],
-                ...scores["completed"],
-            ];
-            for (let level of pack["levels"]) {
-                let userLevel = allUserLevels.find((lvl) => lvl.path == level);
-                packLevelScores.push(userLevel.score);
-            }
-            packLevelScores.forEach((score) => (packScore += score));
-            packScoreMultiplied = packScore * packMultiplier;
-        }
-        
         const total = [verified, completed, progressed]
             .flat()
             .reduce((prev, cur) => prev + cur.score, 0);
