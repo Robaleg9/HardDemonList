@@ -92,7 +92,7 @@
         "name": "Kinetic Energy Pack",
         "levels": [
             "impetus",
-            "action",
+            "action_lyal",
             "snap"
         ],
         "colour": "#f8c300"
@@ -165,6 +165,15 @@
             "in_limbo"
         ],
         "colour": "#f8c300"
+    },
+    {
+        "name": "Acid-Notation Song Pack",
+        "levels": [
+            "immortal_ichor",
+            "toxin_lab_iii",
+            "in_limbo"
+        ],
+        "colour": "#597e8d"
     }
 ]
 
