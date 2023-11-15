@@ -300,6 +300,13 @@
             "link": "https://youtu.be/_XGLoyYhaCI",
             "percent": 100,
             "hz": 144
-        }
+        },
+        {
+          "user": "ARC2010",
+          "link": "https://youtu.be/697juXReAcM?si=4_abCEsIJivpzLrL",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+      }
     ]
 }

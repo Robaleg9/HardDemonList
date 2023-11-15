@@ -328,6 +328,13 @@
           "link": "https://youtu.be/kwKt0_z70Rk",
           "percent": 100,
           "hz": 60
-        }
+        },
+        {
+            "user": "justrandom",
+            "link": "https://youtu.be/svTXT35VeSI?si=eJ_TtbJcJeyEwzs6",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+          }
     ]
 }

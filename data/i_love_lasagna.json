@@ -244,6 +244,18 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "BigMac [GD]",
+            "link": "https://youtu.be/C5trqqNWL-8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "thexxuser",
+            "link": "https://youtu.be/vfk9OyQUEL4?si=uC3Sh5yt0Kq1xfh7",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

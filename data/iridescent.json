@@ -86,6 +86,25 @@
             "link": "https://www.youtube.com/watch?v=w-H6jPRUPkQ",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Electro325",
+            "link": "https://youtu.be/Dl-ARkqppEY?si=NEU167Z1WtGSzEmM&t=93",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://youtu.be/zTbP9N6FwWE",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/zTbP9N6FwWE",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }

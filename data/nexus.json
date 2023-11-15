@@ -103,6 +103,20 @@
             "link": "https://www.youtube.com/watch?v=MRE_KgcL4sY",
             "percent": 100,
             "hz": 360
+        },
+        {
+          "user": "TDWBS",
+          "link": "https://youtu.be/AVLZ9dKJxgM?si=u09Zx104H0whxqLy",
+          "percent": 100,
+          "hz": 120,
+          "mobile": true
+        },
+        {
+          "user": "Shroomy!!!",
+          "link": "https://youtu.be/11FPTXy_3Hk?si=J-9vZMjBUfNs-7iy",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
     ]
 }

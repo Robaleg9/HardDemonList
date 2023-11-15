@@ -111,11 +111,19 @@
           "percent": 100,
           "hz": 60,
           "mobile" :true
-      },{
+      },
+      {
         "user": "FixYourGameplay",
         "link": "https://youtu.be/3xcIWk8YrIQ",
         "percent": 100,
         "hz": 144
+    },
+    {
+      "user": "Subperfect",
+      "link": "https://youtu.be/GPxUURozAC0?feature=shared",
+      "percent": 100,
+      "hz": 60,
+      "mobile": true
     }
     ]
 }

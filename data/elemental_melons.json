@@ -116,6 +116,13 @@
           "link": "https://www.youtube.com/watch?v=O0Fp_UKd8Vo&ab_channel=TheGanGes",
           "percent": 100,
           "hz": 240
+        },
+        {
+          "user": "Subperfect",
+          "link": "https://www.youtube.com/watch?v=O0Fp_UKd8Vo&ab_channel=TheGanGes",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
         ]
 }

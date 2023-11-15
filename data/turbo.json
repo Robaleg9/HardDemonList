@@ -187,6 +187,13 @@
             "link": "https://youtu.be/tTlS8PMOpWk",
             "percent": 100,
             "hz": 75
+        },
+        {
+            "user": "Subperfect",
+            "link": "https://youtu.be/ZFD8MA6zl_0?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
      ]
 }

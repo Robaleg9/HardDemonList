@@ -233,6 +233,19 @@
             "link": "https://www.youtube.com/watch?v=9clpua0CaAQ&ab_channel=deadbush",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "SweetDreams",
+            "link": "https://youtu.be/S-98Zt7_-AY?si=noeYISqH1-N_FIyM",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Phinxgd",
+            "link": "https://youtu.be/svdCnu2_1eM",
+            "percent": 100,
+            "hz": 360
         }
       ]
 }

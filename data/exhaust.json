@@ -67,6 +67,19 @@
             "link": "https://youtu.be/_ocs0bq_gus?si=Gej3SCJskmvn-UQS",
             "percent": 100,
             "hz": 321
+        },
+        {
+            "user": "Subperfect",
+            "link": "https://youtu.be/rPplDEYtY-I?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "thexxuser",
+            "link": "https://youtu.be/OXnDHrA0o5E?si=ZUG5B7g4GSzhbKtI",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

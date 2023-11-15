@@ -160,6 +160,13 @@
           "link": "https://youtu.be/cyuYcnmpa6g",
           "percent": 100,
           "hz": 60
+        },
+        {
+          "user": "ARC2010",
+          "link": "https://youtu.be/gcM9pLw8UiI?si=PsTLrpQbcaur821T",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
         }
       ]
 }
