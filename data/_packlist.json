@@ -24,6 +24,8 @@
         "levels": [
             "advance3",
             "time_decay",
+            "artemisia",
+            "dark_tides",
             "xes",
             "acid_rush_iii"
         ],
@@ -129,11 +131,26 @@
         "colour": "#ffd700"
     },
     {
+        "name": "NONG Pack",
+        "levels": [
+            "technicolor",
+            "watch_the_throne",
+            "magnolia",
+            "late",
+            "doomed",
+            "exhaust",
+            "we_care"
+        ],
+        "colour": "#ffd700"
+    },
+    {
         "name": "Short and Sweet Pack",
         "levels": [
+            "doomed",
             "hibernal",
             "brisban",
-            "mario_judas"
+            "mario_judas",
+            "gimmix"
         ],
         "colour": "#ffd700"
     },
@@ -158,11 +175,35 @@
         "colour": "#ffd700"
     },
     {
+        "name": "\"What Were They Cooking?\" Pack",
+        "levels": [
+            "weirdmaggedon",
+            "immortal_ichor",
+            "standoff",
+            "wonder_cosm",
+            "afterlocked",
+            "massacre"
+        ],
+        "colour": "#ffd700"
+    },
+    {
         "name": "Xtrullor Song Pack 2",
         "levels": [
             "immortal_ichor",
             "toxin_lab_iii",
             "in_limbo"
+        ],
+        "colour": "#ffd700"
+    },
+    {
+        "name": "XXL Pack",
+        "levels": [
+            "surgeragon",
+            "the_eschaton",
+            "cyber_dream",
+            "effulgent",
+            "neurotoxin",
+            "droppy"
         ],
         "colour": "#ffd700"
     },
@@ -237,6 +278,7 @@
         "name": "Italy Pack",
         "levels": [
             "distorzona",
+            "cubic_force",
             "efetis_belis",
             "flirt_drive"
         ],
@@ -261,6 +303,51 @@
             "massacre",
             "theory_of_intercept",
             "mem"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
+        "name": "Nine Circles Pack",
+        "levels": [
+            "classical_rayoriens",
+            "ultra_circles",
+            "sharp",
+            "infernity",
+            "sweet_dreams"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
+        "name": "Object Heavy Pack",
+        "levels": [
+            "the_eschaton",
+            "surgeragon",
+            "droppy",
+            "coreosious",
+            "universal_perception",
+            "neurotoxin"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
+        "name": "Official Song Pack",
+        "levels": [
+            "cubic_force",
+            "night_of_demon",
+            "c1u6",
+            "heat_haze"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
+        "name": "Potato Pack",
+        "levels": [
+            "sweet_dreams",
+            "night_of_demon",
+            "crimson_chamber",
+            "artillery",
+            "total_oblivion",
+            "sharp"
         ],
         "colour": "#c0c0c0"
     },
@@ -296,17 +383,6 @@
         "colour": "#cd7f32"
     },
     {
-        "name": "Nine Circles Pack",
-        "levels": [
-            "classical_rayoriens",
-            "ultra_circles",
-            "sharp",
-            "infernity",
-            "sweet_dreams"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
         "name": "Popular Pack",
         "levels": [
             "diffuse",
@@ -331,16 +407,6 @@
             "pursuit",
             "torment",
             "forrest_gamp"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
-        "name": "\"What Were They Cooking?\" Pack",
-        "levels": [
-            "weirdmaggedon",
-            "wonder_cosm",
-            "afterlocked",
-            "massacre"
         ],
         "colour": "#cd7f32"
     },
