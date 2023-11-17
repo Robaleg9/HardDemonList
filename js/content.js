@@ -99,6 +99,7 @@ export async function fetchLeaderboard() {
                     level: level.name,
                     score: score(rank + 1, 100, level.percentToQualify),
                     link: record.link,
+                    path: level.path,
                 });
                 return;
             }
@@ -109,6 +110,7 @@ export async function fetchLeaderboard() {
                 percent: record.percent,
                 score: score(rank + 1, record.percent, level.percentToQualify),
                 link: record.link,
+                path: level.path,
             });
         });
     });
