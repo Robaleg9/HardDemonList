@@ -11,6 +11,34 @@
         "colour": "#000000" 
     },
     {
+        "name": "HDL Alphabet",
+        "levels": [
+            "azure_paralyzer",
+            "blrpl_lghts",
+            "cyber_dream",
+            "distorzona",
+            "elemental_stones",
+            "fusion",
+            "gimmix",
+            "hibernal",
+            "i_love_lasagna",
+            "k_a_n_g",
+            "late",
+            "milkshake_draft",
+            "no_concept",
+            "pulsar",
+            "quantum_variations",
+            "rainfall_iii",
+            "spacial_rift",
+            "technicolor",
+            "universal_perception",
+            "viridica",
+            "watch_the_throne",
+            "xes"
+        ],
+        "colour": "#000000" 
+    },
+    {
         "name": "Bossfight Pack",
         "levels": [
             "beast_mayhem_ii",
@@ -88,6 +116,7 @@
         "name": "Impossible Ending Pack",
         "levels": [
             "pulsar",
+            "sonic_chamber",
             "artemisia",
             "i_cant_fix_you",
             "exhaust"
@@ -241,15 +270,6 @@
             "pressure_chamber",
             "adrenaline_chamber",
             "crimson_chamber"
-        ],
-        "colour": "#c0c0c0"
-    },
-    {
-        "name": "Chaoz Impackt",
-        "levels": [
-            "elo2",
-            "e_v_a_c_u_a_t_i_o_n",
-            "speed_raxer"
         ],
         "colour": "#c0c0c0"
     },
@@ -436,6 +456,15 @@
             "k_a_n_g"
         ],
         "colour": "#c0c0c0"
+    },
+    {
+        "name": "Chaoz Impackt",
+        "levels": [
+            "elo2",
+            "e_v_a_c_u_a_t_i_o_n",
+            "speed_raxer"
+        ],
+        "colour": "#cd7f32"
     },
     {
         "name": "Early 2.0 Pack",
