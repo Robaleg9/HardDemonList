@@ -102,12 +102,12 @@
     {
         "name": "Korea Pack",
         "levels": [
+            "no_concept",
             "azure_paralyzer",
             "dualviper",
             "i_cant_fix_you",
             "necrofantasia",
-            "crimson_chamber",
-            "mo_concept"
+            "crimson_chamber"
         ],
         "colour": "#ffd700"
     },
