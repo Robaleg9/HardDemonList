@@ -11,7 +11,7 @@
         "colour": "#000000" 
     },
     {
-        "name": "Bossfight Pack 2",
+        "name": "Bossfight Pack",
         "levels": [
             "beast_mayhem_ii",
             "surgeragon",
@@ -106,12 +106,13 @@
             "dualviper",
             "i_cant_fix_you",
             "necrofantasia",
-            "crimson_chamber"
+            "crimson_chamber",
+            "mo_concept"
         ],
         "colour": "#ffd700"
     },
     {
-        "name": "Megacollab Pack 3",
+        "name": "Megacollab Pack 2",
         "levels": [
             "sonic_chamber",
             "artemisia",
@@ -122,7 +123,7 @@
         "colour": "#ffd700"
     },
     {
-        "name": "Memory Pack 3",
+        "name": "Memory Pack 2",
         "levels": [
             "screamroom",
             "crispy_reaction",
@@ -155,7 +156,7 @@
         "colour": "#ffd700"
     },
     {
-        "name": "SHOUTING PACK 3",
+        "name": "SHOUTING PACK",
         "levels": [
             "blrpl_lghts",
             "big_floppa",
@@ -285,7 +286,7 @@
         "colour": "#c0c0c0"
     },
     {
-        "name": "Megacollab Pack 2",
+        "name": "Megacollab Pack",
         "levels": [
             "spacial_rift",
             "viridica",
@@ -297,7 +298,7 @@
         "colour": "#c0c0c0"
     },
     {
-        "name": "Memory Pack 2",
+        "name": "Memory Pack",
         "levels": [
             "flirt_drive",
             "massacre",
