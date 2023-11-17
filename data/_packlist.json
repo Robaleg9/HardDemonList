@@ -15,6 +15,8 @@
         "levels": [
             "beast_mayhem_ii",
             "surgeragon",
+            "fusion",
+            "k_a_n_g",
             "the_eschaton"
         ],
         "colour": "#ffd700"
@@ -36,6 +38,7 @@
         "levels": [
             "distorzona",
             "somniare",
+            "hibernal",
             "sideways_8"
         ],
         "colour": "#ffd700"
@@ -86,7 +89,8 @@
         "levels": [
             "pulsar",
             "artemisia",
-            "i_cant_fix_you"
+            "i_cant_fix_you",
+            "exhaust"
         ],
         "colour": "#ffd700"
     },
@@ -156,22 +160,13 @@
         "colour": "#ffd700"
     },
     {
-        "name": "SHOUTING PACK",
+        "name": "SHOUTING PACK 3",
         "levels": [
             "blrpl_lghts",
             "big_floppa",
             "sideways_8",
-            "noem",
-            "hash"
-        ],
-        "colour": "#ffd700"
-    },
-    {
-        "name": "Toxin Pack",
-        "levels": [
-            "toxin_lab_iii",
-            "neurotoxin",
-            "acid_rush_iii"
+            "dead_beat",
+            "noem"
         ],
         "colour": "#ffd700"
     },
@@ -228,6 +223,18 @@
         "colour": "#c0c0c0"
     },
     {
+        "name": "Car Crash Pack",
+        "levels": [
+            "flirt_drive",
+            "turbo",
+            "snap",
+            "screamroom",
+            "i_cant_fix_you",
+            "despair"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
         "name": "Chamber Pack",
         "levels": [
             "sonic_chamber",
@@ -247,6 +254,35 @@
         "colour": "#c0c0c0"
     },
     {
+        "name": "Cookie List Pack",
+        "levels": [
+            "crackdown",
+            "standoff",
+            "sky_temple",
+            "afterlocked"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
+        "name": "Difficulty Spike Pack",
+        "levels": [
+            "technicolor",
+            "magnolia",
+            "arnac_la_poste"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
+        "name": "Early 2.1 Pack",
+        "levels": [
+            "serpent",
+            "evasion",
+            "castle_dedede",
+            "araneo"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
         "name": "France Pack",
         "levels": [
             "quantum_variations",
@@ -261,6 +297,15 @@
             "xes",
             "eternal_flame",
             "deadbeat"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
+        "name": "Hinds Pack",
+        "levels": [
+            "diffuse",
+            "nadji",
+            "psychosis"
         ],
         "colour": "#c0c0c0"
     },
@@ -341,6 +386,15 @@
         "colour": "#c0c0c0"
     },
     {
+        "name": "Pennutoh Pack",
+        "levels": [
+            "superior_sequence",
+            "efetis_belis",
+            "hypertehno"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
         "name": "Potato Pack",
         "levels": [
             "sweet_dreams",
@@ -349,6 +403,16 @@
             "artillery",
             "total_oblivion",
             "sharp"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
+        "name": "SHOUTING PACK 2",
+        "levels": [
+            "hash",
+            "exhaust",
+            "ablaze",
+            "e_v_a_c_u_a_t_i_o_n"
         ],
         "colour": "#c0c0c0"
     },
@@ -384,8 +448,20 @@
         "colour": "#cd7f32"
     },
     {
+        "name": "Nuclear Meltdown Pack",
+        "levels": [
+            "the_ultimate_core",
+            "fusion",
+            "ablaze",
+            "e_v_a_c_u_a_t_i_o_n",
+            "infernity"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
         "name": "Popular Pack",
         "levels": [
+            "doomed",
             "diffuse",
             "the_furious",
             "psychosis",
@@ -399,6 +475,24 @@
             "speed_raxer",
             "gimmix",
             "xtravagant"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
+        "name": "SHOUTING PACK 1",
+        "levels": [
+            "k_a_n_g",
+            "araneo",
+            "trippy_trippy"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
+        "name": "Toxin Pack",
+        "levels": [
+            "toxin_lab_iii",
+            "neurotoxin",
+            "acid_rush_iii"
         ],
         "colour": "#cd7f32"
     },
@@ -425,8 +519,19 @@
         "name": "Orange Pack",
         "levels": [
             "fusion",
+            "ablaze",
             "infernity",
             "pursuit"
+        ],
+        "colour": "#ffa500"
+    },
+    {
+        "name": "Green Pack",
+        "levels": [
+            "superior_sequence",
+            "toxin_lab_iii",
+            "viridica",
+            "neurotoxin"
         ],
         "colour": "#ffa500"
     },
@@ -434,6 +539,7 @@
         "name": "Blue Pack",
         "levels": [
             "azure_paralyzer",
+            "serpent",
             "hibernal",
             "universal_perception",
             "sky_temple",
@@ -457,6 +563,7 @@
         "levels": [
             "immortal_ichor",
             "sideways_8",
+            "dead_beat",
             "el_eyon",
             "torment"
         ],
