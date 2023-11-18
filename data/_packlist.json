@@ -50,6 +50,15 @@
         "colour": "#ffd700"
     },
     {
+        "name": "Bright Pack",
+        "levels": [
+            "distorzona",
+            "snap",
+            "el_eyon"
+        ],
+        "colour": "#ffd700"
+    },
+    {
         "name": "Creo Song Pack",
         "levels": [
             "advance3",
@@ -145,22 +154,13 @@
         "colour": "#ffd700"
     },
     {
-        "name": "Megacollab Pack 2",
+        "name": "Megacollab Pack 3",
         "levels": [
+            "spacial_rift",
             "sonic_chamber",
             "artemisia",
             "sideways_8",
-            "universal_perception",
-            "hyped_up"
-        ],
-        "colour": "#ffd700"
-    },
-    {
-        "name": "Memory Pack 2",
-        "levels": [
-            "screamroom",
-            "crispy_reaction",
-            "night_of_demon"
+            "universal_perception"
         ],
         "colour": "#ffd700"
     },
@@ -351,11 +351,11 @@
         "colour": "#c0c0c0"
     },
     {
-        "name": "Megacollab Pack",
+        "name": "Megacollab Pack 2",
         "levels": [
-            "spacial_rift",
             "viridica",
             "adrenaline_chamber",
+            "hyped_up",
             "droppy",
             "necrofantasia",
             "speed_raxer"
@@ -363,12 +363,12 @@
         "colour": "#c0c0c0"
     },
     {
-        "name": "Memory Pack",
+        "name": "Memory Pack 2",
         "levels": [
-            "flirt_drive",
-            "massacre",
-            "theory_of_intercept",
-            "mem"
+            "screamroom",
+            "crispy_reaction",
+            "night_of_demon",
+            "flirt_drive"
         ],
         "colour": "#c0c0c0"
     },
@@ -437,6 +437,15 @@
         "colour": "#c0c0c0"
     },
     {
+        "name": "ViPriN Pack",
+        "levels": [
+            "impetus",
+            "despair",
+            "coreosious"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
         "name": "whispering pack",
         "levels": [
             "xes",
@@ -473,6 +482,28 @@
             "wonder_cosm",
             "massacre",
             "voidless"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
+        "name": "Megacollab Pack 1",
+        "levels": [
+            "hypertehno",
+            "neurotoxin",
+            "crimson_flare",
+            "acid_rush_iii",
+            "crystal_splash",
+            "viridyans_dungeon"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
+        "name": "Memory Pack 1",
+        "levels": [
+            "massacre",
+            "araneo",
+            "theory_of_intercept",
+            "mem"
         ],
         "colour": "#cd7f32"
     },
@@ -586,6 +617,16 @@
             "araneo"
         ],
         "colour": "#a200ff"
+    },
+    {
+        "name": "Grey Pack",
+        "levels": [
+            "dead_beat",
+            "exhaust",
+            "mechanical_torment",
+            "eden_decision"
+        ],
+        "colour": "#808080"
     },
     {
         "name": "Black and White Pack",
