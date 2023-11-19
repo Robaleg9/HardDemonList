@@ -4,20 +4,20 @@
     "author": "SSaturM",
     "creators": ["SSaturM","Drewch","Raven500","Kotik","Rous"],
     "verifier": "SSaturM",
-    "verification": "https://youtu.be/WoLTuXkyHIk?si=16_1EVsSrWu5BCB7",
+    "verification": "https://youtu.be/WoLTuXkyHIk",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
             "user": "Kubus",
-            "link": "https://youtu.be/7BvO1WXMxd0?si=vrIT7FKB48M485h1",
+            "link": "https://youtu.be/7BvO1WXMxd0",
             "percent": 100,
             "hz": 120,
             "mobile": true
         },
         {
             "user": "Robaleg9",
-            "link": "https://youtu.be/RIiWZpM3v8Q?si=XmlMeCCRwkGaSs9x",
+            "link": "https://youtu.be/RIiWZpM3v8Q",
             "percent": 100,
             "hz": 144
         },
@@ -29,7 +29,7 @@
         },
         {
             "user": "Fawxu",
-            "link": "https://youtu.be/C5y0HNq470Y?si=xQ53mbFU9jXua5jl",
+            "link": "https://youtu.be/C5y0HNq470Y",
             "percent": 100,
             "hz": 240
         },
