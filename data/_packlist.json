@@ -621,7 +621,6 @@
     {
         "name": "Grey Pack",
         "levels": [
-            "dead_beat",
             "exhaust",
             "mechanical_torment",
             "eden_decision"
