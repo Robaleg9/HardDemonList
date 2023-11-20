@@ -105,6 +105,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "SoftMuffin76",
+            "link": "https://www.youtube.com/watch?v=0iWkxu2wBmE",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
