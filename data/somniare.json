@@ -307,7 +307,7 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-        },
+         },
          {
             "user": "FixYourGameplay",
             "link": "https://youtu.be/LTu5wPmgcRc",
@@ -315,36 +315,43 @@
             "hz": 144
         },
         {
-          "user": "Subperfect",
-          "link": "https://youtu.be/moOJ8N-ztVI?feature=shared",
+              "user": "Subperfect",
+              "link": "https://youtu.be/moOJ8N-ztVI?feature=shared",
+              "percent": 100,
+              "hz": 60,
+              "mobile": true
+        },
+        {
+              "user": "dindaxd",
+              "link": "https://www.youtube.com/watch?v=PCZHon45zWc&t=2s",
+              "percent": 100,
+              "hz": 240
+         },
+         {
+            "user": "Fantendo",
+            "link": "https://youtu.be/CJmn2wbuuUQ?si=yw4p5ABgO2t_FbfQ",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+          "user": "ChaeTDC",
+          "link": "https://youtu.be/wH_Ygx6sLVI?si=UnlbMadRXgAS58mq",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+            "user": "K3NNYY0",
+            "link": "https://youtu.be/uEOnw7_ZXTQ?si=0r5GeQszJdsminH4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+          "user": "timmy",
+          "link": "https://youtu.be/yrjm2oUYsW4?si=iCBaE1vVDQTRtM-C",
           "percent": 100,
           "hz": 60,
           "mobile": true
-        },
-        {
-          "user": "dindaxd",
-          "link": "https://www.youtube.com/watch?v=PCZHon45zWc&t=2s",
-          "percent": 100,
-          "hz": 240
-      },
-      {
-        "user": "Fantendo",
-        "link": "https://youtu.be/CJmn2wbuuUQ?si=yw4p5ABgO2t_FbfQ",
-        "percent": 100,
-        "hz": 60,
-        "mobile": true
-    },
-    {
-      "user": "ChaeTDC",
-      "link": "https://youtu.be/wH_Ygx6sLVI?si=UnlbMadRXgAS58mq",
-      "percent": 100,
-      "hz": 60
-  },
-  {
-    "user": "K3NNYY0",
-    "link": "https://youtu.be/uEOnw7_ZXTQ?si=0r5GeQszJdsminH4",
-    "percent": 100,
-    "hz": 360
-}
+        }
      ]
 }
