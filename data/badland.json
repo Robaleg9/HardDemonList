@@ -132,6 +132,13 @@
             "link": "https://youtu.be/p8voa_e48T8?si=qjh-kWFhEofhifCm",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/-XO1BEthmDo?si=Rq1Z45ntyVnkvgXr",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }

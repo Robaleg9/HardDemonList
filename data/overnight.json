@@ -221,6 +221,13 @@
             "link": "https://www.youtube.com/watch?v=9KwyGR0tbW8",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "TDWBS",
+            "link": "https://youtu.be/2e74CaZBn6g?si=1d1-hQG1PBni9wh5",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }

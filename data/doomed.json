@@ -128,6 +128,19 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "nico27",
+            "link": "https://youtu.be/m2nVr5KSp1k?si=5POuooCGodV3q3V3",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "GDalsdels",
+            "link": "https://youtu.be/-Qs-l21cueo?si=brz3t08UNOi1XVKY",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }

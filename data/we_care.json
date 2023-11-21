@@ -211,6 +211,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "puzzlene",
+            "link": "https://youtu.be/eovgu8mITS4?si=_0QjzLDauJW5OjRh",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }

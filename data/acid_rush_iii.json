@@ -229,6 +229,13 @@
         "link": "https://youtu.be/AdDF-BIoN2w",
         "percent": 100,
         "hz": 240
+      },
+      {
+        "user": "KiloNovaGD",
+        "link": "https://youtu.be/p4Fc7seJRZk?si=M3K6SrddPQt-EbB2",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
       }
     ]
 }
