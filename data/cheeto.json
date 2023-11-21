@@ -9,8 +9,63 @@
     "password": "615072",
     "records": [
         {
+            "user": "tomm",
+            "link": "https://www.youtube.com/watch?v=QITMBOq6PRA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "nTimaw",
+            "link": "https://youtu.be/wCyQ_FxqgSo?si=mz9jvF9XftLRsGms",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Leckylecks",
+            "link": "https://youtu.be/0rqkzAhF964?si=CI-p815Kd9RrVd33",
+            "percent": 100,
+            "hz": 360
+        },
+        {
             "user": "Willow",
             "link": "https://youtu.be/SzNuOsIE2ac",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/iMeqOFr1Aew?si=Bc5AFJhW3KUO32v-",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/Jd_LBR61hQA?si=O-j0673qjZKO67zp",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/G0LaXDBEN38?si=k1KkvUVqMyLsE0b-",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Leven",
+            "link": "https://youtu.be/m5kK2H7Ko9E",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "EvanDaBest",
+            "link": "https://www.youtube.com/watch?v=f0i7WTAo13s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://youtu.be/1vrdOnCQkOc?si=H8fS1lgo6muhefUJ",
             "percent": 100,
             "hz": 120
         }
