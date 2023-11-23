@@ -239,10 +239,10 @@
             "hz": 144
         },
         {
-          "user": "Bobbyp02",
-          "link": "https://youtu.be/C02d7CECrHg&t=1028",
-          "percent": 100,
-          "hz": 360
+            "user": "Bobbyp02",
+            "link": "https://youtu.be/C02d7CECrHg&t=1028",
+            "percent": 100,
+            "hz": 360
         },
         {
             "user": "Kubus",
@@ -259,10 +259,16 @@
             "mobile": true
         },
         {
-          "user": "Frogs65",
-          "link": "https://youtu.be/C61ULFjwgl0",
-          "percent": 100,
-          "hz": 60
+            "user": "Frogs65",
+            "link": "https://youtu.be/C61ULFjwgl0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Gomus Mogus",
+            "link": "https://www.twitch.tv/videos/1683464584",
+            "percent": 100,
+            "hz": 165
         }
       ]
 }
