@@ -4,7 +4,7 @@
     "author": "ViPriN",
     "creators": [],
     "verifier": "MaxiS9",
-    "verification": "https://youtu.be/umw5cB72VY4?si=CbrkFivw_KDluJua",
+    "verification": "https://www.youtube.com/watch?v=umw5cB72VY4",
     "percentToQualify": 100,
     "records": [
         {
@@ -125,6 +125,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Djhilbs",
+            "link": "https://www.youtube.com/watch?v=-4v-VDJ7Bw0",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
