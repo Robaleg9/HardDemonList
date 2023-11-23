@@ -1439,18 +1439,24 @@
   "percent": 100,
   "hz": 60
 },
-{
-  "user": "Jenny",
-  "link": "https://www.youtube.com/watch?v=6kbpnbz34iE",
-  "percent": 100,
-  "hz": 60,
-  "mobile": true
-},
-{
-  "user": "JETLAG",
-  "link": "https://youtu.be/WRudxXIIIR4",
-  "percent": 100,
-  "hz": 165
-}
+        {
+            "user": "Jenny",
+            "link": "https://www.youtube.com/watch?v=6kbpnbz34iE",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "JETLAG",
+            "link": "https://youtu.be/WRudxXIIIR4",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "superbraz4",
+            "link": "https://www.youtube.com/watch?v=M8RtipVNNR8",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
