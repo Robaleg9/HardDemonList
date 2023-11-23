@@ -2,11 +2,10 @@
     "id": 54444684,
     "name": "Evermore",
     "author": "SirHadoken",
-    "creators": ["SirHadoken", "Ballii", "Destriv", "Rafer", "Pauze", "TD Epic", "Cirtrax", "Annon", "Luminex", "Failure444", "Nampac", "Jghost", "Geogamer12"],
+    "creators": ["SirHadoken, balli, Destriv, Jghost, Annon, Luminex, Failure444, rafer, Geogamer12, nampac, Cirtrax, Pauze, TD Epic"],
     "verifier": "mbed",
-    "verification": "https://youtu.be/_ULGoPgxHC4?si=pSK7lwL8SHFn2RAz",
+    "verification": "https://www.youtube.com/watch?v=_ULGoPgxHC4",
     "percentToQualify": 100,
-    "password": "Not Copyable",
     "records": [
         {
             "user": "nTimaw",
@@ -68,6 +67,12 @@
             "link": "https://youtu.be/gAFB6c_OpNY?si=EZ9OebPstmccLPZB",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://www.youtube.com/watch?v=Aj5SiN6WPTM",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
