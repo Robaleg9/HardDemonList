@@ -9,10 +9,96 @@
     "password": "888258",
     "records": [
       {
-          "user": "SoftMuffin76",
-          "link": "https://www.youtube.com/watch?v=0iWkxu2wBmE",
-          "percent": 100,
-          "hz": 144
+        "user": "SoftMuffin76",
+        "link": "https://www.youtube.com/watch?v=0iWkxu2wBmE",
+        "percent": 100,
+        "hz": 144
+      },
+      {
+        "user": "Robaleg9",
+        "link": "https://www.youtube.com/watch?v=VPvxh4WWktM",
+        "percent": 100,
+        "hz": 144
+      },
+      {
+        "user": "EvanDaBest",
+        "link": "https://www.youtube.com/watch?app=desktop&v=Jo1R4WqAd88",
+        "percent": 100,
+        "hz": 144
+      },
+      {
+        "user": "Fawxu",
+        "link": "https://www.youtube.com/watch?v=xVdIaKRIGQw",
+        "percent": 100,
+        "hz": 144
+      },
+      {
+        "user": "Shroomy!!!",
+        "link": "https://www.youtube.com/watch?v=vThCbTDy2Ww",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
+      },
+      {
+        "user": "IgongDae",
+        "link": "https://www.youtube.com/watch?v=xlkG6QoSa9g",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "nTimaw",
+        "link": "https://www.youtube.com/watch?v=N9Dsq-sg0TE",
+        "percent": 100,
+        "hz": 321
+      },
+      {
+        "user": "Leckylecks",
+        "link": "https://www.youtube.com/watch?v=EjEzwUj8qvA",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Leven",
+        "link": "https://www.youtube.com/watch?v=glXtg_qWEHk",
+        "percent": 100,
+        "hz": 75
+      },
+      {
+        "user": "JoacoPe",
+        "link": "https://www.youtube.com/watch?v=HsBv-_rkiXQ",
+        "percent": 100,
+        "hz": 120
+      },
+      {
+        "user": "tomm",
+        "link": "https://www.youtube.com/watch?v=WLUwYD6Z8bA",
+        "percent": 100,
+        "hz": 240
+      },
+      {
+        "user": "Electro325",
+        "link": "https://www.youtube.com/watch?v=ffbTye8rVjk",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "deadbush",
+        "link": "https://www.youtube.com/watch?v=yKYaQsHN5n8",
+        "percent": 100,
+        "hz": 144
+      },
+      {
+        "user": "insosil",
+        "link": "https://www.youtube.com/watch?v=hZvCp6PHwQc",
+        "percent": 100,
+        "hz": 360
+      },
+      {
+        "user": "Jenny",
+        "link": "https://www.youtube.com/watch?v=KX_XaFv7joY",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
       }
     ]
 }
