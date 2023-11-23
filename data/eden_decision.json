@@ -105,10 +105,16 @@
             "hz": 144
         },
         {
-          "user": "dindaxd",
-          "link": "https://www.youtube.com/watch?v=WBfMWhbVaoY",
-          "percent": 100,
-          "hz": 240
-      }
+            "user": "dindaxd",
+            "link": "https://www.youtube.com/watch?v=WBfMWhbVaoY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://www.youtube.com/watch?v=onTpF8YRZz4",
+            "percent": 100,
+            "hz": 144
+        }
   ]
 }
