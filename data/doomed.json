@@ -141,6 +141,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Truebolt",
+            "link": "https://www.youtube.com/watch?v=9EMIK6vnB1g",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
