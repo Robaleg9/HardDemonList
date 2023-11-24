@@ -2,7 +2,7 @@
     "id": 40656500,
     "name": "Pulsar (nestorboy)",
     "author": "nestorboy",
-    "creators": ["nestorboy, ChocolateKittie, MrLorenzo"],
+    "creators": ["nestorboy, MrLorenzo, ChocolateKittie, cybronaut"],
     "verifier": "nestorboy",
     "verification": "https://www.youtube.com/watch?v=raZ9V5X0Eik",
     "percentToQualify": 100,
@@ -137,9 +137,15 @@
         },
         {
             "user": "deadbush",
-            "link": "https://www.youtube.com/watch?v=ZaOQNIDowZU&ab_channel=deadbush",
+            "link": "https://www.youtube.com/watch?v=ZaOQNIDowZU",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Frogs65",
+            "link": "https://www.youtube.com/watch?v=5dhiDpCYjHQ",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
