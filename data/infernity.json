@@ -4,7 +4,7 @@
     "author": "Jo2000",
     "creators": [],
     "verifier": "Jo2000",
-    "verification": "https://youtu.be/Uw6uKMWRckk",
+    "verification": "https://www.youtube.com/watch?v=Uw6uKMWRckk",
     "percentToQualify": 100,
     "password": "133769",
     "records": [
@@ -328,6 +328,12 @@
         {
             "user": "EnT",
             "link": "https://www.youtube.com/watch?v=PTTXaYJmdtA",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Agentdarius",
+            "link": "https://www.youtube.com/watch?v=eocZknwup10",
             "percent": 100,
             "hz": 144
         }
