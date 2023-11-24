@@ -283,30 +283,36 @@
             "mobile": true
         },
         {
-          "user": "Subperfect",
-          "link": "https://youtu.be/Nn1xJUqApFg?feature=shared",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
+            "user": "Subperfect",
+            "link": "https://youtu.be/Nn1xJUqApFg?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         },
         {
-          "user": "K3NNYY0",
-          "link": "https://youtu.be/VTGTIuU2xYA?si=7ywvPsM3TNP_68Bj",
-          "percent": 100,
-          "hz": 360
+            "user": "K3NNYY0",
+            "link": "https://youtu.be/VTGTIuU2xYA?si=7ywvPsM3TNP_68Bj",
+            "percent": 100,
+            "hz": 360
         },
-         {
+        {
             "user": "FixYourGameplay",
             "link": "https://youtu.be/_XGLoyYhaCI",
             "percent": 100,
             "hz": 144
         },
         {
-          "user": "ARC2010",
-          "link": "https://youtu.be/697juXReAcM?si=4_abCEsIJivpzLrL",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
-      }
+            "user": "ARC2010",
+            "link": "https://youtu.be/697juXReAcM?si=4_abCEsIJivpzLrL",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "nico27",
+            "link": "https://www.youtube.com/watch?v=rvIlVn09y9U",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
