@@ -112,6 +112,12 @@
             "link": "https://www.youtube.com/watch?v=NJpASO8Qr-E",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "FaiqMID",
+            "link": "https://www.youtube.com/watch?v=iHOoZCmD6mk",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
