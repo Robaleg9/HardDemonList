@@ -2,7 +2,7 @@
     "id": 56640753,
     "name": "Necrofantasia",
     "author": "Mulpan",
-    "creators": ["KuraiYonaka", "Chrolin", "Estia", "K4nt", "R3ul", "ThorMode", "Mulpan"],
+    "creators": ["KuraiYonaka, Chrolin, Estia, K4nt, R3ul, ThorMode, Mulpan"],
     "verifier": "Mulpan",
     "verification": "https://www.youtube.com/watch?v=YnpbdwJCTwY",
     "percentToQualify": 100,
@@ -187,6 +187,12 @@
         {
             "user": "KKXGD",
             "link": "https://youtu.be/HBJ2MctBQuc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "dindaxd",
+            "link": "https://www.youtube.com/watch?v=DkQZySvnGn4",
             "percent": 100,
             "hz": 240
         }
