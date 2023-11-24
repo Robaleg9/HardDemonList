@@ -4,7 +4,7 @@
     "author": "Pennutoh",
     "creators": [],
     "verifier": "Pennutoh",
-    "verification": "https://youtu.be/WdiPqRTfI_8",
+    "verification": "https://www.youtube.com/watch?v=WdiPqRTfI_8",
     "percentToQualify": 100,
     "password": "514415",
     "records": [
@@ -257,30 +257,36 @@
             "hz": 240
         },
         {
-          "user": "KKXGD",
-          "link": "https://youtu.be/3WK_iSOtsmk",
-          "percent": 100,
-          "hz": 240
+            "user": "KKXGD",
+            "link": "https://youtu.be/3WK_iSOtsmk",
+            "percent": 100,
+            "hz": 240
         },
-         {
+        {
             "user": "yzae",
             "link": "https://youtu.be/HhCEC3EogVk",
             "percent": 100,
             "hz": 360
         },
         {
-          "user": "Aquatic51",
-          "link": "https://www.youtube.com/watch?v=VlRglkiBpu4",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
+            "user": "Aquatic51",
+            "link": "https://www.youtube.com/watch?v=VlRglkiBpu4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         },
         {
-          "user": "Subperfect",
-          "link": "https://youtu.be/y1Zxt0iEDMY?feature=shared",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
+            "user": "Subperfect",
+            "link": "https://youtu.be/y1Zxt0iEDMY?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=3uhMP-9b5LA",
+            "percent": 100,
+            "hz": 60
         }
      ]
 }
