@@ -3,10 +3,10 @@
     "name": "no concept",
     "author": "NesiaL",
     "creators": ["NesiaL, fhewi"],
-    "verifier": "fhewi",
-    "verification": "https://www.youtube.com/watch?v=mg2r5R1YsS0",
+    "verifier": "NesiaL",
+    "verification": "https://www.youtube.com/watch?v=NOlytanOmwc",
     "percentToQualify": 100,
-    "password": "Not Copyable",
+    "password": "457869",
     "records": [
         {
             "user": "Robaleg9",
@@ -190,6 +190,12 @@
             "link": "https://youtu.be/7YVAaz8Hhl0?si=GV1sC3Ix0x4BvfmG",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Phinxgd",
+            "link": "https://www.youtube.com/watch?v=tcm99AgHEfY",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
