@@ -1457,6 +1457,12 @@
             "link": "https://www.youtube.com/watch?v=M8RtipVNNR8",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "squidzoid",
+            "link": "https://www.youtube.com/watch?v=GTCwsRVOXIE",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
