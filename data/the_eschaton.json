@@ -212,17 +212,24 @@
             "hz": 60
         },
         {
-          "user": "Shyne",
-          "link": "https://youtu.be/J92vMR8_EFU?si=0nFuO-z3kJ2uz21C",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
-      },
-      {
-        "user": "LarsingDash",
-        "link": "https://youtu.be/Qbi9T2NXGos",
-        "percent": 100,
-        "hz": 144
-    }
+            "user": "Shyne",
+            "link": "https://youtu.be/J92vMR8_EFU?si=0nFuO-z3kJ2uz21C",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "LarsingDash",
+            "link": "https://youtu.be/Qbi9T2NXGos",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://www.youtube.com/watch?v=T1e0xheONmg",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
       ]
 }
