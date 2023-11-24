@@ -159,6 +159,13 @@
             "link": "https://www.youtube.com/watch?v=e9gdDrpiA4c",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "DIUS3D",
+            "link": "https://www.youtube.com/watch?v=GW1CsPnJaBk",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
