@@ -249,23 +249,29 @@
             "hz": 360
         },
         {
-          "user": "Ipodnicks",
-          "link": "https://youtu.be/_ZQFoJ6NCKE",
-          "percent": 100,
-          "hz": 120
+            "user": "Ipodnicks",
+            "link": "https://youtu.be/_ZQFoJ6NCKE",
+            "percent": 100,
+            "hz": 120
         },
         {
-          "user": "ChaeTDC",
-          "link": "https://www.youtube.com/watch?v=rMomMuH0IKc",
-          "percent": 100,
-          "hz": 60
+            "user": "ChaeTDC",
+            "link": "https://www.youtube.com/watch?v=rMomMuH0IKc",
+            "percent": 100,
+            "hz": 60
         },
         {
-          "user": "Subperfect",
-          "link": "https://youtu.be/pVe65RkSntI?feature=shared",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
+            "user": "Subperfect",
+            "link": "https://youtu.be/pVe65RkSntI?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Daxylitz",
+            "link": "https://www.youtube.com/watch?v=3SWfq-NlVps",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
