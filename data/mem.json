@@ -120,6 +120,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "nico27",
+            "link": "https://www.youtube.com/watch?v=rvIlVn09y9U",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
