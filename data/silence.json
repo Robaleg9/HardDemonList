@@ -350,6 +350,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Phinxgd",
+            "link": "https://www.youtube.com/watch?v=83g52CAdD6I",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
