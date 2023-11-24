@@ -102,6 +102,12 @@
             "link": "https://www.youtube.com/watch?v=8cz6i4xKOik",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Zinyth",
+            "link": "https://www.youtube.com/watch?v=hevE6svtzHA",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
