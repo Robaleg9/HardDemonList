@@ -96,44 +96,50 @@
             "link": "https://www.youtube.com/watch?v=_hcjzcoNbac",
             "percent": 100,
             "hz": 288
-      },
-      {
-          "user": "tomm",
-          "link": "https://youtu.be/ghOyr3YrWok",
-          "percent": 100,
-          "hz": 240
-      },
-      {
-        "user": "Leckylecks",
-        "link": "https://youtu.be/yZM0jlSJkAc",
-        "percent": 100,
-        "hz": 360
-      },
-      {
-        "user": "TheKhalilKind",
-        "link": "https://youtu.be/6fGhGA2SUmU",
-        "percent": 100,
-        "hz": 60,
-        "mobile": true
-      },
-      {
-        "user": "KKXGD",
-        "link": "https://youtu.be/ReIRSkGGKOs",
-        "percent": 100,
-        "hz": 240
-      },
-      {
-        "user": "Fawxu",
-        "link": "https://youtu.be/cpGIZQTHeeQ?si=183ZKlbP_UAca-FW",
-        "percent": 100,
-        "hz": 240
-      },
-      {
-        "user": "Subperfect",
-        "link": "https://youtu.be/fLDG7vAyLfc?feature=shared",
-        "percent": 100,
-        "hz": 60,
-        "mobile": true
+        },
+        {
+            "user": "tomm",
+            "link": "https://youtu.be/ghOyr3YrWok",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Leckylecks",
+            "link": "https://youtu.be/yZM0jlSJkAc",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "TheKhalilKind",
+            "link": "https://youtu.be/6fGhGA2SUmU",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "KKXGD",
+            "link": "https://youtu.be/ReIRSkGGKOs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/cpGIZQTHeeQ?si=183ZKlbP_UAca-FW",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Subperfect",
+            "link": "https://youtu.be/fLDG7vAyLfc?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "SafeSpace",
+            "link": "https://www.youtube.com/watch?v=2DNEhbxACLY",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
