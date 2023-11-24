@@ -2,7 +2,7 @@
     "id": 70404223,
     "name": "Hyped Up",
     "author": "LordeQuacc",
-    "creators": ["JohnYorke, raxumar, Xacrus, Tahsen, Nekotik, ZWK, Mangosteen, noxycraft, GDNeoz, nCylix, Reizon, Bizaare, MazZedy, lCartox, Tuuns, Chaotrix, SeptaGon7"],
+    "creators": ["Elliptic4l, raxumar, Xacrus, Tahsen, Nekotik, ZWK, Mangosteen, noxycraft, GDNeoz, nCylix, Reizon, Bizaare, MazZedy, lCartox, Tuuns, Chaotrix, SeptaGon7"],
     "verifier": "MrSpaghetti",
     "verification": "https://www.youtube.com/watch?v=hTlYyh1dRdo",
     "percentToQualify": 100,
@@ -69,29 +69,29 @@
             "hz": 144
         },
         {
-          "user": "nTimaw",
-          "link": "https://youtu.be/DptNTRtn7EQ",
-          "percent": 100,
-          "hz": 300
+            "user": "nTimaw",
+            "link": "https://youtu.be/DptNTRtn7EQ",
+            "percent": 100,
+            "hz": 300
         },
         {
-          "user": "ItsLejoGD",
-          "link": "https://www.youtube.com/watch?v=fRUA0koiYgU",
-          "percent": 100,
-          "hz": 60
+            "user": "ItsLejoGD",
+            "link": "https://www.youtube.com/watch?v=fRUA0koiYgU",
+            "percent": 100,
+            "hz": 60
         },
         {
-          "user": "Kubus",
-          "link": "https://youtu.be/9MJUUQSUDNk",
-          "percent": 100,
-          "hz": 120,
-          "mobile": true
+            "user": "Kubus",
+            "link": "https://youtu.be/9MJUUQSUDNk",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         },
         {
-          "user": "yzae",
-          "link": "https://youtu.be/UzCMnZssUPA",
-          "percent": 100,
-          "hz": 360
+            "user": "yzae",
+            "link": "https://youtu.be/UzCMnZssUPA",
+            "percent": 100,
+            "hz": 360
         },
         {
             "user": "tomm",
@@ -100,17 +100,23 @@
             "hz": 240
         },
         {
-          "user": "KKXGD",
-          "link": "https://youtu.be/4Wz21jrmqrY?si=Y-JAvVjvD5EIlQUE",
-          "percent": 100,
-          "hz": 240
-      },
-      {
-        "user": "Subperfect",
-        "link": "https://youtu.be/iB1cVcrLawk?feature=shared",
-        "percent": 100,
-        "hz": 60,
-        "mobile": true
-    }
+            "user": "KKXGD",
+            "link": "https://youtu.be/4Wz21jrmqrY?si=Y-JAvVjvD5EIlQUE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Subperfect",
+            "link": "https://youtu.be/iB1cVcrLawk?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Daxylitz",
+            "link": "https://www.youtube.com/watch?v=sisbkqnPWEo",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
