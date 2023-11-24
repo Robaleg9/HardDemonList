@@ -125,7 +125,7 @@
             "percent": 100,
             "hz": 144
         },
-         {
+        {
             "user": "IceGrave",
             "link": "https://www.youtube.com/watch?v=x0GAq86PGgE",
             "percent": 100,
@@ -151,6 +151,12 @@
             "percent": 100,
             "hz": 60,
             "mobile":true
-          }
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://www.youtube.com/watch?v=R9V0H5WgVso",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
