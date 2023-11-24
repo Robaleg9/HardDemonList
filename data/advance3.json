@@ -273,29 +273,35 @@
           "mobile": true
         },
         {
-          "user": "MarutiGD",
-          "link": "https://youtu.be/M18EC_wcflU",
-          "percent": 100,
-          "hz": 144
-      },
-      {
-        "user": "FixYourGameplay",
-        "link": "https://youtu.be/DuvCC7sP818",
-        "percent": 100,
-        "hz": 144
-    },
-    {
-      "user": "JJw128",
-      "link": "https://www.youtube.com/watch?v=uO9K5tCsaME",
-      "percent": 100,
-      "hz": 144
-    },
-         {
-          "user": "DIUS3D",
-          "link": "https://youtu.be/MjtXhYL5f2E?si=mIIjxiWiXCClZtsI",
-          "percent": 100,
-          "hz": 120,
-          "mobile": true
+            "user": "MarutiGD",
+            "link": "https://youtu.be/M18EC_wcflU",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "FixYourGameplay",
+            "link": "https://youtu.be/DuvCC7sP818",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "JJw128",
+            "link": "https://www.youtube.com/watch?v=uO9K5tCsaME",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "DIUS3D",
+            "link": "https://youtu.be/MjtXhYL5f2E?si=mIIjxiWiXCClZtsI",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
+        },
+        {
+            "user": "Selicular",
+            "link": "https://www.youtube.com/watch?v=Vt7riGUsdoY",
+            "percent": 100,
+            "hz": 360
         }
     ]
 } 
