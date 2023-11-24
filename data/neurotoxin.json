@@ -88,10 +88,16 @@
             "hz": 60
         },
         {
-          "user": "KKXGD",
-          "link": "https://youtu.be/Hx22wvagOVI",
-          "percent": 100,
-          "hz": 240
+            "user": "KKXGD",
+            "link": "https://youtu.be/Hx22wvagOVI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Leven",
+            "link": "https://www.youtube.com/watch?v=STU85tDB7FI",
+            "percent": 100,
+            "hz": 75
         }
       ]
 }
