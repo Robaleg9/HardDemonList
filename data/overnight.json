@@ -4,7 +4,7 @@
     "author": "N1mda",
     "creators": [],
     "verifier": "N1mda",
-    "verification": "https://youtu.be/rs_mexnpulI?si=c0qFvL4tC9hAoN4Z",
+    "verification": "https://www.youtube.com/watch?v=rs_mexnpulI",
     "percentToQualify": 100,
     "records": [
         {
@@ -227,6 +227,13 @@
             "link": "https://youtu.be/2e74CaZBn6g?si=1d1-hQG1PBni9wh5",
             "percent": 100,
             "hz": 120,
+            "mobile": true
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://www.youtube.com/watch?v=8SGHIP2DADQ",
+            "percent": 100,
+            "hz": 60,
             "mobile": true
         }
     ]
