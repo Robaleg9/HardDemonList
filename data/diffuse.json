@@ -840,6 +840,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-        }
+        },
+        {
+          "user": "WatachinaoGD",
+          "link": "https://youtu.be/kMKZnS2pVfk",
+          "percent": 100,
+          "hz": 240
+      }
     ]
 }

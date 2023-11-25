@@ -336,6 +336,13 @@
             "link": "https://www.youtube.com/watch?v=eocZknwup10",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Zailton",
+            "link": "https://www.youtube.com/watch?v=M8b7Plnc50U",
+            "percent": 100,
+            "hz": 165,
+            "mobile": true
         }
       ]
 }

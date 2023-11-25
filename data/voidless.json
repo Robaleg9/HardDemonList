@@ -80,6 +80,13 @@
             "link": "https://youtu.be/mCakyi5goyk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://www.youtube.com/watch?v=O88JHABF46M",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
       ]
 }

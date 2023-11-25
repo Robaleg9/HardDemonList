@@ -293,6 +293,12 @@
             "user": "IgongDae",
             "link": "https://www.youtube.com/watch?v=NSvAdLU9ri4",
             "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "Phinxgd",
+            "link": "https://youtu.be/9EoXENOx8Bw",
+            "percent": 100,
             "hz": 360
         }
     ]
