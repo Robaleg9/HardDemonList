@@ -133,6 +133,18 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "infra2792",
+            "link": "https://youtu.be/rARJtr-1RvI",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "deadbush",
+            "link": "https://www.youtube.com/watch?v=q0l732GnOAM&ab_channel=deadbush",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
