@@ -7,5 +7,61 @@
     "verification": "https://youtu.be/Cum6jdRfOpQ",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records" : []
+    "records" : [
+        {
+            "user": "nTimaw",
+            "link": "https://www.youtube.com/watch?v=BQGCgCXhAOE",
+            "percent": 100,
+            "hz": 321
+        },
+        {
+            "user": "SmileBullet",
+            "link": "https://www.youtube.com/watch?v=gSfC-Q0keQc",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://www.youtube.com/watch?v=-YetOONlxqU",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "deadbush",
+            "link": "https://www.youtube.com/watch?v=txLDufDR23U",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://www.youtube.com/watch?v=8XgvPQhgMaE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://www.youtube.com/watch?v=t_jAX7sWof8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Leven",
+            "link": "https://www.youtube.com/watch?v=CHDnj_MrJvw",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Royale",
+            "link": "https://www.youtube.com/watch?v=gs_45AuKsX0",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Leckylecks",
+            "link": "https://www.youtube.com/watch?v=uQ91WHd1Xyk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
