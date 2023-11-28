@@ -196,6 +196,12 @@
             "link": "https://www.youtube.com/watch?v=tcm99AgHEfY",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Rex",
+            "link": "https://www.youtube.com/watch?v=K3irRZyYsBA",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
