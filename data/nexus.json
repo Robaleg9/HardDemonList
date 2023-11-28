@@ -119,11 +119,10 @@
           "mobile": true
         },
         {
-          "user": "TheGanGes",
-          "link": "https://youtu.be/BW39877-eDE",
+          "user": "deadbush",
+          "link": "https://www.youtube.com/watch?v=uG85vwWMfAQ&ab_channel=deadbush",
           "percent": 100,
-          "hz": 60,
-          "mobile": true
-        }
+          "hz": 144
+      }
     ]
 }

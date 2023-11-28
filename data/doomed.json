@@ -166,6 +166,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "MrMarksman",
+            "link": "https://youtu.be/sCgJEEBmY8A?si=TQ3BN6FSxwRyR539",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
