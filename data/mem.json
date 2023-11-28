@@ -145,6 +145,13 @@
             "link": "https://www.youtube.com/watch?v=q0l732GnOAM&ab_channel=deadbush",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Kubus",
+            "link": "https://youtu.be/ac_cV0JOEIk?si=eqaG1eua4gqUOqVi",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }

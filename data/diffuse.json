@@ -846,6 +846,19 @@
           "link": "https://youtu.be/kMKZnS2pVfk",
           "percent": 100,
           "hz": 240
-      }
+        },
+        {
+          "user": "KJ3DRay",
+          "link": "https://www.youtube.com/watch?v=doza8WPrxpA&list=PL0Mq1fmGns19MeoPKYGb0ySrR4Kd7WjAx&index=20",
+          "percent": 100,
+          "hz": 60
+        },
+        {
+          "user": "Globron",
+          "link": "https://youtu.be/1SY6g_A8xSM?si=hlsnY24dK0l6nmlI",
+          "percent": 100,
+          "hz": 60,
+          "mobile": true
+        }
     ]
 }

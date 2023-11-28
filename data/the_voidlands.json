@@ -101,6 +101,13 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+          "user": "StarfruitGamer",
+          "link": "https://youtu.be/zujrL0FyXWI?si=xnvY5_ZHndj-T4aS",
+          "percent": 100,
+          "hz": 120,
+          "mobile": true
         }
       ]
 }

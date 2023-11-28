@@ -673,6 +673,12 @@
             "link": "https://www.youtube.com/watch?v=yTrazusWzRs",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Phinxgd",
+            "link": "https://youtu.be/CU_sUfjhN_c",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

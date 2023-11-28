@@ -302,6 +302,12 @@
             "link": "https://www.youtube.com/watch?v=Vt7riGUsdoY",
             "percent": 100,
             "hz": 360
-        }
+        },
+        {
+          "user": "ChaeTDC",
+          "link": "https://www.youtube.com/watch?v=uf3qQAeRl_k",
+          "percent": 100,
+          "hz": 60
+      }
     ]
 } 

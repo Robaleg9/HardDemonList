@@ -140,6 +140,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-        }    
+        },
+        {
+            "user": "Wyldfire ",
+            "link": "https://youtu.be/jP4FhDHjiBY",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }

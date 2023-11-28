@@ -542,6 +542,18 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Bladey",
+            "link": "https://youtu.be/C9F3eufRsK8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "deadbush",
+            "link": "https://www.youtube.com/watch?v=DVsX7IcCetA&ab_channel=deadbush",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
