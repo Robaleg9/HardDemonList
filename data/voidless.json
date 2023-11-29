@@ -87,6 +87,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Leven",
+            "link": "https://youtu.be/-suEsknQeAk",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }

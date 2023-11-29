@@ -195,6 +195,12 @@
             "link": "https://www.youtube.com/watch?v=DkQZySvnGn4",
             "percent": 100,
             "hz": 240
+        },
+        {
+          "user": "Wyldfire",
+          "link": "https://youtu.be/i2f7Uhh56XA",
+          "percent": 100,
+          "hz": 120
         }
       ]
 }
