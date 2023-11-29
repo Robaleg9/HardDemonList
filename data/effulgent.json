@@ -54,6 +54,12 @@
             "link": "https://www.youtube.com/watch?v=JOcsoN6pX4w",
             "percent": 100,
             "hz": 60
+        },
+        {
+        "user": "Leven",
+        "link": "https://youtu.be/Tf9X6D904n8",
+        "percent": 100,
+        "hz": 144
         }
     ]
 }
