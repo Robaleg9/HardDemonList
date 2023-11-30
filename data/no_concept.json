@@ -208,6 +208,13 @@
             "link": "https://youtu.be/PgcjdomWW7s",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "timmy",
+            "link": "https://youtu.be/4a05RNaUwm0?si=_R9knG0zEqYptXZ3",
+            "percent": 100,
+            "hz": 240,
+            "mobile": true
         }
     ]
 }
