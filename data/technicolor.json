@@ -142,6 +142,13 @@
             "link": "https://www.youtube.com/watch?v=XS0ISEdD4gQ",
             "percent": 100,
             "hz": 144
+        },
+        {
+        "user": "timmy",
+        "link": "https://youtu.be/-dHWumzaD9k?si=GbuY9S0_RqODGFvM",
+        "percent": 100,
+        "hz": 240,
+        "mobile": true
         }
     ]
 }
