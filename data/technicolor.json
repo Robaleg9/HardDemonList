@@ -149,6 +149,12 @@
         "percent": 100,
         "hz": 240,
         "mobile": true
+        },
+        {
+            "user": "dindaxd",
+            "link": "https://www.youtube.com/watch?v=enh_a9pIRZo",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

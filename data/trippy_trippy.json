@@ -131,6 +131,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "sonofnooby",
+            "link": "https://youtu.be/OWU8hBOE7ao",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -70,10 +70,16 @@
             "hz": 240
         },
         {
-        "user": "SafeSpace",
-        "link": "https://www.youtube.com/watch?v=NXIe4Daidw4&t=587s",
-        "percent": 100,
-        "hz": 120
+            "user": "SafeSpace",
+            "link": "https://www.youtube.com/watch?v=NXIe4Daidw4&t=587s",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/hbO-5d86scY?si=wHqfKHWnZSukixbU",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
