@@ -215,6 +215,13 @@
             "percent": 100,
             "hz": 240,
             "mobile": true
+        },
+        {
+        "user": "Bonezizdum",
+        "link": "https://youtu.be/o8PbQ23BIwM?si=ZhpHrcTMzLt9wGl0",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
         }
     ]
 }
