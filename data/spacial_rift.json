@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "password": "004567",
     "records": [
-{
+        {
           "user": "Qog",
           "link": "https://youtu.be/ezcN4G_BvBM?list=PLu19KywdCLA9RP2LZEJRKFNipHRog0lFm",
           "percent": 100,
@@ -264,6 +264,12 @@
             "link": "https://www.youtube.com/watch?v=5WVbb16ngGk",
             "percent": 100,
             "hz": 360
+        },
+        {
+        "user": "Daxylitz",
+        "link": "https://youtu.be/-5DQaKe7Ozc",
+        "percent": 100,
+        "hz": 240
         }
       ]
 }
