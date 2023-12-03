@@ -222,6 +222,12 @@
         "percent": 100,
         "hz": 60,
         "mobile": true
+        },
+        {
+            "user": "Daxylitz",
+            "link": "https://youtu.be/sKIKM9uGBMY",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
