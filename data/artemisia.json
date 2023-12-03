@@ -160,6 +160,13 @@
         "percent": 100,
         "hz": 60,
         "mobile": true
+        },
+        {
+        "user": "timmy",
+        "link": "https://youtu.be/FUcteLiOSTk?si=4ppOQsv4Q8CvSuyc",
+        "percent": 100,
+        "hz": 240,
+        "mobile": true
         }
       ]
 }
