@@ -554,6 +554,13 @@
             "link": "https://www.youtube.com/watch?v=DVsX7IcCetA&ab_channel=deadbush",
             "percent": 100,
             "hz": 144
+        },
+        {
+        "user": "timmy",
+        "link": "https://youtu.be/oV4bFbox-1U?si=1mxjWnAk5BnCK53T",
+        "percent": 100,
+        "hz": 240,
+        "mobile": true
         }
       ]
 }
