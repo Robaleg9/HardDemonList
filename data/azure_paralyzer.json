@@ -14,19 +14,19 @@
             "percent": 100,
             "hz": 144
         },
-                {
+         {
             "user": "helvetica",
             "link": "https://www.youtube.com/watch?v=XmVnoH4Xct0",
             "percent": 100,
             "hz": 120
         },
-                {
+         {
             "user": "Robaleg9",
             "link": "https://youtu.be/Qh0v2uzHD8U",
             "percent": 100,
             "hz": 144
         },
-                {
+         {
             "user": "Fawxu",
             "link": "https://youtu.be/x-Hq5gbxYXg",
             "percent": 100,
@@ -312,6 +312,13 @@
         "link": "https://youtu.be/-U0h9KtXpF0",
         "percent": 100,
         "hz": 144
+        },
+        {
+        "user": "timmy",
+        "link": "https://youtu.be/RSSOwnxpX8k?si=F18EJImZU1nxdxf6",
+        "percent": 100,
+        "hz": 240,
+        "mobile": true
         }
     ]
 }
