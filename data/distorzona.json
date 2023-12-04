@@ -561,6 +561,19 @@
         "percent": 100,
         "hz": 240,
         "mobile": true
+        },
+        {
+            "user": "EpXec",
+            "link": "https://youtu.be/IKm9zsRErLw",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Peregrine",
+            "link": "https://youtu.be/EpfyGvwURQs?si=3tJA-VkDjP04sgQv",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }

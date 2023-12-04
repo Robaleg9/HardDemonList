@@ -140,6 +140,12 @@
             "link": "https://www.youtube.com/watch?v=2DNEhbxACLY",
             "percent": 100,
             "hz": 120
+        },
+        {
+          "user": "Patty",
+          "link": "https://youtu.be/Bs07N3CnuHw",
+          "percent": 100,
+          "hz": 240
         }
     ]
 }
