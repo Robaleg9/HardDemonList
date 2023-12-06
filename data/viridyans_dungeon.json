@@ -115,12 +115,19 @@
             "link": "https://www.youtube.com/watch?v=4xshedLwBtE&ab_channel=deadbush",
             "percent": 100,
             "hz": 144
-    },
-    {
+        },
+        {
         "user": "Shroomy!!!",
         "link": "https://youtu.be/aFKLFN0c0iQ?si=vjy4ND9CG9hs_EuQ",
         "percent": 100,
         "hz": 165
-    }
+        },
+        {
+        "user": "Kubus",
+        "link": "https://youtu.be/qQZR_emaSEs?si=fi3BwC1zyFupvVxb",
+        "percent": 100,
+        "hz": 120,
+        "mobile": true
+        }
     ]
 }
