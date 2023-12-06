@@ -56,10 +56,23 @@
             "hz": 60
         },
         {
-        "user": "Leven",
-        "link": "https://youtu.be/Tf9X6D904n8",
-        "percent": 100,
-        "hz": 144
+            "user": "Leven",
+            "link": "https://youtu.be/Tf9X6D904n8",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "tomm",
+            "link": "https://youtu.be/t52bPhzMPIY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/vG8PDXDFzxA?si=129OuvQFQhGGFt29",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }

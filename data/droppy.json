@@ -458,6 +458,13 @@
             "link": "https://youtu.be/NC-Op8yp220",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Galactix",
+            "link": "https://www.youtube.com/watch?v=729ZU3F82YE&list=PLq-ODyp4_jCpZpabd6L9TdMpGj2Bq-x5H&index=5",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }

@@ -145,10 +145,10 @@
           "mobile": true
         },
         {
-		    "user": "redracer",
-			"link": "https://youtu.be/rU0c1BO6qI8",
-			"percent": 100,
-			"hz": 288
+		      "user": "redracer",
+			    "link": "https://youtu.be/rU0c1BO6qI8",
+			    "percent": 100,
+			    "hz": 288
         },
         {
           "user": "Daxylitz",
@@ -1475,6 +1475,13 @@
           "link": "https://youtu.be/DSLVWxLfoPM",
           "percent": 100,
           "hz": 288
-      }
+        },
+        {
+          "user": "Galactix",
+          "link": "https://www.youtube.com/watch?v=dqkOih2eqWs",
+          "percent": 100,
+          "hz": 90,
+          "mobile": true
+        }
     ]
 }

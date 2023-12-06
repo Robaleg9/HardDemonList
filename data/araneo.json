@@ -671,10 +671,16 @@
           "hz": 144
       },
       {
-        "user": "nico27",
-        "link": "https://youtu.be/P-a7p2WL484",
-        "percent": 100,
-        "hz": 120
+          "user": "nico27",
+          "link": "https://youtu.be/P-a7p2WL484",
+          "percent": 100,
+          "hz": 120
+      },
+      {
+          "user": "Galactix",
+          "link": "https://www.youtube.com/watch?v=lH4Y3V7htCU&list=PLq-ODyp4_jCpZpabd6L9TdMpGj2Bq-x5H&index=1",
+          "percent": 100,
+          "hz": 60
       }
    ]
 }

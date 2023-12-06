@@ -94,6 +94,18 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "deadbush",
+            "link": "https://youtu.be/ogqcX93f240",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/bs_Wrfnqtr0",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
