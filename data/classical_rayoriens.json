@@ -251,6 +251,12 @@
         "percent": 100,
         "hz": 60,
         "mobile": true
+        },
+        {
+        "user": "lowercasebeef",
+        "link": "https://youtu.be/swK56HM7dpo",
+        "percent": 100,
+        "hz": 288
         }
    ]
 }
