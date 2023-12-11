@@ -93,30 +93,36 @@
           "percent": 100,
           "hz": 360
       },
-        {
+         {
           "user": "Ready Red Panda",
           "link": "https://www.youtube.com/watch?v=s3CRVnioT5Y",
           "percent": 100,
           "hz": 240
-      },
-      {
-        "user": "Leckylecks",
-        "link": "https://youtu.be/BpxkhN0QGL8",
+          },
+          {
+            "user": "Leckylecks",
+            "link": "https://youtu.be/BpxkhN0QGL8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+          "user": "Leven",
+          "link": "https://youtu.be/Ld6YwkugbnE",
+          "percent": 100,
+          "hz": 75
+        },
+        {
+        "user": "Shroomy!!!",
+        "link": "https://youtu.be/DsTdYNgcGec?si=USJl-DZCO7rnd8lk",
         "percent": 100,
-        "hz": 360
-    },
-    {
-      "user": "Leven",
-      "link": "https://youtu.be/Ld6YwkugbnE",
-      "percent": 100,
-      "hz": 75
-  },
-  {
-    "user": "Shroomy!!!",
-    "link": "https://youtu.be/DsTdYNgcGec?si=USJl-DZCO7rnd8lk",
-    "percent": 100,
-    "hz": 120,
-    "mobile": true
-  }
+        "hz": 120,
+        "mobile": true
+        },
+        {
+        "user": "deadbush",
+        "link": "https://youtu.be/JdAEtxSLm8A",
+        "percent": 100,
+        "hz": 144
+        }
     ]
 }
