@@ -2,10 +2,10 @@
     {
         "name": "Top 5 Pack",
         "levels": [
-            "terminate_mold",
             "spacial_rift",
             "no_concept",
             "silence",
+            "azure_paralyzer",
             "tsuki"
         ],
         "colour": "#000000" 
