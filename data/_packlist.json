@@ -2,11 +2,11 @@
     {
         "name": "Top 5 Pack",
         "levels": [
-            "technicolor",
             "terminate_mold",
             "spacial_rift",
             "no_concept",
-            "silence"
+            "silence",
+            "tsuki"
         ],
         "colour": "#000000" 
     },
@@ -30,7 +30,7 @@
             "quantum_variations",
             "rainfall_iii",
             "spacial_rift",
-            "technicolor",
+            "tsuki",
             "universal_perception",
             "viridica",
             "watch_the_throne",
@@ -172,7 +172,6 @@
     {
         "name": "NONG Pack",
         "levels": [
-            "technicolor",
             "watch_the_throne",
             "magnolia",
             "late",
@@ -291,7 +290,7 @@
     {
         "name": "Difficulty Spike Pack",
         "levels": [
-            "technicolor",
+            "pulsar",
             "magnolia",
             "arnac_la_poste"
         ],
