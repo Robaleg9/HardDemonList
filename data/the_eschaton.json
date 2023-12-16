@@ -236,6 +236,25 @@
         "link": "https://youtu.be/6L1Ex_CPeXI",
         "percent": 100,
         "hz": 144
+        },
+        {
+        "user": "deadbush",
+        "link": "https://youtu.be/vUm1Oqgl6c8",
+        "percent": 100,
+        "hz": 144
+        },
+        {
+        "user": "AdutzHD",
+        "link": "https://youtu.be/_lc7YMuDNd0?si=f2jPd2WMQ3RouJJC",
+        "percent": 100,
+        "hz": 144,
+        "mobile": true
+        },
+        {
+        "user": "JETLAG",
+        "link": "https://www.youtube.com/watch?v=Xs9e7NNz7GQ&t=7s",
+        "percent": 100,
+        "hz": 240
         }
       ]
 }
