@@ -201,6 +201,13 @@
           "link": "https://youtu.be/i2f7Uhh56XA",
           "percent": 100,
           "hz": 120
+        },
+        {
+        "user": "GMD Pandora04",
+        "link": "https://youtu.be/YJye3t-F2BM?si=04CO5cWuX_W50c_M",
+        "percent": 100,
+        "hz": 360,
+        "mobile": true
         }
       ]
 }
