@@ -434,20 +434,26 @@
         "link": "https://youtu.be/C26UVL8-xNk?si=oL41Ndn60_CX-M5K",
         "percent": 100,
         "hz": 60
-    },
-    {
+      },
+       {
       "user": "Jenny",
       "link": "https://www.youtube.com/watch?v=0b7eUCDVFfg",
       "percent": 100,
       "hz": 60,
       "mobile": true
-  },
-  {
+      },
+      {
     "user": "Shroomy!!!",
     "link": "https://www.youtube.com/watch?v=UJsegFELNoc",
     "percent": 100,
     "hz": 60,
     "mobile": true
-}
+     },
+        {
+        "user": "FroteGD",
+        "link": "https://www.youtube.com/watch?v=fSg-IO7YHtk",
+        "percent": 100,
+        "hz": 144
+        }
     ]
 }
