@@ -204,6 +204,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+        "user": "ChaeTDC",
+        "link": "https://www.youtube.com/watch?v=nuFdBEDoGgA",
+        "percent": 100,
+        "hz": 60
         }
       ]
 }
