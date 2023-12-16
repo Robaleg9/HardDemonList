@@ -202,6 +202,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+        "user": "deadbush",
+        "link": "https://youtu.be/E5t44SANnyU",
+        "percent": 100,
+        "hz": 144
         }
     ]
 }
