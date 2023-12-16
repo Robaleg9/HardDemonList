@@ -240,6 +240,12 @@
         "percent": 100,
         "hz": 120,
         "mobile": true
+        },
+        {
+        "user": "DankDrew",
+        "link": "https://youtu.be/lxwitfz7MgE",
+        "percent": 100,
+        "hz": 288
         }
       ]
 }
