@@ -7,5 +7,61 @@
     "verification": "https://youtu.be/W9YENe5TSFU",
     "percentToQualify": 100,
     "password": "090402",
-    "records" : []
+    "records" : [
+        {
+        "user": "Robaleg9",
+        "link": "https://youtu.be/TAoRnu8GFaM?si=K1GejusmYtgVTUlP",
+        "percent": 100,
+        "hz": 240
+        },
+        {
+        "user": "Shroomy!!!",
+        "link": "https://youtu.be/fQWjgX88qWc",
+        "percent": 100,
+        "hz": 165
+        },
+        {
+        "user": "Leckylecks",
+        "link": "https://youtu.be/ZvDiYIBhMuA?si=NFc7qdHbB6j4Fl5u",
+        "percent": 100,
+        "hz": 360
+        },
+        {
+        "user": "nTimaw",
+        "link": "https://youtu.be/OkFFBWMWofU?si=aUoubSdLjBTuEKrf&t=178",
+        "percent": 100,
+        "hz": 321
+        },
+        {
+        "user": "SmileBullet",
+        "link": "https://www.youtube.com/watch?v=LoSk10R6_Oc",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
+        },
+        {
+        "user": "Fawxu",
+        "link": "https://youtu.be/U0vneoaIKv0?si=uScl87Oy_e856UZm",
+        "percent": 100,
+        "hz": 240
+        },
+        {
+        "user": "L1GHTNING",
+        "link": "https://youtu.be/40EEJaOzsO8?si=iw-eKO5ydpZ7cGu5",
+        "percent": 100,
+        "hz": 144
+        },
+        {
+        "user": "JoacoPe",
+        "link": "https://youtu.be/SNrI8m6Qlzk",
+        "percent": 100,
+        "hz": 120
+        },
+        {
+        "user": "Leven",
+        "link": "https://youtu.be/oZ-SOE0c9P0",
+        "percent": 100,
+        "hz": 144
+        }
+    ]
 }
