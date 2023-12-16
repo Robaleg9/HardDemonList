@@ -386,6 +386,18 @@
         "link": "https://www.youtube.com/watch?v=jJT2N8pzVlQ&t=1m50s",
         "percent": 100,
         "hz": 120
+        },
+        {
+        "user": "ChaeTDC",
+        "link": "https://www.youtube.com/watch?v=glGrobjDzlc",
+        "percent": 100,
+        "hz": 60
+        },
+        {
+        "user": "powersplit",
+        "link": "https://youtu.be/cVqwkKO0Igc",
+        "percent": 100,
+        "hz": 240
         }
     ]
 }
