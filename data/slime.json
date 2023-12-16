@@ -274,6 +274,12 @@
         "link": "https://www.youtube.com/watch?v=awF-WYzrGR0&ab_channel=deadbush",
         "percent": 100,
         "hz": 144
-      }
+      },
+        {
+        "user": "Shroomy!!!",
+        "link": "https://www.youtube.com/watch?v=8nC243UKBWQ",
+        "percent": 100,
+        "hz": 165
+        }
       ]    
 }
