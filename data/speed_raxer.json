@@ -178,6 +178,12 @@
             "link": "https://www.youtube.com/watch?v=AM2vrthRemw",
             "percent": 100,
             "hz": 144
+        },
+        {
+        "user": "billyiscool",
+        "link": "https://youtu.be/RXRZfz6VrR4?si=LBt0fq_b_9KNQuay",
+        "percent": 100,
+        "hz": 240
         }
     ]
 }
