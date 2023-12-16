@@ -176,6 +176,12 @@
         "percent": 100,
         "hz": 60,
         "mobile": true
+        },
+        {
+        "user": "IgongDae",
+        "link": "https://youtu.be/UTEHtZIFJSU",
+        "percent": 100,
+        "hz": 180
         }
     ]
 }
