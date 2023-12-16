@@ -387,6 +387,12 @@
             "link": "https://www.youtube.com/watch?v=5rJaz-TWLj8&ab_channel=deadbush",
             "percent": 100,
             "hz": 144
+        },
+        {
+        "user": "ItsLejoGD",
+        "link": "https://youtu.be/b8qTgxc6eos",
+        "percent": 100,
+        "hz": 60
         }
     ]    
 }
