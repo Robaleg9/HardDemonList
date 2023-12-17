@@ -230,16 +230,23 @@
             "hz": 240
         },
         {
-        "user": "powersplit",
-        "link": "https://youtu.be/3X6FaMy9lwQ",
-        "percent": 100,
-        "hz": 360
+            "user": "powersplit",
+            "link": "https://youtu.be/3X6FaMy9lwQ",
+            "percent": 100,
+            "hz": 360
         },
         {
-        "user": "SafeSpace",
-        "link": "https://www.youtube.com/watch?v=jJT2N8pzVlQ&t=9m38s",
-        "percent": 100,
-        "hz": 120
+            "user": "SafeSpace",
+            "link": "https://www.youtube.com/watch?v=jJT2N8pzVlQ&t=9m38s",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "SweetDreams",
+            "link": "https://youtu.be/qZteXLaOj0c?si=BNLjETGZkDSYjwv7",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
