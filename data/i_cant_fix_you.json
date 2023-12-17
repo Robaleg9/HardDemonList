@@ -425,6 +425,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+        "user": "Djhilbs",
+        "link": "https://m.youtube.com/watch?v=qVsFcQXmJZ4",
+        "percent": 100,
+        "hz": 360
         }
     ]
 }
