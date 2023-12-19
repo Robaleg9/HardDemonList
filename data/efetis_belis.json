@@ -154,6 +154,18 @@
         "percent": 100,
         "hz": 120,
         "mobile": true
+        },
+        {
+        "user": "ItsLejoGD",
+        "link": "https://youtu.be/j05gqzxsajM",
+        "percent": 100,
+        "hz": 60
+        },
+        {
+        "user": "tomm",
+        "link": "https://youtu.be/1aZ4qTbyxQQ",
+        "percent": 100,
+        "hz": 240
         }
       ]
 }
