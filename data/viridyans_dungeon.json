@@ -128,6 +128,13 @@
         "percent": 100,
         "hz": 120,
         "mobile": true
+        },
+        {
+        "user": "zFlauty",
+        "link": "https://youtu.be/0umkzxBgpww",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
         }
     ]
 }
