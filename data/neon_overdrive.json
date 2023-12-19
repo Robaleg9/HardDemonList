@@ -105,6 +105,19 @@
             "link": "https://youtu.be/-VEjZGypMBk",
             "percent": 100,
             "hz": 360
+        },
+        {
+        "user": "Djhilbs",
+        "link": "https://m.youtube.com/watch?v=btH2WSgHYIM",
+        "percent": 100,
+        "hz": 360
+        },
+        {
+        "user": "AdutzHD",
+        "link": "https://youtu.be/GU_l9bC5oyY?si=SHGjI2s5V0u-n8rY",
+        "percent": 100,
+        "hz": 144,
+        "mobile": true
         }
     ]
 }
