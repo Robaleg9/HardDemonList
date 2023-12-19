@@ -234,6 +234,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+        "user": "Chubby",
+        "link": "https://youtu.be/sYM_onFrqxw?si=K2azax-yUdNBG23L&t=190",
+        "percent": 100,
+        "hz": 330
         }
     ]
 }
