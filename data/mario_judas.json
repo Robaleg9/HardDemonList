@@ -8,7 +8,7 @@
     "percentToQualify": 100,
     "password": "014789",
     "records": [
-     {
+         {
             "user": "Fawxu",
             "link": "https://youtu.be/_wznU0iU4cE",
             "percent": 100,
@@ -164,6 +164,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-    }
+        },
+        {
+        "user": "Djhilbs",
+        "link": "https://m.youtube.com/watch?v=4hQb5HpY5Dg",
+        "percent": 100,
+        "hz": 360
+        }
     ]
 }
