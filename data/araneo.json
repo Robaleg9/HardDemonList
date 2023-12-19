@@ -681,6 +681,13 @@
           "link": "https://www.youtube.com/watch?v=lH4Y3V7htCU&list=PLq-ODyp4_jCpZpabd6L9TdMpGj2Bq-x5H&index=1",
           "percent": 100,
           "hz": 60
-      }
+      },
+        {
+        "user": "DIUS3D",
+        "link": "https://youtu.be/HEEO5mSNoPM?si=61bFyzAzfuXKzGrL",
+        "percent": 100,
+        "hz": 120,
+        "mobile": true
+        }
    ]
 }
