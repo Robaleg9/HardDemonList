@@ -170,6 +170,12 @@
         "link": "https://m.youtube.com/watch?v=4hQb5HpY5Dg",
         "percent": 100,
         "hz": 360
+        },
+        {
+        "user": "deadbush",
+        "link": "https://youtu.be/LEAMmHDi6TA&t=87",
+        "percent": 100,
+        "hz": 144
         }
     ]
 }
