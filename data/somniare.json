@@ -370,6 +370,13 @@
         "link": "https://youtu.be/LEAMmHDi6TA",
         "percent": 100,
         "hz": 144
+        },
+        {
+        "user": "sussiestimpostor",
+        "link": "https://youtu.be/DomIq58Ecek?si=rN7xQ8_sW7_bO9Kv",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
         }
      ]
 }
