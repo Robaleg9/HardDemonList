@@ -249,23 +249,29 @@
             "mobile": true
         },
         {
-        "user": "Cargo",
-        "link": "https://www.youtube.com/watch?v=L2Adv7U89tg&lc=Ugz8iEGr4XQi3ud2f1J4AaABAg",
-        "percent": 100,
-        "hz": 240
+            "user": "Cargo",
+            "link": "https://www.youtube.com/watch?v=L2Adv7U89tg&lc=Ugz8iEGr4XQi3ud2f1J4AaABAg",
+            "percent": 100,
+            "hz": 240
         },
         {
-        "user": "Idkwhattobeeee",
-        "link": "https://youtu.be/PAddNKqtg2A?si=oYsv56IiMaJwKRW8",
-        "percent": 100,
-        "hz": 90,
-        "mobile": true
+            "user": "Idkwhattobeeee",
+            "link": "https://youtu.be/PAddNKqtg2A?si=oYsv56IiMaJwKRW8",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         },
         {
-        "user": "L1GHTNING",
-        "link": "https://youtu.be/lUuqu1n0Xww",
-        "percent": 100,
-        "hz": 144
+            "user": "L1GHTNING",
+            "link": "https://youtu.be/lUuqu1n0Xww",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "infra2792",
+            "link": "https://www.youtube.com/watch?v=_d5vFd_3CA4",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

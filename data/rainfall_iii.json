@@ -216,10 +216,16 @@
           "hz": 144
       },
         {
-        "user": "Mylou",
-        "link": "https://www.youtube.com/watch?v=6WgiZUN06UE",
-        "percent": 100,
-        "hz": 180
+          "user": "Mylou",
+          "link": "https://www.youtube.com/watch?v=6WgiZUN06UE",
+          "percent": 100,
+          "hz": 180
+        },
+        {
+          "user": "IgongDae",
+          "link": "https://www.youtube.com/watch?v=IsSbf448iVE",
+          "percent": 100,
+          "hz": 240
         }
       ] 
 }
