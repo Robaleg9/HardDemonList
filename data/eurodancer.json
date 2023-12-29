@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/t1oE1lkNw4I?si=-6xaykcWyOM2ATQZ",
     "percentToQualify": 100,
     "records": [
-        
+        {
+        "user": "Kubus",
+        "link": "https://youtu.be/khIzIqWY_3I?si=NHtEs64eHSZmrOZO",
+        "percent": 100,
+        "hz": 120,
+        "mobile": true
+        }
     ]
 }
