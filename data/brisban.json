@@ -173,6 +173,12 @@
         "percent": 100,
         "hz": 60,
         "mobile": true
-        }
+        },
+        {
+            "user": "tomm",
+            "link": "https://youtu.be/BGjFMP1F3_k",
+            "percent": 100,
+            "hz": 240
+    }
       ]
 }
