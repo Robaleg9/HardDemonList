@@ -162,7 +162,7 @@
         },
         {
             "user": "MrMarksman",
-            "link": "https://youtu.be/sCgJEEBmY8A?si=TQ3BN6FSxwRyR539",
+            "link": "https://youtu.be/sCgJEEBmY8A",
             "percent": 100,
             "hz": 360
         },
@@ -174,10 +174,16 @@
         },
         {
             "user": "sussiestimpostor",
-            "link": "https://youtu.be/H1SkwUSnDt4?si=qoc89HIaUAJKWpou",
+            "link": "https://youtu.be/H1SkwUSnDt4",
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "robl",
+            "link": "https://youtu.be/IWpZs7TuZ8c?si=6QkA2F7E2WogUPsV",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -201,11 +201,17 @@
         "hz": 60,
         "mobile": true
       },
-        {
+      {
         "user": "K3NNYY0",
         "link": "https://youtu.be/shdwFBhk0GQ",
         "percent": 100,
         "hz": 240
-        }
+      },
+      {
+        "user": "insosil",
+        "link": "https://youtu.be/KvDVZv-n1zw?si=HzKOiUy6sXilYtCQ",
+        "percent": 100,
+        "hz": 240
+      }
     ]
 }

@@ -175,10 +175,16 @@
             "mobile": true
         },
         {
-        "user": "Frogs65",
-        "link": "https://youtu.be/XaI0ZhxYxv8",
-        "percent": 100,
-        "hz": 60
+            "user": "Frogs65",
+            "link": "https://youtu.be/XaI0ZhxYxv8",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/kj5pXMdr_WE",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

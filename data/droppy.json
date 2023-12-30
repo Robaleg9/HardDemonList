@@ -467,10 +467,16 @@
             "mobile": true
         },
         {
-        "user": "FroteGD",
-        "link": "https://www.youtube.com/watch?v=zy3TVJeVQWo",
-        "percent": 100,
-        "hz": 144
+            "user": "FroteGD",
+            "link": "https://www.youtube.com/watch?v=zy3TVJeVQWo",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Onetric",
+            "link": "https://youtu.be/UdcXbxtuFfc?feature=shared",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

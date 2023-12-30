@@ -4,21 +4,69 @@
     "author": "Motu",
     "creators": [],
     "verifier": "Motu",
-    "verification": "https://youtu.be/t1oE1lkNw4I?si=-6xaykcWyOM2ATQZ",
+    "verification": "https://youtu.be/t1oE1lkNw4I",
     "percentToQualify": 100,
     "records": [
         {
-        "user": "Kubus",
-        "link": "https://youtu.be/khIzIqWY_3I?si=NHtEs64eHSZmrOZO",
-        "percent": 100,
-        "hz": 120,
-        "mobile": true
+            "user": "Kubus",
+            "link": "https://youtu.be/khIzIqWY_3I",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         },
         {
-        "user": "Leckylecks",
-        "link": "https://youtu.be/fcrwGQtCCH4?si=ZK9m401SgOrS6spI",
-        "percent": 100,
-        "hz": 144
+            "user": "Leckylecks",
+            "link": "https://youtu.be/fcrwGQtCCH4",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/2df3eC_oOLE",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Leven",
+            "link": "https://youtu.be/WmelWnp3FHY",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/PzsKfgyBK0U",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "nTimaw",
+            "link": "https://youtu.be/aZwSvEiFD7c",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/fszQBpjiLQw",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/FNU9F6Wmubk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "L1GHTNING",
+            "link": "https://youtu.be/Lfx7nERN6BA",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Electro325",
+            "link": "https://youtu.be/0d8fYunpxls?si=svBF00KaWltFuTrY&t=1983",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

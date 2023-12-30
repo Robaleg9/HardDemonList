@@ -158,7 +158,7 @@
         },
         {
             "user": "dorszlol20",
-            "link": "https://www.youtube.com/watch?v=iuhpZPaRhag https://youtu.be/aJoUO3sf3OI",
+            "link": "https://www.youtube.com/watch?v=iuhpZPaRhag",
             "percent": 100,
             "hz": 360
         },
@@ -169,10 +169,16 @@
             "hz": 60
         },
         {
-        "user": "shadient",
-        "link": "https://youtu.be/UiPW6pdir44?si=jKNcOeO7H_IlA14Y",
-        "percent": 100,
-        "hz": 240
+            "user": "shadient",
+            "link": "https://youtu.be/UiPW6pdir44",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "nico27",
+            "link": "https://youtu.be/c3cfMm7rRnw",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }

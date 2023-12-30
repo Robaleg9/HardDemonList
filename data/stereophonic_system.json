@@ -389,16 +389,22 @@
             "hz": 144
         },
         {
-        "user": "ItsLejoGD",
-        "link": "https://youtu.be/b8qTgxc6eos",
-        "percent": 100,
-        "hz": 60
+            "user": "ItsLejoGD",
+            "link": "https://youtu.be/b8qTgxc6eos",
+            "percent": 100,
+            "hz": 60
         },
         {
-        "user": "EvanDaBest",
-        "link": "https://youtu.be/NE_0IwZ8hek",
-        "percent": 100,
-        "hz": 144
+            "user": "EvanDaBest",
+            "link": "https://youtu.be/NE_0IwZ8hek",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "insosil",
+            "link": "https://youtu.be/LlP_mWrVYzk",
+            "percent": 100,
+            "hz": 240
         }
     ]    
 }

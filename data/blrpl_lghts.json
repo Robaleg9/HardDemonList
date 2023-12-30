@@ -413,10 +413,16 @@
         },
         {
           "user": "7w7y",
-          "link": "https://youtu.be/py-HKGEMnwc?si=PHCj-oOivnFi83UC",
+          "link": "https://youtu.be/py-HKGEMnwc",
           "percent": 100,
           "hz": 60,
           "mobile": true
+        },
+        {
+          "user": "nico27",
+          "link": "https://youtu.be/c3cfMm7rRnw?t=97",
+          "percent": 100,
+          "hz": 120
         }
     ]
 }
