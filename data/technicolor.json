@@ -173,6 +173,12 @@
         "link": "https://youtu.be/wk3PkWB71cg?si=mRVD0iLBTf3SmAnc",
         "percent": 100,
         "hz": 165
-        }
+        },
+        {
+            "user": "spectryl",
+            "link": "https://www.youtube.com/watch?v=WbFpWMfXCUg&t=907s",
+            "percent": 100,
+            "hz": 288
+    }
     ]
 }
