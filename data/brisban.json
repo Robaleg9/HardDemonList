@@ -185,6 +185,12 @@
             "link": "https://www.youtube.com/watch?v=9Tkcl2V7JL4",
             "percent": 100,
             "hz": 360
-        }
+        },
+        {
+            "user": "insosil",
+            "link": "https://youtu.be/0lM69tbWAA8?si=1RflfmTMfYK5Ri7B",
+            "percent": 100,
+            "hz": 240
+    }
       ]
 }

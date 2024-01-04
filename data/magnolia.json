@@ -267,6 +267,12 @@
           "link": "https://www.youtube.com/watch?v=ioMmz6DapuI",
           "percent": 100,
           "hz": 360
-      }
+      },
+      {
+        "user": "Swanardo",
+        "link": "https://youtu.be/ILKCs8F2dQY",
+        "percent": 100,
+        "hz": 120
+}
   ]
 }

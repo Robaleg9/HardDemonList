@@ -294,6 +294,13 @@
         "link": "https://youtu.be/WwHjhixeGGQ",
         "percent": 100,
         "hz": 165
-        }
+        },
+        {
+            "user": "AdutzHD",
+            "link": "https://youtu.be/w_roIUOCMbk?si=I8UrJPoYsRRYHv1A",
+            "percent": 100,
+            "hz": 144,
+            "mobile": true
+    }
       ]
 }

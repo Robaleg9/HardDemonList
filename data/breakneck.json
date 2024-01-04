@@ -55,6 +55,12 @@
         "link": "https://youtu.be/344G5lgQz8Y?si=kDIPspi3ovj9p9El&t=994",
         "percent": 100,
         "hz": 240
-        }
+        },
+        {
+            "user": "infra2792",
+            "link": "https://www.youtube.com/watch?v=kGBPUGklW4c",
+            "percent": 100,
+            "hz": 144
+    }
     ]
 }
