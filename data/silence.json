@@ -410,6 +410,13 @@
             "link": "https://youtu.be/9S-HOxDFApM",
             "percent": 100,
             "hz": 120
-    }
+        },
+        {
+        "user": "KROLIK",
+        "link": "https://youtu.be/uVYjlNag4Hg?si=QWpfjIn5hkXh3C8X",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
+        }
     ]
 }
