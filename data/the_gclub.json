@@ -74,6 +74,13 @@
         "link": "https://youtu.be/kj7khn-wm2U?si=TYVURCFDFwCxuyjw&t=706",
         "percent": 100,
         "hz": 360
+        },
+        {
+		"user": "timmy",
+		"link": "https://youtu.be/ahfxiuoMBnQ?si=88NNoxLxSZd05VBF",
+		"percent": 100,
+		"hz": 60,
+		"mobile": true
         }
     ]
 }
