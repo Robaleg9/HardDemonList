@@ -67,6 +67,13 @@
             "link": "https://youtu.be/Ohvf_dZ4gHI?si=ZgbRDa2YrQudAxxS",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Dissmo",
+            "link": "https://www.youtube.com/watch?v=V8ISQe7F7oQ",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
