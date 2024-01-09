@@ -87,11 +87,18 @@
             "mobile": true
         },
         {
-        "user": "SmileBullet",
-        "link": "https://youtu.be/6ENODMFUuuA?si=yyns_JHy4mF3alMB",
-        "percent": 100,
-        "hz": 60,
-        "mobile": true
+            "user": "SmileBullet",
+            "link": "https://youtu.be/6ENODMFUuuA?si=yyns_JHy4mF3alMB",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "AdutzHD",
+            "link": "https://youtu.be/v-F_GKDeaxI?si=uy0U5gTxJ-CEJ79Y",
+            "percent": 100,
+            "hz": 144,
+            "mobile": true
         }
     ]
 }

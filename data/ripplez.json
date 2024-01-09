@@ -7,5 +7,78 @@
     "verification": "https://www.youtube.com/watch?v=nE_eypDIK5A",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records" : []
+    "records" : [
+        {
+            "user": "insosil",
+            "link": "https://youtu.be/fz6w5nH9sLI?si=Ym3aXL96nFeFQUJq",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Leckylecks",
+            "link": "https://youtu.be/4vvE3DrPheg?si=gLvQWk-2OY6kKb-f",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "deadbush",
+            "link": "https://youtu.be/V8SU9jFEPDs",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://www.youtube.com/watch?v=q0p1CtoDwWI",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "EvanDaBest",
+            "link": "https://www.youtube.com/watch?v=Tyn87fQozdg&t=4s",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/hWPLSF5lD9c?si=gf621aJPw2tnz88i",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://youtu.be/PBCIbI6Gans?si=RdjJ2ahv3uqc0XnC",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/17QO_yviKFc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "lllSafeSpacelll",
+            "link": "https://www.youtube.com/watch?v=2DNEhbxACLY",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Electro325",
+            "link": "https://youtu.be/ssji0ZGsM5Yt=1206",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Leven",
+            "link": "https://youtu.be/2_XEvkABG7Y",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "nTimaw",
+            "link": "https://youtu.be/N9Dsq-sg0TE?t=204",
+            "percent": 100,
+            "hz": 321
+        }
+    ]
 }

@@ -69,10 +69,16 @@
             "hz": 144
         },
         {
-        "user": "JoacoPe",
-        "link": "https://youtu.be/8-5jRvg57nE?si=m_VwXklpLC3X-Sd-",
-        "percent": 100,
-        "hz": 120
+            "user": "JoacoPe",
+            "link": "https://youtu.be/8-5jRvg57nE?si=m_VwXklpLC3X-Sd-",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "tomm",
+            "link": "https://youtu.be/nDGjddo7spM",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
