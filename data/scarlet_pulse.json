@@ -692,6 +692,13 @@
         "percent": 100,
         "hz": 60,
         "mobile": true
+},
+{
+    "user": "TDWBS",
+    "link": "https://youtu.be/zxbZSHVsbpQ?si=5Nv_AOJ7tGzjKd1Y",
+    "percent": 100,
+    "hz": 120,
+    "mobile": true
 }
     ]
 }

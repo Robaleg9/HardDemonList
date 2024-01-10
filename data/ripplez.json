@@ -79,6 +79,18 @@
             "link": "https://youtu.be/N9Dsq-sg0TE?t=204",
             "percent": 100,
             "hz": 321
-        }
+        },
+        {
+            "user": "tomm",
+            "link": "https://youtu.be/vbIZLRjsN_4",
+            "percent": 100,
+            "hz": 240
+    },
+    {
+        "user": "deadbush",
+        "link": "https://youtu.be/RhX9fWTTBDw",
+        "percent": 100,
+        "hz": 144
+}
     ]
 }
