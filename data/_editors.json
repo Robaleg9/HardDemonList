@@ -19,6 +19,11 @@
         "name": "SoftMuffin76",
         "link": "https://www.youtube.com/@SoftMuffin76"
     },
+     {
+        "role": "admin",
+        "name": "spectryl",
+        "link": "https://www.youtube.com/@loveSpectral"
+    },
     {
         "role": "trial",
         "name": "Bobbyp02",
@@ -28,11 +33,6 @@
         "role": "trial",
         "name": "SEDTHEPRODIGY",
         "link": "https://www.youtube.com/@sedtheprodigy8643"
-    },
-        {
-        "role": "trial",
-        "name": "spectryl",
-        "link": "https://www.youtube.com/@loveSpectral"
     },
     {
         "role": "helper",
