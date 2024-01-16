@@ -168,6 +168,20 @@
         "link": "https://www.youtube.com/watch?v=EGFsEucFQ8w",
         "percent": 100,
         "hz": 144
+},
+{
+    "user": "Karidian",
+    "link": "https://youtu.be/D0ly6tpzvaI?si=efAVeGi28q5t8L3A",
+    "percent": 100,
+    "hz": 60,
+    "mobile": true
+},
+{
+    "user": "XxVETIxX",
+    "link": "https://youtu.be/0VJ8OkO0EgQ?si=LGdYER64q5snENxR",
+    "percent": 100,
+    "hz": 60,
+    "mobile": true
 }
     ]
 }
