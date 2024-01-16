@@ -45,8 +45,7 @@
             "surgeragon",
             "sulfuric_acid",
             "fusion",
-            "k_a_n_g",
-            "the_eschaton"
+            "k_a_n_g"
         ],
         "colour": "#ffd700"
     },
@@ -133,7 +132,8 @@
             "sonic_chamber",
             "artemisia",
             "i_cant_fix_you",
-            "exhaust"
+            "exhaust",
+            "breakneck"
         ],
         "colour": "#ffd700"
     },
@@ -187,7 +187,6 @@
             "doomed",
             "hibernal",
             "brisban",
-            "mario_judas",
             "gimmix"
         ],
         "colour": "#ffd700"
