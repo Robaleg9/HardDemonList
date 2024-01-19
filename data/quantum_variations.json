@@ -356,6 +356,12 @@
         "percent": 100,
         "hz": 120,
         "mobile": true
-        }
+        },
+        {
+            "user": "Galactix",
+            "link": "https://www.youtube.com/watch?v=kKNL4r5K4C4&t=33s",
+            "percent": 100,
+            "hz": 60
+    }
    ]
 }
