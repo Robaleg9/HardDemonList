@@ -860,10 +860,17 @@
           "hz": 240
         },
         {
-        "user": "DeltaFlare",
-        "link": "https://youtu.be/XbiLNFdb4Q8?si=Yygp7rHzKlu2Mjmk",
-        "percent": 100,
-        "hz": 360
+          "user": "DeltaFlare",
+          "link": "https://youtu.be/XbiLNFdb4Q8?si=Yygp7rHzKlu2Mjmk",
+          "percent": 100,
+          "hz": 360
+        },
+        {
+          "user": "DIUS3D",
+          "link": "https://youtu.be/IfivRmplmec?si=MBmVl1KQSLVwCHYZ",
+          "percent": 100,
+          "hz": 120,
+          "mobile": true
         }
     ]
 }

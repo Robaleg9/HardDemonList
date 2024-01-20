@@ -192,18 +192,24 @@
             "hz": 288
     },
     {
-        "user": "AerialShard",
-        "link": "https://youtu.be/fYUmji6qjCA?si=555GcH61L9WqHr20",
-        "percent": 100,
-        "hz": 60,
-        "mobile": true
+            "user": "AerialShard",
+            "link": "https://youtu.be/fYUmji6qjCA?si=555GcH61L9WqHr20",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
 },
 {
-    "user": "juantioGAMEs,!! 😎",
-    "link": "https://youtu.be/pQMqbxkW7eI?si=D_N1hNgwIRDd_1zq",
-    "percent": 100,
-    "hz": 240,
-    "mobile": true
+            "user": "juantioGAMEs,!! 😎",
+            "link": "https://youtu.be/pQMqbxkW7eI?si=D_N1hNgwIRDd_1zq",
+            "percent": 100,
+            "hz": 240,
+            "mobile": true
+},
+{
+            "user": "L1GHTNING",
+            "link": "https://youtu.be/R2wAAH2xqaw",
+            "percent": 100,
+            "hz": 165
 }
     ]
 }

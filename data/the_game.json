@@ -75,11 +75,17 @@
         "percent": 100,
         "hz": 330
     },
-        {
+    {
         "user": "JoacoPe",
         "link": "https://youtu.be/GTAzMIFqnLU?si=soYLmEh7b6Vb8UZ3",
         "percent": 100,
         "hz": 120
-        }
+    },
+    {
+        "user": "hytklfsq",
+        "link": "https://youtu.be/INFbVHFxA5U?si=XpiIp1cgEMRu4CYH&t=3854",
+        "percent": 100,
+        "hz": 240
+    }
     ]
 }

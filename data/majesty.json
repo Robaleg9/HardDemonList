@@ -7,5 +7,48 @@
     "verification": "https://youtu.be/n-AvDKEFQ9w",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records" : []
+    "records" : [
+{
+        "user": "Leckylecks",
+        "link": "https://youtu.be/xkdPWQwRF3I",
+        "percent": 100,
+        "hz": 360
+},
+{
+        "user": "Shroomy!!!",
+        "link": "https://youtu.be/MuyBEBinz0s",
+        "percent": 100,
+        "hz": 240
+},
+{
+        "user": "Fawxu",
+        "link": "https://youtu.be/9YRAg-0UNeo",
+        "percent": 100,
+        "hz": 240
+},
+{
+        "user": "tomm",
+        "link": "https://youtu.be/KyCzi7yazBU",
+        "percent": 100,
+        "hz": 240
+},
+{
+        "user": "nTimaw",
+        "link": "https://youtu.be/Ohvf_dZ4gHI?t=79",
+        "percent": 100,
+        "hz": 321
+},
+{
+        "user": "Frogs65",
+        "link": "https://www.youtube.com/watch?v=RHYpg0989_Y",
+        "percent": 100,
+        "hz": 60
+},
+{
+        "user": "lllSafeSpacelll",
+        "link": "https://www.youtube.com/watch?v=4deyJl8bFa8&t=8m8s",
+        "percent": 100,
+        "hz": 120
+}
+    ]
 }
