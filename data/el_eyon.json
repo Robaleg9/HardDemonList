@@ -138,17 +138,23 @@
             "hz": 240
         },
         {
-          "user": "Bonezizdum",
-          "link": "https://youtu.be/ykAXewwdQHI?si=A6KZokMsJLJfpuY8",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
+            "user": "Bonezizdum",
+            "link": "https://youtu.be/ykAXewwdQHI?si=A6KZokMsJLJfpuY8",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         },
         {
             "user": "Mylou",
             "link": "https://www.youtube.com/watch?v=Yhm3A2KiWb0",
             "percent": 100,
             "hz": 240
-    }
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "https://www.youtube.com/watch?v=cqXwp_Q5D-s&ab_channel=Galaxy4567",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

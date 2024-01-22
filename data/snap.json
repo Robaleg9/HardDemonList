@@ -160,12 +160,12 @@
             "percent": 100,
             "hz": 240
       },
-        {
-            "user": "rodrigtz26",
-            "link": "https://youtu.be/fZ1TM6CN9j8",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
+      {
+        "user": "rodrigtz26",
+        "link": "https://youtu.be/fZ1TM6CN9j8",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
       },
       {
         "user": "Subperfect",
@@ -180,6 +180,12 @@
         "percent": 100,
         "hz": 60,
         "mobile": true
+      },
+      {
+        "user": "Galaxy4567",
+        "link": "https://www.youtube.com/watch?v=ViWr8-ZT_Cg&ab_channel=Galaxy4567",
+        "percent": 100,
+        "hz": 240
       }
     ]
 }
