@@ -83,34 +83,40 @@
 			"hz": 60
 		},
         {
-        "user": "hytklfsq",
-        "link": "https://youtu.be/0hZhdQdqKuM?si=ZNtO12b1UZpaiqHT",
-        "percent": 100,
-        "hz": 300
+        	"user": "hytklfsq",
+        	"link": "https://youtu.be/0hZhdQdqKuM?si=ZNtO12b1UZpaiqHT",
+        	"percent": 100,
+        	"hz": 300
         },
         {
-        "user": "JoacoPe",
-        "link": "https://youtu.be/jq1gWjeoE1U",
-        "percent": 100,
-        "hz": 120
+        	"user": "JoacoPe",
+        	"link": "https://youtu.be/jq1gWjeoE1U",
+        	"percent": 100,
+        	"hz": 120
         },
         {
-        "user": "IgongDae",
-        "link": "https://youtu.be/-rPYcUlYhtI",
-        "percent": 100,
-        "hz": 360
+        	"user": "IgongDae",
+        	"link": "https://youtu.be/-rPYcUlYhtI",
+        	"percent": 100,
+        	"hz": 360
         },
         {
-        "user": "sonofnooby",
-        "link": "https://youtu.be/SAB11uhucLw",
-        "percent": 100,
-        "hz": 165
+        	"user": "sonofnooby",
+        	"link": "https://youtu.be/SAB11uhucLw",
+        	"percent": 100,
+        	"hz": 165
         },
 		{
 			"user": "guitarhero2189",
 			"link": "https://www.twitch.tv/videos/1918001014",
 			"percent": 100,
 			"hz": 165
-    	}
+    	},
+		{
+			"user": "Galaxy4567",
+			"link": "https://www.youtube.com/watch?v=jH-XmI-Il-Y&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 240
+		}
 	]
 }

@@ -173,6 +173,12 @@
           "link": "https://www.youtube.com/watch?v=WbFpWMfXCUg&t=907s",
           "percent": 100,
           "hz": 288
-  }
+        },
+        {
+          "user": "Galaxy4567",
+          "link": "https://www.youtube.com/watch?v=4NAi-pTE-Co&ab_channel=Galaxy4567",
+          "percent": 100,
+          "hz": 240
+        }
       ]
 }

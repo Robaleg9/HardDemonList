@@ -142,8 +142,14 @@
             "hz": 120
         },
         {
-          "user": "Patty",
-          "link": "https://youtu.be/Bs07N3CnuHw",
+            "user": "Patty",
+            "link": "https://youtu.be/Bs07N3CnuHw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+          "user": "Galaxy4567",
+          "link": "https://www.youtube.com/watch?v=waSfgIfus48&ab_channel=Galaxy4567",
           "percent": 100,
           "hz": 240
         }

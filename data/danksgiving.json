@@ -116,10 +116,16 @@
             "hz": 240
         },
         {
-        "user": "hytklfsq",
-        "link": "https://youtu.be/INFbVHFxA5U?si=33KfHb-9qze94cst&t=3154",
-        "percent": 100,
-        "hz": 360
+            "user": "hytklfsq",
+            "link": "https://youtu.be/INFbVHFxA5U?si=33KfHb-9qze94cst&t=3154",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "https://www.youtube.com/watch?v=CE5TpcL78zs&ab_channel=Galaxy4567",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
