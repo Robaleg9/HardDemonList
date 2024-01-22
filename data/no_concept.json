@@ -279,6 +279,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Omnin",
+            "link": "https://www.youtube.com/watch?v=4W0gBAFG1RU",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

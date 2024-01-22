@@ -229,17 +229,24 @@
             "hz": 240
         },
         {
-          "user": "Bonezizdum",
-          "link": "https://www.youtube.com/watch?v=bd4OOD92M4s",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
+            "user": "Bonezizdum",
+            "link": "https://www.youtube.com/watch?v=bd4OOD92M4s",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         },
         {
-        "user": "Chubby",
-        "link": "https://youtu.be/sYM_onFrqxw?si=K2azax-yUdNBG23L&t=190",
-        "percent": 100,
-        "hz": 330
+            "user": "Chubby",
+            "link": "https://youtu.be/sYM_onFrqxw?si=K2azax-yUdNBG23L&t=190",
+            "percent": 100,
+            "hz": 330
+        },
+        {
+            "user": "Bladey",
+            "link": "https://youtu.be/E-j6eDHmePk",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
