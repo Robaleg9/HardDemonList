@@ -194,12 +194,18 @@
           "link": "https://youtu.be/JHE8kekVk-s?si=NmRn87JDxAp9Hyn6",
           "percent": 100,
           "hz": 240
-  },
-  {
-    "user": "Heinz6",
-    "link": "https://youtu.be/fqTA38iT9gI",
-    "percent": 100,
-    "hz": 240
-}
+        },
+        {
+          "user": "Heinz6",
+          "link": "https://youtu.be/fqTA38iT9gI",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "Dissmo",
+          "link": "https://youtu.be/wdWT_j6lDLw?si=MmePoENQy-k0L0tB",
+          "percent": 100,
+          "hz": 240
+        }
     ]
 }

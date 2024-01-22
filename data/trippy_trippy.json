@@ -184,10 +184,16 @@
     "mobile": true
 },
 {
-		"user": "Aspectofthecorg",
-		"link": "https://youtu.be/lK6JbY4Qdfc",
-		"percent": 100,
-		"hz": 60
+	"user": "Aspectofthecorg",
+	"link": "https://youtu.be/lK6JbY4Qdfc",
+	"percent": 100,
+	"hz": 60
+},
+{
+    "user": "L1GHTNING",
+    "link": "https://youtu.be/Gw6K9eKb7Mo",
+    "percent": 100,
+    "hz": 165
 }
     ]
 }

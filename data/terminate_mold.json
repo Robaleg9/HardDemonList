@@ -394,11 +394,17 @@
             "hz": 165
         },
         {
-        "user": "KROLIK",
-        "link": "https://youtu.be/7WCv-36zxoY?si=LS4Cq3FcsFuEOMaf",
-        "percent": 100,
-        "hz": 60,
-        "mobile": true
+            "user": "KROLIK",
+            "link": "https://youtu.be/7WCv-36zxoY?si=LS4Cq3FcsFuEOMaf",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "NewDark",
+            "link": "https://youtu.be/AykiyLyu1DE?si=4QkVMkqy4SAwJD1f",
+            "percent": 100,
+            "hz": 144
         }
    ]
 }

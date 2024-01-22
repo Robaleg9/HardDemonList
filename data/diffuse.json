@@ -871,6 +871,12 @@
           "percent": 100,
           "hz": 120,
           "mobile": true
+        },
+        {
+          "user": "Abeginner",
+          "link": "https://youtu.be/aY91P235v2E",
+          "percent": 100,
+          "hz": 240
         }
     ]
 }

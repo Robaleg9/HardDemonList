@@ -98,19 +98,31 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
-        },
-        {
+      },
+      {
           "user": "Subperfect",
           "link": "https://youtu.be/0imYN2HSXNU?feature=shared",
           "percent": 100,
           "hz": 60,
           "mobile": true
-        },
-         {
+      },
+      {
           "user": "Frogs65",
           "link": "https://www.youtube.com/watch?v=iHRTYB525AE",
           "percent": 100,
           "hz": 60
+      },
+      {
+          "user": "deadbush",
+          "link": "https://youtu.be/sbWEDkVeU3g",
+          "percent": 100,
+          "hz": 144
+      },
+      {
+        "user": "Fawxu",
+        "link": "https://youtu.be/2TK3TLD_L6g?si=R_TS6am6I_XBQdBO",
+        "percent": 100,
+        "hz": 240
       }
     ]
 }

@@ -96,16 +96,22 @@
             "mobile": true
         },
         {
-        "user": "tomm",
-        "link": "https://youtu.be/zF6qtP4SEAE",
-        "percent": 100,
-        "hz": 240
+            "user": "tomm",
+            "link": "https://youtu.be/zF6qtP4SEAE",
+            "percent": 100,
+            "hz": 240
         },
         {
-        "user": "ItsLejoGD",
-        "link": "https://youtu.be/oOiPJhb31bE",
-        "percent": 100,
-        "hz": 144
+            "user": "ItsLejoGD",
+            "link": "https://youtu.be/oOiPJhb31bE",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "deadbush",
+            "link": "https://youtu.be/QICxk93raS8",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

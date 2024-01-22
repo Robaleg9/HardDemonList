@@ -269,12 +269,18 @@
           "link": "https://youtu.be/tzz45MgLLiA?si=4hHr6JH5izGu5zjJ",
           "percent": 100,
           "hz": 240
-  },
-  {
-    "user": "tomm",
-    "link": "https://youtu.be/yrenOgchRVQ?t=323",
-    "percent": 100,
-    "hz": 240
-}
+        },
+        {
+          "user": "tomm",
+          "link": "https://youtu.be/yrenOgchRVQ?t=323",
+          "percent": 100,
+          "hz": 240
+        },
+        {
+          "user": "L1GHTNING",
+          "link": "https://youtu.be/RjyXGf3IpMU",
+          "percent": 100,
+          "hz": 165
+        }
    ]
 }

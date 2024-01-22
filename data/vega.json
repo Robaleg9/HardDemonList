@@ -63,11 +63,11 @@
             "percent": 100,
             "hz": 360
         },
-         {
-          "user": "IgongDae",
-          "link": "https://youtu.be/W2Wo8tLIuis",
-          "percent": 100,
-          "hz": 360
+        {
+            "user": "IgongDae",
+            "link": "https://youtu.be/W2Wo8tLIuis",
+            "percent": 100,
+            "hz": 360
         },
         {
             "user": "nTimaw",
@@ -106,6 +106,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Omnin",
+            "link": "https://www.youtube.com/watch?v=azgufiH_lL4",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

@@ -94,10 +94,10 @@
             "hz": 144
         },
         {
-        "user": "DankDrew",
-        "link": "https://youtu.be/Pe8je33Aq74",
-        "percent": 100,
-        "hz": 288
+            "user": "DankDrew",
+            "link": "https://youtu.be/Pe8je33Aq74",
+            "percent": 100,
+            "hz": 288
         },
         {
             "user": "AdutzHD",
@@ -105,6 +105,12 @@
             "percent": 100,
             "hz": 144,
             "mobile": true
-    }
+        },
+        {
+            "user": "L1GHTNING",
+            "link": "https://youtu.be/krPQA7vKpA8",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
