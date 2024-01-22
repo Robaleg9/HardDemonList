@@ -86,7 +86,7 @@
             "percent": 100,
             "hz": 120
         },
-         {
+        {
             "user": "Leckylecks",
             "link": "https://youtu.be/gN5OVdjeJG8",
             "percent": 100,
@@ -113,6 +113,12 @@
         {
             "user": "dindaxd",
             "link": "https://youtu.be/eacEfYrGfDs?si=VKWlJDVAd-u1VkMN",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "https://www.youtube.com/watch?v=EzRRwBNOt-g&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 240
         }

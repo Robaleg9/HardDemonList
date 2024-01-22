@@ -81,6 +81,12 @@
 		"percent": 100,
 		"hz": 60,
 		"mobile": true
+        },
+        {
+        "user": "Galaxy4567",
+        "link": "https://www.youtube.com/watch?v=mA-rTyPZ8aA&ab_channel=Galaxy4567",
+        "percent": 100,
+        "hz": 240
         }
     ]
 }

@@ -82,10 +82,16 @@
             "hz": 60
         },
         {
-        "user": "FlameShooter",
-        "link": "https://youtu.be/3m9So6oM6jw?si=em1BKMw3JRXQxE37",
-        "percent": 100,
-        "hz": 60
+            "user": "FlameShooter",
+            "link": "https://youtu.be/3m9So6oM6jw?si=em1BKMw3JRXQxE37",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "https://www.youtube.com/watch?v=heiSY1auWVg&ab_channel=Galaxy4567",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }

@@ -94,16 +94,16 @@
           "hz": 60
         },
         {
-          "user": "JoacoPe",
-          "link": "https://youtu.be/sw85mRYpQew?si=wrNSi_C4rqGGMCxD",
-          "percent": 100,
-          "hz": 120
+            "user": "JoacoPe",
+            "link": "https://youtu.be/sw85mRYpQew?si=wrNSi_C4rqGGMCxD",
+            "percent": 100,
+            "hz": 120
         },
         {
-        "user": "nTimaw",
-        "link": "https://youtu.be/T163kBYgbFw",
-        "percent": 100,
-        "hz": 321
+            "user": "nTimaw",
+            "link": "https://youtu.be/T163kBYgbFw",
+            "percent": 100,
+            "hz": 321
         },
         {
             "user": "agentgiscool",
@@ -119,17 +119,23 @@
             "hz": 360
         },
         {
-          "user": "tomafoXx",
-          "link": "https://www.youtube.com/watch?v=G3Lbf-maYmo",
-          "percent": 100,
-          "hz": 60
+            "user": "tomafoXx",
+            "link": "https://www.youtube.com/watch?v=G3Lbf-maYmo",
+            "percent": 100,
+            "hz": 60
         },
         {
-          "user": "Subperfect",
-          "link": "https://youtu.be/JRYySZk6BX8?feature=shared",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
+            "user": "Subperfect",
+            "link": "https://youtu.be/JRYySZk6BX8?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "https://www.youtube.com/watch?v=op3GJs_PGEg&ab_channel=Galaxy4567",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }

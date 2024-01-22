@@ -97,6 +97,12 @@
             "link": "https://www.youtube.com/watch?v=nWSen9FCxJk&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "sonofnooby",
+            "link": "https://youtu.be/S9hrmDz85Qs",
+            "percent": 100,
+            "hz": 165
         }
     ]
 }
