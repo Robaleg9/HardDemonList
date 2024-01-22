@@ -93,10 +93,16 @@
             "hz": 360
         },
         {
-          "user": "Leven",
-          "link": "https://youtu.be/5swi3SO2SXM",
-          "percent": 100,
-          "hz": 75
-      }
+            "user": "Leven",
+            "link": "https://youtu.be/5swi3SO2SXM",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "tomm",
+            "link": "https://youtu.be/aKKyU2EQdPs?t=180",
+            "percent": 100,
+            "hz": 240
+        }
       ]
 }

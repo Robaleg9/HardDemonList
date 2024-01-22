@@ -109,6 +109,12 @@
             "link": "https://www.youtube.com/watch?v=FwkgK7OyOJE&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "tomm",
+            "link": "https://youtu.be/aKKyU2EQdPs?t=82",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
