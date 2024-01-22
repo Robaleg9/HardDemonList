@@ -351,10 +351,16 @@
             "hz": 240
         },
         {
-        "user": "K3NNYY0",
-        "link": "https://www.youtube.com/watch?v=4fTmjJymIp4",
-        "percent": 100,
-        "hz": 240
+            "user": "K3NNYY0",
+            "link": "https://www.youtube.com/watch?v=4fTmjJymIp4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "L1GHTNING",
+            "link": "https://youtu.be/RMRQz4wQbNc",
+            "percent": 100,
+            "hz": 165
         }
       ]
 }

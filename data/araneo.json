@@ -682,12 +682,18 @@
           "percent": 100,
           "hz": 60
       },
-        {
-        "user": "DIUS3D",
-        "link": "https://youtu.be/HEEO5mSNoPM?si=61bFyzAzfuXKzGrL",
-        "percent": 100,
-        "hz": 120,
-        "mobile": true
-        }
+      {
+          "user": "DIUS3D",
+          "link": "https://youtu.be/HEEO5mSNoPM?si=61bFyzAzfuXKzGrL",
+          "percent": 100,
+          "hz": 120,
+          "mobile": true
+      },
+      {
+          "user": "Galaxy4567",
+          "link": "https://www.youtube.com/watch?v=sJEo_LBi730&ab_channel=Galaxy4567",
+          "percent": 100,
+          "hz": 144
+      }
    ]
 }

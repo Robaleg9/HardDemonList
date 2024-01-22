@@ -225,10 +225,16 @@
             "hz": 144
         },
         {
-        "user": "Mylou",
-        "link": "https://www.youtube.com/watch?v=Ylp6FjvfQwk",
-        "percent": 100,
-        "hz": 240
+            "user": "Mylou",
+            "link": "https://www.youtube.com/watch?v=Ylp6FjvfQwk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Omnin",
+            "link": "https://www.youtube.com/watch?v=Mes60uLymSw",
+            "percent": 100,
+            "hz": 165
         }
       ]
 }

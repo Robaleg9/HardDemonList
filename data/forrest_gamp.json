@@ -97,6 +97,18 @@
             "link": "https://youtu.be/PXf2x-UEmBQ?si=YW-TGvFF98VpZYib",
             "percent": 100,
             "hz": 144
-    }
+        },
+        {
+            "user": "Omnin",
+            "link": "https://www.youtube.com/watch?v=dz7Vm6MrFbE",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "https://www.youtube.com/watch?v=FwkgK7OyOJE&ab_channel=Galaxy4567",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
