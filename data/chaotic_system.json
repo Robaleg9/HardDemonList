@@ -136,6 +136,19 @@
           "link": "https://www.youtube.com/watch?v=OeiMWR9uuwo&ab_channel=Galaxy4567",
           "percent": 100,
           "hz": 240
-      }
+      },
+      {
+        "user": "Avtra",
+        "link": "https://www.youtube.com/watch?v=fzqLCPHRkUE&ab_channel=Avtra",
+        "percent": 100,
+        "hz": 150
+},
+{
+  "user": "Subperfect",
+  "link": "https://youtu.be/0huWHtpNbkw?feature=shared",
+  "percent": 100,
+  "hz": 60,
+  "mobile": true
+}
 ]
 }

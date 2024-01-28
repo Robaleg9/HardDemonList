@@ -103,6 +103,18 @@
             "link": "https://youtu.be/S9hrmDz85Qs",
             "percent": 100,
             "hz": 165
-        }
+        },
+        {
+            "user": "vasenotchalleng",
+            "link": "https://www.youtube.com/watch?v=zSnIaXULixk",
+            "percent": 100,
+            "hz": 240
+    },
+    {
+        "user": "IgongDae",
+        "link": "https://youtu.be/7F5uAprrmOA",
+        "percent": 100,
+        "hz": 360
+}
     ]
 }
