@@ -117,6 +117,12 @@
 			"link": "https://www.youtube.com/watch?v=jH-XmI-Il-Y&ab_channel=Galaxy4567",
 			"percent": 100,
 			"hz": 240
-		}
+		},
+        {
+            "user": "Avtra",
+            "link": "https://www.youtube.com/watch?v=1af3gBXqzTE&ab_channel=Avtra",
+            "percent": 100,
+            "hz": 150
+        }
 	]
 }
