@@ -383,12 +383,18 @@
           "link": "https://youtu.be/pCjcZ7yaE44",
           "percent": 100,
           "hz": 240
-  },
-  {
-    "user": "KJ3DRay",
-    "link": "https://youtu.be/qS3NtVcEqQ4?si=pTieMvmVcQHrFvJ-",
-    "percent": 100,
-    "hz": 60
-}
+       },
+       {
+          "user": "KJ3DRay",
+          "link": "https://youtu.be/qS3NtVcEqQ4?si=pTieMvmVcQHrFvJ-",
+          "percent": 100,
+          "hz": 60
+       },
+       {
+          "user": "Bluebarracks",
+          "link": "https://youtu.be/814ufJ_gBlw",
+          "percent": 100,
+          "hz": 240
+       }
      ]
 }
