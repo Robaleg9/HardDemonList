@@ -313,6 +313,12 @@
             "link": "https://youtu.be/t_vI132i1PE",
             "percent": 100,
             "hz": 240
-    }
+        },
+        {
+            "user": "Louis",
+            "link": "https://www.youtube.com/watch?v=9avvb2M4Fic",
+            "percent": 100,
+            "hz": 480
+        }
       ]
 }
