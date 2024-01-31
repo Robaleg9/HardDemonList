@@ -49,6 +49,13 @@
             "link": "https://www.youtube.com/watch?v=rhCt3C6G0Gg&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Subperfect",
+            "link": "https://youtu.be/vf2BOHF4kdY?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }

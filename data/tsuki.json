@@ -471,6 +471,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+    },
+    {
+        "user": "Louis",
+        "link": "https://www.youtube.com/watch?v=DEmFOW7h-SE",
+        "percent": 100,
+        "hz": 480
     }
     ]
 }
