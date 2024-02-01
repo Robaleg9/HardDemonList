@@ -889,6 +889,12 @@
           "link": "https://www.youtube.com/watch?v=dsmGLVRgRyA&ab_channel=ox1y1gen",
           "percent": 100,
           "hz": 120
+        },
+        {
+            "user": "Omnin",
+            "link": "https://www.youtube.com/watch?v=XVqjW3Z-fdM",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
