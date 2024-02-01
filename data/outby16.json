@@ -7,5 +7,37 @@
     "verification": "https://youtu.be/-TqGjtE-glE?si=eyCN1bemk8l8jQc-",
     "percentToQualify": 100,
     "password": "161616",
-    "records" : []
+    "records" : [
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/4u2p7nv-jTk?si=EhQgFo05HvePB83U",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Galaxy4567",
+            "link": "https://www.youtube.com/watch?v=lA4fCg8rF44&ab_channel=Galaxy4567",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/gckQBrRi5Lo?si=8Qk6G24Ror-VWcce",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "nTimaw",
+            "link": "https://youtu.be/kXz-doj98Vk?si=PxrSEiqV1rRaR6TJ",
+            "percent": 100,
+            "hz": 99999
+        },
+        {
+            "user": "Subperfect",
+            "link": "https://youtu.be/TmPC9MfSPgk?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
+    ]
 }
