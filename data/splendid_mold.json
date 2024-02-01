@@ -219,6 +219,12 @@
         "percent": 100,
         "hz": 60,
         "mobile": true
-}
+      },
+      {
+            "user": "zredaVhtraD",
+            "link": "https://www.youtube.com/watch?v=VdMQGf4Vrgk",
+            "percent": 100,
+            "hz": 360
+      }
     ]
 }
