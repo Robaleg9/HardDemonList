@@ -413,10 +413,10 @@
             "hz": 144
         },
         {
-        "user": "zredaVhtraD",
-        "link": "https://www.youtube.com/watch?v=aDcGwde01ws",
-        "percent": 100,
-        "hz": 360
+            "user": "zredaVhtraD",
+            "link": "https://www.youtube.com/watch?v=aDcGwde01ws",
+            "percent": 100,
+            "hz": 360
         }
    ]
 }
