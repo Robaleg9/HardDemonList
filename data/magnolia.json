@@ -273,6 +273,12 @@
         "link": "https://youtu.be/ILKCs8F2dQY",
         "percent": 100,
         "hz": 120
-}
+    },
+        {
+            "user": "Stallia",
+            "link": "https://www.youtube.com/watch?v=nSMAIawN8pM",
+            "percent": 100,
+            "hz": 240
+        }
   ]
 }
