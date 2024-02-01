@@ -949,6 +949,13 @@
             "link": "https://www.youtube.com/watch?v=ZKyJ0udSwmg&ab_channel=Avtra",
             "percent": 100,
             "hz": 150
+        },
+        {
+            "user": "DIUS3D",
+            "link": "https://youtu.be/JZFR0avKr4A?si=RwCDlOmPsNb3SZSh",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
