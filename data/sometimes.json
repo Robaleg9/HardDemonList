@@ -116,13 +116,19 @@
             "link": "https://youtu.be/aSzKr0VLjuM",
             "percent": 100,
             "hz": 240
-    },
-    {
+        },
+        {
         "user": "Subperfect",
         "link": "https://youtu.be/xce3QLaRJZ4?feature=shared",
         "percent": 100,
         "hz": 60,
         "mobile": true
-}
+        },
+        {
+            "user": "deadbush",
+            "link": "https://youtu.be/zoo3dFx2HuI&t=93s",
+            "percent": 100,
+            "hz": 144
+        }
      ]
 }
