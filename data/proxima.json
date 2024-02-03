@@ -99,6 +99,12 @@
             "link": "https://www.youtube.com/watch?v=2Ek9w8AOoaA&ab_channel=Avtra",
             "percent": 100,
             "hz": 150
-        }
+        },
+        {
+            "user": "Frogs65",
+            "link": "https://youtu.be/zU6-kCbLcxM",
+            "percent": 100,
+            "hz": 60
+    }
     ]
 }
