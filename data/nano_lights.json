@@ -289,6 +289,12 @@
   "percent": 100,
   "hz": 60,
   "mobile": true
-}
+},
+        {
+            "user": "Avtra",
+            "link": "https://www.youtube.com/watch?v=Swgll2rx9-8&ab_channel=Avtra",
+            "percent": 100,
+            "hz": 300
+        }
       ]
 }
