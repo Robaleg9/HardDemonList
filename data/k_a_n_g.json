@@ -210,6 +210,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "tornado",
+            "link": "https://www.youtube.com/watch?v=FlgiMCbDW_Y",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
