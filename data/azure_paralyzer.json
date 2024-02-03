@@ -343,6 +343,12 @@
             "link": "https://www.youtube.com/watch?v=RvSRJOVCFss",
             "percent": 100,
             "hz": 720
+        },
+        {
+            "user": "Avtra",
+            "link": "https://www.youtube.com/watch?v=vWgIXNfoiiA&ab_channel=Avtra",
+            "percent": 100,
+            "hz": 300
         }
     ]
 }
