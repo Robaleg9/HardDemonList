@@ -249,6 +249,13 @@
         "percent": 100,
         "hz": 60,
         "mobile": true
-      }
+      },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/40M-WF_kVjE?si=SGptGpFEV0cBlyka",
+            "percent": 100,
+            "hz": 240,
+            "mobile": true
+        }
     ]
 }
