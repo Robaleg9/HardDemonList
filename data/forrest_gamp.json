@@ -122,6 +122,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/7WPatEpR9OY?si=JRXB-v-OYjj_xdSk",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
