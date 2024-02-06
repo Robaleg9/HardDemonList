@@ -311,6 +311,12 @@
             "link": "https://www.youtube.com/watch?v=FeUoScWzG6w&ab_channel=Avtra",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "insosil",
+            "link": "https://youtu.be/5bV-_ZdhiK8?si=vRIjLFGbu5drcsEw",
+            "percent": 100,
+            "hz": 240
         }
     ]
  }
