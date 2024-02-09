@@ -300,6 +300,13 @@
 		"percent": 100,
 		"hz": 60,
 		"mobile": true
+        },
+        {
+            "user": "AdutzHD",
+            "link": "https://youtu.be/bg3-A5AIBWk?si=Jjq1glGaYOHzn5cR",
+            "percent": 100,
+            "hz": 144,
+            "mobile": true
         }
      ]
 }
