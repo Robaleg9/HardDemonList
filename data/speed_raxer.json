@@ -196,6 +196,13 @@
             "link": "https://www.youtube.com/watch?v=3Vd-EjWT53w&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "AdutzHD",
+            "link": "https://youtu.be/KFl0ZoAQmXg?si=j0mKPsTa2AN4WPBE",
+            "percent": 100,
+            "hz": 144,
+            "mobile": true
         }
     ]
 }
