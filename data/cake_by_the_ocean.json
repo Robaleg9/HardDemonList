@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=yJaP8NqMkro",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Stallia",
+            "link": "https://www.youtube.com/watch?v=Dsk2fRcVhJ8",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
