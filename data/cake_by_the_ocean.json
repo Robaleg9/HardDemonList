@@ -37,6 +37,19 @@
             "link": "https://youtu.be/FchzIjJktO8?si=fMK7lMHYvpIL5Cyd",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Loligerboy_123",
+            "link": "https://youtu.be/Ms5visKZaiw?si=LTOkOrx1YEBNYwzG",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Peregrine",
+            "link": "https://youtu.be/7Oubcoi0S7o?si=9wuaQpfQIcgFgqKN",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
