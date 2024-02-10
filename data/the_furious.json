@@ -962,6 +962,12 @@
             "link": "https://youtu.be/mYON_cnRSsM?si=XemyWu7QT4xHZeyt",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "tornado",
+            "link": "https://www.youtube.com/watch?v=ajYxL-2fTQY",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
