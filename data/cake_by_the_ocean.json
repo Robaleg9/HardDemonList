@@ -50,6 +50,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "nico27",
+            "link": "https://youtu.be/EIIyP5Bkj8I?si=jaRfF3mY9Ko9w2wW",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
