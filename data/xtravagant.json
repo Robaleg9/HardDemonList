@@ -164,6 +164,13 @@
             "link": "https://www.youtube.com/watch?v=SgRwCE_DgPY&ab_channel=Avtra",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "AdutzHD",
+            "link": "https://youtu.be/8Py-FoxvWew?si=ZnN6tQS_YAgWQbkr",
+            "percent": 100,
+            "hz": 144,
+            "mobile": true
         }
       ]
 }
