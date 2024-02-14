@@ -170,6 +170,13 @@
             "link": "https://youtu.be/cU2BbwOxjUw?si=WxUZRXS9ur919agU",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "SmileBullet",
+            "link": "https://youtu.be/9W5XqkEgIeM?si=pr07OjVzEqZAMTOG",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
