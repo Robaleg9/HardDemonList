@@ -37,6 +37,13 @@
             "link": "https://youtu.be/U55a0XEoISw",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Dissmo",
+            "link": "https://truthsocial.com/@Dissmo_/posts/111927006202147655",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
