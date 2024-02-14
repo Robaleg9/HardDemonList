@@ -122,6 +122,12 @@
 		    "link": "https://www.youtube.com/watch?v=LzRYBYEHfKM",
 		    "percent": 100,
 		    "hz": 360
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/u49ER2L67Dc",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
