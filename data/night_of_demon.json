@@ -143,11 +143,17 @@
             "hz": 240
         },
         {
-          "user": "Subperfect",
-          "link": "https://youtu.be/f0obgy3vDI4?feature=shared",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
-  }
+            "user": "Subperfect",
+            "link": "https://youtu.be/f0obgy3vDI4?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Billyiscool",
+            "link": "https://youtu.be/m3FwEMBGYx0?si=uIouuddCOjrn1c2g",
+            "percent": 100,
+            "hz": 240
+        }
       ]
 }
