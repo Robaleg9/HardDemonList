@@ -7,5 +7,36 @@
     "verification": "https://www.youtube.com/watch?v=QxNX_HaKt8Y",
     "percentToQualify": 100,
     "password": "562314",
-    "records" : []
+    "records" : [
+        {
+            "user": "JoacoPe",
+            "link": "https://youtu.be/oQ5CuADutEM?si=VycPZLIWwbgpxLj3",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/2OyriGbENNw?si=C1jtLrztwGowhDR2",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "lllSafeSpacelll",
+            "link": "https://www.youtube.com/watch?v=z0u1ZcvOiLM&t=7m58s",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/2UjnLoFijyE?si=RAuZn5rhWEwbkNCb",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "deadbush",
+            "link": "https://youtu.be/U55a0XEoISw",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
 }
