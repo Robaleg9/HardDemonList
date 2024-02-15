@@ -349,6 +349,12 @@
             "link": "https://www.youtube.com/watch?v=vWgIXNfoiiA&ab_channel=Avtra",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "deadbush",
+            "link": "https://youtu.be/IDhsYatnAdU",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
