@@ -295,6 +295,12 @@
             "link": "https://www.youtube.com/watch?v=Swgll2rx9-8&ab_channel=Avtra",
             "percent": 100,
             "hz": 300
-        }
+        },
+        {
+          "user": "guitarhero2189",
+          "link": "https://www.twitch.tv/videos/2063271788?filter=highlights&sort=time",
+          "percent": 100,
+          "hz": 240
+      }
       ]
 }
