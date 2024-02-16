@@ -435,6 +435,12 @@
             "link": "https://www.youtube.com/watch?v=6czeLMPqCh0",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Bobbyp02",
+            "link": "https://youtu.be/IgZLMRrS9bE",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
