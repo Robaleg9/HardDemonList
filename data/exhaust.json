@@ -116,6 +116,12 @@
             "link": "https://www.youtube.com/watch?v=3AgzJfkiXh4&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ItsLejoGD",
+            "link": "https://youtu.be/TFf1d-oMtoo",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
