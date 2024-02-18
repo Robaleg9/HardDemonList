@@ -1,6 +1,5 @@
 [
     "spacial_rift",
-    "no_concept",
     "silence",
     "azure_paralyzer",
     "tsuki",
@@ -234,5 +233,6 @@
     "pinball_panic",
     "refulgent",
     "mirror_tempest",
-    "technicolor"
+    "technicolor",
+    "no_concept"
 ]
