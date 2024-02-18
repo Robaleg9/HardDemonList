@@ -247,6 +247,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Juako",
+            "link": "https://www.youtube.com/watch?v=t1YlEL8cYV8",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
