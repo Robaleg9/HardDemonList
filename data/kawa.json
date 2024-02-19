@@ -55,6 +55,12 @@
             "link": "https://youtu.be/CajbPjDBB2o",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ChaeTDC",
+            "link": "https://www.youtube.com/watch?v=iX-pGSEUgvM",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
