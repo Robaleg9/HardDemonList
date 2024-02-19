@@ -125,6 +125,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-    }
+    },
+        {
+            "user": "AcropolisBoy",
+            "link": "https://youtu.be/xqepKPc-3mE",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
