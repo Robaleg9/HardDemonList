@@ -6,5 +6,48 @@
     "verifier": "KittyzX",
     "verification": "https://www.youtube.com/watch?v=w-dtxK56kKQ",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/1rdK0hDKL-c?si=2L2ZXleWxUU8Tw10",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://www.youtube.com/watch?v=_jvgpfKeees",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "nTimaw",
+            "link": "https://youtu.be/YIn1CIeYmcM?si=l3TyBSkpsuBWKHJx&t=166",
+            "percent": 100,
+            "hz": 321
+        },
+        {
+            "user": "Frogs65",
+            "link": "https://www.youtube.com/watch?v=eqbogN-1KdE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Leven",
+            "link": "https://youtu.be/LKXT6rBF1b0",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Leckylecks",
+            "link": "https://youtu.be/Wg_62kr8cRE?si=fJzVM9L92Oym4squ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/igBgmUtI0F8?si=od0nC-e51qvxtUIM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
