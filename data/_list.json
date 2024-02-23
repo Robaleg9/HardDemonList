@@ -7,7 +7,6 @@
     "scarlet_pulse",
     "artemisia",
     "distorzona",
-    "terminate_mold",
     "milkshake_draft", 
     "serpent",
     "advance3",
@@ -26,7 +25,6 @@
     "time_decay",
     "sonic_chamber",
     "castle_dedede",
-    "standoff",
     "beast_mayhem_ii",
     "impetus",
     "action_lyal",
@@ -236,5 +234,7 @@
     "refulgent",
     "mirror_tempest",
     "technicolor",
-    "no_concept"
+    "no_concept",
+    "standoff",
+    "terminate_mold"   
 ]
