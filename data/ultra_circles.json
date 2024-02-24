@@ -177,6 +177,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-        }
+        },
+        {
+            "user": "Joaquin",
+            "link": "https://youtu.be/S9H-gh5ucWw",
+            "percent": 100,
+            "hz": 240
+    }
     ]
 }

@@ -226,6 +226,12 @@
           "link": "https://www.youtube.com/watch?v=IsSbf448iVE",
           "percent": 100,
           "hz": 240
-        }
+        },
+        {
+          "user": "Joaquin",
+          "link": "https://youtu.be/SCaB8DsX0qw",
+          "percent": 100,
+          "hz": 240
+  }
       ] 
 }
