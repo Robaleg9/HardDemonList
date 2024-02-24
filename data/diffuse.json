@@ -919,6 +919,12 @@
             "link": "https://www.youtube.com/watch?v=QRUhYti_FYA",
             "percent": 100,
             "hz": 999
+        },
+        {
+            "user": "AcropolisBoy",
+            "link": "https://youtu.be/c63I6CFwb9A",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
