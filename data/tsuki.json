@@ -477,6 +477,12 @@
         "link": "https://www.youtube.com/watch?v=DEmFOW7h-SE",
         "percent": 100,
         "hz": 480
-    }
+    },
+        {
+            "user": "cloudzu",
+            "link": "https://youtu.be/mqkurkFNC2o?si=8YLU90oJKmH-kpV5",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
