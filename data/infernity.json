@@ -374,6 +374,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "prproj",
+            "link": "https://youtu.be/xP5ETcRI6a8?si=1JgTl06cRuK1kM6q&t=846",
+            "percent": 100,
+            "hz": 144
         }
       ]
 }
