@@ -501,6 +501,12 @@
             "link": "https://www.youtube.com/watch?v=dCYvGltaafw",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "prproj",
+            "link": "https://youtu.be/xP5ETcRI6a8?si=FHBaIGVFeBzcXEpR&t=1498",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
