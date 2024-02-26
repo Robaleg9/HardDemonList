@@ -192,6 +192,12 @@
             "link": "https://www.youtube.com/watch?v=4l5jMOqqIKY&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 240
-         }
+         },
+        {
+            "user": "prproj",
+            "link": "https://youtu.be/8eUR5QJm80w?si=ytoSIWHmH07coGNB",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
