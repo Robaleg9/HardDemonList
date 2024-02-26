@@ -344,6 +344,12 @@
           "link": "https://www.youtube.com/watch?v=-Zloz5N4IM0&t=41s",
           "percent": 100,
           "hz": 244
-  }
+  },
+        {
+            "user": "GiruX",
+            "link": "https://youtu.be/quEbtBuXw2I?si=Nu3uCyecMH3KGGo8",
+            "percent": 100,
+            "hz": 160
+        }
     ]
 }
