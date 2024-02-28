@@ -223,6 +223,13 @@
             "link": "https://www.youtube.com/watch?v=dHbg7eqvjCI",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "SweetDreams",
+            "link": "https://youtu.be/OwXhehY8uxM?si=fZRJSvKDGqAfLRVg",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
