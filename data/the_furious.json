@@ -968,6 +968,12 @@
             "link": "https://www.youtube.com/watch?v=ajYxL-2fTQY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Arkae",
+            "link": "https://youtu.be/AIE_tJZPWb0",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
