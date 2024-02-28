@@ -207,6 +207,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-    }
+    },
+        {
+            "user": "Lugesbro",
+            "link": "https://www.youtube.com/watch?v=7Fq2Y5hBoww&list=PLw4IB7FhMg7EOk4NSQb8J5GeZTXg2DGRz&index=8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
