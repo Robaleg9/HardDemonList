@@ -694,6 +694,12 @@
           "link": "https://www.youtube.com/watch?v=sJEo_LBi730&ab_channel=Galaxy4567",
           "percent": 100,
           "hz": 144
-      }
+      },
+        {
+            "user": "Arkae",
+            "link": "https://www.youtube.com/watch?v=TK9Zmccv6eo&t=367s",
+            "percent": 100,
+            "hz": 144
+        }
    ]
 }
