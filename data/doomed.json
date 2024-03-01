@@ -235,6 +235,12 @@
         "link": "https://www.youtube.com/watch?v=ldpoGjdD3MQ",
         "percent": 100,
         "hz": 144
-}
+},
+        {
+            "user": "AstralNova",
+            "link": "https://youtu.be/5Y7YlUCeF-Y",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
