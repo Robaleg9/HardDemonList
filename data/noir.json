@@ -15,10 +15,16 @@
             "hz": 240
         },
         {
-        "user": "Shroomy!!!",
-        "link": "https://youtu.be/7mxKTlKnSJ4?si=2Cv1DQQrurrydLtw",
-        "percent": 100,
-        "hz": 240
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/7mxKTlKnSJ4?si=2Cv1DQQrurrydLtw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "AcropolisBoy",
+            "link": "https://youtu.be/1sLlmMPWMCo",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
