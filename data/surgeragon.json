@@ -138,6 +138,12 @@
           "percent": 100,
           "hz": 144,
           "mobile": true
-  }
+        },
+        {
+            "user": "1X1x1sx1x",
+            "link": "https://youtu.be/p1xckg7tNAY",
+            "percent": 100,
+            "hz": 120
+        }
       ]
 }
