@@ -224,11 +224,17 @@
             "hz": 144
 },
 {
-    "user": "Subperfect",
-    "link": "https://youtu.be/dmBQIQyW2IY?feature=shared",
-    "percent": 100,
-    "hz": 60,
-    "mobile": true
+        "user": "Subperfect",
+        "link": "https://youtu.be/dmBQIQyW2IY?feature=shared",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
+},
+{
+        "user": "Polyqueseraine",
+        "link": "https://www.youtube.com/watch?v=ldpoGjdD3MQ",
+        "percent": 100,
+        "hz": 144
 }
     ]
 }
