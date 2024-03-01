@@ -213,6 +213,13 @@
             "link": "https://www.youtube.com/watch?v=7Fq2Y5hBoww&list=PLw4IB7FhMg7EOk4NSQb8J5GeZTXg2DGRz&index=8",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "<@1185963813007274094>",
+            "link": "https://youtu.be/ABPc_F-ahjo?si=hjF2CeEw0NzkKZNT",
+            "percent": 100,
+            "hz": 240,
+            "mobile": true
         }
     ]
 }
