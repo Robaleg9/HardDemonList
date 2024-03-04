@@ -265,6 +265,13 @@
             "link": "https://youtu.be/idoPLawuQ08",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Jydyx",
+            "link": "https://youtu.be/5UZpImAy8gc?si=5rgTBxH5VRRxDpQI",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
