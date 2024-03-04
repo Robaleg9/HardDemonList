@@ -301,6 +301,12 @@
           "link": "https://www.twitch.tv/videos/2063271788?filter=highlights&sort=time",
           "percent": 100,
           "hz": 240
-      }
+      },
+        {
+            "user": "insosil",
+            "link": "https://youtu.be/YubTtRyzyMQ?si=qTCOn9YfeN_nITG2&t=163",
+            "percent": 100,
+            "hz": 280
+        }
       ]
 }
