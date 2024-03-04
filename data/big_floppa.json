@@ -397,6 +397,12 @@
             "link": "https://www.youtube.com/watch?v=727YBYONXJs",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "robl",
+            "link": "https://youtu.be/KTMoYr7Twmk?si=FjsX4SambpiWScbP",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
