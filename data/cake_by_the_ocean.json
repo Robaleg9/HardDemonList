@@ -244,6 +244,12 @@
             "link": "https://www.youtube.com/watch?v=iELlD-viOMQ",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "thelemonbreadd",
+            "link": "https://www.youtube.com/watch?v=zu0a09eVIpA",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
