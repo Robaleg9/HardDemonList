@@ -227,6 +227,12 @@
 		"link": "https://www.youtube.com/watch?v=u3XQ7AG9LBk",
 		"percent": 100,
 		"hz": 120
-    }
+    },
+        {
+            "user": "dindaxd",
+            "link": "https://youtu.be/sBk7yABk6Wo?si=UIarRuxPt2Bx7ht2",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
