@@ -98,6 +98,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
-  }
+        },
+        {
+            "user": "Frogs65",
+            "link": "https://youtu.be/i_Bl1sfpf7I",
+            "percent": 100,
+            "hz": 60
+        }
       ]
 }
