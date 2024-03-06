@@ -250,6 +250,12 @@
             "link": "https://www.youtube.com/watch?v=zu0a09eVIpA",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "cloudzu",
+            "link": "https://youtu.be/N49_ubV9reI?si=PVuXZsC-aMaYZi9E",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
