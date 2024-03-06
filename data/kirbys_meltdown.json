@@ -9,10 +9,16 @@
     "password": "Free to Copy",
     "records" : [
         {
-        "user": "EvanDaBest",
-        "link": "https://youtu.be/gfCdpXythZ4",
-        "percent": 100,
-        "hz": 165
+            "user": "EvanDaBest",
+            "link": "https://youtu.be/gfCdpXythZ4",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/sqxffP-cKzg?si=4JRw2t_wVq473OlO",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
