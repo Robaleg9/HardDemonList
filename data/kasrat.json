@@ -7,5 +7,30 @@
     "verification": "https://www.youtube.com/watch?v=E-9LYueiW1Y",
     "percentToQualify": 100,
     "password": "735000",
-    "records" : []
+    "records" : [
+        {
+            "user": "JoacoPe",
+            "link": "https://youtu.be/EGZjTv2wINo",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/-NwhEloBMy4?si=xt_Wp9iyVpYKFCEW",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Leckylecks",
+            "link": "https://youtu.be/k2ULDRbfVIA?si=Oge2bLHCXVVLV6B1",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://www.youtube.com/watch?v=B6h0-n9vqLU",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
