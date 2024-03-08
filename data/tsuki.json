@@ -483,6 +483,13 @@
             "link": "https://youtu.be/mqkurkFNC2o?si=8YLU90oJKmH-kpV5",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "PetePixel",
+            "link": "https://www.youtube.com/watch?v=wujIWuxKgbE",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         }
     ]
 }
