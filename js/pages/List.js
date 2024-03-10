@@ -116,6 +116,9 @@ export default {
                         Clicks or Taps are preferred, however, they are not necessary for a record to be accepted
                     </p>
                     <p>
+                   The recording must include the level from 0% - 100% with no parts missing
+                </p>
+                    <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, unless you're using cheat indicator, have clicks or the completion is on the first attempt. Everyplay records are exempt from this
                     </p>
                     <p>
