@@ -646,6 +646,12 @@
             "link": "https://youtu.be/vniKEBXjGFI",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "millenium",
+            "link": "https://www.youtube.com/watch?v=ksqCxzgYu-k",
+            "percent": 100,
+            "hz": 360
+    }
       ]
 }

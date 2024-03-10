@@ -147,6 +147,13 @@
             "link": "https://youtu.be/SByUP9gGiOA",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+            "user": "Idkwhattobeeee",
+            "link": "https://youtu.be/MdNEUNm9NmE?si=j5cOnzjzjwqO3N7o",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
+    }
     ]
 }

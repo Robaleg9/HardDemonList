@@ -179,6 +179,18 @@
         "link": "https://www.youtube.com/watch?v=dUIcTY8AZJ0&ab_channel=ox1y1gen",
         "percent": 100,
         "hz": 60
-        }
+        },
+        {
+            "user": "insosil",
+            "link": "https://youtu.be/aoiTgK9k_ww?si=g6bseTG2W3zQNzlE",
+            "percent": 100,
+            "hz": 240
+    },
+    {
+        "user": "ItsLejoGD",
+        "link": "https://www.youtube.com/watch?v=JjihrLgTXNI",
+        "percent": 100,
+        "hz": 60
+}
       ]
 }
