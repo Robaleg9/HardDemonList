@@ -465,6 +465,12 @@
             "link": "https://www.twitch.tv/videos/2074456350?filter=highlights&sort=time",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "maskangel1000",
+            "link": "https://www.youtube.com/watch?v=-LL8vysdOfA",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
