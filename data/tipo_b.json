@@ -129,6 +129,12 @@
           "link": "https://www.youtube.com/watch?v=KsQNfkDdbls&t=226s",
           "percent": 100,
           "hz": 120
-  }
+        },
+        {
+            "user": "Flukesuki",
+            "link": "https://www.youtube.com/watch?v=HGcrGnLHw-E",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
