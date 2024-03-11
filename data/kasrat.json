@@ -37,12 +37,18 @@
             "link": "https://youtu.be/hqh_DjQd8zU",
             "percent": 100,
             "hz": 150
-    },
-    {
-        "user": "deadbush",
-        "link": "https://youtu.be/jTQYSkPOOrs&t=183s",
-        "percent": 100,
-        "hz": 144
-}
+        },
+        {
+            "user": "deadbush",
+            "link": "https://youtu.be/jTQYSkPOOrs&t=183s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Leven",
+            "link": "https://youtu.be/-YxES-V0ejU",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
