@@ -272,6 +272,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Daxylitz",
+            "link": "https://youtu.be/_QoGTXWy5E0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
