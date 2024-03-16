@@ -3,10 +3,10 @@
         "name": "Top 5 Pack",
         "levels": [
             "spacial_rift",
-            "no_concept",
             "silence",
             "azure_paralyzer",
-            "tsuki"
+            "tsuki",
+            "stereophonic_system"
         ],
         "colour": "#000000" 
     },
@@ -19,13 +19,12 @@
             "distorzona",
             "elemental_stones",
             "fusion",
-            "gimmix",
             "hibernal",
             "i_love_lasagna",
             "k_a_n_g",
             "late",
             "milkshake_draft",
-            "no_concept",
+            "noem",
             "pulsar",
             "quantum_variations",
             "rainfall_iii",
