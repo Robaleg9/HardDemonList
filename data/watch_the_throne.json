@@ -242,6 +242,12 @@
             "link": "https://www.youtube.com/watch?v=MgDUbg_cx2I",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "HexagonGD",
+            "link": "https://www.youtube.com/watch?v=5eW4QycUPPg",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
