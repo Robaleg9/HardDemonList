@@ -105,6 +105,12 @@
             "link": "https://youtu.be/zU6-kCbLcxM",
             "percent": 100,
             "hz": 60
-    }
+    },
+        {
+            "user": "HexagonGD",
+            "link": "https://www.youtube.com/watch?v=KZn-QbhJmDU",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
