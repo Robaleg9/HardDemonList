@@ -189,6 +189,12 @@
             "link": "https://www.youtube.com/watch?v=j_uHMXmiGrw",
             "percent": 100,
             "hz": 240
-    }
+    },
+        {
+            "user": "HexagonGD",
+            "link": "https://www.youtube.com/watch?v=bHtW_fen0B4",
+            "percent": 100,
+            "hz": 120
+        }
     ]
 }
