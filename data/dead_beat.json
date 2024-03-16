@@ -152,6 +152,12 @@
           "link": "https://www.youtube.com/watch?v=waSfgIfus48&ab_channel=Galaxy4567",
           "percent": 100,
           "hz": 240
+        },
+        {
+            "user": "HexagonGD",
+            "link": "https://www.youtube.com/watch?v=ZWzcM1gELPY",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
