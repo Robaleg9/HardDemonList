@@ -93,6 +93,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "HexagonGD",
+            "link": "https://www.youtube.com/watch?v=WEuJuWVY7gc",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
