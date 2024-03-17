@@ -181,7 +181,7 @@
         "hz": 60
         },
         {
-            "user": "insosil",
+          "user": "insosil",
             "link": "https://youtu.be/aoiTgK9k_ww?si=g6bseTG2W3zQNzlE",
             "percent": 100,
             "hz": 240
@@ -191,6 +191,12 @@
         "link": "https://www.youtube.com/watch?v=JjihrLgTXNI",
         "percent": 100,
         "hz": 60
-}
+    },
+    {
+        "user": "maskangel000",
+        "link": "https://youtu.be/OOspVESHWqA",
+        "percent": 100,
+        "hz": 240
+    }
       ]
 }
