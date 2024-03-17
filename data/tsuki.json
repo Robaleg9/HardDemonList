@@ -502,6 +502,18 @@
             "link": "https://www.twitch.tv/videos/2087939717?filter=highlights&sort=time",
             "percent": 100,
             "hz": 165
-        }
+        },
+        {
+            "user": "maskangel1000",
+            "link": "https://youtu.be/zFEsGgB4Ab8",
+            "percent": 100,
+            "hz": 240
+    },
+    {
+        "user": "Mosu",
+        "link": "https://youtu.be/sGAIRYjMtPE",
+        "percent": 100,
+        "hz": 480
+}
     ]
 }
