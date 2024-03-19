@@ -268,6 +268,12 @@
             "link": "https://youtu.be/3p9vIg6L08w",
             "percent": 100,
             "hz": 240
-    }
+        },
+        {
+            "user": "Adhafera",
+            "link": "https://www.youtube.com/watch?v=dbAIb-K8dBk&ab_channel=Adhafera",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
