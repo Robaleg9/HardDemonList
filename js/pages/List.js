@@ -104,7 +104,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                      <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Achieved the record without using hacks (Physics bypass is not allowed).
                     </p>
                     <p>
                         Switching FPS in the middle of the completion will invalidate your submission (even if it is to avoid a bug)
@@ -119,10 +119,10 @@ export default {
                    The recording must include the level from 0% - 100% with no parts missing
                 </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless you're using cheat indicator, have clicks or the completion is on the first attempt. Everyplay records are exempt from this
+                        The recording must have a previous attempt and entire death animation shown before the completion, regardless of whether or not you're using cheat indicator or have clicks. Everyplay records and first attempt completions are exempt from this, though the latter will require the level menu to be visible.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        The recording must also show the entire endscreen animation, or the completion will be invalidated.
                     </p>
                     <p>
                         Do not use secret routes or bug routes
