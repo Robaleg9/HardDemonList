@@ -104,19 +104,19 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                      <p>
-                        Achieved the record without using hacks (Physics bypass is not allowed).
+                        Achieved the record without using hacks (physics bypass is not allowed).
                     </p>
                     <p>
-                        Switching FPS in the middle of the completion will invalidate your submission (even if it is to avoid a bug)
+                        Switching FPS in the middle of the completion will invalidate your submission (even if it is to avoid a bug).
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
                     </p>
                     <p>
-                        Clicks or Taps are preferred, however, they are not necessary for a record to be accepted
+                        Clicks or Taps are preferred, however, they are not necessary for a record to be accepted.
                     </p>
                     <p>
-                   The recording must include the level from 0% - 100% with no parts missing
+                   The recording must include the level from 0% - 100% with no parts missing.
                 </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, regardless of whether or not you're using cheat indicator or have clicks. Everyplay records and first attempt completions are exempt from this, though the latter will require the level menu to be visible.
@@ -125,16 +125,16 @@ export default {
                         The recording must also show the entire endscreen animation, or the completion will be invalidated.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Do not use secret routes or bug routes.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Do not use easy modes, only a record of the unmodified level qualifies.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level.
                     </p>
                      <p>
-                       Privating a video will result in the immediate removal of the associated record
+                       Privating a video will result in the immediate removal of the associated record.
                     </p>
                 </div>
             </div>
