@@ -31,6 +31,18 @@
             "link": "https://youtu.be/dpNp-tsKTxM?si=xPshY1AdJ8Dzq1ua",
             "percent": 100,
             "hz": 321
-        }
+        },
+        {
+            "user": "whit",
+            "link": "https://www.youtube.com/watch?v=JhkyZGzyHTg",
+            "percent": 100,
+            "hz": 360
+    },
+    {
+        "user": "Megu",
+        "link": "https://youtu.be/m9QGmqgF0Qg",
+        "percent": 100,
+        "hz": 360
+}
     ]
 }

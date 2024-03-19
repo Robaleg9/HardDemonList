@@ -664,6 +664,12 @@
             "link": "https://www.twitch.tv/videos/2092527601",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Billyiscool",
+            "link": "https://youtu.be/yXwGk1b0Mx0",
+            "percent": 100,
+            "hz": 240
+    }
       ]
 }

@@ -90,6 +90,18 @@
             "link": "https://youtu.be/hhLk0S2eHW4?si=UCWfDnrALQtO8BXC",
             "percent": 100,
             "hz": 120
-        }
+        },
+        {
+            "user": "NewDark",
+            "link": "https://youtu.be/DKJjqpeVRgY?si=CBeq6HNWXGA6tUbF",
+            "percent": 100,
+            "hz": 144
+    },
+    {
+        "user": "Joaquin",
+        "link": "https://youtu.be/FwQHeCBv5kY",
+        "percent": 100,
+        "hz": 240
+}
     ]
 }

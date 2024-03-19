@@ -262,6 +262,12 @@
             "link": "https://www.twitch.tv/videos/2060488994?filter=highlights&sort=time",
             "percent": 100,
             "hz": 165
-        }
+        },
+        {
+            "user": "Joaquin",
+            "link": "https://youtu.be/3p9vIg6L08w",
+            "percent": 100,
+            "hz": 240
+    }
     ]
 }
