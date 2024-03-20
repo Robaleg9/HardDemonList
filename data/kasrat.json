@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=4m6CJWH-kfE",
             "percent": 100,
             "hz": 120
-        }
+        },
+        {
+            "user": "Azaelf",
+            "link": "https://youtu.be/mIubINr0Mek",
+            "percent": 100,
+            "hz": 240
+    }
     ]
 }

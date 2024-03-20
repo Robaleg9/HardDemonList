@@ -148,7 +148,13 @@
             "link": "https://www.youtube.com/watch?v=RRVk-nNfUA8&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 240
-        }
+        },
+        {
+            "user": "Azaelf",
+            "link": "https://youtu.be/mIubINr0Mek",
+            "percent": 100,
+            "hz": 240
+    }
     ]
 }
       
