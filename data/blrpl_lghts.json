@@ -441,6 +441,12 @@
           "link": "https://www.twitch.tv/videos/2075732422?filter=highlights&sort=time",
           "percent": 100,
           "hz": 165
-      }
+      },
+        {
+            "user": "gr8ness",
+            "link": "https://youtu.be/a0oFxV2bj7c?si=XDLAA9dta9Q9eeq1",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
