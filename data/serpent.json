@@ -161,6 +161,12 @@
             "percent": 100,
             "hz": 144,
             "mobile": true
+        },
+        {
+            "user": "Flukesuki",
+            "link": "https://www.youtube.com/watch?v=ikSmao71V9Y",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
