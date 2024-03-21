@@ -21,6 +21,7 @@
             "fusion",
             "hibernal",
             "i_love_lasagna",
+            "jajagarasu",
             "k_a_n_g",
             "late",
             "milkshake_draft",
@@ -89,8 +90,7 @@
             "elemental_melons",
             "danksgiving",
             "popcorn",
-            "cheeto",
-            "popsicle"
+            "cheeto"
         ],
         "colour": "#ffd700"
     },
@@ -112,15 +112,6 @@
             "impetus",
             "quantum_variations",
             "mechanical_torment"
-        ],
-        "colour": "#ffd700"
-    },
-    {
-        "name": "\"III\" Pack",
-        "levels": [
-            "rainfall_iii",
-            "toxin_lab_iii",
-            "acid_rush_iii"
         ],
         "colour": "#ffd700"
     },
@@ -148,12 +139,10 @@
     {
         "name": "Korea Pack",
         "levels": [
-            "no_concept",
             "azure_paralyzer",
             "dualviper",
             "i_cant_fix_you",
-            "necrofantasia",
-            "crimson_chamber"
+            "necrofantasia"
         ],
         "colour": "#ffd700"
     },
@@ -174,19 +163,8 @@
             "watch_the_throne",
             "magnolia",
             "late",
-            "doomed",
             "exhaust",
             "we_care"
-        ],
-        "colour": "#ffd700"
-    },
-    {
-        "name": "Short and Sweet Pack",
-        "levels": [
-            "doomed",
-            "hibernal",
-            "brisban",
-            "gimmix"
         ],
         "colour": "#ffd700"
     },
@@ -206,7 +184,6 @@
         "levels": [
             "weirdmaggedon",
             "immortal_ichor",
-            "standoff",
             "wonder_cosm",
             "afterlocked",
             "massacre"
@@ -239,17 +216,7 @@
         "levels": [
             "splendid_mold",
             "shambolic",
-            "necrofantasia",
-            "psychosis"
-        ],
-        "colour": "#c0c0c0"
-    },
-    {
-        "name": "Armageddon Pack",
-        "levels": [
-            "weirdmaggedon",
-            "massacre",
-            "the_eschaton"
+            "necrofantasia"
         ],
         "colour": "#c0c0c0"
     },
@@ -270,8 +237,7 @@
         "levels": [
             "sonic_chamber",
             "pressure_chamber",
-            "adrenaline_chamber",
-            "crimson_chamber"
+            "adrenaline_chamber"
         ],
         "colour": "#c0c0c0"
     },
@@ -279,7 +245,6 @@
         "name": "Cookie List Pack",
         "levels": [
             "crackdown",
-            "standoff",
             "sky_temple",
             "afterlocked"
         ],
@@ -322,15 +287,7 @@
         ],
         "colour": "#c0c0c0"
     },
-    {
-        "name": "Hinds Pack",
-        "levels": [
-            "diffuse",
-            "nadji",
-            "psychosis"
-        ],
-        "colour": "#c0c0c0"
-    },
+
     {
         "name": "Impostor Pack",
         "levels": [
@@ -369,8 +326,7 @@
         "levels": [
             "screamroom",
             "crispy_reaction",
-            "night_of_demon",
-            "flirt_drive"
+            "night_of_demon"
         ],
         "colour": "#c0c0c0"
     },
@@ -388,7 +344,6 @@
     {
         "name": "Object Heavy Pack",
         "levels": [
-            "the_eschaton",
             "surgeragon",
             "droppy",
             "coreosious",
@@ -402,8 +357,7 @@
         "levels": [
             "cubic_force",
             "night_of_demon",
-            "c1u6",
-            "heat_haze"
+            "c1u6"
         ],
         "colour": "#c0c0c0"
     },
@@ -421,7 +375,6 @@
         "levels": [
             "sweet_dreams",
             "night_of_demon",
-            "crimson_chamber",
             "artillery",
             "total_oblivion",
             "sharp"
@@ -482,8 +435,7 @@
         "levels": [
             "artillery",
             "wonder_cosm",
-            "massacre",
-            "voidless"
+            "massacre"
         ],
         "colour": "#cd7f32"
     },
@@ -492,10 +444,7 @@
         "levels": [
             "hypertehno",
             "neurotoxin",
-            "crimson_flare",
-            "acid_rush_iii",
-            "crystal_splash",
-            "viridyans_dungeon"
+            "crimson_flare"
         ],
         "colour": "#cd7f32"
     },
@@ -504,8 +453,7 @@
         "levels": [
             "massacre",
             "araneo",
-            "theory_of_intercept",
-            "mem"
+            "flirt_drive"
         ],
         "colour": "#cd7f32"
     },
@@ -523,20 +471,9 @@
     {
         "name": "Popular Pack",
         "levels": [
-            "doomed",
             "diffuse",
             "the_furious",
-            "psychosis",
             "araneo"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
-        "name": "Replacement X Pack",
-        "levels": [
-            "speed_raxer",
-            "gimmix",
-            "xtravagant"
         ],
         "colour": "#cd7f32"
     },
@@ -546,15 +483,6 @@
             "k_a_n_g",
             "araneo",
             "trippy_trippy"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
-        "name": "Toxin Pack",
-        "levels": [
-            "toxin_lab_iii",
-            "neurotoxin",
-            "acid_rush_iii"
         ],
         "colour": "#cd7f32"
     },
@@ -619,15 +547,6 @@
             "araneo"
         ],
         "colour": "#a200ff"
-    },
-    {
-        "name": "Grey Pack",
-        "levels": [
-            "exhaust",
-            "mechanical_torment",
-            "eden_decision"
-        ],
-        "colour": "#808080"
     },
     {
         "name": "Black and White Pack",
