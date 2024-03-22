@@ -487,15 +487,6 @@
         "colour": "#cd7f32"
     },
     {
-        "name": "USA Pack",
-        "levels": [
-            "pursuit",
-            "torment",
-            "forrest_gamp"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
         "name": "Red Pack",
         "levels": [
             "scarlet_pulse",
