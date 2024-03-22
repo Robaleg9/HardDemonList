@@ -8,7 +8,7 @@
             "tsuki",
             "stereophonic_system"
         ],
-        "colour": "#000000" 
+        "colour": "#000000"
     },
     {
         "name": "HDL Alphabet",
@@ -36,7 +36,17 @@
             "watch_the_throne",
             "xes"
         ],
-        "colour": "#000000" 
+        "colour": "#000000"
+    },
+    {
+        "name": "Animal Pack",
+        "levels": [
+            "serpent",
+            "dualviper",
+            "ribbit",
+            "kasrat"
+        ],
+        "colour": "#ffd700"
     },
     {
         "name": "Bossfight Pack",
@@ -65,8 +75,7 @@
             "time_decay",
             "artemisia",
             "dark_tides",
-            "xes",
-            "acid_rush_iii"
+            "xes"
         ],
         "colour": "#ffd700"
     },
@@ -112,6 +121,17 @@
             "impetus",
             "quantum_variations",
             "mechanical_torment"
+        ],
+        "colour": "#ffd700"
+    },
+    {
+        "name": "Insane Dual Pack 2",
+        "levels": [
+            "big_floppa",
+            "backlines",
+            "elemental_melons",
+            "screamroom",
+            "valkyrie"
         ],
         "colour": "#ffd700"
     },
@@ -164,7 +184,19 @@
             "magnolia",
             "late",
             "exhaust",
-            "we_care"
+            "we_care",
+            "ripplez",
+            "scarred_hands",
+            "cake_by_the_ocean"
+        ],
+        "colour": "#ffd700"
+    },
+    {
+        "name": "Sentence Pack",
+        "levels": [
+            "watch_the_throne",
+            "i_love_lasagna",
+            "i_cant_fix_you"
         ],
         "colour": "#ffd700"
     },
@@ -195,7 +227,8 @@
         "levels": [
             "immortal_ichor",
             "toxin_lab_iii",
-            "in_limbo"
+            "in_limbo",
+            "ribbit"
         ],
         "colour": "#ffd700"
     },
@@ -287,7 +320,17 @@
         ],
         "colour": "#c0c0c0"
     },
-
+    {
+        "name": "Insane Dual Pack 1",
+        "levels": [
+            "devour",
+            "proxima",
+            "euphoria",
+            "effulgent",
+            "the_tempest"
+        ],
+        "colour": "#c0c0c0"
+    },
     {
         "name": "Impostor Pack",
         "levels": [
@@ -387,7 +430,8 @@
             "hash",
             "exhaust",
             "ablaze",
-            "e_v_a_c_u_a_t_i_o_n"
+            "e_v_a_c_u_a_t_i_o_n",
+            "warzone"
         ],
         "colour": "#c0c0c0"
     },
@@ -482,7 +526,8 @@
         "levels": [
             "k_a_n_g",
             "araneo",
-            "trippy_trippy"
+            "trippy_trippy",
+            "noir"
         ],
         "colour": "#cd7f32"
     },
@@ -550,4 +595,3 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
     }
 ]
-
