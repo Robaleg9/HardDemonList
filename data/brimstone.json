@@ -8,4 +8,41 @@
     "percentToQualify": 100,
     "password": "460540",
     "records": []
+    {
+        "user": "EvanDaBest",
+        "link": "https://youtu.be/T4MDiLswOxs?si=aA3RZz1fExlCYnsg",
+        "percent": 100,
+        "hz": 165
+    },
+    {
+        "user": "insosil",
+        "link": "https://youtu.be/YubTtRyzyMQ?si=_OJtLGV_6FFj1H3x",
+        "percent": 100,
+        "hz": 240
+    },
+    {
+        "user": "Fawxu",
+        "link": "https://youtu.be/oqIxj35TMbk?si=fVuYkPZ0lpCw8fNw",
+        "percent": 100,
+        "hz": 240
+    },
+    {
+        "user": "Abeginner",
+        "link": "https://youtu.be/4cxutwLPHY4?si=KE08e362FFjhTY_H",
+        "percent": 100,
+        "hz": 240
+    },
+    {
+        "user": "AdutzHD",
+        "link": "https://youtu.be/StZl0YiaBjk?si=ul8hoJ6eH04rFEWx",
+        "percent": 100,
+        "hz": 144,
+        "mobile": true
+    },
+    {
+        "user": "nTimaw",
+        "link": "https://youtu.be/N4-dy0IaUtQ",
+        "percent": 100,
+        "hz": 321
+    }
 }
