@@ -218,7 +218,8 @@
             "immortal_ichor",
             "wonder_cosm",
             "afterlocked",
-            "massacre"
+            "massacre",
+            "terror_factory"
         ],
         "colour": "#ffd700"
     },
@@ -517,7 +518,8 @@
         "levels": [
             "diffuse",
             "the_furious",
-            "araneo"
+            "araneo",
+            "toxin_lab_iii"
         ],
         "colour": "#cd7f32"
     },
