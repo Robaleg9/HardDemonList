@@ -411,7 +411,7 @@
             "link": "https://www.youtube.com/watch?v=Ovljuh1Fqaw",
             "percent": 100,
             "hz": 360
-    },
+        },
         {
             "user": "Bluebarracks",
             "link": "https://youtu.be/5WfD9zjQbVo",
@@ -423,12 +423,18 @@
             "link": "https://www.youtube.com/watch?v=9u0y-C-wt04",
             "percent": 100,
             "hz": 240
-    },
-    {
-        "user": "maskangel1000",
-        "link": "https://youtu.be/_XksccbtiSY",
-        "percent": 100,
-        "hz": 240
-}
+        },
+        {
+            "user": "maskangel1000",
+            "link": "https://youtu.be/_XksccbtiSY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Flukesuki",
+            "link": "https://www.youtube.com/watch?v=XAhU5hN77cc",
+            "percent": 100,
+            "hz": 240
+        }
     ]    
 }
