@@ -58,10 +58,10 @@
             "hz": 240
         },
         {
-        "user": "Shroomy!!!",
-        "link": "https://youtu.be/iQ0AkCVxzl8",
-        "percent": 100,
-        "hz": 240
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/iQ0AkCVxzl8",
+            "percent": 100,
+            "hz": 240
         },
         {
             "user": "nTimaw",
@@ -72,6 +72,12 @@
         {
             "user": "Leven",
             "link": "https://youtu.be/81MmB-Lx95Y",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "deadbush",
+            "link": "https://youtu.be/0f08aZgrwPQ",
             "percent": 100,
             "hz": 144
         }
