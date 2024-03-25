@@ -141,6 +141,13 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
+        },
+        {
+            "user": "Peregrine",
+            "link": "https://youtu.be/sG_vMSliWrY?si=k68tm-ya62WRVCeB",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
