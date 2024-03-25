@@ -8,5 +8,54 @@
     "percentToQualify": 100,
     "password": "Free to copy",
     "records": [
+        {
+        "user": "nTimaw",
+        "link": "https://youtu.be/3sEWvROcG8w?si=F_jsDX8CZzKXaOHU",
+        "percent": 100,
+        "hz": 321
+        },
+        {
+        "user": "JoacoPe",
+        "link": "https://youtu.be/NcB-BH0JZx0?si=fD0PcGTRgjkTUcle",
+        "percent": 100,
+        "hz": 120
+        },
+        {
+        "user": "Robaleg9",
+        "link": "https://youtu.be/4lz3J6d-PWI?si=SEyabFBO1C1ccqN8",
+        "percent": 100,
+        "hz": 240
+        },
+        {
+        "user": "Fawxu",
+        "link": "https://youtu.be/ggvxGjf14BM?si=olWC7HKdOtd0q6re",
+        "percent": 100,
+        "hz": 240
+        },
+        {
+        "user": "AdutzHD",
+        "link": "https://youtu.be/EFdgbso2g50?si=hgCOQ5pxMurtUI95",
+        "percent": 100,
+        "hz": 144,
+        "mobile": true
+        },
+        {
+        "user": "Leckylecks",
+        "link": "https://youtu.be/D8b51KCfCQE?si=7IhNWXdPzQZoz9Be",
+        "percent": 100,
+        "hz": 360
+        },
+        {
+        "user": "Leven",
+        "link": "https://youtu.be/IglNviS9smg",
+        "percent": 100,
+        "hz": 144
+        },
+        {
+        "user": "lllSafeSpacelll",
+        "link": "https://www.youtube.com/watch?v=486_N9zX64I&t=105s",
+        "percent": 100,
+        "hz": 120
+        }
     ]
 }
