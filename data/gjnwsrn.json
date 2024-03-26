@@ -56,6 +56,18 @@
         "link": "https://www.youtube.com/watch?v=486_N9zX64I&t=105s",
         "percent": 100,
         "hz": 120
+        },
+        {
+        "user": "Billyiscool",
+        "link": "https://youtu.be/CXGi7ic7iGY",
+        "percent": 100,
+        "hz": 240
+        },
+        {
+        "user": "HexagonGD",
+        "link": "https://www.youtube.com/watch?v=Q7V94DABsU0",
+        "percent": 100,
+        "hz": 120
         }
     ]
 }
