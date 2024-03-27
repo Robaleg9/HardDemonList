@@ -374,6 +374,13 @@
           "link": "https://www.twitch.tv/videos/2089828353",
           "percent": 100,
           "hz": 240
-      }
+      },
+        {
+            "user": "Peregrine",
+            "link": "https://youtu.be/d1W2bhivKXE?si=MCslZEZ16l2hpnv4",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        }
     ]
 }
