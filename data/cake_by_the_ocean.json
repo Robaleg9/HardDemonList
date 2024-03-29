@@ -274,6 +274,12 @@
             "link": "https://www.youtube.com/watch?v=dbAIb-K8dBk&ab_channel=Adhafera",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "AstralNova",
+            "link": "https://youtu.be/ezNsVL0-VBQ",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
