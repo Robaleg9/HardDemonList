@@ -483,6 +483,13 @@
             "link": "https://youtu.be/Ni3O96L5F3A",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Arturo plural",
+            "link": "https://youtu.be/PG5DECGOfms?si=NIxV_euqpRpq_qvm",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
