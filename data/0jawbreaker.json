@@ -7,5 +7,18 @@
     "verification": "https://www.youtube.com/watch?v=7lsLVVujIvg",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records" : []
+    "records" : [
+        {
+        "user": "Frogs65",
+        "link": "https://www.youtube.com/watch?v=RN0GiWfbQ8Y",
+        "percent": 100,
+        "hz": 60
+        },
+        {
+        "user": "Bluebarracks",
+        "link": "https://youtu.be/DhjkyX6o5tk?si=_IgLrK3Ssd61U_qV",
+        "percent": 100,
+        "hz": 240
+        }
+    ]
 }
