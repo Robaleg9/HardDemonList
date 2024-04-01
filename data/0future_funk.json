@@ -7,5 +7,66 @@
     "verification": "https://www.youtube.com/watch?v=yOEHYVoK4AI",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records" : []
+    "records" : [
+          {
+            "user": "EvanDaBest",
+            "link": "https://www.youtube.com/watch?v=CtpdMkKvB6U",
+            "percent": 100,
+            "hz": 165
+        },  
+        {
+            "user": "EvanDaBest",
+            "link": "https://www.youtube.com/watch?v=CtpdMkKvB6U",
+            "percent": 100,
+            "hz": 165
+        },
+          {
+            "user": "EvanDaBest",
+            "link": "https://www.youtube.com/watch?v=CtpdMkKvB6U",
+            "percent": 100,
+            "hz": 165
+        },
+          {
+            "user": "EvanDaBest",
+            "link": "https://www.youtube.com/watch?v=CtpdMkKvB6U",
+            "percent": 100,
+            "hz": 165
+        },
+          {
+            "user": "EvanDaBest",
+            "link": "https://www.youtube.com/watch?v=CtpdMkKvB6U",
+            "percent": 100,
+            "hz": 165
+        },
+          {
+            "user": "EvanDaBest",
+            "link": "https://www.youtube.com/watch?v=CtpdMkKvB6U",
+            "percent": 100,
+            "hz": 165
+        },
+          {
+            "user": "EvanDaBest",
+            "link": "https://www.youtube.com/watch?v=CtpdMkKvB6U",
+            "percent": 100,
+            "hz": 165
+        },
+          {
+            "user": "EvanDaBest",
+            "link": "https://www.youtube.com/watch?v=CtpdMkKvB6U",
+            "percent": 100,
+            "hz": 165
+        },
+          {
+            "user": "EvanDaBest",
+            "link": "https://www.youtube.com/watch?v=CtpdMkKvB6U",
+            "percent": 100,
+            "hz": 165
+        },  
+        {
+            "user": "EvanDaBest",
+            "link": "https://www.youtube.com/watch?v=CtpdMkKvB6U",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
 }
