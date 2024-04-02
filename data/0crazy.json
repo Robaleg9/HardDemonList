@@ -32,6 +32,13 @@
         "link": "https://youtu.be/L7iNHxkmiPA",
         "percent": 100,
         "hz": 300
+        },
+        {
+            "user": "AdutzHD",
+            "link": "https://youtu.be/tYK0nZdEK5E?si=-b-7M_s1HD5I8sT6",
+            "percent": 100,
+            "hz": 144,
+            "mobile": true
         }
     ]
 }
