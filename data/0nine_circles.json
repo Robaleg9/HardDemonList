@@ -20,6 +20,12 @@
         "percent": 100,
         "hz": 144,
         "mobile": true
+        },
+        {
+        "user": "robl",
+        "link": "https://youtu.be/cWxrArBSwhs?si=HwYL19A_gw2F8DU5",
+        "percent": 100,
+        "hz": 360
         }
     ]
 }
