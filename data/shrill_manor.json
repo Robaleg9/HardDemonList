@@ -9,10 +9,28 @@
     "password": "No Copy",
     "records" : [
         {
-            "user": "Fawxu",
-            "link": "https://youtu.be/xdswCpKskFE?si=t0nGh2lesPVW3IqL",
-            "percent": 100,
-            "hz": 240
+         "user": "Fawxu",
+         "link": "https://youtu.be/xdswCpKskFE?si=t0nGh2lesPVW3IqL",
+         "percent": 100,
+         "hz": 240
+        },
+        {
+        "user": "Stallia",
+        "link": "https://www.youtube.com/watch?v=GVQhJldXerY",
+        "percent": 100,
+        "hz": 240
+        },
+        {
+        "user": "JoacoPe",
+        "link": "https://youtu.be/IIKvge9eaPg?si=Yv-sT5gTsX_OqNgo",
+        "percent": 100,
+        "hz": 120
+        },
+        {
+        "user": "Aph",
+        "link": "https://youtu.be/-_g5DYKT7go?si=IWWtDF-VCoLBF0Ka",
+        "percent": 100,
+        "hz": 360
         }
     ]
 }
