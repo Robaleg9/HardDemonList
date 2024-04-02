@@ -189,12 +189,18 @@
             "link": "https://www.youtube.com/watch?v=j_uHMXmiGrw",
             "percent": 100,
             "hz": 240
-    },
+        },
         {
             "user": "HexagonGD",
             "link": "https://www.youtube.com/watch?v=bHtW_fen0B4",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Lanmi",
+            "link": "https://youtu.be/ecCCeZYByQc?si=8IO7me790vhV3LfD",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
