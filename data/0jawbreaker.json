@@ -38,6 +38,13 @@
         "link": "https://youtu.be/q3OqiVWxhFw?si=gQAdukUD-uw09uYD",
         "percent": 100,
         "hz": 360
+        },
+        {
+        "user": "Arturo plural",
+        "link": "https://youtu.be/ChB5ynemnXc?si=3Q5Sb9RJKp-wkuAb",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
         }
     ]
 }
