@@ -26,6 +26,12 @@
         "percent": 100,
         "hz": 60,
         "mobile": true
+        },
+        {
+        "user": "nTimaw",
+        "link": "https://youtu.be/L7iNHxkmiPA",
+        "percent": 100,
+        "hz": 300
         }
     ]
 }
