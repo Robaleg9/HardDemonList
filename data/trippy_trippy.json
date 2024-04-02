@@ -237,6 +237,13 @@
             "link": "https://youtu.be/0XKeuVqh7nc?si=hUNEdm8K6rICgBAz",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Zenec",
+            "link": "https://www.youtube.com/watch?v=kkOa5mjRgGM&t=1s",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
