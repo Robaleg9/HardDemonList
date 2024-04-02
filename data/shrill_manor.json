@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=iXCDE_V5R2A",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records" : []
+    "records" : [
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/xdswCpKskFE?si=t0nGh2lesPVW3IqL",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
