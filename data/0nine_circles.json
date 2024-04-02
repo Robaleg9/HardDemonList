@@ -26,6 +26,13 @@
         "link": "https://youtu.be/cWxrArBSwhs?si=HwYL19A_gw2F8DU5",
         "percent": 100,
         "hz": 360
+        },
+        {
+        "user": "insosil",
+        "link": "https://youtu.be/9byBPKopuH8?si=W4jmspPXtUCw-SHy",
+        "percent": 100,
+        "hz": 60,
+        "mobile": true
         }
     ]
 }
