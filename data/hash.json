@@ -276,6 +276,12 @@
           "link": "https://www.twitch.tv/videos/2082570723?filter=highlights&sort=time",
           "percent": 100,
           "hz": 165
-      }
+        },
+        {
+        "user": "Stallia",
+        "link": "https://www.youtube.com/watch?v=G_2FAR54pFM",
+        "percent": 100,
+        "hz": 240
+        }
       ]
 }
