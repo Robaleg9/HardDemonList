@@ -111,6 +111,13 @@
             "link": "https://youtu.be/_n9uoxr6OKA?si=NO98RM-lS3kIL3NK",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "rodrigtz26",
+            "link": "https://youtu.be/j8lSukfgHyk?si=Ew2VatQWOKIUu-1C",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
