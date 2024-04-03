@@ -27,10 +27,16 @@
             "hz": 165
         },
         {
-        "user": "JoacoPe",
-        "link": "https://youtu.be/UjH5BK1j9lE?si=_m1zeWyDJVS1nhMt",
-        "percent": 100,
-        "hz": 120
+            "user": "JoacoPe",
+            "link": "https://youtu.be/UjH5BK1j9lE?si=_m1zeWyDJVS1nhMt",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/Vz84YnTSBwo?si=tRyoqmZNnTmVCpEO",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
