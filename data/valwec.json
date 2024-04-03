@@ -193,11 +193,18 @@
             "percent": 100,
             "hz": 240
          },
-        {
+         {
             "user": "prproj",
             "link": "https://youtu.be/8eUR5QJm80w?si=ytoSIWHmH07coGNB",
             "percent": 100,
             "hz": 144
-        }
+         },
+         {
+            "user": "XxVETIxX",
+            "link": "https://youtu.be/prNJxMMbHJA?si=FGKjfzGsSBuBNC4o",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+         }
     ]
 }
