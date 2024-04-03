@@ -33,10 +33,16 @@
             "hz": 321
         },
         {
-        "user": "JoacoPe",
-        "link": "https://youtu.be/I-ddfBxE2Ys?si=OSuYR5FvL9FpuLlp",
-        "percent": 100,
-        "hz": 120
+            "user": "JoacoPe",
+            "link": "https://youtu.be/I-ddfBxE2Ys?si=OSuYR5FvL9FpuLlp",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Leckylecks",
+            "link": "https://youtu.be/mbOHxa2jtEQ?si=wqdPtKpjkhLvqZbu",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
