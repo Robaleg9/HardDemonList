@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/TPWAjjLkRP8?si=Z8BtJz7kpO9SuLlG",
     "percentToQualify": 100,
     "password": "159753",
-    "records" : []
+    "records" : [
+        {
+            "user": "Leckylecks",
+            "link": "https://youtu.be/0ft-h9IziKA?si=NCQjwbYVNpB8YY4T",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
