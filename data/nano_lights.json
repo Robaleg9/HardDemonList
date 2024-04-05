@@ -307,6 +307,13 @@
             "link": "https://youtu.be/YubTtRyzyMQ?si=qTCOn9YfeN_nITG2&t=163",
             "percent": 100,
             "hz": 280
+        },
+        {
+            "user": "Arturo plural",
+            "link": "https://youtu.be/awaxnPW4bFg?si=ii_a1uqMqPsTHtOS",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
       ]
 }
