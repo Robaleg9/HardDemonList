@@ -158,6 +158,12 @@
             "link": "https://www.youtube.com/watch?v=tqLJZvrhV5Q&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 144
-        }
+        },
+        {
+            "user": "insosil",
+            "link": "https://youtu.be/4vrmiUvO878?si=kl2NkX-yceDMOBc6",
+            "percent": 100,
+            "hz": 240
+    }
     ]
 }
