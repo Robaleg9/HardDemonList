@@ -186,9 +186,7 @@
             "late",
             "exhaust",
             "we_care",
-            "ripplez",
-            "scarred_hands",
-            "cake_by_the_ocean"
+            "ripplez"
         ],
         "colour": "#ffd700"
     },
@@ -220,7 +218,8 @@
             "wonder_cosm",
             "afterlocked",
             "massacre",
-            "terror_factory"
+            "terror_factory",
+            "cant_let_fly"
         ],
         "colour": "#ffd700"
     },
@@ -235,23 +234,13 @@
         "colour": "#ffd700"
     },
     {
-        "name": "XXL Pack",
-        "levels": [
-            "surgeragon",
-            "the_eschaton",
-            "cyber_dream",
-            "effulgent",
-            "neurotoxin",
-            "droppy"
-        ],
-        "colour": "#ffd700"
-    },
-    {
         "name": "Acid-Notation Song Pack",
         "levels": [
+            "breakneck",
             "splendid_mold",
             "shambolic",
-            "necrofantasia"
+            "necrofantasia",
+            "kasrat"
         ],
         "colour": "#c0c0c0"
     },
@@ -272,15 +261,6 @@
             "sonic_chamber",
             "pressure_chamber",
             "adrenaline_chamber"
-        ],
-        "colour": "#c0c0c0"
-    },
-    {
-        "name": "Cookie List Pack",
-        "levels": [
-            "crackdown",
-            "sky_temple",
-            "afterlocked"
         ],
         "colour": "#c0c0c0"
     },
@@ -452,7 +432,9 @@
             "screamroom",
             "elo2",
             "we_care",
-            "sharp"
+            "sharp",
+            "life",
+            "cant_let_fly"
         ],
         "colour": "#c0c0c0"
     },
@@ -467,11 +449,32 @@
         "colour": "#c0c0c0"
     },
     {
+        "name": "XXL Pack",
+        "levels": [
+            "surgeragon",
+            "cyber_dream",
+            "effulgent",
+            "neurotoxin",
+            "droppy",
+            "life"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
         "name": "Chaoz Impackt",
         "levels": [
             "elo2",
             "e_v_a_c_u_a_t_i_o_n",
             "speed_raxer"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
+        "name": "Cookie List Pack",
+        "levels": [
+            "crackdown",
+            "sky_temple",
+            "afterlocked"
         ],
         "colour": "#cd7f32"
     },
