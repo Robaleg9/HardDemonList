@@ -117,7 +117,7 @@ export default {
                     </p>
                     <p>
                    The recording must include the level from 0% - 100% with no parts missing.
-                </p>
+                    </p>
                     <p>
                         The recording must have a previous attempt and entire death animation shown before the completion, regardless of whether or not you're using cheat indicator or have clicks. Everyplay records and first attempt completions are exempt from this, though the latter will require the level menu to be visible.
                     </p>
@@ -135,6 +135,9 @@ export default {
                     </p>
                      <p>
                        Privating a video will result in the immediate removal of the associated record.
+                    </p>
+                    <p>
+                       Submissions for two player levels must include clear audible clicks, or your record will automatically be rejected.
                     </p>
                 </div>
             </div>
