@@ -729,6 +729,13 @@
             "link": "https://www.twitch.tv/videos/2110173599",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Zenec",
+            "link": "https://www.youtube.com/watch?v=M2UryFm7c1A",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
