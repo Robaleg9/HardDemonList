@@ -980,6 +980,13 @@
             "link": "https://youtu.be/D0ZPJtQ25Ls",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Zenec",
+            "link": "https://www.youtube.com/watch?v=a2K_H0mxkGk",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
