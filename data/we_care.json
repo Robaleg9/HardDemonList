@@ -260,6 +260,12 @@
             "link": "https://www.youtube.com/watch?v=bZwpe2PG2WY",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Bluebarracks",
+            "link": "https://youtu.be/f-n7Zu-kcT8",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }
