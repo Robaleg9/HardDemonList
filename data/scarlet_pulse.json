@@ -736,6 +736,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Adhafera",
+            "link": "https://youtu.be/vovP0I_Xtog",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
