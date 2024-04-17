@@ -222,6 +222,15 @@
         "colour": "#ffd700"
     },
     {
+        "name": "SEX Pack",
+        "levels": [
+            "serpent",
+            "evasion",
+            "xes"
+        ],
+        "colour": "#ffd700"
+    },
+    {
         "name": "SHOUTING PACK 3",
         "levels": [
             "blrpl_lghts",
