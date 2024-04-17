@@ -50,6 +50,19 @@
         "colour": "#ffd700"
     },
     {
+        "name": "Awful Pack",
+        "levels": [
+            "gjnwsrn",
+            "big_floppa",
+            "dead_beat",
+            "flow",
+            "total_oblivion",
+            "ultra_circles",
+            "afterlocked"
+        ],
+        "colour": "#ffd700"
+    },
+    {
         "name": "Bossfight Pack",
         "levels": [
             "beast_mayhem_ii",
@@ -191,6 +204,15 @@
         "colour": "#ffd700"
     },
     {
+        "name": "RyanAB Pack",
+        "levels": [
+            "switchblade",
+            "artillery",
+            "chaoz_twilight"
+        ],
+        "colour": "#ffd700"
+    },
+    {
         "name": "Sentence Pack",
         "levels": [
             "watch_the_throne",
@@ -319,7 +341,8 @@
             "action_lyal",
             "switchblade",
             "classical_rayoriens",
-            "apache"
+            "apache",
+            "proxima"
         ],
         "colour": "#c0c0c0"
     },
