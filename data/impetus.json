@@ -220,6 +220,18 @@
             "link": "https://www.youtube.com/watch?v=af9wopxaC6E",
             "percent": 100,
             "hz": 120
-        }
+        },
+        {
+            "user": "CherrimPlushie",
+            "link": "https://youtu.be/exLgItA4jTw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Billyiscool",
+            "link": "https://youtu.be/ajCKhcWN_DQ",
+            "percent": 100,
+            "hz": 240
+    }
     ]
 }
