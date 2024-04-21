@@ -94,6 +94,16 @@
         "colour": "#ffd700"
     },
     {
+        "name": "Difficulty Spike Pack",
+        "levels": [
+            "tsuki",
+            "pulsar",
+            "magnolia",
+            "flow"
+        ],
+        "colour": "#ffd700"
+    },
+    {
         "name": "Fast Timings Pack",
         "levels": [
             "distorzona",
@@ -133,8 +143,7 @@
         "levels": [
             "stereophonic_system",
             "impetus",
-            "quantum_variations",
-            "mechanical_torment"
+            "quantum_variations"
         ],
         "colour": "#ffd700"
     },
@@ -270,6 +279,7 @@
             "breakneck",
             "splendid_mold",
             "shambolic",
+            "kirbys_meltdown",
             "necrofantasia",
             "kasrat"
         ],
@@ -292,15 +302,6 @@
             "sonic_chamber",
             "pressure_chamber",
             "adrenaline_chamber"
-        ],
-        "colour": "#c0c0c0"
-    },
-    {
-        "name": "Difficulty Spike Pack",
-        "levels": [
-            "pulsar",
-            "magnolia",
-            "arnac_la_poste"
         ],
         "colour": "#c0c0c0"
     },
@@ -335,7 +336,6 @@
     {
         "name": "Insane Dual Pack 1",
         "levels": [
-            "devour",
             "proxima",
             "euphoria",
             "effulgent",
@@ -563,7 +563,6 @@
         "levels": [
             "k_a_n_g",
             "araneo",
-            "trippy_trippy",
             "noir",
             "floral_strobe"
         ],
