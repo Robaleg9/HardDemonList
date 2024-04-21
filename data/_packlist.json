@@ -180,6 +180,15 @@
         "colour": "#ffd700"
     },
     {
+        "name": "Kingdom Pack",
+        "levels": [
+            "watch_the_throne",
+            "castle_dedede",
+            "majesty"
+        ],
+        "colour": "#ffd700"
+    },
+    {
         "name": "Korea Pack",
         "levels": [
             "azure_paralyzer",
@@ -325,6 +334,15 @@
         "colour": "#c0c0c0"
     },
     {
+        "name": "Generic Pack",
+        "levels": [
+            "epoch",
+            "elevatia",
+            "kirbys_meltdown"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
         "name": "Glow Solo Pack",
         "levels": [
             "xes",
@@ -394,6 +412,17 @@
             "sharp",
             "infernity",
             "sweet_dreams"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
+        "name": "Number Name Pack",
+        "levels": [
+            "advance3",
+            "sideways_8",
+            "a747",
+            "c1u6",
+            "elo2"
         ],
         "colour": "#c0c0c0"
     },
@@ -507,6 +536,18 @@
             "crackdown",
             "sky_temple",
             "afterlocked"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
+        "name": "Dangerous Pack",
+        "levels": [
+            "sulfuric_acid",
+            "ablaze",
+            "warzone",
+            "sharp",
+            "neurotoxin",
+            "massacre"
         ],
         "colour": "#cd7f32"
     },
