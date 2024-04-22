@@ -217,7 +217,7 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
-  },
+        },
         {
             "user": "Stallia",
             "link": "https://www.youtube.com/watch?v=dHbg7eqvjCI",
@@ -242,6 +242,12 @@
             "link": "https://youtu.be/7ZcKl4Suk5I",
             "percent": 100,
             "hz": 120
+        },
+        {
+        "user": "insosil",
+        "link": "https://youtu.be/9CBTcYGalCc?si=iVyg85_gA0X0IPYL",
+        "percent": 100,
+        "hz": 240
         }
       ]
 }
