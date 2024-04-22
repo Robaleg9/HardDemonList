@@ -191,7 +191,7 @@
             "link": "https://youtu.be/0lM69tbWAA8?si=1RflfmTMfYK5Ri7B",
             "percent": 100,
             "hz": 240
-    },
+        },
         {
             "user": "Billyiscool",
             "link": "https://youtu.be/OXjSlSpW27s",
@@ -219,6 +219,12 @@
         {
             "user": "nastrohan",
             "link": "https://youtu.be/fGnysSkjGmI?si=tPr_6UmIc0OpFKfH",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "CherrimPlushie",
+            "link": "https://youtu.be/JH7SoTodtbc",
             "percent": 100,
             "hz": 60
         }
