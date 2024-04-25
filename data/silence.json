@@ -516,6 +516,13 @@
             "link": "https://youtu.be/5ZBHTLXB9sQ",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "azrrael09",
+            "link": "https://youtu.be/jydx4WJfi78?si=PlUFxsJ3TsOfGjTy",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
