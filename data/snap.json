@@ -200,10 +200,17 @@
             "hz": 60
         },
         {
-          "user": "Azaelf",
-          "link": "https://youtu.be/mIubINr0Mek",
-          "percent": 100,
-          "hz": 240
-  }
+            "user": "Azaelf",
+            "link": "https://youtu.be/mIubINr0Mek",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "RelieV",
+            "link": "https://youtu.be/f1y0ZnSLd_4?feature=shared",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
+        }
     ]
 }
