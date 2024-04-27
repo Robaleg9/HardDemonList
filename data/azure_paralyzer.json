@@ -403,6 +403,13 @@
             "link": "https://youtu.be/pf0KBrznX9M",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Bonezizdum",
+            "link": "https://youtu.be/GnqGQO9XpCs?si=sY-yBNHmaQxX03mG",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
