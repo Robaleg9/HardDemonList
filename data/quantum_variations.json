@@ -430,6 +430,12 @@
             "percent": 100,
             "hz": 90,
             "mobile": true
-    }
+        },
+        {
+            "user": "TheRealGamma",
+            "link": "https://www.youtube.com/watch?v=Ra0Xbclj_7o",
+            "percent": 100,
+            "hz": 60
+        }
    ]
 }
