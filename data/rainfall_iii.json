@@ -214,7 +214,7 @@
           "link": "https://youtu.be/XaUQUmbJ0wM?si=ulJ8qoReNyZWFtze",
           "percent": 100,
           "hz": 144
-      },
+        },
         {
           "user": "Mylou",
           "link": "https://www.youtube.com/watch?v=6WgiZUN06UE",
@@ -232,7 +232,7 @@
           "link": "https://youtu.be/SCaB8DsX0qw",
           "percent": 100,
           "hz": 240
-  },
+         },
         {
             "user": "insosil",
             "link": "https://youtu.be/NtdyU5prwA4",
@@ -244,6 +244,12 @@
           "link": "https://youtu.be/yO5VZPtZYDQ?si=h81J_wq7uMyu-I3u",
           "percent": 100,
           "hz": 120
-  }
+        },
+        {
+        "user": "Billyiscool",
+        "link": "https://youtu.be/dT0kXLJ1Ju0",
+        "percent": 100,
+        "hz": 240
+        }
       ] 
 }
