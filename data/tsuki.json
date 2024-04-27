@@ -448,22 +448,22 @@
             "hz": 240
         },
         {
-        "user": "Chubby",
-        "link": "https://youtu.be/sYM_onFrqxw?si=K2azax-yUdNBG23L&t=280",
-        "percent": 100,
-        "hz": 330
+            "user": "Chubby",
+            "link": "https://youtu.be/sYM_onFrqxw?si=K2azax-yUdNBG23L&t=280",
+            "percent": 100,
+            "hz": 330
         },
         {
-        "user": "billyiscool",
-        "link": "https://youtu.be/WEMVd_qWezw",
-        "percent": 100,
-        "hz": 240
+            "user": "billyiscool",
+            "link": "https://youtu.be/WEMVd_qWezw",
+            "percent": 100,
+            "hz": 240
         },
         {
-        "user": "ItsLejoGD",
-        "link": "https://www.youtube.com/watch?v=n0e98YAqyI4",
-        "percent": 100,
-        "hz": 60
+            "user": "ItsLejoGD",
+            "link": "https://www.youtube.com/watch?v=n0e98YAqyI4",
+            "percent": 100,
+            "hz": 60
         },
         {
             "user": "timmy",
@@ -471,13 +471,13 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-    },
-    {
-        "user": "Louis",
-        "link": "https://www.youtube.com/watch?v=DEmFOW7h-SE",
-        "percent": 100,
-        "hz": 480
-    },
+        },
+        {
+            "user": "Louis",
+            "link": "https://www.youtube.com/watch?v=DEmFOW7h-SE",
+            "percent": 100,
+            "hz": 480
+        },
         {
             "user": "cloudzu",
             "link": "https://youtu.be/mqkurkFNC2o?si=8YLU90oJKmH-kpV5",
@@ -508,13 +508,13 @@
             "link": "https://youtu.be/zFEsGgB4Ab8",
             "percent": 100,
             "hz": 240
-    },
-    {
-        "user": "Mosu",
-        "link": "https://youtu.be/sGAIRYjMtPE",
-        "percent": 100,
-        "hz": 480
-},
+        },
+        {
+            "user": "Mosu",
+            "link": "https://youtu.be/sGAIRYjMtPE",
+            "percent": 100,
+            "hz": 480
+        },
         {
             "user": "Adhafera",
             "link": "https://youtu.be/nqjSdnnEIDg",
@@ -533,6 +533,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "Abeginner",
+            "link": "https://youtu.be/0_yPRDc5wls?si=b1AMRkl8kEIRuI80",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
