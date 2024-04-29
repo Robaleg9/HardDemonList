@@ -227,6 +227,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-    }
+        },
+        {
+            "user": "FroteGD",
+            "link": "https://youtu.be/4uJoJ-qtq1I?si=_EQbrH2I0vz5EExm",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
