@@ -453,6 +453,13 @@
             "link": "https://youtu.be/Qy8J_1j_XqE?si=nFBWdMK_seAI3xrp",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "bonezizdum",
+            "link": "https://youtu.be/szC08-Y8zRo?si=s4UOhc_P0J4inYyO",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]    
 }
