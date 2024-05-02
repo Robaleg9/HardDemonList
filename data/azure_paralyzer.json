@@ -387,10 +387,10 @@
             "hz": 240
         },
         {
-        "user": "Flukesuki",
-        "link": "https://www.youtube.com/watch?v=LPmgMHrns4E",
-        "percent": 100,
-        "hz": 240
+            "user": "Flukesuki",
+            "link": "https://www.youtube.com/watch?v=LPmgMHrns4E",
+            "percent": 100,
+            "hz": 240
         },
         {
             "user": "Adhafera",
@@ -410,6 +410,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "nastrohan",
+            "link": "https://youtu.be/eE183_4fROg?si=D2_QKIr0pjKlLj7Q",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
