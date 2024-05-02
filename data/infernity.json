@@ -404,6 +404,12 @@
             "link": "https://www.youtube.com/watch?v=D4M3CTU4ivY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Woachi",
+            "link": "https://youtu.be/mlp-D5esQaQ",
+            "percent": 100,
+            "hz": 300
         }
-      ]
+    ]
 }
