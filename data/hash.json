@@ -278,10 +278,10 @@
           "hz": 165
         },
         {
-        "user": "Stallia",
-        "link": "https://www.youtube.com/watch?v=G_2FAR54pFM",
-        "percent": 100,
-        "hz": 240
+            "user": "Stallia",
+            "link": "https://www.youtube.com/watch?v=G_2FAR54pFM",
+            "percent": 100,
+            "hz": 240
         },
         {
             "user": "insosil",
@@ -294,6 +294,13 @@
             "link": "https://youtu.be/dMxoJgnM-YI",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "RelieV",
+            "link": "https://youtu.be/2m4DR2epTK8?feature=shared",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         }
       ]
 }
