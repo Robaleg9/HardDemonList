@@ -484,6 +484,13 @@
             "link": "https://youtu.be/xP5ETcRI6a8?si=gzZEqP0smbvlwe-6&t=1748",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "RelieV",
+            "link": "https://youtu.be/2G-JkMM4nnQ?feature=shared",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         }
     ]
 }
