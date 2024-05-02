@@ -318,6 +318,12 @@
             "link": "https://www.youtube.com/watch?v=vE716avyVa8",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "KingBP",
+            "link": "https://www.youtube.com/watch?v=qb_GBw6h42w",
+            "percent": 100,
+            "hz": 60
         }
-      ]
+    ]
 }
