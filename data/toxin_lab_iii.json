@@ -324,6 +324,12 @@
             "link": "https://www.youtube.com/watch?v=qb_GBw6h42w",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+          "user": "CherrimPlushie",
+          "link": "https://youtu.be/lf__BdPA5TI",
+          "percent": 100,
+          "hz": 240
+  }
     ]
 }

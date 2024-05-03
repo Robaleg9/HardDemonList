@@ -523,6 +523,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
-        }
+        },
+        {
+            "user": "Kuritsa",
+            "link": "https://youtu.be/VO2IxwP-iEQ?si=MGH4-We2x7yO1Xve",
+            "percent": 100,
+            "hz": 60
+    }
     ]
 }

@@ -436,6 +436,12 @@
             "link": "https://www.youtube.com/watch?v=Ra0Xbclj_7o",
             "percent": 100,
             "hz": 60
-        }
+        },
+        {
+            "user": "Abeginner",
+            "link": "https://youtu.be/KBSPpS7udyU",
+            "percent": 100,
+            "hz": 240
+    }
    ]
 }

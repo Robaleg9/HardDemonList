@@ -74,6 +74,12 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
-        }
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/SiFr69M0aO8",
+            "percent": 100,
+            "hz": 240
+    }
     ]
 }
