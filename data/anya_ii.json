@@ -58,6 +58,25 @@
             "link": "https://youtu.be/CXPZTISc23U?si=ly6FXGlyi-UuHCe6",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "rodrigtz26",
+            "link": "https://youtu.be/KyPyP69jcmc?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/HU7NsxkV3f4",
+            "percent": 100,
+            "hz": 25440
+        },
+        {
+            "user": "Abeginner",
+            "link": "https://youtu.be/gQxlIinhIk0?si=gdhyUmBSFjzw72m4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
