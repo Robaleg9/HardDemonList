@@ -150,6 +150,13 @@
             "percent": 100,
             "hz": 90,
             "mobile": true
+        },
+        {
+            "user": "WhiteEmerald",
+            "link": "https://www.youtube.com/watch?v=JYVLN_dt3ow",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
