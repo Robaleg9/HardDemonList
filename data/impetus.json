@@ -232,6 +232,13 @@
             "link": "https://youtu.be/ajCKhcWN_DQ",
             "percent": 100,
             "hz": 240
-    }
+    },
+        {
+            "user": "RelieV",
+            "link": "https://youtu.be/wJdDHeT3Itw?feature=shared",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
+        }
     ]
 }
