@@ -128,13 +128,19 @@
             "link": "https://youtu.be/rraG5p37D54?si=uW0BxmLCWfk4843V",
             "percent": 100,
             "hz": 240
-    },
-    {
-        "user": "Subperfect",
-        "link": "https://youtu.be/-tLlJ05M1eI?feature=shared",
-        "percent": 100,
-        "hz": 60,
-        "mobile": true
-}
+        },
+        {
+            "user": "Subperfect",
+            "link": "https://youtu.be/-tLlJ05M1eI?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
+        },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/qe4eTScq4A0?si=RTPSY1VgIO6fxB3J",
+            "percent": 100,
+            "hz": 2763
+        }
     ]
 }
