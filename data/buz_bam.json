@@ -7,5 +7,24 @@
     "verification": "https://youtu.be/N4vnGWPEYZQ?si=62Xgg63O0QMH0JZk",
     "percentToQualify": 100,
     "password": "No Copy",
-    "records" : []
+    "records" : [
+        {
+            "user": "JoacoPe",
+            "link": "https://youtu.be/dAd8mbf9Tb8?si=O0P7ndcb14cbo1rb",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/I4byqnVio0I?si=4IdZTcVWayw6dJv-",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Leven",
+            "link": "https://youtu.be/Conq81bvC_U",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
 }
