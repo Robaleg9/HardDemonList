@@ -529,6 +529,18 @@
             "link": "https://youtu.be/VO2IxwP-iEQ?si=MGH4-We2x7yO1Xve",
             "percent": 100,
             "hz": 60
-    }
+    },
+        {
+            "user": "Shroomy!!!",
+            "link": "https://youtu.be/Y26J-fO75nk",
+            "percent": 100,
+            "hz": 2445
+        },
+        {
+            "user": "Aph",
+            "link": "https://youtu.be/OE5JImf9YiU",
+            "percent": 100,
+            "hz": 1000
+        }
     ]
 }
