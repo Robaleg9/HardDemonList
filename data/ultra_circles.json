@@ -201,6 +201,12 @@
             "link": "https://youtu.be/ecCCeZYByQc?si=8IO7me790vhV3LfD",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "tomm",
+            "link": "https://www.youtube.com/watch?v=m3V5DRQZ2J4",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
