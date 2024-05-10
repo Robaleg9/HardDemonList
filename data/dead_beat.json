@@ -177,6 +177,12 @@
             "percent": 100,
             "hz": 90,
             "mobile": true
+        },
+        {
+            "user": "A05Polzar",
+            "link": "https://youtu.be/O7cG89DVx4U?si=FbVrHRaNn32RCk4F",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
