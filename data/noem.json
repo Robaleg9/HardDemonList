@@ -221,6 +221,12 @@
             "link": "https://www.youtube.com/watch?v=0-ryvdpmdsU",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "tomm",
+            "link": "https://youtu.be/dMKFfjgBHFk",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
