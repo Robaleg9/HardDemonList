@@ -81,6 +81,25 @@
             "link": "https://youtu.be/iKxyv2hv-WQ?si=-wFbdmFn_JBszn3D",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Robaleg9",
+            "link": "https://youtu.be/TdV4U4s69Ek?si=09cBN5XQDwM0osxY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "insosil",
+            "link": "https://youtu.be/6wpoKGlSRmM?si=clH9hj9IN5MR-pe-",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Jenny",
+            "link": "https://youtu.be/s_giLs2kPmQ?si=L5zhrIBCLTORVA41",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
