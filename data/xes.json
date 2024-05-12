@@ -400,6 +400,13 @@
             "link": "https://www.youtube.com/watch?v=UeLpGD1M_uE",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "rodrigtz26",
+            "link": "https://youtu.be/kDg-J0gpOq8?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
