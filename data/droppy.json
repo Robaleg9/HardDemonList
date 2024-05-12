@@ -513,6 +513,13 @@
             "link": "https://youtu.be/HApWpU4we2E",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "CherrimPlushie",
+            "link": "https://youtu.be/uYTAWN7waVQ",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
