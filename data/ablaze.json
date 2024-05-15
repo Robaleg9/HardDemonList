@@ -129,6 +129,13 @@
             "link": "https://www.youtube.com/watch?v=V35zFlN-VLI&ab_channel=Galaxy4567",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "RelieV",
+            "link": "https://youtu.be/e_qfZu18raE?feature=shared",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         }
     ]
 }
