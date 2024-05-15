@@ -429,6 +429,13 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "RelieV",
+            "link": "https://youtu.be/xKsv3yJgGsY?feature=shared",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         }
     ]
 }
