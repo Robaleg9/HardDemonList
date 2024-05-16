@@ -98,6 +98,13 @@
             "link": "https://www.twitch.tv/videos/2094710085",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "RelieV",
+            "link": "https://youtu.be/ZLv-765BwhY?feature=shared",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         }
     ]
 }
