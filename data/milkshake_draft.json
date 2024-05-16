@@ -361,6 +361,12 @@
           "percent": 100,
           "hz": 60,
           "mobile": true
-  }
+  },
+        {
+            "user": "Billyiscool",
+            "link": "https://youtu.be/AeoCR3pNHFk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
  }
