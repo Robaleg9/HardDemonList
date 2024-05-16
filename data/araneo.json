@@ -744,6 +744,12 @@
             "percent": 100,
             "hz": 90,
             "mobile": true
+        },
+        {
+            "user": "Zoiter Process",
+            "link": "https://www.youtube.com/watch?v=sU1jT3Uerlo&t",
+            "percent": 100,
+            "hz": 240
         }
    ]
 }
