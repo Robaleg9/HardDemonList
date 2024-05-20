@@ -7,5 +7,48 @@
     "verification": "https://www.youtube.com/watch?v=wANd7QNg_Ac",
     "percentToQualify": 100,
     "password": "000152",
-    "records" : []
+    "records" : [
+        {
+            "user": "Fawxu",
+            "link": "https://youtu.be/VhWktHYJ8oI?si=DJQTXw-8WCORHx1t",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Aph",
+            "link": "https://youtu.be/Fh-CSOQ8izw?si=vO_AO6q3EU_YvsrV",
+            "percent": 100,
+            "hz": 1000
+        },
+        {
+            "user": "insosil",
+            "link": "https://youtu.be/lqgw6p0WYZM?si=tS0Hg8v_dvIGHNl_",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "A05Polzar",
+            "link": "https://youtu.be/ohNayHGWcX0?si=lsC9THwm8UNIIA3v",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoacoPe",
+            "link": "https://youtu.be/6cPBfQDETWQ?si=5BRxwFkUYfnj0XDg",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Abeginner",
+            "link": "https://youtu.be/rnyUVlHFGMU?si=ub35Qw_y0dGH_npv",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CherrimPlushie",
+            "link": "https://youtu.be/7kT2XD8QaEE?si=A6E4y9XpYBuj-z5U",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
