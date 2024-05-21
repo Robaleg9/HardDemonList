@@ -165,6 +165,13 @@
             "link": "https://youtu.be/3WFv3K9XsSE?si=rvPmaSnU80A_BpYU",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "SubCommander",
+            "link": "https://youtu.be/OYB6G341qBU?si=_WVgfs2SLiRXgK7E",
+            "percent": 100,
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
