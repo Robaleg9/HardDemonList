@@ -236,6 +236,12 @@
             "percent": 100,
             "hz": 90,
             "mobile": true
+        },
+        {
+            "user": "CherrimPlushie",
+            "link": "https://youtu.be/XFyle55Te4U",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
