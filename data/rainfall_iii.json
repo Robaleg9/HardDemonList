@@ -270,6 +270,12 @@
             "percent": 100,
             "hz": 60,
             "mobile": true
+        },
+        {
+            "user": "nastrohan",
+            "link": "https://youtu.be/5L5TBjxhN_w?si=exuCcCRByjwu6w5H",
+            "percent": 100,
+            "hz": 60
         }
       ] 
 }
