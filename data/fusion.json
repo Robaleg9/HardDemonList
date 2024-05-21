@@ -180,6 +180,13 @@
             "link": "https://youtu.be/rPWJnKI5rKk?si=y1Wk752RUqFbFbPQ",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "RelieV",
+            "link": "https://youtu.be/DkyXPEyfB3w?feature=shared",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
         }
       ]
 }
