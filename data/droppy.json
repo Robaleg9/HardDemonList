@@ -1,4 +1,4 @@
-{
+    {
     "id": 63422509,
     "name": "Droppy",
     "author": "TeamNoX",
@@ -526,6 +526,12 @@
             "link": "https://youtu.be/72OTDl1bwJY?si=pBftrrkV9j-bBy6v&t=76",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Jollow",
+            "link": "https://www.youtube.com/watch?v=ia-G6pEY5s4",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
