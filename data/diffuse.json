@@ -992,6 +992,12 @@
             "percent": 100,
             "hz": 90,
             "mobile": true
+        },
+        {
+            "user": "NullAhnung",
+            "link": "https://youtu.be/wcL4vD9us80",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
