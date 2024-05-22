@@ -178,6 +178,19 @@
             "link": "https://youtu.be/MGPEQ8Idmys?t=2051",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Leven",
+            "link": "https://youtu.be/BxMXVfove9Q",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Bonezizdum",
+            "link": "https://youtu.be/AmOYEJeY1nA?si=ZhHjTwMNGZS0HHUo",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
