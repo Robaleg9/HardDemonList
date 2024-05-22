@@ -418,6 +418,12 @@
             "link": "https://www.youtube.com/watch?v=PvMmLI1BPZs&ab_channel=DozenthYTB",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Billyiscool",
+            "link": "https://youtu.be/t7urBCMfOHI",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }
