@@ -149,6 +149,12 @@
             "link": "https://www.youtube.com/watch?v=Y5RNlBAFFSY",
             "percent": 100,
             "hz": 144
-    }
+    },
+        {
+            "user": "Adhafera",
+            "link": "https://www.youtube.com/watch?v=aYujYh_cWi4",
+            "percent": 100,
+            "hz": 288
+        }
     ]
 }
