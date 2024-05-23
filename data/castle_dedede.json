@@ -164,12 +164,19 @@
             "link": "https://youtu.be/4vrmiUvO878?si=kl2NkX-yceDMOBc6",
             "percent": 100,
             "hz": 240
-    },
-    {
-        "user": "CherrimPlushie",
-        "link": "https://youtu.be/IzMnQeQEgdk?si=11bgfLk9Bdo7kZLI",
-        "percent": 100,
-        "hz": 240
-}
+        },
+        {
+            "user": "CherrimPlushie",
+            "link": "https://youtu.be/IzMnQeQEgdk?si=11bgfLk9Bdo7kZLI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "RelieV",
+            "link": "https://youtu.be/qXpkjtjAeoE?feature=shared",
+            "percent": 100,
+            "hz": 90,
+            "mobile": true
+        }
     ]
 }
