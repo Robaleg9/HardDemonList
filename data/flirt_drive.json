@@ -167,6 +167,13 @@
             "percent": 100,
             "hz": 90,
             "mobile": true
+        },
+        {
+            "user": "rodrigtz26",
+            "link": "https://youtu.be/oov5z5Eff_8?feature=shared",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
