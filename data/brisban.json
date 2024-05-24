@@ -234,6 +234,12 @@
             "percent": 100,
             "hz": 90,
             "mobile": true
+        },
+        {
+            "user": "gr8ness",
+            "link": "https://youtu.be/KJA_R6x8tHM",
+            "percent": 100,
+            "hz": 240
         }
       ]
 }
