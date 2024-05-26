@@ -806,6 +806,13 @@
             "percent": 100,
             "hz": 120,
             "mobile": true
-        }
+        },
+        {
+            "user": "GDJay",
+            "link": "https://www.youtube.com/watch?v=y_8g0MpijyE",
+            "percent": 100,
+            "hz": 360,
+            "mobile": true
+    }
     ]
 }
