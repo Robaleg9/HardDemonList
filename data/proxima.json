@@ -1,122 +1,128 @@
 {
-    "id": 58065436,
-    "name": "Proxima (ThatKai)",
-    "author": "ThatKai",
-    "creators": [],
-    "verifier": "ThatKai",
-    "verification": "https://youtu.be/KZn-QbhJmDU",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records" : [
-        {
-            "user": "insosil",
-            "link": "https://youtu.be/5k-UAJ8wC8I?si=si4wdCEDroC1H4wA",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Leckylecks",
-            "link": "https://youtu.be/zMmuXzOOzeE?si=waB2UVvwxgVmqVIy",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Fawxu",
-            "link": "https://youtu.be/mmww41XEwKA?si=r1Tfxld58CZFt-kt",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "deadbush",
-            "link": "https://youtu.be/V8SU9jFEPDs",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://www.youtube.com/watch?v=XU8_7sa0tk8",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "JoacoPe",
-            "link": "https://youtu.be/AtAir8iofIg",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "EvanDaBest",
-            "link": "https://www.youtube.com/watch?v=v11TFpNQ0CY",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://youtu.be/2eV7glGj-ek",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Electro325",
-            "link": "https://youtu.be/ybKa-4bd0g8?t=161",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/Ft_b2rZqUGM",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/Ohvf_dZ4gHI?si=ZgbRDa2YrQudAxxS",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Dissmo",
-            "link": "https://www.youtube.com/watch?v=V8ISQe7F7oQ",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "Galaxy4567",
-            "link": "https://www.youtube.com/watch?v=ai8AvfRoon8&ab_channel=Galaxy4567",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Subperfect",
-            "link": "https://youtu.be/fEVwlcgJvxk?feature=shared",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "Avtra",
-            "link": "https://www.youtube.com/watch?v=2Ek9w8AOoaA&ab_channel=Avtra",
-            "percent": 100,
-            "hz": 150
-        },
-        {
-            "user": "Frogs65",
-            "link": "https://youtu.be/zU6-kCbLcxM",
-            "percent": 100,
-            "hz": 60
-    },
-        {
-            "user": "HexagonGD",
-            "link": "https://www.youtube.com/watch?v=KZn-QbhJmDU",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "tomm",
-            "link": "https://youtu.be/xbXXuwV44bQ",
-            "percent": 100,
-            "hz": 120
-        }
-    ]
+	"id": 58065436,
+	"name": "Proxima (ThatKai)",
+	"author": "ThatKai",
+	"creators": [],
+	"verifier": "ThatKai",
+	"verification": "https://youtu.be/KZn-QbhJmDU",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "insosil",
+			"link": "https://youtu.be/5k-UAJ8wC8I?si=si4wdCEDroC1H4wA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/zMmuXzOOzeE?si=waB2UVvwxgVmqVIy",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/mmww41XEwKA?si=r1Tfxld58CZFt-kt",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "deadbush",
+			"link": "https://youtu.be/V8SU9jFEPDs",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://www.youtube.com/watch?v=XU8_7sa0tk8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/AtAir8iofIg",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "EvanDaBest",
+			"link": "https://www.youtube.com/watch?v=v11TFpNQ0CY",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "Shroomy!!!",
+			"link": "https://youtu.be/2eV7glGj-ek",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Electro325",
+			"link": "https://youtu.be/ybKa-4bd0g8?t=161",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Leven",
+			"link": "https://youtu.be/Ft_b2rZqUGM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/Ohvf_dZ4gHI?si=ZgbRDa2YrQudAxxS",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Dissmo",
+			"link": "https://www.youtube.com/watch?v=V8ISQe7F7oQ",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "Galaxy4567",
+			"link": "https://www.youtube.com/watch?v=ai8AvfRoon8&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Subperfect",
+			"link": "https://youtu.be/fEVwlcgJvxk?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "Avtra",
+			"link": "https://www.youtube.com/watch?v=2Ek9w8AOoaA&ab_channel=Avtra",
+			"percent": 100,
+			"hz": 150
+		},
+		{
+			"user": "Frogs65",
+			"link": "https://youtu.be/zU6-kCbLcxM",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "HexagonGD",
+			"link": "https://www.youtube.com/watch?v=KZn-QbhJmDU",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "tomm",
+			"link": "https://youtu.be/xbXXuwV44bQ",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/IJBZa89U5G0?si=uYK1NiFuLTj0fHjI",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
