@@ -453,7 +453,8 @@
             "user": "Katoux",
             "link": "https://youtu.be/VEHCzA51iPo?si=cxxrbyXhGxSGRX95",
             "percent": 100,
-            "hz": 240
+            "hz": 120,
+            "mobile": true
         }
     ]
 }
