@@ -254,6 +254,12 @@
 			"percent": 100,
 			"hz": 90,
 			"mobile": true
+		},
+		{
+			"user": "lemnik",
+			"link": "https://youtu.be/dfacYItMxuA",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
