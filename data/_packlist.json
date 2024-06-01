@@ -200,6 +200,19 @@
         "colour": "#ffd700"
     },
     {
+        "name": "LGBTQ Pack",
+        "levels": [
+            "blrpl_lghts",
+            "time_decay",
+            "xes",
+            "snap",
+            "majesty",
+            "love_syndrome",
+            "valwec"
+        ],
+        "colour": "#ffd700"
+    },
+    {
         "name": "Megacollab Pack 3",
         "levels": [
             "spacial_rift",
