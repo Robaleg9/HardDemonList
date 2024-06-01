@@ -1,108 +1,125 @@
 {
-    "id": 16762658,
-    "name": "Actino Rise",
-    "author": "Norcda Childa",
-    "creators": ["PsychoDuck"," Steelic"," CreatorPig"," xtobe5"," DreamEater"," Zepher"," MisterM"," Jbeast"," Norcda"],
-    "verifier": "Norcda Childa",
-    "verification": "https://www.youtube.com/watch?v=wANd7QNg_Ac",
-    "percentToQualify": 100,
-    "password": "000152",
-    "records" : [
-        {
-            "user": "Fawxu",
-            "link": "https://youtu.be/VhWktHYJ8oI?si=DJQTXw-8WCORHx1t",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Aph",
-            "link": "https://youtu.be/Fh-CSOQ8izw?si=vO_AO6q3EU_YvsrV",
-            "percent": 100,
-            "hz": 1000
-        },
-        {
-            "user": "insosil",
-            "link": "https://youtu.be/lqgw6p0WYZM?si=tS0Hg8v_dvIGHNl_",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "A05Polzar",
-            "link": "https://youtu.be/ohNayHGWcX0?si=lsC9THwm8UNIIA3v",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "JoacoPe",
-            "link": "https://youtu.be/6cPBfQDETWQ?si=5BRxwFkUYfnj0XDg",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Abeginner",
-            "link": "https://youtu.be/rnyUVlHFGMU?si=ub35Qw_y0dGH_npv",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "CherrimPlushie",
-            "link": "https://youtu.be/7kT2XD8QaEE?si=A6E4y9XpYBuj-z5U",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://youtu.be/KuC8p_PjgNE?si=vmzr1FQnK4vz4ah8",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Leckylecks",
-            "link": "https://youtu.be/wARvvi_GjLc?si=IwzDutvKNkUfJUd4",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "NewDark",
-            "link": "https://youtu.be/1LEbFtv9nO8?si=CS--deQXuBep7xi0",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "tomm",
-            "link": "https://youtu.be/irY-M6vkQ9A",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/XtLyYO2-d8Y",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "deadbush",
-            "link": "https://youtu.be/M6qL9mzIMCs",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://youtu.be/-YP_pgYsSUI?si=6BzMcv5QRT0NyVu3",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/lIzNxjr3mew?si=qDdvvzEy63VNcedP&t=93",
-            "percent": 100,
-            "hz": 321
-        },
-        {
-            "user": "Frogs65",
-            "link": "https://youtu.be/hhMlhRnYzwE",
-            "percent": 100,
-            "hz": 60
-        }
-    ]
+	"id": 16762658,
+	"name": "Actino Rise",
+	"author": "Norcda Childa",
+	"creators": [
+		"PsychoDuck",
+		" Steelic",
+		" CreatorPig",
+		" xtobe5",
+		" DreamEater",
+		" Zepher",
+		" MisterM",
+		" Jbeast",
+		" Norcda"
+	],
+	"verifier": "Norcda Childa",
+	"verification": "https://www.youtube.com/watch?v=wANd7QNg_Ac",
+	"percentToQualify": 100,
+	"password": "000152",
+	"records": [
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/VhWktHYJ8oI?si=DJQTXw-8WCORHx1t",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Aph",
+			"link": "https://youtu.be/Fh-CSOQ8izw?si=vO_AO6q3EU_YvsrV",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": "insosil",
+			"link": "https://youtu.be/lqgw6p0WYZM?si=tS0Hg8v_dvIGHNl_",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "A05Polzar",
+			"link": "https://youtu.be/ohNayHGWcX0?si=lsC9THwm8UNIIA3v",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/6cPBfQDETWQ?si=5BRxwFkUYfnj0XDg",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Abeginner",
+			"link": "https://youtu.be/rnyUVlHFGMU?si=ub35Qw_y0dGH_npv",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/7kT2XD8QaEE?si=A6E4y9XpYBuj-z5U",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://youtu.be/KuC8p_PjgNE?si=vmzr1FQnK4vz4ah8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/wARvvi_GjLc?si=IwzDutvKNkUfJUd4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "NewDark",
+			"link": "https://youtu.be/1LEbFtv9nO8?si=CS--deQXuBep7xi0",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "tomm",
+			"link": "https://youtu.be/irY-M6vkQ9A",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Leven",
+			"link": "https://youtu.be/XtLyYO2-d8Y",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "deadbush",
+			"link": "https://youtu.be/M6qL9mzIMCs",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Shroomy!!!",
+			"link": "https://youtu.be/-YP_pgYsSUI?si=6BzMcv5QRT0NyVu3",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/lIzNxjr3mew?si=qDdvvzEy63VNcedP&t=93",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": "Frogs65",
+			"link": "https://youtu.be/hhMlhRnYzwE",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "RelieV",
+			"link": "https://youtu.be/KDHeiBY2N-w",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
+		}
+	]
 }

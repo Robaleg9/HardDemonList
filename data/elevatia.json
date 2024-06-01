@@ -1,97 +1,118 @@
 {
-    "id": 62444283,
-    "name": "Elevatia",
-    "author": "AngryBoy0644",
-    "creators": ["Suregeg"," Angryboy"," Vexion"," Fufufac"," Highjump"," Neogamer"," Neebrasc"," Lipz"," Hoshi"," Nvatium"," Cairox"," Zafkiel"," Mindcap"],
-    "verifier": "F3lixsram",
-    "verification": "https://www.youtube.com/watch?v=LaxOmNlbBcI",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records" : [
-        {
-            "user": "Fawxu",
-            "link": "https://youtu.be/1iMaCFMBTd8?si=ETgtmZKfMRPW0icS",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://youtu.be/8x78SPO0JXQ?si=NMz2vMjuCetVL1AQ",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "JoacoPe",
-            "link": "https://youtu.be/6S-fHJlk0fQ",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "deadbush",
-            "link": "https://youtu.be/ExbNQDESdXk",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "AdutzHD",
-            "link": "https://youtu.be/0DyFRxGWTTc?si=XxYT4BrH3RGstYRW",
-            "percent": 100,
-            "hz": 144,
-            "mobile": true
-        },
-        {
-            "user": "Leckylecks",
-            "link": "https://youtu.be/WuQ9o-XRQxc?si=YHKIJJluB-ZXcxA8",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/isT-f1j9JKk",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Galaxy4567",
-            "link": "https://www.youtube.com/watch?v=flku-PJGmGk&ab_channel=Galaxy4567",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "AcropolisBoy",
-            "link": "https://youtu.be/E8C6R8a59Is",
-            "percent": 100,
-            "hz": 480
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://www.youtube.com/watch?v=ubXY6RTU3PI",
-            "percent": 100,
-            "hz": 240
-        },
-             {
-            "user": "Azaelf",
-            "link": "https://www.youtube.com/watch?v=WbFpWMfXCUg&t=701s",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/3Ae_ruZVzXI",
-            "percent": 100,
-            "hz": 321
-        },
-        {
-            "user": "Sloudy",
-            "link": "https://youtu.be/yeJswp5x6R8?si=gkFQWvdUMDldGojs",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Stallia",
-            "link": "https://www.youtube.com/watch?v=EOaLcyCrzZI",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
-} 
+	"id": 62444283,
+	"name": "Elevatia",
+	"author": "AngryBoy0644",
+	"creators": [
+		"Suregeg",
+		" Angryboy",
+		" Vexion",
+		" Fufufac",
+		" Highjump",
+		" Neogamer",
+		" Neebrasc",
+		" Lipz",
+		" Hoshi",
+		" Nvatium",
+		" Cairox",
+		" Zafkiel",
+		" Mindcap"
+	],
+	"verifier": "F3lixsram",
+	"verification": "https://www.youtube.com/watch?v=LaxOmNlbBcI",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/1iMaCFMBTd8?si=ETgtmZKfMRPW0icS",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Shroomy!!!",
+			"link": "https://youtu.be/8x78SPO0JXQ?si=NMz2vMjuCetVL1AQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/6S-fHJlk0fQ",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "deadbush",
+			"link": "https://youtu.be/ExbNQDESdXk",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "AdutzHD",
+			"link": "https://youtu.be/0DyFRxGWTTc?si=XxYT4BrH3RGstYRW",
+			"percent": 100,
+			"hz": 144,
+			"mobile": true
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/WuQ9o-XRQxc?si=YHKIJJluB-ZXcxA8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Leven",
+			"link": "https://youtu.be/isT-f1j9JKk",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Galaxy4567",
+			"link": "https://www.youtube.com/watch?v=flku-PJGmGk&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "AcropolisBoy",
+			"link": "https://youtu.be/E8C6R8a59Is",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://www.youtube.com/watch?v=ubXY6RTU3PI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Azaelf",
+			"link": "https://www.youtube.com/watch?v=WbFpWMfXCUg&t=701s",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/3Ae_ruZVzXI",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": "Sloudy",
+			"link": "https://youtu.be/yeJswp5x6R8?si=gkFQWvdUMDldGojs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Stallia",
+			"link": "https://www.youtube.com/watch?v=EOaLcyCrzZI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "RelieV",
+			"link": "https://youtu.be/oukD-QIxX3c",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
+		}
+	]
+}
