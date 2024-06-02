@@ -1,116 +1,131 @@
 {
-    "id": 82104326,
-    "name": "WARZONE",
-    "author": "Kentik",
-    "creators": ["Kentik"," Filaret"," VictorinoxX"," Drob3"," Nexender"," SkCray Ace"," Turk"," Inex"],
-    "verifier": "Kentik",
-    "verification": "https://www.youtube.com/watch?v=QxNX_HaKt8Y",
-    "percentToQualify": 100,
-    "password": "562314",
-    "records" : [
-        {
-            "user": "JoacoPe",
-            "link": "https://youtu.be/oQ5CuADutEM?si=VycPZLIWwbgpxLj3",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Fawxu",
-            "link": "https://youtu.be/2OyriGbENNw?si=C1jtLrztwGowhDR2",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "lllSafeSpacelll",
-            "link": "https://www.youtube.com/watch?v=z0u1ZcvOiLM&t=5m59s",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://youtu.be/2UjnLoFijyE?si=RAuZn5rhWEwbkNCb",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "deadbush",
-            "link": "https://youtu.be/U55a0XEoISw",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Dissmo",
-            "link": "https://truthsocial.com/@Dissmo_/posts/111927006202147655",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "Bluebarracks",
-            "link": "https://youtu.be/lCjwIyc6iKQ?si=IOuxe8U4PuG3yYGq",
-            "percent": 100,
-            "hz": 288
-        },
-        {
-            "user": "Leckylecks",
-            "link": "https://youtu.be/bPSHFcJjn00?si=TPVDXVADj-Xr52XT",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://youtu.be/UtDTwpApPDM",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/ZFXmdI2I-8o",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/aLsrygGPwTk?si=pZ40KD-qHkHJ6_C6&t=78",
-            "percent": 100,
-            "hz": 321
-        },
-        {
-            "user": "Stallia",
-            "link": "https://www.youtube.com/watch?v=UM_Bfi9No7Q",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Billyiscool",
-            "link": "https://youtu.be/BE6wTADfGE8",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Subperfect",
-            "link": "https://youtu.be/FMIpt4omPx8?feature=shared",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "Galaxy4567",
-            "link": "https://www.youtube.com/watch?v=WTcWQonby_w&ab_channel=Galaxy4567",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "CherrimPlushie",
-            "link": "https://youtu.be/gJaIfRu-z5k",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Electro325",
-            "link": "https://youtu.be/344G5lgQz8Y?si=rlxEutp-9YOVzBtv&t=429",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+	"id": 82104326,
+	"name": "WARZONE",
+	"author": "Kentik",
+	"creators": [
+		"Kentik",
+		" Filaret",
+		" VictorinoxX",
+		" Drob3",
+		" Nexender",
+		" SkCray Ace",
+		" Turk",
+		" Inex"
+	],
+	"verifier": "Kentik",
+	"verification": "https://www.youtube.com/watch?v=QxNX_HaKt8Y",
+	"percentToQualify": 100,
+	"password": "562314",
+	"records": [
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/oQ5CuADutEM?si=VycPZLIWwbgpxLj3",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/2OyriGbENNw?si=C1jtLrztwGowhDR2",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lllSafeSpacelll",
+			"link": "https://www.youtube.com/watch?v=z0u1ZcvOiLM&t=5m59s",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Shroomy!!!",
+			"link": "https://youtu.be/2UjnLoFijyE?si=RAuZn5rhWEwbkNCb",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "deadbush",
+			"link": "https://youtu.be/U55a0XEoISw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Dissmo",
+			"link": "https://truthsocial.com/@Dissmo_/posts/111927006202147655",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "Bluebarracks",
+			"link": "https://youtu.be/lCjwIyc6iKQ?si=IOuxe8U4PuG3yYGq",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/bPSHFcJjn00?si=TPVDXVADj-Xr52XT",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://youtu.be/UtDTwpApPDM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Leven",
+			"link": "https://youtu.be/ZFXmdI2I-8o",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/aLsrygGPwTk?si=pZ40KD-qHkHJ6_C6&t=78",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": "Stallia",
+			"link": "https://www.youtube.com/watch?v=UM_Bfi9No7Q",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Billyiscool",
+			"link": "https://youtu.be/BE6wTADfGE8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Subperfect",
+			"link": "https://youtu.be/FMIpt4omPx8?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "Galaxy4567",
+			"link": "https://www.youtube.com/watch?v=WTcWQonby_w&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/gJaIfRu-z5k",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Electro325",
+			"link": "https://youtu.be/344G5lgQz8Y?si=rlxEutp-9YOVzBtv&t=429",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "tomm",
+			"link": "https://youtu.be/1uDWBiHyJKU",
+			"percent": 100,
+			"hz": 90
+		}
+	]
 }

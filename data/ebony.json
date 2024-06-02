@@ -1,78 +1,84 @@
 {
-    "id": 13102433,
-    "name": "Ebony",
-    "author": "UlasP",
-    "creators": [],
-    "verifier": "UlasP",
-    "verification": "https://youtu.be/lhNwI_BgyVI?si=tvWqu3ENIzumrqIz",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records" : [
-    {
-        "user": "JoacoPe",
-        "link": "https://youtu.be/Llqn8tfMgj0",
-        "percent": 100,
-        "hz": 120
-    },
-    {
-        "user": "Fawxu",
-        "link": "https://youtu.be/pTVFVyUBqBQ?si=IVPWy-y1VOWb4ggu",
-        "percent": 100,
-        "hz": 240
-    },
-    {
-        "user": "nTimaw",
-        "link": "https://youtu.be/3sEWvROcG8w?si=GZ1hdPxei3_KeFcR&t=227",
-        "percent": 100,
-        "hz": 321
-    },
-    {
-        "user": "Robaleg9",
-        "link": "https://youtu.be/Kkjsumxb5Ts?si=ersh-O1getKDw-wN",
-        "percent": 100,
-        "hz": 240
-    },
-    {
-        "user": "Abeginner",
-        "link": "https://youtu.be/zQmuCKMj0ig",
-        "percent": 100,
-        "hz": 240
-    },
-    {
-        "user": "Bluebarracks",
-        "link": "https://youtu.be/1KZe7d4sOIY?si=XZa7kQZW6V-ouPhU",
-        "percent": 100,
-        "hz": 240
-    },
-    {
-        "user": "Leven",
-        "link": "https://youtu.be/Zb0cTS95swg",
-        "percent": 100,
-        "hz": 144
-    },
-    {
-        "user": "maskangel1000",
-        "link": "https://youtu.be/LuxCc2vDxRw",
-        "percent": 100,
-        "hz": 240
-    },
-    {
-        "user": "tomm",
-        "link": "https://www.youtube.com/watch?v=seei9cCUO4I",
-        "percent": 100,
-        "hz": 75
-    },
-        {
-            "user": "Leckylecks",
-            "link": "https://youtu.be/Vz_jc7M6gss?si=jGRttLIgdvG90uLl",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "CherrimPlushie",
-            "link": "https://youtu.be/E4t4UxJV8_Q",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+	"id": 13102433,
+	"name": "Ebony",
+	"author": "UlasP",
+	"creators": [],
+	"verifier": "UlasP",
+	"verification": "https://youtu.be/lhNwI_BgyVI?si=tvWqu3ENIzumrqIz",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/Llqn8tfMgj0",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/pTVFVyUBqBQ?si=IVPWy-y1VOWb4ggu",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/3sEWvROcG8w?si=GZ1hdPxei3_KeFcR&t=227",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://youtu.be/Kkjsumxb5Ts?si=ersh-O1getKDw-wN",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Abeginner",
+			"link": "https://youtu.be/zQmuCKMj0ig",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bluebarracks",
+			"link": "https://youtu.be/1KZe7d4sOIY?si=XZa7kQZW6V-ouPhU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Leven",
+			"link": "https://youtu.be/Zb0cTS95swg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "maskangel1000",
+			"link": "https://youtu.be/LuxCc2vDxRw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "tomm",
+			"link": "https://www.youtube.com/watch?v=seei9cCUO4I",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/Vz_jc7M6gss?si=jGRttLIgdvG90uLl",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/E4t4UxJV8_Q",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "A05Polzar",
+			"link": "https://youtu.be/aQxTlVcZ5Ho",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
