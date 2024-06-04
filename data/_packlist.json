@@ -40,6 +40,19 @@
         "colour": "#000000"
     },
     {
+        "name": "LGBTQ Pack",
+        "levels": [
+            "blrpl_lghts",
+            "time_decay",
+            "xes",
+            "snap",
+            "majesty",
+            "love_syndrome",
+            "valwec"
+        ],
+        "colour": "linear-gradient(60deg, rgba(255,0,0,1) 0%, rgba(255,128,0,1) 20%, rgba(255,255,0,1) 40%, rgba(0,255,0,1) 60%, rgba(0,0,255,1) 80%, rgba(76,0,153,1) 100%)"
+    },
+    {
         "name": "Animal Pack",
         "levels": [
             "serpent",
@@ -198,19 +211,6 @@
             "necrofantasia"
         ],
         "colour": "#ffd700"
-    },
-    {
-        "name": "LGBTQ Pack",
-        "levels": [
-            "blrpl_lghts",
-            "time_decay",
-            "xes",
-            "snap",
-            "majesty",
-            "love_syndrome",
-            "valwec"
-        ],
-        "colour": "linear-gradient(60deg, rgba(255,0,0,1) 0%, rgba(255,128,0,1) 20%, rgba(255,255,0,1) 40%, rgba(0,255,0,1) 60%, rgba(0,0,255,1) 80%, rgba(76,0,153,1) 100%)"
     },
     {
         "name": "Megacollab Pack 3",
