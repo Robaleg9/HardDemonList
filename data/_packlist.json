@@ -210,7 +210,11 @@
             "love_syndrome",
             "valwec"
         ],
-        "colour": "linear-gradient(90deg, rgba(255,0,0,1) 15%, rgba(255,255,0,1) 35%, rgba(0,0,255,1) 65%, rgba(76,0,153,1) 85%)"
+<<<<<<< HEAD
+        "colour": "linear-gradient(90deg, rgba(255,0,0,1) 17%, rgba(255,128,0,1) 34%, rgba(255,255,0,1) 51%, rgba(0,255,0,1) 68%, rgba(0,128,255,1) 85%, rgba(127,0,255,1) 100%)"
+=======
+        "colour": "linear-gradient(90deg, rgba(255,0,0,1) 17%, rgba(255,128,0,1) 34%, rgba(255,255,0,1) 51%, rgba(0,255,0,1) 68%, rgba(0,128,255,1) 85%, rgba(127,0,255,1) 100%)"
+>>>>>>> f0b360106c89a746bab52b8bcbf5a6c96bf37865
     },
     {
         "name": "Megacollab Pack 3",
