@@ -346,6 +346,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "EvanDaBest",
+			"link": "https://youtu.be/YI64SuCHJTQ",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }
