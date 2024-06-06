@@ -1,84 +1,90 @@
 {
-    "id": 97317220,
-    "name": "NOIR",
-    "author": "Falkuma",
-    "creators": [],
-    "verifier": "Falkuma",
-    "verification": "https://youtu.be/K8Z2Ik_WlZI?si=VRuF2L33Qqj88hbE",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records": [
-        {
-            "user": "Fawxu",
-            "link": "https://youtu.be/B_PiQFa073Q?si=wmPW3Ikr7B9W64a-",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://youtu.be/7mxKTlKnSJ4?si=2Cv1DQQrurrydLtw",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "AcropolisBoy",
-            "link": "https://youtu.be/1sLlmMPWMCo",
-            "percent": 100,
-            "hz": 480
-        },
-        {
-            "user": "deadbush",
-            "link": "https://youtu.be/_aKZi68cob8",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "JoacoPe",
-            "link": "https://youtu.be/kLQIT02d0BY?si=kJjOYu00rgYTKrvK",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/GG3oceiHQlE",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Leckylecks",
-            "link": "https://youtu.be/plNRtkTpI28?si=6umiCUUzAHMMJkzi",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Frogs65",
-            "link": "https://www.youtube.com/watch?v=ORhXfTZCErE",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Galaxy4567",
-            "link": "https://www.youtube.com/watch?v=dsAU6StwuZ4&ab_channel=Galaxy4567",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://www.youtube.com/watch?v=-gS-UkTBuxM",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/YIn1CIeYmcM",
-            "percent": 100,
-            "hz": 473
-        },
-        {
-            "user": "CherrimPlushie",
-            "link": "https://youtu.be/aRCVlvCpoa0",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+	"id": 97317220,
+	"name": "NOIR",
+	"author": "Falkuma",
+	"creators": [],
+	"verifier": "Falkuma",
+	"verification": "https://youtu.be/K8Z2Ik_WlZI?si=VRuF2L33Qqj88hbE",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/B_PiQFa073Q?si=wmPW3Ikr7B9W64a-",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Shroomy!!!",
+			"link": "https://youtu.be/7mxKTlKnSJ4?si=2Cv1DQQrurrydLtw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "AcropolisBoy",
+			"link": "https://youtu.be/1sLlmMPWMCo",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": "deadbush",
+			"link": "https://youtu.be/_aKZi68cob8",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/kLQIT02d0BY?si=kJjOYu00rgYTKrvK",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Leven",
+			"link": "https://youtu.be/GG3oceiHQlE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/plNRtkTpI28?si=6umiCUUzAHMMJkzi",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Frogs65",
+			"link": "https://www.youtube.com/watch?v=ORhXfTZCErE",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Galaxy4567",
+			"link": "https://www.youtube.com/watch?v=dsAU6StwuZ4&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://www.youtube.com/watch?v=-gS-UkTBuxM",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/YIn1CIeYmcM",
+			"percent": 100,
+			"hz": 473
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/aRCVlvCpoa0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lllSafeSpacelll",
+			"link": "https://www.youtube.com/watch?v=z0u1ZcvOiLM&list=PLnAjn67OBop_mfk1N190odDuuf3n5sfb9&index=17",
+			"percent": 100,
+			"hz": 120
+		}
+	]
 }
