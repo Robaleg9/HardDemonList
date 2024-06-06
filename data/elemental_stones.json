@@ -260,6 +260,19 @@
 			"link": "https://youtu.be/HZyDEusjxyI?si=dVOKTXTppheJ1L8d&t=107",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "IDiffusionI",
+			"link": "https://youtu.be/lerl9AY_I7Y?t=750",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Aquatic51",
+			"link": "https://youtu.be/3x_ZdpDF-J0?si=D5KKXRrJQgN4jAcP",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
