@@ -1,104 +1,110 @@
 {
-    "id": 67290991,
-    "name": "Sulfuric Acid ",
-    "author": "mergan",
-    "creators": [],
-    "verifier": "mergan",
-    "verification": "https://www.youtube.com/watch?v=balxamEdaOg",
-    "percentToQualify": 100,
-    "password": 333333,
-    "records": [
-        {
-            "user": "Robaleg9",
-            "link": "https://www.youtube.com/watch?v=kAJJNuXk0uw",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://www.youtube.com/watch?v=BQGCgCXhAOE&t=80s",
-            "percent": 100,
-            "hz": 321
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://www.youtube.com/watch?v=jNfF41AjFhI",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "Fawxu",
-            "link": "https://www.youtube.com/watch?v=qIt_reLjeg0",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Leckylecks",
-            "link": "https://www.youtube.com/watch?v=CKXpoCIPifw",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "JoacoPe",
-            "link": "https://www.youtube.com/watch?v=xNyahCEzzyA",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Electro325",
-            "link": "https://youtu.be/UmjyxmKY5LQ?si=zk6LB2ENyj_ASyoI&t=616",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/RN-PGwgy19A",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "infra2792",
-            "link": "https://www.youtube.com/watch?v=I1KPswoypXg",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "lllSafeSpacelll",
-            "link": "https://www.youtube.com/watch?v=jJT2N8pzVlQ",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "gr8ness",
-            "link": "https://youtu.be/KDQY1DjCy1U?si=e97GX9IMmwrOGCyt",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "IgongDae",
-            "link": "https://youtu.be/IagMQbYX_po?si=qUCWeeecKQlg0riE",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Galaxy4567",
-            "link": "https://www.youtube.com/watch?v=14iGFcTsc9M&ab_channel=Galaxy4567",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Subperfect",
-            "link": "https://youtu.be/5_6iCiM_GIA?feature=shared",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "HexagonGD",
-            "link": "https://www.youtube.com/watch?v=WEuJuWVY7gc",
-            "percent": 100,
-            "hz": 120
-        }
-    ]
+	"id": 67290991,
+	"name": "Sulfuric Acid ",
+	"author": "mergan",
+	"creators": [],
+	"verifier": "mergan",
+	"verification": "https://www.youtube.com/watch?v=balxamEdaOg",
+	"percentToQualify": 100,
+	"password": 333333,
+	"records": [
+		{
+			"user": "Robaleg9",
+			"link": "https://www.youtube.com/watch?v=kAJJNuXk0uw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nTimaw",
+			"link": "https://www.youtube.com/watch?v=BQGCgCXhAOE&t=80s",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": "Shroomy!!!",
+			"link": "https://www.youtube.com/watch?v=jNfF41AjFhI",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://www.youtube.com/watch?v=qIt_reLjeg0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://www.youtube.com/watch?v=CKXpoCIPifw",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://www.youtube.com/watch?v=xNyahCEzzyA",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Electro325",
+			"link": "https://youtu.be/UmjyxmKY5LQ?si=zk6LB2ENyj_ASyoI&t=616",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Leven",
+			"link": "https://youtu.be/RN-PGwgy19A",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "infra2792",
+			"link": "https://www.youtube.com/watch?v=I1KPswoypXg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "lllSafeSpacelll",
+			"link": "https://www.youtube.com/watch?v=jJT2N8pzVlQ",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "gr8ness",
+			"link": "https://youtu.be/KDQY1DjCy1U?si=e97GX9IMmwrOGCyt",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "IgongDae",
+			"link": "https://youtu.be/IagMQbYX_po?si=qUCWeeecKQlg0riE",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Galaxy4567",
+			"link": "https://www.youtube.com/watch?v=14iGFcTsc9M&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Subperfect",
+			"link": "https://youtu.be/5_6iCiM_GIA?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "HexagonGD",
+			"link": "https://www.youtube.com/watch?v=WEuJuWVY7gc",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/Eez5rO8lVSs?si=FkhSUdQHztzQnCit",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
