@@ -1,78 +1,84 @@
 {
-    "id": 98558936,
-    "name": "BUZ BAM",
-    "author": "PentuGD",
-    "creators": [],
-    "verifier": "PentuGD",
-    "verification": "https://youtu.be/N4vnGWPEYZQ?si=62Xgg63O0QMH0JZk",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records" : [
-        {
-            "user": "JoacoPe",
-            "link": "https://youtu.be/dAd8mbf9Tb8?si=O0P7ndcb14cbo1rb",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://youtu.be/I4byqnVio0I?si=4IdZTcVWayw6dJv-",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/Conq81bvC_U",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Fawxu",
-            "link": "https://youtu.be/AsswRvwPx-c?si=R01UvYArYTCcn1Vm",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Leckylecks",
-            "link": "https://youtu.be/ACZnX_Gk9yc?si=Gizh60DsHPuaZfcU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "EvanDaBest",
-            "link": "https://youtu.be/N4vnGWPEYZQ?si=GGCC2egdR7zi2qA5",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://www.youtube.com/watch?v=j6MBOuOSn5E&t=5s",
-            "percent": 100,
-            "hz": 2763
-        },
-        {
-            "user": "A05Polzar",
-            "link": "https://youtu.be/8HXOY7_3Lxw?si=AN2efdbp6hKnBSuk",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "CherrimPlushie",
-            "link": "https://youtu.be/touPGJZ8lsY",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/oc-KgFCoLiQ?si=U5CAZyVgGWcOM_xc&t=208",
-            "percent": 100,
-            "hz": 450
-        },
-        {
-            "user": "Azaelf",
-            "link": "https://www.youtube.com/watch?v=Y5RNlBAFFSY",
-            "percent": 100,
-            "hz": 144
-    }
-    ]
+	"id": 98558936,
+	"name": "BUZ BAM",
+	"author": "PentuGD",
+	"creators": [],
+	"verifier": "PentuGD",
+	"verification": "https://youtu.be/N4vnGWPEYZQ?si=62Xgg63O0QMH0JZk",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/dAd8mbf9Tb8?si=O0P7ndcb14cbo1rb",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://youtu.be/I4byqnVio0I?si=4IdZTcVWayw6dJv-",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Leven",
+			"link": "https://youtu.be/Conq81bvC_U",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/AsswRvwPx-c?si=R01UvYArYTCcn1Vm",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/ACZnX_Gk9yc?si=Gizh60DsHPuaZfcU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "EvanDaBest",
+			"link": "https://youtu.be/N4vnGWPEYZQ?si=GGCC2egdR7zi2qA5",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "Shroomy!!!",
+			"link": "https://www.youtube.com/watch?v=j6MBOuOSn5E&t=5s",
+			"percent": 100,
+			"hz": 2763
+		},
+		{
+			"user": "A05Polzar",
+			"link": "https://youtu.be/8HXOY7_3Lxw?si=AN2efdbp6hKnBSuk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/touPGJZ8lsY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/oc-KgFCoLiQ?si=U5CAZyVgGWcOM_xc&t=208",
+			"percent": 100,
+			"hz": 450
+		},
+		{
+			"user": "Azaelf",
+			"link": "https://www.youtube.com/watch?v=Y5RNlBAFFSY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "insosil",
+			"link": "https://youtu.be/ShmjpXZYzNw?si=tPahmQw94JzgRPnz",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

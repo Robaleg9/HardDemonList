@@ -273,6 +273,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "SweetDremsPC",
+			"link": "https://youtu.be/89EK8oPZd58",
+			"percent": 100,
+			"hz": 120
 		}
 	]
 }
