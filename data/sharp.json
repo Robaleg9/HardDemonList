@@ -421,6 +421,13 @@
 			"link": "https://youtu.be/flq7gIubEZE",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Necrois",
+			"link": "https://youtu.be/Xv5RDaJylA8?si=rFMsPpNFIZEyCNOI",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
