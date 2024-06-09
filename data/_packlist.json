@@ -178,7 +178,8 @@
             "artemisia",
             "i_cant_fix_you",
             "exhaust",
-            "breakneck"
+            "breakneck",
+            "reminiscence"
         ],
         "colour": "#ffd700"
     },
@@ -317,7 +318,8 @@
         "levels": [
             "sonic_chamber",
             "pressure_chamber",
-            "adrenaline_chamber"
+            "adrenaline_chamber",
+            "club_chamber"
         ],
         "colour": "#c0c0c0"
     },
@@ -452,6 +454,7 @@
         "levels": [
             "cubic_force",
             "night_of_demon",
+            "club_chamber",
             "c1u6"
         ],
         "colour": "#c0c0c0"
