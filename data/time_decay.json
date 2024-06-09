@@ -270,6 +270,12 @@
 			"percent": 100,
 			"hz": 90,
 			"mobile": true
+		},
+		{
+			"user": "plimbus",
+			"link": "https://youtu.be/PLaAq7LW6cY?si=GLTbtIaKYoDf62be",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
