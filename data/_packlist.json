@@ -15,7 +15,7 @@
         "levels": [
             "azure_paralyzer",
             "blrpl_lghts",
-            "castle_dedede",
+            "crimson_flare",
             "distorzona",
             "elemental_stones",
             "fortitude",
@@ -23,7 +23,7 @@
             "hibernal",
             "impetus",
             "jajagarasu",
-            "k_a_n_g",
+            "kilpac",
             "late",
             "milkshake_draft",
             "night_of_demon",
@@ -57,8 +57,7 @@
         "levels": [
             "serpent",
             "dualviper",
-            "ribbit",
-            "kasrat"
+            "ribbit"
         ],
         "colour": "#ffd700"
     },
@@ -71,8 +70,7 @@
             "dead_beat",
             "flow",
             "total_oblivion",
-            "ultra_circles",
-            "afterlocked"
+            "ultra_circles"
         ],
         "colour": "#ffd700"
     },
@@ -83,6 +81,7 @@
             "surgeragon",
             "sulfuric_acid",
             "fusion",
+            "coreosious",
             "k_a_n_g"
         ],
         "colour": "#ffd700"
@@ -136,8 +135,7 @@
             "hash",
             "elemental_melons",
             "danksgiving",
-            "popcorn",
-            "cheeto"
+            "popcorn"
         ],
         "colour": "#ffd700"
     },
@@ -230,7 +228,6 @@
             "magnolia",
             "late",
             "exhaust",
-            "we_care",
             "ripplez"
         ],
         "colour": "#ffd700"
@@ -278,11 +275,8 @@
         "levels": [
             "weirdmaggedon",
             "immortal_ichor",
-            "wonder_cosm",
-            "afterlocked",
-            "massacre",
             "terror_factory",
-            "cant_let_fly"
+            "wonder_cosm"
         ],
         "colour": "#ffd700"
     },
@@ -303,8 +297,7 @@
             "splendid_mold",
             "shambolic",
             "kirbys_meltdown",
-            "necrofantasia",
-            "kasrat"
+            "necrofantasia"
         ],
         "colour": "#c0c0c0"
     },
@@ -352,6 +345,8 @@
         "levels": [
             "epoch",
             "elevatia",
+            "evermore",
+            "steam_shakedown",
             "kirbys_meltdown"
         ],
         "colour": "#c0c0c0"
@@ -414,7 +409,8 @@
         "levels": [
             "screamroom",
             "crispy_reaction",
-            "night_of_demon"
+            "night_of_demon",
+            "club_chamber"
         ],
         "colour": "#c0c0c0"
     },
@@ -506,10 +502,9 @@
             "xes",
             "screamroom",
             "elo2",
-            "we_care",
             "sharp",
-            "life",
-            "cant_let_fly"
+            "life"
+
         ],
         "colour": "#c0c0c0"
     },
@@ -545,23 +540,13 @@
         "colour": "#cd7f32"
     },
     {
-        "name": "Cookie List Pack",
-        "levels": [
-            "crackdown",
-            "sky_temple",
-            "afterlocked"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
         "name": "Dangerous Pack",
         "levels": [
             "sulfuric_acid",
             "ablaze",
             "warzone",
             "sharp",
-            "neurotoxin",
-            "massacre"
+            "neurotoxin"
         ],
         "colour": "#cd7f32"
     },
@@ -570,7 +555,17 @@
         "levels": [
             "artillery",
             "wonder_cosm",
-            "massacre"
+            "crackdown"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
+        "name": "Holiday Pack",
+        "levels": [
+            "hibernal",
+            "night_of_demon",
+            "danksgiving",
+            "love_syndrome"
         ],
         "colour": "#cd7f32"
     },
@@ -586,7 +581,7 @@
     {
         "name": "Memory Pack 1",
         "levels": [
-            "massacre",
+            "ebony",
             "araneo",
             "flirt_drive"
         ],
@@ -600,6 +595,15 @@
             "ablaze",
             "e_v_a_c_u_a_t_i_o_n",
             "infernity"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
+        "name": "Oddly Spaced Pack",
+        "levels": [
+            "e_v_a_c_u_a_t_i_o_n",
+            "screamroom",
+            "k_a_n_g"
         ],
         "colour": "#cd7f32"
     },
@@ -619,7 +623,7 @@
             "k_a_n_g",
             "araneo",
             "noir",
-            "floral_strobe"
+            "noem"
         ],
         "colour": "#cd7f32"
     },
