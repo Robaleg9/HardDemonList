@@ -1,150 +1,158 @@
 {
-    "id": 91904126,
-    "name": "Love Syndrome",
-    "author": "Tinraz",
-    "creators": ["Tinraz"],
-    "verifier": "Tinraz",
-    "verification": "https://www.youtube.com/watch?v=4wRcIIqFuT4",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Bobbyp02",
-            "link": "https://youtu.be/3GvC9KRtkHY?si=qwf-PhvGbxDf36c_",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Fawxu",
-            "link": "https://youtu.be/LmzxgWxmGWI?si=w2J7ASf-tTQe3uwg",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "JoacoPe",
-            "link": "https://youtu.be/5cnSAQyR0eA",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "robl",
-            "link": "https://youtu.be/tVPv6_7Udlg?si=q8p3ecYJGaYssZ11",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://youtu.be/ktFBZxE_O-k?si=T-iuU2zi3_Hz-21K",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Galaxy4567",
-            "link": "https://www.youtube.com/watch?v=M_OglhN0VIk&ab_channel=Galaxy4567",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/WOGszI29eBc",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Leckylecks",
-            "link": "https://youtu.be/48Ht0HULGnw?si=hDZDA-ZxGr3ZJ_D4",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "deadbush",
-            "link": "https://youtu.be/pmrvUGxPMpo",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "insosil",
-            "link": "https://youtu.be/Zykdg5N2nl0?si=mGSjOXyr24um0mo9",
-            "percent": 100,
-            "hz": 280
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://www.youtube.com/watch?v=JS8mWHQAONo",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/NNu6ASQS10M?si=eHCA0iBedfW4pO9E&t=179",
-            "percent": 100,
-            "hz": 321
-    },
-    {
-        "user": "lllsafespacelll",
-        "link": "https://www.youtube.com/watch?v=KsQNfkDdbls&t=109s",
-        "percent": 100,
-        "hz": 120
-},
-        {
-            "user": "Firedox",
-            "link": "https://youtu.be/hhLk0S2eHW4?si=UCWfDnrALQtO8BXC",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "NewDark",
-            "link": "https://youtu.be/DKJjqpeVRgY?si=CBeq6HNWXGA6tUbF",
-            "percent": 100,
-            "hz": 144
-    },
-    {
-        "user": "Joaquin",
-        "link": "https://youtu.be/FwQHeCBv5kY",
-        "percent": 100,
-        "hz": 240
-    },
-    {
-        "user": "Azaelf",
-        "link": "https://youtu.be/mIubINr0Mek",
-        "percent": 100,
-        "hz": 240
-    },
-    {
-        "user": "tomm",
-        "link": "https://youtu.be/seCtVVlLzDI",
-        "percent": 100,
-        "hz": 240
-    }, 
-    {
-        "user": "IgongDae",
-        "link": "https://youtu.be/wUUbr7_pzZs",
-        "percent": 100,
-        "hz": 360
-    },
-    {
-        "user": "CherrimPlushie",
-        "link": "https://youtu.be/5WSKykQzhd0?si=ir5qntjk_dIxneqq",
-        "percent": 100,
-        "hz": 240
-    },
-        {
-            "user": "Mylou",
-            "link": "https://www.youtube.com/watch?v=9TQ34FqcVoE",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "RelieV",
-            "link": "https://youtu.be/fdwZM7MEiz4?feature=shared",
-            "percent": 100,
-            "hz": 90,
-            "mobile": true
-        },
-        {
-            "user": "Frogs65",
-            "link": "https://youtu.be/gxa2T09fvUI",
-            "percent": 100,
-            "hz": 60
-        }
-    ]
+	"id": 91904126,
+	"name": "Love Syndrome",
+	"author": "Tinraz",
+	"creators": [
+		"Tinraz"
+	],
+	"verifier": "Tinraz",
+	"verification": "https://www.youtube.com/watch?v=4wRcIIqFuT4",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": "Bobbyp02",
+			"link": "https://youtu.be/3GvC9KRtkHY?si=qwf-PhvGbxDf36c_",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/LmzxgWxmGWI?si=w2J7ASf-tTQe3uwg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/5cnSAQyR0eA",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "robl",
+			"link": "https://youtu.be/tVPv6_7Udlg?si=q8p3ecYJGaYssZ11",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Shroomy!!!",
+			"link": "https://youtu.be/ktFBZxE_O-k?si=T-iuU2zi3_Hz-21K",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Galaxy4567",
+			"link": "https://www.youtube.com/watch?v=M_OglhN0VIk&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Leven",
+			"link": "https://youtu.be/WOGszI29eBc",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/48Ht0HULGnw?si=hDZDA-ZxGr3ZJ_D4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "deadbush",
+			"link": "https://youtu.be/pmrvUGxPMpo",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "insosil",
+			"link": "https://youtu.be/Zykdg5N2nl0?si=mGSjOXyr24um0mo9",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://www.youtube.com/watch?v=JS8mWHQAONo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/NNu6ASQS10M?si=eHCA0iBedfW4pO9E&t=179",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": "lllsafespacelll",
+			"link": "https://www.youtube.com/watch?v=KsQNfkDdbls&t=109s",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Firedox",
+			"link": "https://youtu.be/hhLk0S2eHW4?si=UCWfDnrALQtO8BXC",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "NewDark",
+			"link": "https://youtu.be/DKJjqpeVRgY?si=CBeq6HNWXGA6tUbF",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Joaquin",
+			"link": "https://youtu.be/FwQHeCBv5kY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Azaelf",
+			"link": "https://youtu.be/mIubINr0Mek",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "tomm",
+			"link": "https://youtu.be/seCtVVlLzDI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "IgongDae",
+			"link": "https://youtu.be/wUUbr7_pzZs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/5WSKykQzhd0?si=ir5qntjk_dIxneqq",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Mylou",
+			"link": "https://www.youtube.com/watch?v=9TQ34FqcVoE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "RelieV",
+			"link": "https://youtu.be/fdwZM7MEiz4?feature=shared",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
+		},
+		{
+			"user": "Frogs65",
+			"link": "https://youtu.be/gxa2T09fvUI",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "A05Polzar",
+			"link": "https://youtu.be/rDCTh5WLjGo?si=9g56ognBM0BJX2kD&t=95",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
