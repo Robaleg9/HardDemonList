@@ -106,6 +106,9 @@ export default {
                      <p>
                         Achieved the record without using hacks (physics bypass is not allowed).
                     </p>
+                     <p>
+                        You cannot submit a record for another player under any circumstance.  We will reject the record if the names of the record holder and the record submitter do not match. (Your discord name does not have to match the leaderboard name, however all records are at the discretion of the person reviewing it to prevent bypassing this rule).
+                    </p>
                     <p>
                         Switching FPS in the middle of the completion will invalidate your submission (even if it is to avoid a bug).
                     </p>
