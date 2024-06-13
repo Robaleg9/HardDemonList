@@ -2,10 +2,56 @@
 	"id": 85176458,
 	"name": "keygen",
 	"author": "sycor",
-	"creators": ["sycor"," Rouzs"],
+	"creators": [
+		"sycor",
+		" Rouzs"
+	],
 	"verifier": "LordVadercraft but not really",
 	"verification": "https://youtu.be/Tv79KB10Lh4?si=2fPpLixiePYRWggR",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Robaleg9",
+			"link": "https://youtu.be/LeIrdYn4DWM?si=jhShDNNZalIJNaAl",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/Cj9Ko_tW4vA?si=PXmNGYvTprM5FXdv",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Aph",
+			"link": "https://youtu.be/X2UfhelW8_k",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": "A05Polzar",
+			"link": "https://youtu.be/YDyVa9zxKcc?si=W75YLJYwrachVovp",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/xyr__U9J0CQ",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/jKRgyxQfkPo?si=eV8zJaQKiidtiy0p",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/y4LelRjPmvY?si=fNVpqQj4b3ANBPn7",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
