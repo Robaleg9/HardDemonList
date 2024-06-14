@@ -769,6 +769,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "wacky",
+			"link": "https://www.youtube.com/watch?v=bme5Z5zo66k",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }
