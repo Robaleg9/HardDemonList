@@ -1031,6 +1031,13 @@
 			"link": "https://youtu.be/9GllU1GmTYU",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": "kth11211",
+			"link": "https://youtu.be/wqg4dIiUDLY",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }

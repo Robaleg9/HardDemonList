@@ -2,10 +2,76 @@
 	"id": 78487463,
 	"name": "PANICAL",
 	"author": "CyberBT",
-	"creators": ["harent"," LSpark"," 9h5"," Floe"," archghost"," Tech"," Martini"," hayse"," Irek b4i"," hungle"," Rimexon"," Aneki"," borsosnovy"," extazy"," MeiMei"," Dani130"],
+	"creators": [
+		"harent",
+		" LSpark",
+		" 9h5",
+		" Floe",
+		" archghost",
+		" Tech",
+		" Martini",
+		" hayse",
+		" Irek b4i",
+		" hungle",
+		" Rimexon",
+		" Aneki",
+		" borsosnovy",
+		" extazy",
+		" MeiMei",
+		" Dani130"
+	],
 	"verifier": "Dani130",
 	"verification": "https://youtu.be/aGDDrPtfxwM?si=8qcM69lWtjeOiU7R",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/DWGyIi_DLzw?si=pC-0Iy7LKl5PZwuZ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "insosil",
+			"link": "https://youtu.be/JixbmJsDIMw?si=yRChcxs17K8mx3n1",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://youtu.be/fiiMV5906S8?si=sTBVjEzGXCmm2Nes",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "A05Polzar",
+			"link": "https://youtu.be/BsQ7ly4ng54?si=JcIR6xJ5h3vw3Rpo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/V8DHV2fPSac",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Aph",
+			"link": "https://youtu.be/uP97ev1Qv2s?si=XQ9UPefSvVEaLRY9",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/mBHHm9o1ZOE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Shroomy!!!",
+			"link": "https://youtu.be/XYRwq7lpOdg?si=JteCW7nYme0kDv-G",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
