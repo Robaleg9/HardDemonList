@@ -1036,6 +1036,12 @@
 			"percent": 100,
 			"hz": 90,
 			"mobile": true
+		},
+		{
+			"user": "xEssencia",
+			"link": "https://www.youtube.com/watch?v=JrFcmrB9IVA",
+			"percent": 100,
+			"hz": 75
 		}
 	]
 }

@@ -548,6 +548,12 @@
 			"percent": 100,
 			"hz": 90,
 			"mobile": true
+		},
+		{
+			"user": "Mishaza",
+			"link": "https://www.youtube.com/watch?v=jEbU0OHK9ZM",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }
