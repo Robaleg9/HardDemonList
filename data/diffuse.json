@@ -1038,6 +1038,12 @@
 			"percent": 100,
 			"hz": 120,
 			"mobile": true
+		},
+		{
+			"user": "Dwibble",
+			"link": "https://www.youtube.com/watch?v=tCfUUILE9Bs",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }

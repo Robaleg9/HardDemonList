@@ -202,6 +202,12 @@
 			"percent": 100,
 			"hz": 90,
 			"mobile": true
+		},
+		{
+			"user": "Mylou",
+			"link": "https://www.youtube.com/watch?v=LChe4l0tCSU",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
