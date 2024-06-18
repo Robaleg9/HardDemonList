@@ -324,6 +324,19 @@
 			"link": "https://www.youtube.com/watch?v=N_F9CfAW0Vo",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Necrois",
+			"link": "https://youtu.be/GJPcaxZTFag?si=aH9jPETQe19bkogd",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": "Nayls",
+			"link": "https://youtu.be/qScilz4hyZA",
+			"percent": 100,
+			"hz": 480
 		}
 	]
 }
