@@ -87,6 +87,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "Droid",
+			"link": "https://youtu.be/PM_XkBO16EM",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }

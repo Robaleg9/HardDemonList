@@ -1,72 +1,84 @@
 {
-    "id": 27762542,
-    "name": "Epoch",
-    "author": "Fluore",
-    "creators": [],
-    "verifier": "maphin",
-    "verification": "https://www.youtube.com/watch?v=-CG9DFeU5Tw",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records" : [
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/Ohvf_dZ4gHI?si=b4ISVQUmCj7-Jr17&t=159",
-            "percent": 100,
-            "hz": 300
-        },
-        {
-            "user": "Fawxu",
-            "link": "https://youtu.be/cl2k3sBkYmo?si=Kri-5dZBvXFH38-7",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "L1GHTNING",
-            "link": "https://youtu.be/nahcr9HfNFY",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "JoacoPe",
-            "link": "https://youtu.be/UjH5BK1j9lE?si=_m1zeWyDJVS1nhMt",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://youtu.be/Vz84YnTSBwo?si=tRyoqmZNnTmVCpEO",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "IgongDae",
-            "link": "https://youtu.be/zhmRmBCFdJU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/Xazd6_EsMBE?si=M7u8GBV4ABUESHIS&t=89",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Leckylecks",
-            "link": "https://youtu.be/mbOHxa2jtEQ?si=wqdPtKpjkhLvqZbu",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "CherrimPlushie",
-            "link": "https://youtu.be/zMxGFiWr_Ac?si=SIuQIYdS4TwjeH1s",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Azaelf",
-            "link": "https://youtu.be/mIubINr0Mek",
-            "percent": 100,
-            "hz": 240
-    }
-    ]
+	"id": 27762542,
+	"name": "Epoch",
+	"author": "Fluore",
+	"creators": [],
+	"verifier": "maphin",
+	"verification": "https://www.youtube.com/watch?v=-CG9DFeU5Tw",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/Ohvf_dZ4gHI?si=b4ISVQUmCj7-Jr17&t=159",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/cl2k3sBkYmo?si=Kri-5dZBvXFH38-7",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "L1GHTNING",
+			"link": "https://youtu.be/nahcr9HfNFY",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/UjH5BK1j9lE?si=_m1zeWyDJVS1nhMt",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://youtu.be/Vz84YnTSBwo?si=tRyoqmZNnTmVCpEO",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "IgongDae",
+			"link": "https://youtu.be/zhmRmBCFdJU",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Leven",
+			"link": "https://youtu.be/Xazd6_EsMBE?si=M7u8GBV4ABUESHIS&t=89",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/mbOHxa2jtEQ?si=wqdPtKpjkhLvqZbu",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/zMxGFiWr_Ac?si=SIuQIYdS4TwjeH1s",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Azaelf",
+			"link": "https://youtu.be/mIubINr0Mek",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "EvanDaBest",
+			"link": "https://youtu.be/TV1SN3Zxb4o",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "tomm",
+			"link": "https://youtu.be/os8_zGL84bQ",
+			"percent": 100,
+			"hz": 120
+		}
+	]
 }
