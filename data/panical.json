@@ -90,6 +90,13 @@
 			"link": "https://youtu.be/QTxReubAXTU",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": "Arturo Plural",
+			"link": "https://youtu.be/1-nQDXpcnQc?si=kPG7K_2-899YTaoU",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
