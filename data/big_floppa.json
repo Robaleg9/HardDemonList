@@ -455,6 +455,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "Marky",
+			"link": "https://www.youtube.com/watch?v=nFemT81ITEk&t=36s",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }
