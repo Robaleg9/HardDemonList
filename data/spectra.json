@@ -2,10 +2,40 @@
 	"id": 25501342,
 	"name": "Spectra",
 	"author": "ZenthicAlpha",
-	"creators": ["Giron"," Ryder"," Koreaqwer"," ZenthicAlpha"],
+	"creators": [
+		"Giron",
+		" Ryder",
+		" Koreaqwer",
+		" ZenthicAlpha"
+	],
 	"verifier": "Ryder",
 	"verification": "https://www.youtube.com/watch?v=UUjT83Kp1Vg",
 	"percentToQualify": 100,
 	"password": "753159",
-	"records" : []
+	"records": [
+		{
+			"user": "Robaleg9",
+			"link": "https://youtu.be/sRZDASvfFU0?si=CCXeB9lqwG-7OiYe",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/A8-lFTmYcaw?si=Lsc8QLNdawZx27qV",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/Hy5fSQtgzo0",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/9kdODQXOnoo?si=PyjgZOyw20fsjW0e",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
