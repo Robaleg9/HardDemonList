@@ -150,6 +150,18 @@
 			"link": "https://www.youtube.com/watch?v=l5DBl_Yqi54",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": "IDiffusionI",
+			"link": "https://youtu.be/tjtWBASGHmQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "DerModster",
+			"link": "https://www.youtube.com/watch?v=aad5otYNREw",
+			"percent": 100,
+			"hz": 288
 		}
 	]
 }
