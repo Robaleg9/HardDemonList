@@ -185,6 +185,19 @@
 			"link": "https://youtu.be/khTrnAnhdp4",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Shroomy!!!",
+			"link": "https://youtu.be/FbODsSBJ07U?si=aOgKRnoTshZ4maqr",
+			"percent": 100,
+			"hz": 240,
+			"mobile": true
+		},
+		{
+			"user": "IDiffusionI",
+			"link": "https://youtu.be/M-Ov_XAz__8",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }

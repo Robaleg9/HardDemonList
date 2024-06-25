@@ -578,6 +578,24 @@
 			"link": "https://www.youtube.com/watch?v=aad5otYNREw&t=163s",
 			"percent": 100,
 			"hz": 288
+		},
+		{
+			"user": "Bluebarracks",
+			"link": "https://youtu.be/vjegRXiOgW4",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": "JJw128",
+			"link": "https://youtu.be/IFQwmDDw7xA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "GreeZeer",
+			"link": "https://youtu.be/Ko-4iHFKLF0?si=LwpM7I_NIGV69sjk",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }

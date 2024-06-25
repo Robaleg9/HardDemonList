@@ -64,6 +64,19 @@
 			"link": "https://youtu.be/05akwdabcbk",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": "RelieV",
+			"link": "https://youtu.be/wcWe2TT1Eng",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
+		},
+		{
+			"user": "deadbush",
+			"link": "https://youtu.be/gjtuhuqy22U",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }
