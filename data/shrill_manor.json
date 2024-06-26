@@ -1,86 +1,103 @@
 {
-    "id": 78510527,
-    "name": "Shrill Manor",
-    "author": "St1ngGD",
-    "creators": ["St1ngGD"," Meekah"," UnDeRpiPse"," MazZedy"," Mzero"," Liu"," Gradientxxd"," Handexx"," SuRge"," Lambda"],
-    "verifier": "Nico99",
-    "verification": "https://www.youtube.com/watch?v=iXCDE_V5R2A",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records" : [
-        {
-         "user": "Fawxu",
-         "link": "https://youtu.be/xdswCpKskFE?si=t0nGh2lesPVW3IqL",
-         "percent": 100,
-         "hz": 240
-        },
-        {
-        "user": "Stallia",
-        "link": "https://www.youtube.com/watch?v=GVQhJldXerY",
-        "percent": 100,
-        "hz": 240
-        },
-        {
-        "user": "JoacoPe",
-        "link": "https://youtu.be/IIKvge9eaPg?si=Yv-sT5gTsX_OqNgo",
-        "percent": 100,
-        "hz": 120
-        },
-        {
-        "user": "Aph",
-        "link": "https://youtu.be/-_g5DYKT7go?si=IWWtDF-VCoLBF0Ka",
-        "percent": 100,
-        "hz": 360
-        },
-        {
-        "user": "Leven",
-        "link": "https://youtu.be/Uju3a9pIik0",
-        "percent": 100,
-        "hz": 144
-        },
-        {
-        "user": "Leckylecks",
-        "link": "https://youtu.be/0ft-h9IziKA?si=8n8tThmhq-cI7XL3",
-        "percent": 100,
-        "hz": 360
-        },
-        {
-        "user": "Robaleg9",
-        "link": "https://youtu.be/upBq16jp7-Q",
-        "percent": 100,
-        "hz": 240
-        },
-        {
-        "user": "nTimaw",
-        "link": "https://youtu.be/ojCEHMcf3Ao?si=UBcBX-uhaUs40PSI&t=179",
-        "percent": 100,
-        "hz": 321
-        },
-        {
-        "user": "Necrois",
-        "link": "https://youtu.be/Nbup1_UR4es?si=BMVtkeQUt8TOgcac",
-        "percent": 100,
-        "hz": 120,
-        "mobile": true
-        },
-        {
-        "user": "CherrimPlushie",
-        "link": "https://youtu.be/chyw7u6WXKU?si=wyEjhcqsbF_m-2cC",
-        "percent": 100,
-        "hz": 240
-        },
-        {
-            "user": "Azaelf",
-            "link": "https://www.youtube.com/watch?v=mIubINr0Mek",
-            "percent": 100,
-            "hz": 144
-    },
-        {
-            "user": "RelieV",
-            "link": "https://youtu.be/jW2BbaJM02o?feature=shared",
-            "percent": 100,
-            "hz": 90,
-            "mobile": true
-        }
-    ]
+	"id": 78510527,
+	"name": "Shrill Manor",
+	"author": "St1ngGD",
+	"creators": [
+		"St1ngGD",
+		" Meekah",
+		" UnDeRpiPse",
+		" MazZedy",
+		" Mzero",
+		" Liu",
+		" Gradientxxd",
+		" Handexx",
+		" SuRge",
+		" Lambda"
+	],
+	"verifier": "Nico99",
+	"verification": "https://www.youtube.com/watch?v=iXCDE_V5R2A",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/xdswCpKskFE?si=t0nGh2lesPVW3IqL",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Stallia",
+			"link": "https://www.youtube.com/watch?v=GVQhJldXerY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/IIKvge9eaPg?si=Yv-sT5gTsX_OqNgo",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Aph",
+			"link": "https://youtu.be/-_g5DYKT7go?si=IWWtDF-VCoLBF0Ka",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Leven",
+			"link": "https://youtu.be/Uju3a9pIik0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/0ft-h9IziKA?si=8n8tThmhq-cI7XL3",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://youtu.be/upBq16jp7-Q",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/ojCEHMcf3Ao?si=UBcBX-uhaUs40PSI&t=179",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": "Necrois",
+			"link": "https://youtu.be/Nbup1_UR4es?si=BMVtkeQUt8TOgcac",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/chyw7u6WXKU?si=wyEjhcqsbF_m-2cC",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Azaelf",
+			"link": "https://www.youtube.com/watch?v=mIubINr0Mek",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "RelieV",
+			"link": "https://youtu.be/jW2BbaJM02o?feature=shared",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
+		},
+		{
+			"user": "tomm",
+			"link": "https://youtu.be/MluRwtf004o",
+			"percent": 100,
+			"hz": 60
+		}
+	]
 }
