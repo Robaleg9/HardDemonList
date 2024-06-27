@@ -1044,6 +1044,12 @@
 			"link": "https://www.youtube.com/watch?v=tCfUUILE9Bs",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": "Droid",
+			"link": "https://youtu.be/DJnB2sfj00g",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }
