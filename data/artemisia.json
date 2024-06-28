@@ -311,6 +311,13 @@
 			"link": "https://youtu.be/mmXda2n1i9s",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": "nate0",
+			"link": "https://youtu.be/jQzwSNTiSlw?si=R1kDTdwlDVa540ds",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
