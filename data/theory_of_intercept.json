@@ -1,128 +1,160 @@
 {
-    "id": 9431737,
-    "name": "Theory of IntercepT",
-    "author": "Dorami",
-    "creators": [],
-    "verifier": "Dorami",
-    "verification": "https://youtu.be/NPwM0LQUfyc",
-    "percentToQualify": 100,
-    "password": "800000",
-    "records": [
-        {
-          "user": "RoboBear04",
-          "link": "https://youtu.be/jvAYaU2iF9E",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "nTimaw",
-          "link": "https://youtu.be/LVKKkValW6w",
-          "percent": 100,
-          "hz": 300
-        },
-        {
-          "user": "lllSafeSpacelll",
-          "link": "https://www.youtube.com/watch?v=V8fJ81Mhpko",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "Fawxu",
-          "link": "https://youtu.be/JEKr0s-oM94",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "SmileBullet",
-          "link": "https://youtu.be/WQJ2tkWd3pI",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
-        },
-        {
-          "user": "Melody3",
-          "link": "https://youtu.be/ZKbnzO22EGs",
-          "percent": 100,
-          "hz": 360
-        },
-        {
-          "user": "DenyZr",
-          "link": "https://www.youtube.com/watch?v=E_ru_CJ8qnY",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "Robaleg9",
-          "link": "https://www.youtube.com/watch?v=AmcG6eiEH1w",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "Willow",
-          "link": "https://youtu.be/WSA51iKIO3M",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "AlphaXIV",
-          "link": "https://youtu.be/vuDQagzphCU",
-          "percent": 100,
-          "hz": 144
-        },
-        {
-            "user": "arcanin",
-            "link": "https://youtu.be/0Lsgdqdv1IQ?t=2859",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Electro325",
-            "link": "https://youtu.be/_IeCFb0pUx4",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-          "user": "JoacoPe",
-          "link": "https://youtu.be/-R0ZOmNoSH8",
-          "percent": 100,
-          "hz": 120
-      },
-        {
-          "user": "ItzGray",
-          "link": "https://www.youtube.com/watch?v=V3nyagWK44w",
-          "percent": 100,
-          "hz": 360
-      },
-         {
-          "user": "Ready Red Panda",
-          "link": "https://www.youtube.com/watch?v=s3CRVnioT5Y",
-          "percent": 100,
-          "hz": 240
-          },
-          {
-            "user": "Leckylecks",
-            "link": "https://youtu.be/BpxkhN0QGL8",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-          "user": "Leven",
-          "link": "https://youtu.be/Ld6YwkugbnE",
-          "percent": 100,
-          "hz": 75
-        },
-        {
-        "user": "Shroomy!!!",
-        "link": "https://youtu.be/DsTdYNgcGec?si=USJl-DZCO7rnd8lk",
-        "percent": 100,
-        "hz": 120,
-        "mobile": true
-        },
-        {
-        "user": "deadbush",
-        "link": "https://youtu.be/JdAEtxSLm8A",
-        "percent": 100,
-        "hz": 144
-        }
-    ]
+	"id": 9431737,
+	"name": "Theory of IntercepT",
+	"author": "Dorami",
+	"creators": [],
+	"verifier": "Dorami",
+	"verification": "https://youtu.be/NPwM0LQUfyc",
+	"percentToQualify": 100,
+	"password": "800000",
+	"records": [
+		{
+			"user": "RoboBear04",
+			"link": "https://youtu.be/jvAYaU2iF9E",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/LVKKkValW6w",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": "lllSafeSpacelll",
+			"link": "https://www.youtube.com/watch?v=V8fJ81Mhpko",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/JEKr0s-oM94",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "SmileBullet",
+			"link": "https://youtu.be/WQJ2tkWd3pI",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "Melody3",
+			"link": "https://youtu.be/ZKbnzO22EGs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "DenyZr",
+			"link": "https://www.youtube.com/watch?v=E_ru_CJ8qnY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://www.youtube.com/watch?v=AmcG6eiEH1w",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Willow",
+			"link": "https://youtu.be/WSA51iKIO3M",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "AlphaXIV",
+			"link": "https://youtu.be/vuDQagzphCU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "arcanin",
+			"link": "https://youtu.be/0Lsgdqdv1IQ?t=2859",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Electro325",
+			"link": "https://youtu.be/_IeCFb0pUx4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/-R0ZOmNoSH8",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "ItzGray",
+			"link": "https://www.youtube.com/watch?v=V3nyagWK44w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Ready Red Panda",
+			"link": "https://www.youtube.com/watch?v=s3CRVnioT5Y",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/BpxkhN0QGL8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "Leven",
+			"link": "https://youtu.be/Ld6YwkugbnE",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": "Shroomy!!!",
+			"link": "https://youtu.be/DsTdYNgcGec?si=USJl-DZCO7rnd8lk",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": "deadbush",
+			"link": "https://youtu.be/JdAEtxSLm8A",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Aph",
+			"link": "https://youtu.be/AbeWnqDXtKg",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": "A05Polzar",
+			"link": "https://youtu.be/TnaSK1_yrcM?si=j58Z963V22UGEdp2&t=1616",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Peregrine",
+			"link": "https://youtu.be/WIPW7FfDkZ0?si=en-8mYlG2jc9FP9V",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "RelieV",
+			"link": "https://youtu.be/YlY2bulIWg8",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/qotuFTuDFjw?si=3tkZiEEQydGcQZmn",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
