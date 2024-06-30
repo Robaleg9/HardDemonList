@@ -234,6 +234,12 @@
 			"link": "https://youtu.be/owvRB_Em818",
 			"percent": 100,
 			"hz": 1000
+		},
+		{
+			"user": "DerModster",
+			"link": "https://www.youtube.com/watch?v=aad5otYNREw",
+			"percent": 100,
+			"hz": 288
 		}
 	]
 }
