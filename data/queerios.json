@@ -49,6 +49,19 @@
 			"link": "https://youtu.be/Cla38f3Mv6Y?si=pE8wb18SSAygGKhM",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/JXGnNFgZJh4?si=Dmflkju9bzqGxWBB",
+			"percent": 100,
+			"hz": 450
+		},
+		{
+			"user": "RelieV",
+			"link": "https://youtu.be/t3ZZbX8dpFM",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
 		}
 	]
 }

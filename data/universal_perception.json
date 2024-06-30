@@ -189,6 +189,12 @@
 			"percent": 100,
 			"hz": 90,
 			"mobile": true
+		},
+		{
+			"user": "Aph",
+			"link": "https://youtu.be/chzo9IEmAjk",
+			"percent": 100,
+			"hz": 1000
 		}
 	]
 }

@@ -180,6 +180,13 @@
 			"link": "https://youtu.be/nxub7HLb-lQ",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Bonezizdum",
+			"link": "https://youtu.be/5eq9nYp84d4?si=5tKJ6UZ1sLsjf60C",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
