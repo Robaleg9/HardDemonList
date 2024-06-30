@@ -281,6 +281,18 @@
 			"link": "https://www.youtube.com/watch?v=aad5otYNREw&t=4099s",
 			"percent": 100,
 			"hz": 288
+		},
+		{
+			"user": "ChaeTDC",
+			"link": "https://www.youtube.com/watch?v=9QI9C2pQ2XE",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "insosil",
+			"link": "https://youtu.be/boJsSh9zrHg?si=zx5-1N6asIERkNnz",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
