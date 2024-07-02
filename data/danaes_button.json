@@ -103,6 +103,13 @@
 			"percent": 100,
 			"hz": 90,
 			"mobile": true
+		},
+		{
+			"user": "JoseRicoTacoNachoQuesadillaMandilaJones",
+			"link": "https://youtu.be/IK2jZjCXQ0M?si=qz_ZC6xAtcfeVzbx",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }

@@ -248,6 +248,13 @@
 			"link": "https://youtu.be/KTNOADP7DWU",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "JoseRicoTacoNachoQuesadillaMandilaJones",
+			"link": "https://youtu.be/Q9M3E4_CvD0?si=ggfYOy_fbCxz-Kuh",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
