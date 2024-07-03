@@ -328,6 +328,13 @@
 			"link": "https://www.youtube.com/watch?v=aad5otYNREw&t=4387s",
 			"percent": 100,
 			"hz": 288
+		},
+		{
+			"user": "SubCommander",
+			"link": "https://youtu.be/R0YegKq1HEc?si=lG81RDDVrAhaYhwC",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
