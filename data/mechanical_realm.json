@@ -2,10 +2,31 @@
 	"id": 60191175,
 	"name": "Mechanical Realm",
 	"author": "Maxie25",
-	"creators": ["Maxie25"],
+	"creators": [
+		"Maxie25"
+	],
 	"verifier": "ColorBolt",
 	"verification": "https://www.youtube.com/watch?v=ykE3ysZ5hAU",
 	"percentToQualify": 100,
 	"password": "Free To Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "A05Polzar",
+			"link": "https://youtu.be/vYIC37KXiqk?si=jOtkJxbsRhhXwViP",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Frogs65",
+			"link": "https://www.youtube.com/watch?v=tm0U5N4YJk0",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/Y6VO_3bcrLY",
+			"percent": 100,
+			"hz": 120
+		}
+	]
 }
