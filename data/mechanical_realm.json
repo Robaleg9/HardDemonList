@@ -27,6 +27,19 @@
 			"link": "https://youtu.be/Y6VO_3bcrLY",
 			"percent": 100,
 			"hz": 120
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/oa_ouGdjfn0?si=E3aPNDFSIFZzwpck",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "RelieV",
+			"link": "https://youtu.be/gQEinxvAe6c?feature=shared",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
 		}
 	]
 }
