@@ -237,6 +237,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+        {
+			"user": "Bluebarracks",
+			"link": "https://youtu.be/kEq1OITieTA?si=VbRxgSO_XdkqbEil",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }
