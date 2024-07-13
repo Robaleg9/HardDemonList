@@ -290,10 +290,16 @@
             "mobile": true
         },
         {
-        "user": "RedRampage9776",
-        "link": "https://www.youtube.com/watch?v=nydJWSGpDPM",
-        "percent": 100,
-        "hz": 144
+          "user": "RedRampage9776",
+          "link": "https://www.youtube.com/watch?v=nydJWSGpDPM",
+          "percent": 100,
+          "hz": 144
+        },
+        {
+          "user": "Bluebarracks",
+          "link": "https://youtu.be/Vjk-cCqQsf4?si=Uz4Oyp2xkStFvBfs",
+          "percent": 100,
+          "hz": 240
         }
     ]
 }
