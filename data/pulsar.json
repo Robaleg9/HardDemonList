@@ -204,6 +204,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "A05Polzar",
+			"link": "https://youtu.be/2Vcl3xHepSk",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }

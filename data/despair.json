@@ -233,11 +233,18 @@
 			"percent": 100,
 			"hz": 288
 		},
-        {
+		{
 			"user": "Bluebarracks",
 			"link": "https://youtu.be/zoeWL26Y1jM?si=Sovuwph-QJWEUQqR",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Bonezizdum",
+			"link": "https://youtu.be/S9CrrxwKI9Y?si=GPrP3KCZ8x4i8yxX",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
