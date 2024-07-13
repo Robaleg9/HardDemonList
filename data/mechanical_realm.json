@@ -40,6 +40,24 @@
 			"percent": 100,
 			"hz": 90,
 			"mobile": true
+		},
+		{
+			"user": "Aph",
+			"link": "https://youtu.be/0qBo5R-l2-Q?si=0KY2xGVWvHjxIOXl",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/Rw_7a73KvJ8?si=BjSmdq2jcdW0zEer",
+			"percent": 100,
+			"hz": 450
+		},
+		{
+			"user": "dindaxd",
+			"link": "https://youtu.be/zIbkP3sdTnw?si=efvAGbCy4yhxT7cm",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }

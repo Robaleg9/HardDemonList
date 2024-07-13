@@ -487,6 +487,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "Starlacc",
+			"link": "https://www.youtube.com/watch?v=EKMW4vdoonA",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
