@@ -187,6 +187,13 @@
 			"link": "https://www.youtube.com/watch?v=aad5otYNREw&t=4847s",
 			"percent": 100,
 			"hz": 288
+		},
+		{
+			"user": "Aquatic51",
+			"link": "https://youtu.be/kRYJFmyIBsM?si=5UWVvSni9xA_aURP",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
