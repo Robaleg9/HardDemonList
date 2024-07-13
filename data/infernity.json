@@ -448,11 +448,17 @@
 			"percent": 100,
 			"hz": 240
 		},
-        {
+		{
 			"user": "Bluebarracks",
 			"link": "https://youtu.be/rFayKERTQzY?si=10pa2RUXbUbXWnZw",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "ItzRomulad",
+			"link": "https://youtu.be/CmbNHZzVNWE",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }

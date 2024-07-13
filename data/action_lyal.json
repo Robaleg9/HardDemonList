@@ -289,6 +289,13 @@
 			"link": "https://youtu.be/dAcLOnzp1hw?si=rnRofl5bTZLrejhg&t=26",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Bonezizdum",
+			"link": "https://youtu.be/dpu6Onc6dvs?si=VLsXTMvbT7IdI5Ot",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
