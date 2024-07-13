@@ -75,17 +75,23 @@
         "percent": 100,
         "hz": 144
       },
-        {
+      {
         "user": "Mylou",
         "link": "https://youtu.be/R008DjpSaxo",
         "percent": 100,
         "hz": 240
       },
-         {
+      {
             "user": "DenyZr",
             "link": "https://youtu.be/pp7d_1wog90",
             "percent": 100,
             "hz": 360
-        }
+      },
+      {
+            "user": "Bluebarracks",
+            "link": "https://youtu.be/Iow-4sfsKyI",
+            "percent": 100,
+            "hz": 240
+      }
      ]
 }
