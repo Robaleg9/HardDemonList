@@ -732,11 +732,17 @@
 			"percent": 100,
 			"hz": 288
 		},
-        {
+		{
 			"user": "Bluebarracks",
 			"link": "https://youtu.be/v0LH6hq7K0U?si=9uYGYr6PPd0Z-PmQ",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "SweetDremsPC",
+			"link": "https://youtu.be/JPqJ-0Pwp2k",
+			"percent": 100,
+			"hz": 120
 		}
 	]
 }
