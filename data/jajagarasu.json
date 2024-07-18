@@ -212,6 +212,13 @@
 			"percent": 100,
 			"hz": 90,
 			"mobile": true
+		},
+		{
+			"user": "B6oy1004",
+			"link": "https://youtu.be/opItvVOWGCU?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
