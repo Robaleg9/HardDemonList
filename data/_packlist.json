@@ -170,17 +170,6 @@
         "colour": "#ffd700"
     },
     {
-        "name": "Insane Dual Pack 2",
-        "levels": [
-            "big_floppa",
-            "backlines",
-            "elemental_melons",
-            "screamroom",
-            "valkyrie"
-        ],
-        "colour": "#ffd700"
-    },
-    {
         "name": "Impossible Ending Pack",
         "levels": [
             "pulsar",
@@ -190,6 +179,17 @@
             "exhaust",
             "breakneck",
             "reminiscence"
+        ],
+        "colour": "#ffd700"
+    },
+    {
+        "name": "Insane Dual Pack 2",
+        "levels": [
+            "big_floppa",
+            "backlines",
+            "elemental_melons",
+            "screamroom",
+            "valkyrie"
         ],
         "colour": "#ffd700"
     },
