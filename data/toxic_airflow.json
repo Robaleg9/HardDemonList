@@ -12,12 +12,12 @@
 	"percentToQualify": 100,
 	"password": "No Copy",
 	"records": [
-        {
-            "user": "Aph",
-            "link": "https://youtu.be/nS-mS5wg5dE",
-            "percent": 100,
-            "hz": 1000
-        },
+		{
+			"user": "Aph",
+			"link": "https://youtu.be/nS-mS5wg5dE",
+			"percent": 100,
+			"hz": 1000
+		},
 		{
 			"user": "Frogs65",
 			"link": "https://www.youtube.com/watch?v=C4VprHcdImI&t=103s",
@@ -41,6 +41,25 @@
 			"link": "https://youtu.be/-jR61H8Did8?si=GKwShT3cGglcB0M4",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "A05Polzar",
+			"link": "https://youtu.be/gRpJu7qN3fs?si=PaApPysXc-HphMPn&t=102",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "CherrimPlushie",
+			"link": "https://youtu.be/tRUpLkwEstE",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "RelieV",
+			"link": "https://youtu.be/qQbO4Qk_SRc?feature=shared",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
 		}
 	]
 }
