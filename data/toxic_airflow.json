@@ -2,10 +2,39 @@
 	"id": 9202942,
 	"name": "Toxic Airflow",
 	"author": "Surv",
-	"creators": ["Surv"," Edge"," Deceptivepan"],
+	"creators": [
+		"Surv",
+		" Edge",
+		" Deceptivepan"
+	],
 	"verifier": "Surv",
 	"verification": "https://www.youtube.com/watch?v=GQNJxJL-1N4",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "Frogs65",
+			"link": "https://www.youtube.com/watch?v=C4VprHcdImI&t=103s",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/nakU6PUPWvU?si=_VEDIhueuDSINjj1",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/5EWGt8lngS4",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/-jR61H8Did8?si=GKwShT3cGglcB0M4",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
