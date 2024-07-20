@@ -12,6 +12,12 @@
 	"percentToQualify": 100,
 	"password": "No Copy",
 	"records": [
+        {
+            "user": "Aph",
+            "link": "https://youtu.be/nS-mS5wg5dE",
+            "percent": 100,
+            "hz": 1000
+        },
 		{
 			"user": "Frogs65",
 			"link": "https://www.youtube.com/watch?v=C4VprHcdImI&t=103s",
@@ -20,7 +26,7 @@
 		},
 		{
 			"user": "Leckylecks",
-			"link": "https://youtu.be/nakU6PUPWvU?si=_VEDIhueuDSINjj1",
+			"link": "https://youtu.be/nakU6PUPWvU?si=_VEDIhueuDSINjj1&t=73",
 			"percent": 100,
 			"hz": 360
 		},
