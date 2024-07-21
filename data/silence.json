@@ -616,6 +616,12 @@
 			"percent": 100,
 			"hz": 120,
 			"mobile": true
+		},
+		{
+			"user": "Megu",
+			"link": "https://youtu.be/BdpLwcPOQM4",
+			"percent": 100,
+			"hz": 330
 		}
 	]
 }
