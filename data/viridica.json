@@ -187,6 +187,12 @@
 			"link": "https://youtu.be/LKSL2H-L-Ss?si=PLR2Sm-nQLCmvfVe",
 			"percent": 100,
 			"hz": 1000
-		}
+		},
+        {
+            "user": "EvanDaBest",
+            "link": "https://youtu.be/YXuh_AyKhTo",
+            "percent": 100,
+            "hz": 144
+        }
 	]
 }
