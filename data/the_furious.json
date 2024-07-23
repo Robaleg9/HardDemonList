@@ -1066,6 +1066,12 @@
 			"link": "https://www.youtube.com/watch?v=9wPWyX6dAyE&t=131s",
 			"percent": 100,
 			"hz": 120
+		},
+		{
+			"user": "EzequielThecausin",
+			"link": "https://www.youtube.com/watch?v=h8sw2mqMZ1Q&ab_channel=ezequielthecausin",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
