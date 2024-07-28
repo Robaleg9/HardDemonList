@@ -320,11 +320,17 @@
 			"percent": 100,
 			"hz": 120
 		},
-        {
+		{
 			"user": "Bluebarracks",
 			"link": "https://youtu.be/NsEC-4tS-DM?si=vdR_qdqxrFZcEolb",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "sonofnooby",
+			"link": "https://youtu.be/hmPKm9Xxrfg",
+			"percent": 100,
+			"hz": 120
 		}
 	]
 }
