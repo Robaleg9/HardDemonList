@@ -414,6 +414,13 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "Goldcraft",
+			"link": "https://youtu.be/ZIH1gXsPW_8?si=tsJTuXjqf1HS86UR",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
