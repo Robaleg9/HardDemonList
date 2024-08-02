@@ -188,11 +188,17 @@
 			"percent": 100,
 			"hz": 1000
 		},
-        {
-            "user": "EvanDaBest",
-            "link": "https://youtu.be/YXuh_AyKhTo",
-            "percent": 100,
-            "hz": 144
-        }
+		{
+			"user": "EvanDaBest",
+			"link": "https://youtu.be/YXuh_AyKhTo",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Casithecool",
+			"link": "https://www.youtube.com/watch?v=97VdHavu6DI",
+			"percent": 100,
+			"hz": 240
+		}
 	]
 }
