@@ -111,6 +111,13 @@
 			"link": "https://youtu.be/Yt8HZsL8s6k",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Peregrine",
+			"link": "https://youtu.be/bXcRt5IYVBk?si=SY1atZQ3e8Ngo9rs",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
