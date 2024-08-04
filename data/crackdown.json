@@ -168,6 +168,13 @@
 			"percent": 100,
 			"hz": 90,
 			"mobile": true
+		},
+		{
+			"user": "BayA5",
+			"link": "https://youtu.be/vjxaf4Yyvsw",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }

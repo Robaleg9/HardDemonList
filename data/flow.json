@@ -137,6 +137,13 @@
 			"link": "https://youtu.be/75SDySRPH8k",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Globyyy",
+			"link": "https://youtu.be/fREdpwSExzo?si=Y7rYamNlrEc-kqi4",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }

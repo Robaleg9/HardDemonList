@@ -348,6 +348,13 @@
 			"link": "https://www.youtube.com/watch?v=sOg8p0JWwzs",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": "Globyyy",
+			"link": "https://youtu.be/1KuklFSE298?si=6uITNcQdn1f8kNuk",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }

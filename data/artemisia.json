@@ -344,6 +344,12 @@
 			"percent": 100,
 			"hz": 120,
 			"mobile": true
+		},
+		{
+			"user": "Blkoolaid",
+			"link": "https://www.youtube.com/watch?v=1X16LVyjdVQ&list=PL_GxQqe3T0nt5p3oK8lbZXrNK8agk3NUN&index=20",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }

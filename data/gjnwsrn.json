@@ -204,11 +204,24 @@
 			"percent": 100,
 			"hz": 240
 		},
-        {
+		{
 			"user": "Bluebarracks",
 			"link": "https://youtu.be/shjP5QwWbeY?si=PMbmP4-5RNKMIc_X",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Blkoolaid",
+			"link": "https://www.youtube.com/watch?v=yTo4-WStQk0&list=PL_GxQqe3T0nt5p3oK8lbZXrNK8agk3NUN&index=18",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Globyyy",
+			"link": "https://youtu.be/7GtVySnNgLc?si=NXKJnhLN82iPo3Pm",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
