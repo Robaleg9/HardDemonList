@@ -522,15 +522,6 @@
         "colour": "#c0c0c0"
     },
     {
-        "name": "Chaoz Impackt",
-        "levels": [
-            "elo2",
-            "e_v_a_c_u_a_t_i_o_n",
-            "speed_raxer"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
         "name": "Dangerous Pack",
         "levels": [
             "sulfuric_acid",
