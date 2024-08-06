@@ -144,8 +144,7 @@
             "crispy_reaction",
             "hash",
             "elemental_melons",
-            "danksgiving",
-            "popcorn"
+            "danksgiving"
         ],
         "colour": "#ffd700"
     },
@@ -216,8 +215,7 @@
         "levels": [
             "azure_paralyzer",
             "dualviper",
-            "i_cant_fix_you",
-            "necrofantasia"
+            "i_cant_fix_you"
         ],
         "colour": "#ffd700"
     },
@@ -305,16 +303,13 @@
         "levels": [
             "breakneck",
             "splendid_mold",
-            "shambolic",
-            "kirbys_meltdown",
-            "necrofantasia"
+            "shambolic"
         ],
         "colour": "#c0c0c0"
     },
     {
         "name": "Car Crash Pack",
         "levels": [
-            "flirt_drive",
             "snap",
             "screamroom",
             "i_cant_fix_you",
@@ -357,8 +352,7 @@
             "epoch",
             "elevatia",
             "evermore",
-            "steam_shakedown",
-            "kirbys_meltdown"
+            "steam_shakedown"
         ],
         "colour": "#c0c0c0"
     },
@@ -398,8 +392,7 @@
         "levels": [
             "distorzona",
             "cubic_force",
-            "efetis_belis",
-            "flirt_drive"
+            "efetis_belis"
         ],
         "colour": "#c0c0c0"
     },
@@ -409,9 +402,7 @@
             "viridica",
             "adrenaline_chamber",
             "hyped_up",
-            "droppy",
-            "necrofantasia",
-            "speed_raxer"
+            "droppy"
         ],
         "colour": "#c0c0c0"
     },
@@ -442,8 +433,7 @@
             "advance3",
             "sideways_8",
             "a747",
-            "c1u6",
-            "elo2"
+            "c1u6"
         ],
         "colour": "#c0c0c0"
     },
@@ -465,15 +455,6 @@
             "night_of_demon",
             "club_chamber",
             "c1u6"
-        ],
-        "colour": "#c0c0c0"
-    },
-    {
-        "name": "Pennutoh Pack",
-        "levels": [
-            "superior_sequence",
-            "efetis_belis",
-            "hypertehno"
         ],
         "colour": "#c0c0c0"
     },
@@ -513,10 +494,8 @@
         "levels": [
             "xes",
             "screamroom",
-            "elo2",
             "sharp",
             "life"
-
         ],
         "colour": "#c0c0c0"
     },
@@ -576,15 +555,15 @@
         "levels": [
             "hibernal",
             "night_of_demon",
-            "danksgiving",
-            "love_syndrome"
+            "danksgiving"
         ],
         "colour": "#cd7f32"
     },
     {
         "name": "Megacollab Pack 1",
         "levels": [
-            "hypertehno",
+            "panical",
+            "c1u6",
             "neurotoxin",
             "crimson_flare"
         ],
@@ -595,7 +574,7 @@
         "levels": [
             "ebony",
             "araneo",
-            "flirt_drive"
+            "theory_of_intercept"
         ],
         "colour": "#cd7f32"
     },
@@ -634,7 +613,7 @@
         "levels": [
             "k_a_n_g",
             "araneo",
-            "noir",
+            "panical",
             "noem"
         ],
         "colour": "#cd7f32"
@@ -675,7 +654,7 @@
             "serpent",
             "hibernal",
             "universal_perception",
-            "sky_temple",
+            "ripplez",
             "k_a_n_g"
         ],
         "colour": "#0072fa"
