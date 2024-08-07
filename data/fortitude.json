@@ -310,6 +310,12 @@
 			"link": "https://www.youtube.com/watch?v=igHb-zniZ3M",
 			"percent": 100,
 			"hz": 165
+		},
+		{
+			"user": "joaquin",
+			"link": "https://youtu.be/EuJSzwWbSfA",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
