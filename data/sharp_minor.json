@@ -1,13 +1,67 @@
 {
-    "id": 10312917,
-    "name": "Sharp Minor",
-    "author": "Giron",
-    "creators": [],
-    "verifier": "Giron",
-    "verification": "https://youtu.be/fQB_KJIuVzQ?si=CRNKVF-9qhtzo66E",
-    "percentToQualify": 100,
-    "records": [
-        {
+	"id": 10312917,
+	"name": "Sharp Minor",
+	"author": "Giron",
+	"creators": [],
+	"verifier": "Giron",
+	"verification": "https://youtu.be/fQB_KJIuVzQ?si=CRNKVF-9qhtzo66E",
+	"percentToQualify": 100,
+	"records": [
+		{},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/fhVYD229L48",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Aph",
+			"link": "https://youtu.be/rPFV2y8QKLM",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": "insosil",
+			"link": "https://youtu.be/fm6aIfM8B5I?si=eOt1ZzIv1UYRArio",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Frogs65",
+			"link": "https://www.youtube.com/watch?v=8Hr_GiY6Ts8",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "IDiffusionI",
+			"link": "https://youtu.be/lql5v7uIn8k?t=713",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/YOhdMxFlodI?si=J2KRC8rTs3gwoT6M",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bluebarracks",
+			"link": "https://youtu.be/k9NxNxjwGLw?si=ue00GbgeMdMOgc9C",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Leckylecks",
+			"link": "https://youtu.be/QcYXvlPmWk8?si=aMyBP7dthIM3UPJ4",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "RelieV",
+			"link": "https://youtu.be/odg0FHYmlQs",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
 		}
-    ]
+	]
 }
