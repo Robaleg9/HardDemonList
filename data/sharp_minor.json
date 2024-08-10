@@ -2,7 +2,9 @@
 	"id": 10312917,
 	"name": "Sharp Minor",
 	"author": "Giron",
-	"creators": ["Giron, ASonicMen"],
+	"creators": [
+		"Giron, ASonicMen"
+	],
 	"verifier": "Giron",
 	"verification": "https://youtu.be/fQB_KJIuVzQ?si=CRNKVF-9qhtzo66E",
 	"percentToQualify": 100,
@@ -147,6 +149,25 @@
 			"link": "https://youtu.be/SLyVxXKt5rc?si=jAmQ5bya6tt_tKvl",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://youtu.be/u4iy_N6DM6I",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Aquatic51",
+			"link": "https://youtu.be/qyeHGXc14qk?si=mPYzQ-fkqFHx3Nc2",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "ChaeTDC",
+			"link": "https://www.youtube.com/watch?v=6jE9bz7XpdM",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }
