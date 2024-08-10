@@ -75,7 +75,6 @@
         "name": "Awful Pack",
         "levels": [
             "azure_paralyzer",
-            "gjnwsrn",
             "big_floppa",
             "dead_beat",
             "flow",
@@ -198,15 +197,6 @@
             "impetus",
             "action_lyal",
             "snap"
-        ],
-        "colour": "#ffd700"
-    },
-    {
-        "name": "Kingdom Pack",
-        "levels": [
-            "watch_the_throne",
-            "castle_dedede",
-            "majesty"
         ],
         "colour": "#ffd700"
     },
