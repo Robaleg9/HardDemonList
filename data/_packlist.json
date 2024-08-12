@@ -91,7 +91,7 @@
             "fusion",
             "mechanical_realm",
             "coreosious",
-            "k_a_n_g"
+            "k_a_n_g",
         ],
         "colour": "#ffd700"
     },
@@ -489,7 +489,7 @@
         "colour": "#c0c0c0"
     },
     {
-        "name": "whispering pack",
+        "name": "whispering pack 2",
         "levels": [
             "xes",
             "sharp",
@@ -536,7 +536,7 @@
         "levels": [
             "panical",
             "c1u6",
-            "neurotoxin",
+            "neurotoxin"
         ],
         "colour": "#cd7f32"
     },
