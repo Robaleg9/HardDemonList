@@ -1,28 +1,18 @@
 [
     {
         "role": "owner",
-        "name": "Electro",
-        "link": "https://twitter.com/PoweredByElectr"
-    },
-    {
-        "role": "owner",
         "name": "Whacka",
         "link": "https://www.youtube.com/@whacka2871"
-    },
-    {
-        "role": "owner",
-        "name": "Willow",
-        "link": "https://www.youtube.com/@WillowGD"
-    },
-     {
-        "role": "admin",
-        "name": "SoftMuffin76",
-        "link": "https://www.youtube.com/@SoftMuffin76"
     },
      {
         "role": "admin",
         "name": "Azaelf",
         "link": "https://www.youtube.com/@loveSpectral"
+    },
+     {
+        "role": "admin",
+        "name": "SoftMuffin76",
+        "link": "https://www.youtube.com/@SoftMuffin76"
     },
     {
         "role": "trial",
