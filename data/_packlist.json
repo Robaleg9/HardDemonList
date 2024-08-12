@@ -89,6 +89,7 @@
             "surgeragon",
             "sulfuric_acid",
             "fusion",
+            "mechanical_realm",
             "coreosious",
             "k_a_n_g"
         ],
@@ -185,7 +186,6 @@
             "big_floppa",
             "backlines",
             "elemental_melons",
-            "screamroom",
             "valkyrie"
         ],
         "colour": "#ffd700"
@@ -215,7 +215,7 @@
             "sonic_chamber",
             "artemisia",
             "sideways_8",
-            "universal_perception"
+            "crimson_flare"
         ],
         "colour": "#ffd700"
     },
@@ -273,7 +273,8 @@
             "weirdmaggedon",
             "immortal_ichor",
             "terror_factory",
-            "wonder_cosm"
+            "wonder_cosm",
+            "cant_let_fly"
         ],
         "colour": "#ffd700"
     },
@@ -290,8 +291,10 @@
     {
         "name": "Acid-Notation Song Pack",
         "levels": [
+            "pinball_panic",
             "breakneck",
             "splendid_mold",
+            "the_game",
             "shambolic"
         ],
         "colour": "#c0c0c0"
@@ -300,7 +303,6 @@
         "name": "Car Crash Pack",
         "levels": [
             "snap",
-            "screamroom",
             "i_cant_fix_you",
             "despair"
         ],
@@ -317,11 +319,28 @@
         "colour": "#c0c0c0"
     },
     {
+        "name": "Clicksync Pack",
+        "levels": [
+            "kilpac",
+            "circus_dash_ii",
+            "anya_ii"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
+        "name": "Early 2.0 Pack",
+        "levels": [
+            "artillery",
+            "wonder_cosm",
+            "actino_rise"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
         "name": "Early 2.1 Pack",
         "levels": [
             "serpent",
             "evasion",
-            "castle_dedede",
             "araneo"
         ],
         "colour": "#c0c0c0"
@@ -390,14 +409,14 @@
             "viridica",
             "adrenaline_chamber",
             "hyped_up",
-            "droppy"
+            "droppy",
+            "universal_perception"
         ],
         "colour": "#c0c0c0"
     },
     {
         "name": "Memory Pack 2",
         "levels": [
-            "screamroom",
             "crispy_reaction",
             "night_of_demon",
             "club_chamber"
@@ -444,18 +463,8 @@
             "cubic_force",
             "night_of_demon",
             "club_chamber",
-            "c1u6"
-        ],
-        "colour": "#c0c0c0"
-    },
-    {
-        "name": "Potato Pack",
-        "levels": [
-            "sweet_dreams",
-            "night_of_demon",
-            "artillery",
-            "total_oblivion",
-            "sharp"
+            "c1u6",
+            "cant_let_fly"
         ],
         "colour": "#c0c0c0"
     },
@@ -483,19 +492,9 @@
         "name": "whispering pack",
         "levels": [
             "xes",
-            "screamroom",
             "sharp",
-            "life"
-        ],
-        "colour": "#c0c0c0"
-    },
-    {
-        "name": "Xtrullor Song Pack 1",
-        "levels": [
-            "crispy_reaction",
-            "wonder_cosm",
-            "fusion",
-            "k_a_n_g"
+            "life",
+            "cant_let_fly"
         ],
         "colour": "#c0c0c0"
     },
@@ -506,6 +505,7 @@
             "cyber_dream",
             "effulgent",
             "neurotoxin",
+            "mechanical_realm",
             "droppy",
             "life"
         ],
@@ -519,15 +519,6 @@
             "warzone",
             "sharp",
             "neurotoxin"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
-        "name": "Early 2.0 Pack",
-        "levels": [
-            "artillery",
-            "wonder_cosm",
-            "crackdown"
         ],
         "colour": "#cd7f32"
     },
@@ -546,7 +537,6 @@
             "panical",
             "c1u6",
             "neurotoxin",
-            "crimson_flare"
         ],
         "colour": "#cd7f32"
     },
@@ -571,15 +561,6 @@
         "colour": "#cd7f32"
     },
     {
-        "name": "Oddly Spaced Pack",
-        "levels": [
-            "e_v_a_c_u_a_t_i_o_n",
-            "screamroom",
-            "k_a_n_g"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
         "name": "Popular Pack",
         "levels": [
             "diffuse",
@@ -587,6 +568,17 @@
             "araneo",
             "toxin_lab_iii",
             "sharp_minor"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
+        "name": "Potato Pack",
+        "levels": [
+            "sweet_dreams",
+            "night_of_demon",
+            "artillery",
+            "total_oblivion",
+            "sharp"
         ],
         "colour": "#cd7f32"
     },
@@ -601,12 +593,33 @@
         "colour": "#cd7f32"
     },
     {
+        "name": "whispering pack 1",
+        "levels": [
+            "keygen",
+            "reminiscence",
+            "found"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
+        "name": "Xtrullor Song Pack 1",
+        "levels": [
+            "crispy_reaction",
+            "wonder_cosm",
+            "fusion",
+            "k_a_n_g"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
         "name": "Red Pack",
         "levels": [
-            "scarlet_pulse",
+            "silence",
             "weirdmaggedon",
             "in_limbo",
-            "pressure_chamber"
+            "panical",
+            "pressure_chamber",
+            "tipo_b"
         ],
         "colour": "#ff0000"
     },
@@ -659,7 +672,8 @@
             "sideways_8",
             "dead_beat",
             "el_eyon",
-            "torment"
+            "torment",
+            "found"
         ],
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
     }
