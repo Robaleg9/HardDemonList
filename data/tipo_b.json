@@ -199,12 +199,18 @@
 			"link": "https://youtu.be/moQiBvuubKM?si=qJFqSKU6NdPPfRmt",
 			"percent": 100,
 			"hz": 75
-	    },
+		},
 		{
 			"user": "Bobbyp02",
 			"link": "https://youtu.be/yib8ejCaD8k",
 			"percent": 100,
 			"hz": 240
-	    }
+		},
+		{
+			"user": "L1GHTNING",
+			"link": "https://youtu.be/Sa9JRSJuPaM",
+			"percent": 100,
+			"hz": 165
+		}
 	]
 }

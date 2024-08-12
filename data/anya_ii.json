@@ -222,6 +222,25 @@
 			"link": "https://youtu.be/OKcd3yG0jeg",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "L1GHTNING",
+			"link": "https://youtu.be/Zv-kXEvLu_0",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": "FlameShooter",
+			"link": "https://www.youtube.com/watch?v=1D6_RntXwqo",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Zenec",
+			"link": "https://www.youtube.com/watch?v=OhOMKtlMajQ",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }

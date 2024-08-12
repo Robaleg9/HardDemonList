@@ -206,6 +206,13 @@
 			"link": "https://youtu.be/3xCMH9cv0jw",
 			"percent": 100,
 			"hz": 120
+		},
+		{
+			"user": "B6oy1004",
+			"link": "https://youtu.be/T7uoO7_ZhyI?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
