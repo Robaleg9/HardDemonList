@@ -99,6 +99,12 @@
 			"percent": 100,
 			"hz": 120,
 			"mobile": true
+		},
+		{
+			"user": "q_rty",
+			"link": "https://www.youtube.com/watch?v=jbCTdg0QOQo",
+			"percent": 100,
+			"hz": 120
 		}
 	]
 }
