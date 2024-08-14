@@ -82,6 +82,12 @@
 			"percent": 100,
 			"hz": 90,
 			"mobile": true
+		},
+		{
+			"user": "tomm",
+			"link": "https://youtu.be/ud7IxLeePqM",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }

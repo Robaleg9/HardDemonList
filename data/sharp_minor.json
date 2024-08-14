@@ -216,6 +216,25 @@
 			"link": "https://youtu.be/67f0AV2RHTY?si=-071Y6sDImwFIQiv",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "Mylou",
+			"link": "https://www.youtube.com/watch?v=7oMx4HLStFk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "SmileBullet",
+			"link": "https://youtu.be/S9wiFvKgoN8?si=_2xYlsoklbtzVOpG",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "DavidTheMaze",
+			"link": "https://youtu.be/3rMFLXE2mFU?si=a-FbZozF-JDHqN8X",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
