@@ -1099,6 +1099,19 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "NylenBE",
+			"link": "https://youtu.be/NFa7PXanAj4",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": "Defentum",
+			"link": "https://youtu.be/V8NMxVV-WF0?feature=shared",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
