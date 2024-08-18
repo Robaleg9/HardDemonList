@@ -127,7 +127,7 @@ export async function fetchLeaderboard() {
     }
 
     // Wrap in extra Object containing the user and total score
-    const res = Object.entries(scoreMap).map(([user, scores]) => {
+    let res = Object.entries(scoreMap).map(([user, scores]) => {
         const { verified, completed, progressed } = scores;
 
         const total = [verified, completed, progressed]
@@ -141,8 +141,16 @@ export async function fetchLeaderboard() {
         };
     });
 
-    // Sort by total score
-    return [res.sort((a, b) => b.total - a.total), errs];
+	// Sort by total score
+	res.sort((a, b) => b.total - a.total);
+
+    // Add rank to each user
+    res = res.map((entry, index) => ({
+        position: index + 1,
+        ...entry
+    }));
+
+    return [res, errs];
     
 }
 
