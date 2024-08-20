@@ -1112,6 +1112,12 @@
 			"percent": 100,
 			"hz": 120,
 			"mobile": true
+		},
+		{
+			"user": "Dep96",
+			"link": "https://www.youtube.com/watch?v=QD281Rag9Ug",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
