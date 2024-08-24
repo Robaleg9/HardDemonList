@@ -367,6 +367,12 @@
 			"link": "https://youtu.be/Vrn1rNnDubo",
 			"percent": 100,
 			"hz": 144
-	    }
+		},
+		{
+			"user": "Mylou",
+			"link": "https://www.youtube.com/watch?v=PcYWzOtTs2E",
+			"percent": 100,
+			"hz": 240
+		}
 	]
 }
