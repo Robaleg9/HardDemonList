@@ -250,6 +250,18 @@
 			"link": "https://www.youtube.com/watch?v=IScinnKECVg",
 			"percent": 100,
 			"hz": 120
+		},
+		{
+			"user": "tomm",
+			"link": "https://youtu.be/5d9Rs14Jqvw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bluebarracks",
+			"link": "https://youtu.be/aibtoI6PFnU",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
