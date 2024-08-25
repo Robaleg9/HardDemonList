@@ -175,6 +175,19 @@
 			"link": "https://youtu.be/t_9PxFUbNQo",
 			"percent": 100,
 			"hz": 120
+		},
+		{
+			"user": "[RBR] Bonezizdum",
+			"link": "https://youtu.be/pDqbQTuMh60?si=S2clmra8N8xAgagW",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "Bluebarracks",
+			"link": "https://youtu.be/KyKaNMqqGBo",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
