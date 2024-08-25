@@ -2,10 +2,80 @@
 	"id": 97070194,
 	"name": "GOLD RUSH",
 	"author": "SportsCarz11",
-	"creators": ["Rowanm"," JustWaaf"," Kcool101"," darite"," xenoremu"," 77mango"," truongwf"," ThunderDarkness"," Aimbotter2123"," stanstanmansan"," MaxxoRMeN"," whlt"],
+	"creators": [
+		"Rowanm",
+		" JustWaaf",
+		" Kcool101",
+		" darite",
+		" xenoremu",
+		" 77mango",
+		" truongwf",
+		" ThunderDarkness",
+		" Aimbotter2123",
+		" stanstanmansan",
+		" MaxxoRMeN",
+		" whlt"
+	],
 	"verifier": "Aimbotter2123",
 	"verification": "https://youtu.be/Xntz4rS2bDs?si=42VxN6dpbCpwsbcC",
 	"percentToQualify": 100,
 	"password": "Free to Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "[ZUZU] Leckylecks",
+			"link": "https://youtu.be/pRoAIbNTJuQ?si=9Zjo2Rriu0Lv0uyK&t=1m20s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "JoacoPe",
+			"link": "https://youtu.be/Mmz1JgOr3fY?si=Yb4oOYMAibQkhkq",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "A05Polzar",
+			"link": "https://youtu.be/UMMx4a4OE04?si=1TKnkGZyKQeX2Wx9",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://youtu.be/g-NM07G3Iv0?si=I2GbboUdTu14zNKe",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "[FAIRY] insosil 🧚",
+			"link": "https://youtu.be/dooPs1puf_M?si=8rf6aIKYJ3AHx8Et",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "[RBR] Bonezizdum",
+			"link": "https://youtu.be/YhyCMzPqM9c?si=V5KwnAkJHrXG_luE",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "[FAIRY] Fawxu",
+			"link": "https://youtu.be/0NHHFQzcmC0?si=hq-6FrRjfOn4Hn8K",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Abeginner",
+			"link": "https://youtu.be/_wsdEjd2NRI?si=5Y8rZgsfaIIthLWY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "RelieV",
+			"link": "https://youtu.be/a8D5g-53DJA?feature=shared",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
+		}
+	]
 }
