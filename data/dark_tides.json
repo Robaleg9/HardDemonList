@@ -323,6 +323,13 @@
 			"link": "https://www.youtube.com/watch?v=UJv8pIRmPn4&list=PL_GxQqe3T0nt5p3oK8lbZXrNK8agk3NUN&index=28",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": "StarfruitGamer",
+			"link": "https://youtu.be/VgstqtDU4r4?si=gEruFNNGWfxlJ9KU",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
