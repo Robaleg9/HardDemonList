@@ -250,6 +250,13 @@
 			"link": "https://youtu.be/trWnFFcnWgI",
 			"percent": 100,
 			"hz": 120
+		},
+		{
+			"user": "[RBR] Peregrine",
+			"link": "https://youtu.be/2fGLkBRw7hs?si=E6p-fNpBvvp5cPh-",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }

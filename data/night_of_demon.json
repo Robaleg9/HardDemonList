@@ -213,6 +213,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "Frogs65",
+			"link": "https://www.youtube.com/watch?v=g4QM8YBdbsg",
+			"percent": 100,
+			"hz": 120
 		}
 	]
 }
