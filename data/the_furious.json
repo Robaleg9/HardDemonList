@@ -1108,6 +1108,13 @@
 			"link": "https://www.youtube.com/watch?v=xmRZfPXWSOA&t=1007s",
 			"percent": 100,
 			"hz": 288
+		},
+		{
+			"user": "LikelyDash",
+			"link": "https://youtu.be/02n0I--Ck6U",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
