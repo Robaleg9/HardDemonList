@@ -1102,6 +1102,12 @@
 			"link": "https://www.youtube.com/watch?v=aUgwsTVVRW0",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": "DerModster",
+			"link": "https://www.youtube.com/watch?v=xmRZfPXWSOA",
+			"percent": 100,
+			"hz": 288
 		}
 	]
 }
