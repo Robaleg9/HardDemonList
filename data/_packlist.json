@@ -62,6 +62,17 @@
         "colour": "#afe6ed"
     },
     {
+        "name": "Certified Bangers Pack",
+        "levels": [
+            "cyber_dream",
+            "blrpl_lghts",
+            "watch_the_throne",
+            "weirdmaggedon",
+            "diffuse"
+        ],
+        "colour": "#afe6ed"
+    },
+    {
         "name": "Animal Pack",
         "levels": [
             "serpent",
