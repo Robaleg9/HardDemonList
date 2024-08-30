@@ -199,6 +199,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "IDiffusionI",
+			"link": "https://youtu.be/3s5-Zn9HUVw",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
