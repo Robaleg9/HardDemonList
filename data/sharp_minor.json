@@ -261,6 +261,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "RavingRafters",
+			"link": "https://youtu.be/_H9tscRV2g4?si=zPq-cQsyiAddPODf",
+			"percent": 100,
+			"hz": 288
 		}
 	]
 }

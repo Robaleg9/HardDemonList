@@ -220,6 +220,13 @@
 			"link": "https://youtu.be/miN5G9VpG1I",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": "kelpsGd",
+			"link": "https://youtu.be/XjAjMLt_SqQ?si=7s_5U9c_w2IbwsPt",
+			"percent": 100,
+			"hz": 240,
+			"mobile": true
 		}
 	]
 }
