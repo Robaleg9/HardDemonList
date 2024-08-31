@@ -395,6 +395,13 @@
 			"link": "https://www.youtube.com/watch?v=uywNL3YxKTw&list=PL_GxQqe3T0nt5p3oK8lbZXrNK8agk3NUN&index=26",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": "B6oy1004",
+			"link": "https://youtu.be/vUgwkeNkeKE?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }

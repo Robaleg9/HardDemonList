@@ -2,10 +2,33 @@
 	"id": 26182487,
 	"name": "Tremble",
 	"author": "ZenthicAlpha",
-	"creators": ["ZenthicAlpha"," Dhk2725"," WOOGI1411"],
+	"creators": [
+		"ZenthicAlpha",
+		" Dhk2725",
+		" WOOGI1411"
+	],
 	"verifier": "ZenthicAlpha",
 	"verification": "https://youtu.be/H9_5Z0j7imo?si=UfA6Bud8dSDTT6tC",
 	"percentToQualify": 100,
 	"password": "697469",
-	"records" : []
+	"records": [
+		{
+			"user": "nTimaw",
+			"link": "https://youtu.be/QavMw9JY_dE?si=ZJMsWbOotNBZ8niL&t=156",
+			"percent": 100,
+			"hz": 450
+		},
+		{
+			"user": "[RBR] Aph",
+			"link": "https://youtu.be/Pqf-V2cV8Y8?si=ITpNyB1A_mT949LM",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": "Chonkeh",
+			"link": "https://youtu.be/MhVRTjmfqUo",
+			"percent": 100,
+			"hz": 60
+		}
+	]
 }
