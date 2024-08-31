@@ -20,7 +20,6 @@
 	"big_floppa",
 	"pulsar",
 	"somniare",
-	"time_decay",
 	"sonic_chamber",
 	"crimson_flare",
 	"actino_rise",
@@ -280,7 +279,8 @@
 	"technicolor",
 	"tendo",
 	"terminate_mold",
-	"vengeance",
+	"time_decay",
+    "vengeance",
 	"vitouxic",
 	"wily"
 ]
