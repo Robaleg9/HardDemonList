@@ -506,6 +506,13 @@
 			"link": "https://youtu.be/FDfw2qN6EJs",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "DerpOverlord",
+			"link": "https://youtu.be/s0WqPY2SZ1E?si=vHA6YWKC8AG0Wkwa",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }

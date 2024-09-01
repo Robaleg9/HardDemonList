@@ -253,6 +253,18 @@
 			"link": "https://www.youtube.com/watch?v=xmRZfPXWSOA&t=1370s",
 			"percent": 100,
 			"hz": 288
+		},
+		{
+			"user": "Galaxy4567",
+			"link": "https://www.youtube.com/watch?v=QzrEeFcCJGo&list=PLuY5YeD5nE0Xm_mY_Z3_2q-4Z8oA9ah9Z&index=21&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BeckettGamer",
+			"link": "https://youtu.be/rIKiUzHbQik",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }

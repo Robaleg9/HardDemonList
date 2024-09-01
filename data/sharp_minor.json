@@ -267,6 +267,24 @@
 			"link": "https://youtu.be/_H9tscRV2g4?si=zPq-cQsyiAddPODf",
 			"percent": 100,
 			"hz": 288
+		},
+		{
+			"user": "DesgoldGD",
+			"link": "https://www.youtube.com/watch?v=rYh1-tgEw3w",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": "Galaxy4567",
+			"link": "https://www.youtube.com/watch?v=cwAbSSFLbGw&list=PLuY5YeD5nE0Xm_mY_Z3_2q-4Z8oA9ah9Z&index=14&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "BeckettGamer",
+			"link": "https://www.youtube.com/watch?v=8ITVFXr_HBo",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }
