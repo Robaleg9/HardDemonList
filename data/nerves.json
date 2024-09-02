@@ -86,6 +86,18 @@
 			"link": "https://www.youtube.com/watch?v=FjF5aJPAXSE&list=PLuY5YeD5nE0Xm_mY_Z3_2q-4Z8oA9ah9Z&index=13&ab_channel=Galaxy4567",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "[ZUZU] nastrohan",
+			"link": "https://youtu.be/jHH1OL8ybGY?si=NbxTVqqlK7-uZTe6",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "tomm",
+			"link": "https://youtu.be/DNw0WuH58Dc",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
