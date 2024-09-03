@@ -513,6 +513,13 @@
 			"link": "https://youtu.be/0a--qEySKoo",
 			"percent": 100,
 			"hz": 120
+		},
+		{
+			"user": "verdantdragon",
+			"link": "https://youtu.be/T2Me_P9Fq1g",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
