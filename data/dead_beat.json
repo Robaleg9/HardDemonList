@@ -257,6 +257,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "Dissmo",
+			"link": "https://commons.wikimedia.org/wiki/File:DEAD_BEAT_by_swwft_Completion.webm",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
