@@ -101,11 +101,17 @@
 			"percent": 100,
 			"hz": 144
 		},
-        {
+		{
 			"user": "Shroomy!!!",
 			"link": "https://www.youtube.com/watch?v=33pXLoEfy3k",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "Eximilus",
+			"link": "https://youtu.be/ryXwSelxW1E",
+			"percent": 100,
+			"hz": 300
 		}
 	]
 }
