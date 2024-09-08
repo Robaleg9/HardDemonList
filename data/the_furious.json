@@ -1121,6 +1121,13 @@
 			"link": "https://www.youtube.com/watch?v=_ks4Gp_wYNY",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "GreekGeek64",
+			"link": "https://www.youtube.com/watch?v=ee6j9iP3v5U",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }

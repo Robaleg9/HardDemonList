@@ -335,11 +335,17 @@
 			"hz": 144
 		},
 		{
-            "user": "[RBR] Seafarer",
-            "link": "https://www.youtube.com/watch?v=YWMLimftjfc",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
+			"user": "[RBR] Seafarer",
+			"link": "https://www.youtube.com/watch?v=YWMLimftjfc",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "A05Polzar",
+			"link": "https://youtu.be/iJ4YHguevTI?si=Tw_57ZXh2QvRKc0p",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
