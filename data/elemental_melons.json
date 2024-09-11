@@ -202,6 +202,13 @@
 			"link": "https://youtu.be/zp1LLf4qWbA",
 			"percent": 100,
 			"hz": 120
+		},
+		{
+			"user": "[RBR] Bonezizdum",
+			"link": "https://youtu.be/OMsAK4v1YxE",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }

@@ -272,6 +272,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "ProbablyTaken",
+			"link": "https://youtu.be/zrLSOtH0G4Q",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }
