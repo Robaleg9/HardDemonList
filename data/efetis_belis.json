@@ -248,6 +248,13 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "ARC2010",
+			"link": "https://youtu.be/uzPhwJRuFu4?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
