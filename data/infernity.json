@@ -502,6 +502,12 @@
 			"percent": 100,
 			"hz": 144,
 			"mobile": true
+		},
+		{
+			"user": "DerModster",
+			"link": "https://www.youtube.com/watch?v=xmRZfPXWSOA",
+			"percent": 100,
+			"hz": 288
 		}
 	]
 }
