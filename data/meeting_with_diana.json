@@ -7,5 +7,12 @@
 	"verification": "https://youtu.be/kMGGXQN3txg?si=8LbGVl22Tm2urBwH",
 	"percentToQualify": 100,
 	"password": "709910",
-	"records" : []
+	"records" : [
+                {
+            "user": "[FAIRY] EvanDaBest",
+            "link": "https://youtu.be/R_EfBJ5A1hk?si=9R5kwKoN7GZG4Jff",
+            "percent": 100,
+            "hz": 144
+                }
+    ]
 }
