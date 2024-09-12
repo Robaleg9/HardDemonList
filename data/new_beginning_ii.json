@@ -7,5 +7,54 @@
 	"verification": "https://youtu.be/yMBDaVS2CpQ?si=x6XcHzVrLvqaHgIj",
 	"percentToQualify": 100,
 	"password": "Free to Copy",
-	"records" : []
+	"records": [
+		{
+			"user": "[FAIRY] insosil 🧚",
+			"link": "https://youtu.be/dRx5KfxcuVA?si=0GkddkVPXVHflu0T",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "A05Polzar",
+			"link": "https://youtu.be/TRAH-wNCsDA?si=YCvH8G4Inxfr4qQ8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Abeginner",
+			"link": "https://youtu.be/F1eh4uBOXu8?si=5OUcHwfTuHwE498Y",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "[RBR] JoacoPe",
+			"link": "https://youtu.be/qhzUYMhvn68?si=eQ0DegR3-pptEWje",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Chonkeh",
+			"link": "https://youtu.be/UYQf_TrCWaQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Robaleg9",
+			"link": "https://youtu.be/lICfakUfw2g?si=J7O941bcM0xSbgIk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Bluebarracks",
+			"link": "https://youtu.be/1_fs8w7Myrs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Fawxu",
+			"link": "https://youtu.be/LKGnA1c9AGU?si=XSnfxfSV9MbWQPl2",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

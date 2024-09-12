@@ -235,6 +235,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": "Chonkeh",
+			"link": "https://youtu.be/ET2JhS2gUbU",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
