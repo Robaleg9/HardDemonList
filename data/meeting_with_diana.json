@@ -61,6 +61,43 @@
 			"link": "https://youtu.be/6dphu7deWDE?si=e3aCPpy6DdqeaBwZ",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "[RBR] JoacoPe",
+			"link": "https://youtu.be/tJVDRopbDjw",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Electro325",
+			"link": "https://youtu.be/EOtxUpJv6Qs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "lisosni",
+			"link": "https://youtu.be/aQJfcg_7F-w?si=BPYHbFqOfRrf30sZ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "[RBR] Bonezizdum",
+			"link": "https://www.youtube.com/watch?v=p0e2IT_-n_8",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "[ZUZU] Leckylecks",
+			"link": "https://youtu.be/fWOR-5kpj1A?si=dyjXtFa9rmrBRAsN&t=2m22s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": "sonofnooby",
+			"link": "https://youtu.be/X6ydlz42V1Y?si=nuraytbsD66hnEHA",
+			"percent": 100,
+			"hz": 120
 		}
 	]
 }
