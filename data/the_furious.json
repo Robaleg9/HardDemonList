@@ -1140,6 +1140,12 @@
 			"link": "https://www.youtube.com/watch?v=4prgMl5hyXQ",
 			"percent": 100,
 			"hz": 60
-		}
+		},
+		{
+			"user": "themitryex",
+			"link": "https://www.youtube.com/watch?v=4_C36MU-HF0&t=101s",
+			"percent": 100,
+			"hz": 60
+	}
 	]
 }
