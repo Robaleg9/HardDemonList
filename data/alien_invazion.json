@@ -1,85 +1,84 @@
 {
-
-    "id": 57387189,
-    "name": "Alien Invazion",
-    "author": "spirits310",
-    "creators": [],
-    "verifier": "reruchoupie",
-    "verification": "https://www.youtube.com/watch?v=EzLkix3-JOk",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Electro325",
-            "link": "https://youtu.be/WaNQT4exZL0?t=120",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "[ZUZU] Leckylecks",
-            "link": "https://youtu.be/Ux7XCnaeMXg",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "[RBR] Seafarer",
-            "link": "https://www.youtube.com/watch?v=Sj_Hx5hs_Vc",
-            "percent": 100,
-            "hz": 60,
-            "mobile": "true"
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/XCKZbVwiyGg",
-            "percent": 100,
-            "hz": 300
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://youtu.be/0oIxtO8fgyU",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "[RBR] JoacoPe",
-            "link": "https://youtu.be/BQwS88KGkwc",
-            "percent": 100,
-            "hz": 120
-        },
-         {
-            "user": "L1GHTNING",
-            "link": "https://www.youtube.com/watch?v=Hk5qAFFOR2E",
-            "percent": 100,
-            "hz": 144
-        },
-          {
-            "user": "DenyZr",
-            "link": "https://youtu.be/W86YNcZQGsY",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "IgongDae",
-            "link": "https://youtu.be/FYwW_Bb8vBw?si=6hyK4lFobIRAxnby",
-            "percent": 100,
-            "hz": 300
-        },
-        {
-            "user": "Leven",
-            "link": "https://www.youtube.com/watch?v=7OPV8R-tfbw",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "[FAIRY] deadbush",
-            "link": "https://youtu.be/bfmpykhqJcQ",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://www.youtube.com/watch?v=b-ke1M2olJ0",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+	"id": 57387189,
+	"name": "Alien Invazion",
+	"author": 7078517793,
+	"creators": [],
+	"verifier": 3531018798,
+	"verification": "https://www.youtube.com/watch?v=EzLkix3-JOk",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": 6269979558,
+			"link": "https://youtu.be/WaNQT4exZL0?t=120",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3562703691,
+			"link": "https://youtu.be/Ux7XCnaeMXg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5451557091,
+			"link": "https://www.youtube.com/watch?v=Sj_Hx5hs_Vc",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/XCKZbVwiyGg",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/0oIxtO8fgyU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/BQwS88KGkwc",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 4449448457,
+			"link": "https://www.youtube.com/watch?v=Hk5qAFFOR2E",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/W86YNcZQGsY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8875488601,
+			"link": "https://youtu.be/FYwW_Bb8vBw?si=6hyK4lFobIRAxnby",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": 3755458723,
+			"link": "https://www.youtube.com/watch?v=7OPV8R-tfbw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 4787982136,
+			"link": "https://youtu.be/bfmpykhqJcQ",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 8779464283,
+			"link": "https://www.youtube.com/watch?v=b-ke1M2olJ0",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

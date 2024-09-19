@@ -1,92 +1,92 @@
 {
-    "id": 7892386,
-    "name": "Mechanic Megaforce",
-    "author": "TecHNeT",
-    "creators": [],
-    "verifier": "TecHNeT",
-    "verification": "https://www.youtube.com/watch?v=xpxl9xlvppQ",
-    "percentToQualify": 100,
-    "password": "007285",
-    "records": [
-       {
-          "user": "SmileBullet",
-          "link": "https://www.youtube.com/watch?v=IYWKZzag9Lo",
-          "percent": 100,
-          "hz": 60,
-          "mobile" : true
-        },
-        {
-          "user": "RoboBear04",
-          "link": "https://youtu.be/i5piJCj0qAk",
-          "percent": 100,
-          "hz": 360
-        },
-        {
-          "user": "Omnin",
-          "link": "https://youtu.be/22y_dobNhXE",
-          "percent": 100,
-          "hz": 60
-        },
-        {
-          "user": "bfdiafan5346",
-          "link": "https://youtu.be/-nf3LbHCweI",
-          "percent": 100,
-          "hz": 144
-        },
-        {
-          "user": "lllSafeSpacelll",
-          "link": "https://youtu.be/KpeBJkmOERc",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "L1GHTNING",
-          "link": "https://www.youtube.com/watch?v=npwaxHAH_Fg",
-          "percent": 100,
-          "hz": 144
-        },
-        {
-          "user": "DenyZr",
-          "link": "https://youtu.be/J8EvZAdSaY4",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "Robaleg9",
-          "link": "https://www.youtube.com/watch?v=qHnHQhG-ph0",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "DankDrew",
-          "link": "https://www.youtube.com/watch?v=_vfqOsNSKo8",
-          "percent": 100,
-          "hz": 360
-        },
-        {
-          "user": "SkeletalVirus",
-          "link": "https://youtu.be/Cb1RptmxvR4",
-          "percent": 100,
-          "hz": 360
-        },
-        {
-          "user": "[FAIRY] Fawxu",
-          "link": "https://youtu.be/xFCR4E2biXs",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "RobR10",
-          "link": "https://www.youtube.com/watch?v=5SQtmUrMvYA",
-          "percent": 100,
-          "hz": 120,
-          "mobile" : true
-        },
-        {
-          "user": "Willow",
-          "link": "https://youtu.be/re4yYb4WvUA",
-          "percent": 100,
-          "hz": 240
-        }
-      ]
+	"id": 7892386,
+	"name": "Mechanic Megaforce",
+	"author": 4287995453,
+	"creators": [],
+	"verifier": 4287995453,
+	"verification": "https://www.youtube.com/watch?v=xpxl9xlvppQ",
+	"percentToQualify": 100,
+	"password": "007285",
+	"records": [
+		{
+			"user": 8891318092,
+			"link": "https://www.youtube.com/watch?v=IYWKZzag9Lo",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 5348566145,
+			"link": "https://youtu.be/i5piJCj0qAk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9951683780,
+			"link": "https://youtu.be/22y_dobNhXE",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 4813928887,
+			"link": "https://youtu.be/-nf3LbHCweI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 1450116809,
+			"link": "https://youtu.be/KpeBJkmOERc",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 4449448457,
+			"link": "https://www.youtube.com/watch?v=npwaxHAH_Fg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/J8EvZAdSaY4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 8273227525,
+			"link": "https://www.youtube.com/watch?v=qHnHQhG-ph0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 6230395717,
+			"link": "https://www.youtube.com/watch?v=_vfqOsNSKo8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8562463026,
+			"link": "https://youtu.be/Cb1RptmxvR4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/xFCR4E2biXs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 1940327267,
+			"link": "https://www.youtube.com/watch?v=5SQtmUrMvYA",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": 3124851309,
+			"link": "https://youtu.be/re4yYb4WvUA",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

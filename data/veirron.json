@@ -1,72 +1,72 @@
 {
-    "id": 61535896,
-    "name": "Veirron",
-    "author": "Ragnarus",
-    "creators": [],
-    "verifier": "Ragnarus",
-    "verification": "https://www.youtube.com/watch?v=ZfK6dTXA1Ug",
-    "percentToQualify": 100,
-    "records": [
-        {
-            "user": "HexagonGD",
-            "link": "https://www.youtube.com/watch?v=uHjyBAi2zaM",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Redcrystal",
-            "link": "https://youtu.be/7yXv80-xYnE",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://youtu.be/uBtHGWDVVcQ",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Pizzabote6h",
-            "link": "https://youtu.be/C_4hYXQI8Ho",
-            "percent": 100,
-            "hz": 280
-        },
-        {
-            "user": "[FAIRY] Fawxu",
-            "link": "https://www.youtube.com/watch?v=DOZyg_x4c2I",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Willow",
-            "link": "https://www.youtube.com/watch?v=MaJKl-mKaDA",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-          "user": "DenyZr",
-          "link": "https://youtu.be/XE1ztxACIsg",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "[FAIRY] Azaelf",
-          "link": "https://www.youtube.com/watch?v=mCyUx5oG3Sg&list=PLSZLUa5mnMJn625MipcFmCAhoNFwAJQPl&index=46",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "qKitti",
-          "link": "https://youtu.be/pzX2fRPS380",
-          "percent": 100,
-          "hz": 144
-        },
-        {
-          "user": "RobR10",
-          "link": "https://www.youtube.com/watch?v=sQbV4my9grU",
-          "percent": 100,
-          "hz": 120,
-          "mobile" : true
-        }
-    ]
+	"id": 61535896,
+	"name": "Veirron",
+	"author": 2913882193,
+	"creators": [],
+	"verifier": 2913882193,
+	"verification": "https://www.youtube.com/watch?v=ZfK6dTXA1Ug",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": 8228105796,
+			"link": "https://www.youtube.com/watch?v=uHjyBAi2zaM",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 9282140616,
+			"link": "https://youtu.be/7yXv80-xYnE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/uBtHGWDVVcQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5942958095,
+			"link": "https://youtu.be/C_4hYXQI8Ho",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": 5683993420,
+			"link": "https://www.youtube.com/watch?v=DOZyg_x4c2I",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3124851309,
+			"link": "https://www.youtube.com/watch?v=MaJKl-mKaDA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/XE1ztxACIsg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 4939656754,
+			"link": "https://www.youtube.com/watch?v=mCyUx5oG3Sg&list=PLSZLUa5mnMJn625MipcFmCAhoNFwAJQPl&index=46",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 2869634936,
+			"link": "https://youtu.be/pzX2fRPS380",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 1940327267,
+			"link": "https://www.youtube.com/watch?v=sQbV4my9grU",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		}
+	]
 }

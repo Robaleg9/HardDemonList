@@ -1,97 +1,97 @@
 {
 	"id": 18786055,
 	"name": "Funky Road",
-	"author": "Mazl",
+	"author": 6214368438,
 	"creators": [],
-	"verifier": "Mazl",
+	"verifier": 6214368438,
 	"verification": "https://youtu.be/bIZM9157GBM",
 	"percentToQualify": 100,
 	"password": "556679",
-	"records" : [
-        {
-            "user": "Shroomy!!!",
-            "link": "https://youtu.be/vaBaih-gy58",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "[FAIRY] Fawxu",
-            "link": "https://youtu.be/gU581YLu3yo?si=efGLSyWQ8688OBZG",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "[RBR] JoacoPe",
-            "link": "https://youtu.be/GLyYkdC92Jo",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/3AxYk2ERdGQ?si=cBSUqhsO6c9sVULN",
-            "percent": 100,
-            "hz": 99999
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/lNiC6VGTDnA",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "L1GHTNING",
-            "link": "https://youtu.be/lKIKBcCgn_g",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "Galaxy4567",
-            "link": "https://www.youtube.com/watch?v=rhCt3C6G0Gg&ab_channel=Galaxy4567",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Subperfect",
-            "link": "https://youtu.be/vf2BOHF4kdY?feature=shared",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://youtu.be/vZ-ytE2cL3g",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "[ZUZU] Leckylecks",
-            "link": "https://youtu.be/ruYfWLFMYDg?si=Y7ao_PyIDC_BZkOC",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "[FAIRY] deadbush",
-            "link": "https://youtu.be/bmzQupA30VE&t=253s",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "zredaVhtraD",
-            "link": "https://www.youtube.com/watch?v=Nf9jCBgQBxg",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "[Billy] Billy",
-            "link": "https://youtu.be/mcRSkIYDB9c",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "HexagonGD",
-            "link": "https://www.youtube.com/watch?v=ypueiJYlS98",
-            "percent": 100,
-            "hz": 120
-        }
-    ]
+	"records": [
+		{
+			"user": 8779464283,
+			"link": "https://youtu.be/vaBaih-gy58",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/gU581YLu3yo?si=efGLSyWQ8688OBZG",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/GLyYkdC92Jo",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/3AxYk2ERdGQ?si=cBSUqhsO6c9sVULN",
+			"percent": 100,
+			"hz": 99999
+		},
+		{
+			"user": 3755458723,
+			"link": "https://youtu.be/lNiC6VGTDnA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 4449448457,
+			"link": "https://youtu.be/lKIKBcCgn_g",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": 1635185257,
+			"link": "https://www.youtube.com/watch?v=rhCt3C6G0Gg&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 1275755034,
+			"link": "https://youtu.be/vf2BOHF4kdY?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/vZ-ytE2cL3g",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3562703691,
+			"link": "https://youtu.be/ruYfWLFMYDg?si=Y7ao_PyIDC_BZkOC",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4787982136,
+			"link": "https://youtu.be/bmzQupA30VE&t=253s",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 2455919700,
+			"link": "https://www.youtube.com/watch?v=Nf9jCBgQBxg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3649911400,
+			"link": "https://youtu.be/mcRSkIYDB9c",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 8228105796,
+			"link": "https://www.youtube.com/watch?v=ypueiJYlS98",
+			"percent": 100,
+			"hz": 120
+		}
+	]
 }

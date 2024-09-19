@@ -1,111 +1,113 @@
 {
-    "id": 64655831,
-    "name": "Crystal Splash",
-    "author": "TrueParadoxTeam",
-    "creators": ["vARIKOZ, FlashWings576, Hank24, tedecti, Team449, DmitryGoose, sorynoop, Aqualime, Shcolnick, LixoRo, XedrA, roker12, TyakyoFyai, ItzXperion"],
-    "verifier": "TyakyoFyai",
-    "verification": "https://www.youtube.com/watch?v=zL_frc_PpwM",
-    "percentToQualify": 100,
-    "password": "191020",
-    "records": [
-        {
-            "user": "Patty",
-            "link": "https://www.youtube.com/watch?v=R-EAPDoZ9_w",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "IgongDae",
-            "link": "https://www.youtube.com/watch?v=YunGenAxQOo",
-            "percent": 100,
-            "hz": 300
-        },
-        {
-            "user": "Electro325",
-            "link": "https://www.youtube.com/watch?v=tyEaIoqkkbs",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://youtu.be/7psY_7fFwn0",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "[ZUZU] Leckylecks",
-            "link": "https://www.youtube.com/watch?v=d3ukn4wRO34",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "[RBR] JoacoPe",
-            "link": "https://www.youtube.com/watch?v=0G3GTWQxtFI",
-            "percent": 100,
-            "hz": 60
-        },
-         {
-            "user": "[FAIRY] Azaelf",
-            "link": "https://youtu.be/nuycbifYwIg",
-            "percent": 100,
-            "hz": 288
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://www.youtube.com/watch?v=ewicfki8qe8",
-            "percent": 100,
-            "hz": 150
-        },
-         {
-            "user": "DenyZr",
-            "link": "https://youtu.be/n0mdbFFXISQ",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "agentgiscool",
-            "link": "https://youtu.be/83MwJMAcPeE",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "Aquatic51",
-            "link": "https://youtu.be/hBWkE-YhEnY?si=59G9xqko-HRPykjZ",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/Hs-f4c8EsRQ",
-            "percent": 100,
-            "hz": 75
-        },
-        {
-            "user": "AlphaVeyta",
-            "link": "https://www.youtube.com/watch?v=EXLsgjObus0",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Kubus",
-            "link": "https://youtu.be/19-inOPhFL0?si=troluEVTJ3iJ1vn7",
-            "percent": 100,
-            "hz": 120,
-            "mobile": true
-        },
-        {
-            "user": "[FAIRY] deadbush",
-            "link": "https://youtu.be/ogqcX93f240",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://youtu.be/bs_Wrfnqtr0",
-            "percent": 100,
-            "hz": 165
-        }
-    ]
+	"id": 64655831,
+	"name": "Crystal Splash",
+	"author": 6935435660,
+	"creators": [
+		2358155039
+	],
+	"verifier": 7168473018,
+	"verification": "https://www.youtube.com/watch?v=zL_frc_PpwM",
+	"percentToQualify": 100,
+	"password": "191020",
+	"records": [
+		{
+			"user": 9179047866,
+			"link": "https://www.youtube.com/watch?v=R-EAPDoZ9_w",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 8875488601,
+			"link": "https://www.youtube.com/watch?v=YunGenAxQOo",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": 6269979558,
+			"link": "https://www.youtube.com/watch?v=tyEaIoqkkbs",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/7psY_7fFwn0",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 3562703691,
+			"link": "https://www.youtube.com/watch?v=d3ukn4wRO34",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9992430374,
+			"link": "https://www.youtube.com/watch?v=0G3GTWQxtFI",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 4939656754,
+			"link": "https://youtu.be/nuycbifYwIg",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": 9709466874,
+			"link": "https://www.youtube.com/watch?v=ewicfki8qe8",
+			"percent": 100,
+			"hz": 150
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/n0mdbFFXISQ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7615644755,
+			"link": "https://youtu.be/83MwJMAcPeE",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 9403457434,
+			"link": "https://youtu.be/hBWkE-YhEnY?si=59G9xqko-HRPykjZ",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 3755458723,
+			"link": "https://youtu.be/Hs-f4c8EsRQ",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": 4724577755,
+			"link": "https://www.youtube.com/watch?v=EXLsgjObus0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2563854316,
+			"link": "https://youtu.be/19-inOPhFL0?si=troluEVTJ3iJ1vn7",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": 4787982136,
+			"link": "https://youtu.be/ogqcX93f240",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 8779464283,
+			"link": "https://youtu.be/bs_Wrfnqtr0",
+			"percent": 100,
+			"hz": 165
+		}
+	]
 }

@@ -1,86 +1,86 @@
 {
-    "id": 73164179,
-    "name": "Vile",
-    "author": "Wav",
-    "creators": [],
-    "verifier": "Wav",
-    "verification": "https://youtu.be/qecAoqfgMmg",
-    "percentToQualify": 100,
-    "password": "975107",
-    "records": [ 
-        {
-            "user": "NewDark",
-            "link": "https://youtu.be/Zn5eqINx0b0",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "[RBR] Bonezizdum",
-            "link": "https://youtu.be/GfThd52MVl8",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-          "user": "lllSafeSpacelll",
-          "link": "https://www.youtube.com/watch?v=yl_dIZ9joWY&list=PLnAjn67OBop9OFUlBj6nqisiNMdLsJq10&index=2",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-            "user": "SmileBullet",
-            "link": "https://youtu.be/Fk0S3jnEbuM",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-          "user": "[RBR] JoacoPe",
-          "link": "https://youtu.be/Cn2LE4vms8Y",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-            "user": "Wolvyy",
-            "link": "https://www.youtube.com/watch?v=bhzDNUWZ-To",
-            "percent": 100,
-            "hz": 280
-        },
-         {
-            "user": "FarAwayLand",
-            "link": "https://www.youtube.com/watch?v=hwjxd9IF_1o&t=1618s",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://www.youtube.com/watch?v=DDuyx_HDYB0",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "DenyZr",
-            "link": "https://youtu.be/NHQnzeftAwM",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Pizzabote6h",
-            "link": "https://youtu.be/x60lgv9ITHM",
-            "percent": 100,
-            "hz": 280
-        },
-        {
-            "user": "RobR10",
-            "link": "https://www.youtube.com/watch?v=NhSfe55IG94",
-            "percent": 100,
-            "hz": 120,
-            "mobile": true
-        },
-        {
-          "user": "Willow",
-          "link": "https://youtu.be/iYx5Tpogx34",
-          "percent": 100,
-          "hz": 240
-        }
-      ]
+	"id": 73164179,
+	"name": "Vile",
+	"author": 8457108257,
+	"creators": [],
+	"verifier": 8457108257,
+	"verification": "https://youtu.be/qecAoqfgMmg",
+	"percentToQualify": 100,
+	"password": "975107",
+	"records": [
+		{
+			"user": 1343385086,
+			"link": "https://youtu.be/Zn5eqINx0b0",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 4955808981,
+			"link": "https://youtu.be/GfThd52MVl8",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 1450116809,
+			"link": "https://www.youtube.com/watch?v=yl_dIZ9joWY&list=PLnAjn67OBop9OFUlBj6nqisiNMdLsJq10&index=2",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 8891318092,
+			"link": "https://youtu.be/Fk0S3jnEbuM",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/Cn2LE4vms8Y",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 7416518476,
+			"link": "https://www.youtube.com/watch?v=bhzDNUWZ-To",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": 1648137646,
+			"link": "https://www.youtube.com/watch?v=hwjxd9IF_1o&t=1618s",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 8273227525,
+			"link": "https://www.youtube.com/watch?v=DDuyx_HDYB0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/NHQnzeftAwM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5942958095,
+			"link": "https://youtu.be/x60lgv9ITHM",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": 1940327267,
+			"link": "https://www.youtube.com/watch?v=NhSfe55IG94",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": 3124851309,
+			"link": "https://youtu.be/iYx5Tpogx34",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

@@ -1,117 +1,117 @@
 {
-    "id": 15071683,
-    "name": "Pursuit",
-    "author": "Th04",
-    "creators": [],
-    "verifier": "Th04",
-    "verification": "https://www.youtube.com/watch?v=p1C-jDEJuSU",
-    "percentToQualify": 100,
-    "password": "369357",
-    "records": [
-        {
-          "user": "Colizzion",
-          "link": "https://youtu.be/3iFrLe4aOYc",
-          "percent": 100,
-          "hz": 240
-          },
-        {
-          "user": "Robaleg9",
-          "link": "https://www.youtube.com/watch?v=8Te59u5u4Fo&ab_channel=Robaleg9",
-          "percent": 100,
-          "hz": 144
-          },
-        {
-          "user": "MinicMioda",
-          "link": "https://youtu.be/v36Iw-2E3lo",
-          "percent": 100,
-          "hz": 60
-          },
-          {
-          "user": "nTimaw",
-          "link": "https://youtu.be/489DhU7nofY",
-          "percent": 100,
-          "hz": 300
-          },
-        {
-          "user": "DenyZr",
-          "link": "https://youtu.be/q8IZQgwxTZg",
-          "percent": 100,
-          "hz": 240
-          },
-        {
-          "user": "culobdj",
-          "link": "https://www.youtube.com/watch?v=ZqwhG5VHuEQ",
-          "percent": 100,
-          "hz": 240
-          },
-        {
-          "user": "[RBR] JoacoPe",
-          "link": "https://youtu.be/Bs1XLdMhzUw",
-          "percent": 100,
-          "hz": 120
-          },
-        {
-          "user": "Fantendo",
-          "link": "https://www.youtube.com/watch?app=desktop&v=lia8kUnPyz4&list=PLJnGTRomwPuhdoUKlGYHtCntrLrghL_Ys&index=13",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
-          },
-        {
-          "user": "[FAIRY] Fawxu",
-          "link": "https://youtu.be/ba1AYnXdOKQ",
-          "percent": 100,
-          "hz": 120
-          },
-          {
-            "user": "arcanin",
-            "link": "https://www.youtube.com/watch?v=L46pxouWqlE&ab_channel=suuji%2Farcanin",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Electro325",
-            "link": "https://youtu.be/PTusi7BLjUI",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-          "user": "[ZUZU] Leckylecks",
-          "link": "https://www.youtube.com/watch?v=T1VQL2VstDc",
-          "percent": 100,
-          "hz": 144
-        },
-        {
-          "user": "Subperfect",
-          "link": "https://youtu.be/A7BGbSuBzEk?feature=shared",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
-        },
-        {
-          "user": "Leven",
-          "link": "https://youtu.be/PP4NKYUDsZ8",
-          "percent": 100,
-          "hz": 75
-        },
-        {
-          "user": "[FAIRY] deadbush",
-          "link": "https://youtu.be/5nGleiAA9z0",
-          "percent": 100,
-          "hz": 144
-        },
-        {
-          "user": "tomm",
-          "link": "https://youtu.be/qtwM7Bd6mPg",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "AdutzHD",
-          "link": "https://youtu.be/MpKtZXcAYUU?si=9t248zHQIDthTBar",
-          "percent": 100,
-          "hz": 144,
-          "mobile": true
-        }
-      ]
+	"id": 15071683,
+	"name": "Pursuit",
+	"author": 5749061535,
+	"creators": [],
+	"verifier": 5749061535,
+	"verification": "https://www.youtube.com/watch?v=p1C-jDEJuSU",
+	"percentToQualify": 100,
+	"password": "369357",
+	"records": [
+		{
+			"user": 6702178034,
+			"link": "https://youtu.be/3iFrLe4aOYc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 8273227525,
+			"link": "https://www.youtube.com/watch?v=8Te59u5u4Fo&ab_channel=Robaleg9",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 8786691631,
+			"link": "https://youtu.be/v36Iw-2E3lo",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/489DhU7nofY",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/q8IZQgwxTZg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5918420152,
+			"link": "https://www.youtube.com/watch?v=ZqwhG5VHuEQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/Bs1XLdMhzUw",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 1956516802,
+			"link": "https://www.youtube.com/watch?app=desktop&v=lia8kUnPyz4&list=PLJnGTRomwPuhdoUKlGYHtCntrLrghL_Ys&index=13",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/ba1AYnXdOKQ",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 9995066886,
+			"link": "https://www.youtube.com/watch?v=L46pxouWqlE&ab_channel=suuji%2Farcanin",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 6269979558,
+			"link": "https://youtu.be/PTusi7BLjUI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3562703691,
+			"link": "https://www.youtube.com/watch?v=T1VQL2VstDc",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 1275755034,
+			"link": "https://youtu.be/A7BGbSuBzEk?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 3755458723,
+			"link": "https://youtu.be/PP4NKYUDsZ8",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": 4787982136,
+			"link": "https://youtu.be/5nGleiAA9z0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 2844796713,
+			"link": "https://youtu.be/qtwM7Bd6mPg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 4868807329,
+			"link": "https://youtu.be/MpKtZXcAYUU?si=9t248zHQIDthTBar",
+			"percent": 100,
+			"hz": 144,
+			"mobile": true
+		}
+	]
 }

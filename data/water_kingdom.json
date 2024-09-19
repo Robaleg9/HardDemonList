@@ -1,110 +1,116 @@
 {
-    "id": 13178781,
-    "name": "Water Kingdom",
-    "author": "Elzeko",
-    "creators": [],
-    "verifier": "Elzeko",
-    "verification": "https://youtu.be/QmYiInhNV_Y",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records" : [
-{
-            "user": "[RBR] JoacoPe",
-            "link": "https://youtu.be/hv0vDdwIawI?si=-NCwTHpwIVtflrXz",
-            "percent": 100,
-            "hz": 120
-},
-{
-            "user": "[FAIRY] Fawxu",
-            "link": "https://youtu.be/tDA6QFsU8z0?si=THq73IV64q3aZpdy",
-            "percent": 100,
-            "hz": 120
-},
-{   
-            "user": "nTimaw",
-            "link": "https://youtu.be/XA0EhilqVd4?si=BfyE6mxlMLGcYfq-",
-            "percent": 100,
-            "hz": 427
-},
-{
-            "user": "Royale",
-            "link": "https://youtu.be/b-oeo0PBZiQ",
-            "percent": 100,
-            "hz": 60
-},
-{
-            "user": "SmileBullet",
-            "link": "https://www.youtube.com/watch?v=Vgf38-Ge1EE",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-},
-{
-            "user": "Shroomy!!!",
-            "link": "https://youtu.be/hCvP6UWOe9g",
-            "percent": 100,
-            "hz": 240
-},
-{
-            "user": "[ZUZU] Leckylecks",
-            "link": "https://youtu.be/RP6cGJ2A9AY?si=kvtfhiCR_azg3vZk",
-            "percent": 100,
-            "hz": 360
-},
-{
-            "user": "Leven",
-            "link": "https://youtu.be/X4Qdfe5ivDc?si=bnAxPluuupAr3nzr&t=81",
-            "percent": 100,
-            "hz": 144
-},
-{
-            "user": "Robaleg9",
-            "link": "https://youtu.be/I9KKkPSKEZw?si=EB32JPqd8O1GXyyb",
-            "percent": 100,
-            "hz": 240
-},
-{
-            "user": "Galaxy4567",
-            "link": "https://www.youtube.com/watch?v=0bcV1Djtk3g&ab_channel=Galaxy4567",
-            "percent": 100,
-            "hz": 240
-},
-{
-            "user": "Avtra",
-            "link": "https://www.youtube.com/watch?v=-6CvSJ2hKG8&ab_channel=Avtra",
-            "percent": 100,
-            "hz": 150
-},
-{
-            "user": "sonofnooby",
-            "link": "https://youtu.be/x2M-YULn79g",
-            "percent": 100,
-            "hz": 165
-},
-{
-    "user": "Subperfect",
-    "link": "https://youtu.be/cLqSuX9yipc?feature=shared",
-    "percent": 100,
-    "hz": 60,
-    "mobile": true
-},
-        {
-            "user": "[FAIRY] deadbush",
-            "link": "https://youtu.be/bmzQupA30VE&t=358s",
-            "percent": 100,
-            "hz": 144
-        },
-          {
-            "user": "[Billy] Billy",
-            "link": "https://youtu.be/1elk2TCfXLM?si=3hTNBKqGfkGjMY_F",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "AcropolisBoy",
-            "link": "https://youtu.be/RsNjgBi6OGE",
-            "percent": 100,
-            "hz": 480
-        }
-    ]
+	"id": 13178781,
+	"name": "Water Kingdom",
+	"author": 9471598112,
+	"creators": [],
+	"verifier": 9471598112,
+	"verification": "https://youtu.be/QmYiInhNV_Y",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/hv0vDdwIawI?si=-NCwTHpwIVtflrXz",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/tDA6QFsU8z0?si=THq73IV64q3aZpdy",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/XA0EhilqVd4?si=BfyE6mxlMLGcYfq-",
+			"percent": 100,
+			"hz": 427
+		},
+		{
+			"user": 1602355077,
+			"link": "https://youtu.be/b-oeo0PBZiQ",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 8891318092,
+			"link": "https://www.youtube.com/watch?v=Vgf38-Ge1EE",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 8779464283,
+			"link": "https://youtu.be/hCvP6UWOe9g",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3562703691,
+			"link": "https://youtu.be/RP6cGJ2A9AY?si=kvtfhiCR_azg3vZk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8875488601,
+			"link": "https://youtu.be/LOIS1W1afDg",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3755458723,
+			"link": "https://youtu.be/X4Qdfe5ivDc?si=bnAxPluuupAr3nzr&t=81",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/I9KKkPSKEZw?si=EB32JPqd8O1GXyyb",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 1635185257,
+			"link": "https://www.youtube.com/watch?v=0bcV1Djtk3g&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 6254300282,
+			"link": "https://www.youtube.com/watch?v=-6CvSJ2hKG8&ab_channel=Avtra",
+			"percent": 100,
+			"hz": 150
+		},
+		{
+			"user": 1446472378,
+			"link": "https://youtu.be/x2M-YULn79g",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": 1275755034,
+			"link": "https://youtu.be/cLqSuX9yipc?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 4787982136,
+			"link": "https://youtu.be/bmzQupA30VE&t=358s",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 3649911400,
+			"link": "https://youtu.be/1elk2TCfXLM?si=3hTNBKqGfkGjMY_F",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 4259113654,
+			"link": "https://youtu.be/RsNjgBi6OGE",
+			"percent": 100,
+			"hz": 480
+		}
+	]
 }

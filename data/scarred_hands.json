@@ -1,104 +1,104 @@
 {
-    "id": 88535656,
-    "name": "scarred hands",
-    "author": "Elisione",
-    "creators": [],
-    "verifier": "Elisione",
-    "verification": "https://youtu.be/7Mu_8ZQpe1U?si=ctLF1esCxl951Tog",
-    "percentToQualify": 100,
-    "password": "No Copy",
-    "records" : [
-        {
-            "user": "[ZUZU] Leckylecks",
-            "link": "https://youtu.be/4DnWfQ6ADps?si=q-q7UJZQwbB5ItG8",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://youtu.be/9Thdl-zHdF4?si=bMiflfEUmH1fZQsH",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://www.youtube.com/watch?v=Xx-cFwgW9TI",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "[RBR] JoacoPe",
-            "link": "https://youtu.be/zHXaB7kMq-w",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/FHCJmcPNFps?si=A7Md4Sh5Qu2OXvNI",
-            "percent": 100,
-            "hz": 321
-        },
-        {
-            "user": "[FAIRY] Fawxu",
-            "link": "https://youtu.be/s-7crVKkhKw?si=PAnHhPLmZb2MDSb_",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Electro325",
-            "link": "https://youtu.be/s8d2d6OPUfY?si=bWKxygi64sNE6bCa&t=1181",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/PSevggyaADc",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "infra2792",
-            "link": "https://youtu.be/W2qHxe5Q_ck",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Dissmo",
-            "link": "https://www.youtube.com/watch?v=QBHyZTngfLg",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Galaxy4567",
-            "link": "https://www.youtube.com/watch?v=U8Ugw_VQbGI&ab_channel=Galaxy4567",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Subperfect",
-            "link": "https://youtu.be/RxHPXruBHb8?feature=shared",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "Avtra",
-            "link": "https://www.youtube.com/watch?v=TpussQJIMTo&ab_channel=Avtra",
-            "percent": 100,
-            "hz": 150
-        },
-        {
-            "user": "[Billy] Billy",
-            "link": "https://youtu.be/hKDff36GGLg",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "[FAIRY] deadbush",
-            "link": "https://youtu.be/wHFd8hwIcQ4",
-            "percent": 100,
-            "hz": 144
-        }
-    ]
+	"id": 88535656,
+	"name": "scarred hands",
+	"author": 3421460319,
+	"creators": [],
+	"verifier": 3421460319,
+	"verification": "https://youtu.be/7Mu_8ZQpe1U?si=ctLF1esCxl951Tog",
+	"percentToQualify": 100,
+	"password": "No Copy",
+	"records": [
+		{
+			"user": 3562703691,
+			"link": "https://youtu.be/4DnWfQ6ADps?si=q-q7UJZQwbB5ItG8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8779464283,
+			"link": "https://youtu.be/9Thdl-zHdF4?si=bMiflfEUmH1fZQsH",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 8273227525,
+			"link": "https://www.youtube.com/watch?v=Xx-cFwgW9TI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/zHXaB7kMq-w",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/FHCJmcPNFps?si=A7Md4Sh5Qu2OXvNI",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/s-7crVKkhKw?si=PAnHhPLmZb2MDSb_",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 6269979558,
+			"link": "https://youtu.be/s8d2d6OPUfY?si=bWKxygi64sNE6bCa&t=1181",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3755458723,
+			"link": "https://youtu.be/PSevggyaADc",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 8836495357,
+			"link": "https://youtu.be/W2qHxe5Q_ck",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 1738079116,
+			"link": "https://www.youtube.com/watch?v=QBHyZTngfLg",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 1635185257,
+			"link": "https://www.youtube.com/watch?v=U8Ugw_VQbGI&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 1275755034,
+			"link": "https://youtu.be/RxHPXruBHb8?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 6254300282,
+			"link": "https://www.youtube.com/watch?v=TpussQJIMTo&ab_channel=Avtra",
+			"percent": 100,
+			"hz": 150
+		},
+		{
+			"user": 3649911400,
+			"link": "https://youtu.be/hKDff36GGLg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 4787982136,
+			"link": "https://youtu.be/wHFd8hwIcQ4",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

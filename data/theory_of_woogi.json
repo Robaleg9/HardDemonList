@@ -1,97 +1,97 @@
 {
-    "id": 9725767,
-    "name": "Theory of WOOGI",
-    "author": "WOOGI1411",
-    "creators": [],
-    "verifier": "WOOGI1411",
-    "verification": "https://youtu.be/RvJOSS93PVU",
-    "percentToQualify": 100,
-    "password": "Not Copyable",
-    "records": [
-      {
-        "user": "Robaleg9",
-        "link": "https://youtu.be/M61ti6Fnjk0",
-        "percent": 100,
-        "hz": 240
-      },
-      {
-        "user": "Patty",
-        "link": "https://youtu.be/TCkGiaif7Po",
-        "percent": 100,
-        "hz": 240
-      },
-      {
-        "user": "[FAIRY] Fawxu",
-        "link": "https://youtu.be/-2ou5GdI6UM",
-        "percent": 100,
-        "hz": 240
-      },
-      {
-        "user": "[RBR] JoacoPe",
-        "link": "https://youtu.be/SpPwr_N7pZw",
-        "percent": 100,
-        "hz": 120
-      },
-        {
-        "user": "Electro325",
-        "link": "https://www.youtube.com/watch?v=_sRQvkdLu0Y&t=469s",
-        "percent": 100,
-        "hz": 360
-      },
-      {
-        "user": "nTimaw",
-        "link": "https://www.youtube.com/watch?v=WfqKzN-g-N4",
-        "percent": 100,
-        "hz": 300
-      },
-      {
-        "user": "lllSafeSpacelll",
-        "link": "https://www.youtube.com/watch?v=Cp_x9E_-i8E",
-        "percent": 100,
-        "hz": 120
-      },
-      {
-        "user": "[ZUZU] Leckylecks",
-        "link": "https://youtu.be/d9gJ_b19x2c",
-        "percent": 100,
-        "hz": 360
-      },
-      {
-        "user": "SmileBullet",
-        "link": "https://www.youtube.com/watch?v=Y8eMWRblAYQ",
-        "percent": 100,
-        "hz": 60,
-        "mobile": true
-      },
-      {
-        "user": "EpicMushroom",
-        "link": "https://www.youtube.com/watch?v=ji5raGGY1LY",
-        "percent": 100,
-        "hz": 150
-      },
-      {
-        "user": "Galaxy4567",
-        "link": "https://www.youtube.com/watch?v=vnPpvEPxMQg&ab_channel=Galaxy4567",
-        "percent": 100,
-        "hz": 144
-      },
-      {
-        "user": "Mylou",
-        "link": "https://youtu.be/R008DjpSaxo",
-        "percent": 100,
-        "hz": 240
-      },
-      {
-            "user": "DenyZr",
-            "link": "https://youtu.be/pp7d_1wog90",
-            "percent": 100,
-            "hz": 360
-      },
-      {
-            "user": "Bluebarracks",
-            "link": "https://youtu.be/Iow-4sfsKyI",
-            "percent": 100,
-            "hz": 240
-      }
-     ]
+	"id": 9725767,
+	"name": "Theory of WOOGI",
+	"author": 7183640730,
+	"creators": [],
+	"verifier": 7183640730,
+	"verification": "https://youtu.be/RvJOSS93PVU",
+	"percentToQualify": 100,
+	"password": "Not Copyable",
+	"records": [
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/M61ti6Fnjk0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9179047866,
+			"link": "https://youtu.be/TCkGiaif7Po",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/-2ou5GdI6UM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/SpPwr_N7pZw",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 6269979558,
+			"link": "https://www.youtube.com/watch?v=_sRQvkdLu0Y&t=469s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9709466874,
+			"link": "https://www.youtube.com/watch?v=WfqKzN-g-N4",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": 1450116809,
+			"link": "https://www.youtube.com/watch?v=Cp_x9E_-i8E",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 3562703691,
+			"link": "https://youtu.be/d9gJ_b19x2c",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8891318092,
+			"link": "https://www.youtube.com/watch?v=Y8eMWRblAYQ",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 5894169341,
+			"link": "https://www.youtube.com/watch?v=ji5raGGY1LY",
+			"percent": 100,
+			"hz": 150
+		},
+		{
+			"user": 1635185257,
+			"link": "https://www.youtube.com/watch?v=vnPpvEPxMQg&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 7484912053,
+			"link": "https://youtu.be/R008DjpSaxo",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/pp7d_1wog90",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9538645593,
+			"link": "https://youtu.be/Iow-4sfsKyI",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
