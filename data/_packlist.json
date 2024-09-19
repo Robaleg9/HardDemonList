@@ -43,7 +43,6 @@
         "name": "LGBTQ Pack",
         "levels": [
             "blrpl_lghts",
-            "time_decay",
             "xes",
             "snap",
             "majesty",
@@ -120,7 +119,6 @@
         "name": "Creo Song Pack",
         "levels": [
             "advance3",
-            "time_decay",
             "artemisia",
             "dark_tides",
             "xes"

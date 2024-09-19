@@ -386,6 +386,19 @@
 			"link": "https://www.youtube.com/watch?v=7nUXocTbI50",
 			"percent": 100,
 			"hz": 120
+		},
+		{
+			"user": "Dissmo",
+			"link": "https://www.youtube.com/watch?v=Gv2eUHHRehs",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": "Chonkeh",
+			"link": "https://youtu.be/fTzcvu3rY6c",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
