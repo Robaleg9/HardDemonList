@@ -3,7 +3,9 @@
 	"name": "The Game",
 	"author": 8532165907,
 	"creators": [
-		"ItsCyclo", "Supernooby", "Xuser"
+		8532165907,
+		1676977696,
+		1846806023
 	],
 	"verifier": 8532165907,
 	"verification": "https://youtu.be/dXphZXIXsF0",
@@ -239,7 +241,7 @@
 			"mobile": true
 		},
 		{
-			"user": "A05Polzar",
+			"user": 9555541620,
 			"link": "https://youtu.be/qEeHi-LwjKg",
 			"percent": 100,
 			"hz": 240

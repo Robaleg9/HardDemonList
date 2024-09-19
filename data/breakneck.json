@@ -7,7 +7,7 @@
 		5968945187,
 		7546645467
 	],
-	"verifier": "Unbipentium",
+	"verifier": 5511242722,
 	"verification": "https://youtu.be/PAaHvxYSFps",
 	"percentToQualify": 100,
 	"password": "789123",
@@ -207,10 +207,10 @@
 			"hz": 360
 		},
 		{
-			"user": "A05Polzar",
+			"user": 9555541620,
 			"link": "https://youtu.be/7rFfcWZoYHc",
 			"percent": 100,
 			"hz": 240
-	}
+		}
 	]
 }

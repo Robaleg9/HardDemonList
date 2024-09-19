@@ -1118,22 +1118,22 @@
 			"mobile": true
 		},
 		{
-			"user": "ProbablyTaken",
+			"user": 8416870136,
 			"link": "https://youtu.be/W7UUBBxOvkI",
 			"percent": 100,
 			"hz": 60
 		},
 		{
-			"user": "Kuritsa",
+			"user": 2146502139,
 			"link": "https://www.youtube.com/watch?v=4prgMl5hyXQ",
 			"percent": 100,
 			"hz": 60
 		},
 		{
-			"user": "themitryex",
+			"user": 4228458557,
 			"link": "https://www.youtube.com/watch?v=4_C36MU-HF0&t=101s",
 			"percent": 100,
 			"hz": 60
-	}
+		}
 	]
 }

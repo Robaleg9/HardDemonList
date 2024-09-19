@@ -3,7 +3,9 @@
 	"name": "Brimstone",
 	"author": 4227574849,
 	"creators": [
-		"Findexi", "Evasium", "Allan"
+		4227574849,
+		7272972915,
+		1853279676
 	],
 	"verifier": 9190887180,
 	"verification": "https://www.youtube.com/watch?v=6umuBbO1FG0",
@@ -157,7 +159,7 @@
 			"hz": 240
 		},
 		{
-			"user": "A05Polzar",
+			"user": 9555541620,
 			"link": "https://youtu.be/YRjRdu6ngT0",
 			"percent": 100,
 			"hz": 240

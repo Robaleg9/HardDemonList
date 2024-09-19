@@ -3,7 +3,13 @@
 	"name": "Artemisia",
 	"author": 6140683819,
 	"creators": [
-		"AcnologiaGD", "BySelling", "Eridani", "noru64", "Dahzen", "Prisy", "M3llo"
+		5515403586,
+		7412535916,
+		6140683819,
+		6676417421,
+		6119977803,
+		2193786095,
+		4451304772
 	],
 	"verifier": 9449760720,
 	"verification": "https://www.youtube.com/watch?v=Up_pE-ipu4s",
@@ -388,23 +394,23 @@
 			"hz": 120
 		},
 		{
-			"user": "Dissmo",
+			"user": 1738079116,
 			"link": "https://www.youtube.com/watch?v=Gv2eUHHRehs",
 			"percent": 100,
 			"hz": 120,
 			"mobile": true
 		},
 		{
-			"user": "Chonkeh",
+			"user": 7889380663,
 			"link": "https://youtu.be/fTzcvu3rY6c",
 			"percent": 100,
 			"hz": 240
 		},
 		{
-			"user": "Casithecool",
+			"user": 1666087245,
 			"link": "https://youtu.be/2MJm47DAYRk",
 			"percent": 100,
 			"hz": 240
-	}
+		}
 	]
 }

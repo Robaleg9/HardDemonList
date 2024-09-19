@@ -3,7 +3,13 @@
 	"name": "Sonic Chamber",
 	"author": 7803135552,
 	"creators": [
-		"GMDElite", "MrGinoDash", "Flatts", "Shocksidian", "Droo79", "MuLhM", "NickMarZ"
+		7803135552,
+		8021346182,
+		7089820437,
+		7276492456,
+		9485688666,
+		1774725146,
+		2632766411
 	],
 	"verifier": 7803135552,
 	"verification": "https://www.youtube.com/watch?v=GtppRHOsE2w",
@@ -299,19 +305,19 @@
 			"hz": 240
 		},
 		{
-			"user": "A05Polzar",
+			"user": 9555541620,
 			"link": "https://youtu.be/8IrVvHEamGg",
 			"percent": 100,
 			"hz": 240
 		},
 		{
-			"user": "[FAIRY] deadbush",
+			"user": 4787982136,
 			"link": "https://youtu.be/6-lkEKEpp-c",
 			"percent": 100,
 			"hz": 144
 		},
 		{
-			"user": "Sloudy",
+			"user": 5185647113,
 			"link": "https://youtu.be/a-IIXxBhAFs",
 			"percent": 100,
 			"hz": 240
