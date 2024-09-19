@@ -179,6 +179,13 @@
 			"link": "https://www.youtube.com/watch?v=xmRZfPXWSOA",
 			"percent": 100,
 			"hz": 288
+		},
+		{
+			"user": "Defentum",
+			"link": "https://youtu.be/S5BAGL-JBbg?feature=shared",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }

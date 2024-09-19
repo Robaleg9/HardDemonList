@@ -129,6 +129,12 @@
 			"link": "https://www.youtube.com/watch?v=xmRZfPXWSOA",
 			"percent": 100,
 			"hz": 288
-		}
+		},
+		{
+			"user": "lisosni",
+			"link": "https://youtu.be/BDXZKYx9FnU",
+			"percent": 100,
+			"hz": 240
+	}
 	]
 }

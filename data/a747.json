@@ -167,6 +167,19 @@
 			"link": "https://www.youtube.com/watch?v=kWuTiaXt0ig&list=PLuY5YeD5nE0Xm_mY_Z3_2q-4Z8oA9ah9Z&index=17&ab_channel=Galaxy4567",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": "[RBR] Bonezizdum",
+			"link": "https://youtu.be/xD_dIdADwRI?si=c8D3_STvJJn6D4L5",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": "lisosni",
+			"link": "https://youtu.be/N6HULoEToh4",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
