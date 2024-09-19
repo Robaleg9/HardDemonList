@@ -1,120 +1,120 @@
- {
-    "id": 60629479,
-    "name": "The Voidlands",
-    "author": "dolphe",
-    "creators": [],
-    "verifier": "dolphe",
-    "verification": "https://www.youtube.com/watch?v=BqekYDDlJ1o",
-    "percentToQualify": 100,
-    "password": "159357",
-    "records": [
-      {
-          "user": "HexagonGD",
-          "link": "https://www.youtube.com/watch?v=AuQ0XyNapn4",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "QuickSpeedFX",
-          "link": "https://www.youtube.com/watch?v=HiOE6rbFRbQ",
-          "percent": 100,
-          "hz": 60,
-          "mobile" : true
-        },
-         {
-            "user": "Nicoolat",
-            "link": "https://youtu.be/WTusboLwkU8",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-          "user": "[RBR] JoseRicoTacoNachoQuesadillaMandilaJones",
-          "link": "https://www.youtube.com/watch?v=fTpjB4oZZ-g",
-          "percent": 100,
-          "hz": 144
-        },
-        {
-          "user": "[ZUZU] Leckylecks",
-          "link": "https://youtu.be/6L4I3zVWfmo",
-          "percent": 100,
-          "hz": 360
-        },
-        {
-          "user": "RoboBear04",
-          "link": "https://youtu.be/Dzh5na2d4E8",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "Robaleg9",
-          "link": "https://www.youtube.com/watch?v=qCCJTQxYaLM",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "Electro325",
-          "link": "https://youtu.be/LP8hly7wxVA",
-          "percent": 100,
-          "hz": 360
-        },
-        {
-          "user": "[FAIRY] Azaelf",
-          "link": "https://youtu.be/IwVp0bUVi1Y",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "DenyZr",
-          "link": "https://youtu.be/xUWqiXS7VK0",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-            "user": "arcanin",
-            "link": "https://youtu.be/0Lsgdqdv1IQ?t=2637",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "[RBR] JoacoPe",
-            "link": "https://www.youtube.com/watch?v=lhLct2Bk_yY",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://www.youtube.com/watch?v=euJi9lTYmo8",
-            "percent": 100,
-            "hz": 150
-        },
-        {
-            "user": "Shyne",
-            "link": "https://www.youtube.com/watch?v=LBd1_JTwwJk",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-          "user": "TDWBS",
-          "link": "https://youtu.be/_vMxeB3JgJs?si=RtPnWjutmJz43Me8",
-          "percent": 100,
-          "hz": 120,
-          "mobile": true
-      },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://www.youtube.com/watch?v=WPJlgZ1-yIw",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-          "user": "StarfruitGamer",
-          "link": "https://youtu.be/zujrL0FyXWI?si=xnvY5_ZHndj-T4aS",
-          "percent": 100,
-          "hz": 120,
-          "mobile": true
-        }
-      ]
+{
+	"id": 60629479,
+	"name": "The Voidlands",
+	"author": 2968699367,
+	"creators": [],
+	"verifier": 2968699367,
+	"verification": "https://www.youtube.com/watch?v=BqekYDDlJ1o",
+	"percentToQualify": 100,
+	"password": "159357",
+	"records": [
+		{
+			"user": 8228105796,
+			"link": "https://www.youtube.com/watch?v=AuQ0XyNapn4",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 3233082346,
+			"link": "https://www.youtube.com/watch?v=HiOE6rbFRbQ",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 6599684759,
+			"link": "https://youtu.be/WTusboLwkU8",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 5148118396,
+			"link": "https://www.youtube.com/watch?v=fTpjB4oZZ-g",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 3562703691,
+			"link": "https://youtu.be/6L4I3zVWfmo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5348566145,
+			"link": "https://youtu.be/Dzh5na2d4E8",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 8273227525,
+			"link": "https://www.youtube.com/watch?v=qCCJTQxYaLM",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 6269979558,
+			"link": "https://youtu.be/LP8hly7wxVA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4939656754,
+			"link": "https://youtu.be/IwVp0bUVi1Y",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/xUWqiXS7VK0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9995066886,
+			"link": "https://youtu.be/0Lsgdqdv1IQ?t=2637",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 9992430374,
+			"link": "https://www.youtube.com/watch?v=lhLct2Bk_yY",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 9709466874,
+			"link": "https://www.youtube.com/watch?v=euJi9lTYmo8",
+			"percent": 100,
+			"hz": 150
+		},
+		{
+			"user": 1507555304,
+			"link": "https://www.youtube.com/watch?v=LBd1_JTwwJk",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 2308094248,
+			"link": "https://youtu.be/_vMxeB3JgJs?si=RtPnWjutmJz43Me8",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": 8779464283,
+			"link": "https://www.youtube.com/watch?v=WPJlgZ1-yIw",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 3619381087,
+			"link": "https://youtu.be/zujrL0FyXWI?si=xnvY5_ZHndj-T4aS",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		}
+	]
 }

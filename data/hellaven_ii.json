@@ -1,86 +1,85 @@
 {
-    "id": 13618790,
-    "name": "Hellaven II",
-    "author": "Clasi",
-    "creators": [],
-    "verifier": "Clasi",
-    "verification": "https://www.youtube.com/watch?v=pJqq-7_nnmg",
-    "percentToQualify": 100,
-    "password": "158596",
-    "records": [
-        {
-          "user": "RoboBear04",
-          "link": "https://youtu.be/SEP0LD3nIEM",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "Robaleg9",
-          "link": "https://youtu.be/YB6FMYiizWk",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "Electro325",
-          "link": "https://youtu.be/PTusi7BLjUI?t=210",
-          "percent": 100,
-          "hz": 360
-        },
-        {
-          "user": "[FAIRY] Fawxu",
-          "link": "https://youtu.be/SsLwS-I9sd4",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "lllSafeSpacelll",
-          "link": "https://www.youtube.com/watch?v=Q8doIUbzYJE",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "SmileBullet",
-          "link": "https://youtu.be/tYokcID6fhA",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
-        },
-        {
-          "user": "Frogs65",
-          "link": "https://youtu.be/1At7GDeJ3iw",
-          "percent": 100,
-          "hz": 60
-        },
-        {
-          "user": "DenyZr",
-          "link": "https://youtu.be/aTSBP2nAH_8",
-          "percent": 100,
-          "hz": 360
-        },
-        {
-          "user": "Wolvyy",
-          "link": "https://www.youtube.com/watch?v=OwXwuPWuufg",
-          "percent": 100,
-          "hz": 280
-        },
-        {
-          "user": "arcanin",
-          "link": "https://www.youtube.com/watch?v=LmwOqLfnJ0c&ab_channel=suuji%2Farcanin",
-          "percent": 100,
-          "hz": 120
-        },
-         {
-          "user": "IgongDae",
-          "link": "https://youtu.be/LaSx-i2fgxY",
-          "percent": 100,
-          "hz": 360
-        },
-        {
-            "user": "Budibru",
-            "link": "https://www.youtube.com/watch?v=o2n9sDywZpU",
-            "percent": 100,
-            "hz": 60
-        }
-    ]
+	"id": 13618790,
+	"name": "Hellaven II",
+	"author": 1759082155,
+	"creators": [],
+	"verifier": 1759082155,
+	"verification": "https://www.youtube.com/watch?v=pJqq-7_nnmg",
+	"percentToQualify": 100,
+	"password": "158596",
+	"records": [
+		{
+			"user": 5348566145,
+			"link": "https://youtu.be/SEP0LD3nIEM",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/YB6FMYiizWk",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 6269979558,
+			"link": "https://youtu.be/PTusi7BLjUI?t=210",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/SsLwS-I9sd4",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 1450116809,
+			"link": "https://www.youtube.com/watch?v=Q8doIUbzYJE",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 8891318092,
+			"link": "https://youtu.be/tYokcID6fhA",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 5106732325,
+			"link": "https://youtu.be/1At7GDeJ3iw",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/aTSBP2nAH_8",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7416518476,
+			"link": "https://www.youtube.com/watch?v=OwXwuPWuufg",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": 9995066886,
+			"link": "https://www.youtube.com/watch?v=LmwOqLfnJ0c&ab_channel=suuji%2Farcanin",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 8875488601,
+			"link": "https://youtu.be/LaSx-i2fgxY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4919323731,
+			"link": "https://www.youtube.com/watch?v=o2n9sDywZpU",
+			"percent": 100,
+			"hz": 60
+		}
+	]
 }
-

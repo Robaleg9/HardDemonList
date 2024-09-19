@@ -1,97 +1,99 @@
 {
-    "id": 82091055,
-    "name": "Celestial Inertia",
-    "author": "Striked20",
-    "creators": ["realwhata, Elliptic4l, Azure3000, MazZedy, Hypno74, iSkars, Striked20, Kyoze, LightningSL, Jairo1xdF, Koopazu, GeometryPil0t, MzeroGD, Miguel135, nPyro, exvii, gradientxd, Gi4nv, Liuuw, LandyGMD, Vollerae, ItsXZ, ArdiZZle, Tahsen, theviri, Uriun112"],
-    "verifier": "jhostyn",
-    "verification": "https://www.youtube.com/watch?v=IwEnRZpey44",
-    "percentToQualify": 100,
-    "password": "072222",
-    "records": [
-         {
-            "user": "nTimaw",
-            "link": "https://youtu.be/cRF78YWpjFY",
-            "percent": 100,
-            "hz": 360
-        },
-         {
-            "user": "L1GHTNING",
-            "link": "https://youtu.be/k6VmKlX-dNU",
-            "percent": 100,
-            "hz": 144
-        },
-          {
-            "user": "[ZUZU] Leckylecks",
-            "link": "https://www.youtube.com/watch?v=JzBq16CuFuo",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Mylou",
-            "link": "https://www.youtube.com/watch?v=BqmVlA-Ack0",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Electro325",
-            "link": "https://youtu.be/pQJ_d_o_d6I?t=113",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "JimmyVT",
-            "link": "https://youtu.be/49kyzZgOyNQ",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://youtu.be/rL75pSPBh4I",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "AlphaXIV",
-            "link": "https://youtu.be/-xVJVexWA3g",
-            "percent": 100,
-            "hz": 144
-        },
-         {
-            "user": "[RBR] JoacoPe",
-            "link": "https://youtu.be/hXa7v-D2JnU",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "tomm",
-            "link": "https://youtu.be/_0uHpPLvNaw?t=87",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Joaquin",
-            "link": "https://youtu.be/Mk_d4tTYKvM",
-            "percent": 100,
-            "hz": 240
-        },
-         {
-            "user": "DenyZr",
-            "link": "https://youtu.be/1cjuPEc82gQ",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Kubus",
-            "link": "https://youtu.be/lWGetWQBsSk",
-            "percent": 100,
-            "hz": 120,
-            "mobile":true
-        },
-        {
-            "user": "[FAIRY] Azaelf",
-            "link": "https://youtu.be/AJ_blB5meAg",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+	"id": 82091055,
+	"name": "Celestial Inertia",
+	"author": 5002457190,
+	"creators": [
+		9263937109
+	],
+	"verifier": 1838088438,
+	"verification": "https://www.youtube.com/watch?v=IwEnRZpey44",
+	"percentToQualify": 100,
+	"password": "072222",
+	"records": [
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/cRF78YWpjFY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4449448457,
+			"link": "https://youtu.be/k6VmKlX-dNU",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 3562703691,
+			"link": "https://www.youtube.com/watch?v=JzBq16CuFuo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 7484912053,
+			"link": "https://www.youtube.com/watch?v=BqmVlA-Ack0",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 6269979558,
+			"link": "https://youtu.be/pQJ_d_o_d6I?t=113",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8226451402,
+			"link": "https://youtu.be/49kyzZgOyNQ",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/rL75pSPBh4I",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 2116367696,
+			"link": "https://youtu.be/-xVJVexWA3g",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/hXa7v-D2JnU",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 2844796713,
+			"link": "https://youtu.be/_0uHpPLvNaw?t=87",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 7211951522,
+			"link": "https://youtu.be/Mk_d4tTYKvM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/1cjuPEc82gQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 2563854316,
+			"link": "https://youtu.be/lWGetWQBsSk",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": 4939656754,
+			"link": "https://youtu.be/AJ_blB5meAg",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

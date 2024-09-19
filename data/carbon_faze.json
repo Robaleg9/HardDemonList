@@ -1,140 +1,142 @@
 {
-    "id": 6515632,
-    "name": "Carbon Faze",
-    "author": "Rob Buck",
-    "creators": ["Rob Buck, TriAxis"],
-    "verifier": "Rob Buck",
-    "verification": "https://www.youtube.com/watch?v=9UAkP-7N8kI",
-    "percentToQualify": 100,
-    "password": "Not Copyable",
-    "records": [
-      {
-          "user": "helvetica",
-          "link": "https://youtu.be/I5AMxi9C238",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "Royale",
-          "link": "https://youtu.be/HbbJfPe-9zA",
-          "percent": 100,
-          "hz": 60
-        },
-        {
-          "user": "LaZoR",
-          "link": "https://www.youtube.com/watch?v=JdTB22sfq7c",
-          "percent": 100,
-          "hz": 60
-        },
-        {
-          "user": "LHunter",
-          "link": "https://www.youtube.com/watch?v=GddYle738l0",
-          "percent": 100,
-          "hz": 60
-        },
-        {
-          "user": "[FAIRY] Fawxu",
-          "link": "https://www.youtube.com/watch?v=qk_4g0RrasA",
-          "percent": 100,
-          "hz": 60
-        },
-        {
-          "user": "IgongDae",
-          "link": "https://youtu.be/SsCnQ5fIo4U",
-          "percent": 100,
-          "hz": 60
-        },
-        {
-          "user": "RoboBear04",
-          "link": "https://youtu.be/XRvB9JSKJTM",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-            "user": "SmileBullet",
-            "link": "https://youtu.be/9rTEUXbf7D4",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://youtu.be/8K8jf92tthY",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-          "user": "prujd_",
-          "link": "https://youtu.be/5Gibs7yf8E0",
-          "percent": 100,
-          "hz": 144
-        },
-        {
-          "user": "nTimaw",
-          "link": "https://youtu.be/XZd0x4O0ls4",
-          "percent": 100,
-          "hz": 300
-        },
-        {
-          "user": "DenyZr",
-          "link": "https://youtu.be/wCVCr0vg3TA",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-            "user": "jordan853",
-            "link": "https://www.youtube.com/watch?v=ymsOe6OiZIY",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "doritofan80",
-            "link": "https://youtu.be/R6vUGuU4EDs",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "lllSafeSpacelll",
-            "link": "https://www.youtube.com/watch?v=8nKXJvlcoWQ",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Loligerboy_123",
-            "link": "https://youtu.be/4yu6odJuV64",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "arcanin",
-            "link": "https://youtu.be/0Lsgdqdv1IQ?t=700",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/hrFXTtxw5mI",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Electro325",
-            "link": "https://www.youtube.com/watch?v=gI8RJkI7kiI",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "[RBR] JoacoPe",
-            "link": "https://www.youtube.com/watch?v=4v9u6jKAtRQ",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-          "user": "[ZUZU] Leckylecks",
-          "link": "https://youtu.be/G2wcL5mHFxg",
-          "percent": 100,
-          "hz": 144
-      }
-      ]
+	"id": 6515632,
+	"name": "Carbon Faze",
+	"author": 8090149552,
+	"creators": [
+		9406940330
+	],
+	"verifier": 8090149552,
+	"verification": "https://www.youtube.com/watch?v=9UAkP-7N8kI",
+	"percentToQualify": 100,
+	"password": "Not Copyable",
+	"records": [
+		{
+			"user": 5639094469,
+			"link": "https://youtu.be/I5AMxi9C238",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 1602355077,
+			"link": "https://youtu.be/HbbJfPe-9zA",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 2438432203,
+			"link": "https://www.youtube.com/watch?v=JdTB22sfq7c",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 8925370107,
+			"link": "https://www.youtube.com/watch?v=GddYle738l0",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 5683993420,
+			"link": "https://www.youtube.com/watch?v=qk_4g0RrasA",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 8875488601,
+			"link": "https://youtu.be/SsCnQ5fIo4U",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 5348566145,
+			"link": "https://youtu.be/XRvB9JSKJTM",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 8891318092,
+			"link": "https://youtu.be/9rTEUXbf7D4",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/8K8jf92tthY",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 6837160860,
+			"link": "https://youtu.be/5Gibs7yf8E0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/XZd0x4O0ls4",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/wCVCr0vg3TA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3259090274,
+			"link": "https://www.youtube.com/watch?v=ymsOe6OiZIY",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 7966806232,
+			"link": "https://youtu.be/R6vUGuU4EDs",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 1450116809,
+			"link": "https://www.youtube.com/watch?v=8nKXJvlcoWQ",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 2350763901,
+			"link": "https://youtu.be/4yu6odJuV64",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9995066886,
+			"link": "https://youtu.be/0Lsgdqdv1IQ?t=700",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 3755458723,
+			"link": "https://youtu.be/hrFXTtxw5mI",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 6269979558,
+			"link": "https://www.youtube.com/watch?v=gI8RJkI7kiI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 9992430374,
+			"link": "https://www.youtube.com/watch?v=4v9u6jKAtRQ",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 3562703691,
+			"link": "https://youtu.be/G2wcL5mHFxg",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

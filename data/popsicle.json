@@ -1,136 +1,138 @@
 {
-    "id": 36509294,
-    "name": "Popsicle",
-    "author": "Usermatt18",
-    "creators": ["Usermatt18, ViP3r, EnZore"],
-    "verifier": "enlex",
-    "verification": "https://www.youtube.com/watch?v=XeD2zVUjZEM",
-    "percentToQualify": 100,
-    "password": "888258",
-    "records": [
-      {
-        "user": "SoftMuffin76",
-        "link": "https://www.youtube.com/watch?v=0iWkxu2wBmE",
-        "percent": 100,
-        "hz": 144
-      },
-      {
-        "user": "Robaleg9",
-        "link": "https://www.youtube.com/watch?v=VPvxh4WWktM",
-        "percent": 100,
-        "hz": 144
-      },
-      {
-        "user": "[FAIRY] EvanDaBest",
-        "link": "https://www.youtube.com/watch?app=desktop&v=Jo1R4WqAd88",
-        "percent": 100,
-        "hz": 144
-      },
-      {
-        "user": "[FAIRY] Fawxu",
-        "link": "https://www.youtube.com/watch?v=xVdIaKRIGQw",
-        "percent": 100,
-        "hz": 144
-      },
-      {
-        "user": "Shroomy!!!",
-        "link": "https://www.youtube.com/watch?v=vThCbTDy2Ww",
-        "percent": 100,
-        "hz": 60,
-        "mobile": true
-      },
-      {
-        "user": "IgongDae",
-        "link": "https://www.youtube.com/watch?v=xlkG6QoSa9g",
-        "percent": 100,
-        "hz": 360
-      },
-      {
-        "user": "nTimaw",
-        "link": "https://www.youtube.com/watch?v=N9Dsq-sg0TE",
-        "percent": 100,
-        "hz": 321
-      },
-      {
-        "user": "[ZUZU] Leckylecks",
-        "link": "https://www.youtube.com/watch?v=EjEzwUj8qvA",
-        "percent": 100,
-        "hz": 360
-      },
-      {
-        "user": "Leven",
-        "link": "https://www.youtube.com/watch?v=glXtg_qWEHk",
-        "percent": 100,
-        "hz": 75
-      },
-      {
-        "user": "[RBR] JoacoPe",
-        "link": "https://www.youtube.com/watch?v=HsBv-_rkiXQ",
-        "percent": 100,
-        "hz": 120
-      },
-      {
-        "user": "tomm",
-        "link": "https://www.youtube.com/watch?v=WLUwYD6Z8bA",
-        "percent": 100,
-        "hz": 240
-      },
-      {
-        "user": "Electro325",
-        "link": "https://www.youtube.com/watch?v=ffbTye8rVjk",
-        "percent": 100,
-        "hz": 360
-      },
-      {
-        "user": "[FAIRY] deadbush",
-        "link": "https://www.youtube.com/watch?v=yKYaQsHN5n8",
-        "percent": 100,
-        "hz": 144
-      },
-      {
-        "user": "[FAIRY] insosil 🧚",
-        "link": "https://www.youtube.com/watch?v=hZvCp6PHwQc",
-        "percent": 100,
-        "hz": 360
-      },
-      {
-        "user": "Jenny",
-        "link": "https://www.youtube.com/watch?v=KX_XaFv7joY",
-        "percent": 100,
-        "hz": 60,
-        "mobile": true
-      },
-      {
-        "user": "Galaxy4567",
-        "link": "https://www.youtube.com/watch?v=sX8ZuFy2kJg&ab_channel=Galaxy4567",
-        "percent": 100,
-        "hz": 144
-      },
-      {
-        "user": "Subperfect",
-        "link": "https://youtu.be/TammrY94WmQ?feature=shared",
-        "percent": 100,
-        "hz": 60,
-        "mobile": true
-      },
-      {
-          "user": "AdutzHD",
-          "link": "https://youtu.be/V3Wk9ncoAAM?si=4BOawUb26F-KmmlV",
-        "percent": 100,
-        "hz": 144,
-        "mobile": true
-      },
-        {
-            "user": "AcropolisBoy",
-            "link": "https://youtu.be/Qt-a285Og8M",
-            "percent": 100,
-            "hz": 480
-        },
-        {
-            "user": "AstralNova",
-            "link": "https://youtu.be/TZby0AdoRL8",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+	"id": 36509294,
+	"name": "Popsicle",
+	"author": 1517609705,
+	"creators": [
+		9045094007
+	],
+	"verifier": 6582395687,
+	"verification": "https://www.youtube.com/watch?v=XeD2zVUjZEM",
+	"percentToQualify": 100,
+	"password": "888258",
+	"records": [
+		{
+			"user": 5619481577,
+			"link": "https://www.youtube.com/watch?v=0iWkxu2wBmE",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 8273227525,
+			"link": "https://www.youtube.com/watch?v=VPvxh4WWktM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 2603629810,
+			"link": "https://www.youtube.com/watch?app=desktop&v=Jo1R4WqAd88",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 5683993420,
+			"link": "https://www.youtube.com/watch?v=xVdIaKRIGQw",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 8779464283,
+			"link": "https://www.youtube.com/watch?v=vThCbTDy2Ww",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 8875488601,
+			"link": "https://www.youtube.com/watch?v=xlkG6QoSa9g",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9709466874,
+			"link": "https://www.youtube.com/watch?v=N9Dsq-sg0TE",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": 3562703691,
+			"link": "https://www.youtube.com/watch?v=EjEzwUj8qvA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3755458723,
+			"link": "https://www.youtube.com/watch?v=glXtg_qWEHk",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": 9992430374,
+			"link": "https://www.youtube.com/watch?v=HsBv-_rkiXQ",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 2844796713,
+			"link": "https://www.youtube.com/watch?v=WLUwYD6Z8bA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 6269979558,
+			"link": "https://www.youtube.com/watch?v=ffbTye8rVjk",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4787982136,
+			"link": "https://www.youtube.com/watch?v=yKYaQsHN5n8",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 2074289182,
+			"link": "https://www.youtube.com/watch?v=hZvCp6PHwQc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5272751500,
+			"link": "https://www.youtube.com/watch?v=KX_XaFv7joY",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 1635185257,
+			"link": "https://www.youtube.com/watch?v=sX8ZuFy2kJg&ab_channel=Galaxy4567",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 1275755034,
+			"link": "https://youtu.be/TammrY94WmQ?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 4868807329,
+			"link": "https://youtu.be/V3Wk9ncoAAM?si=4BOawUb26F-KmmlV",
+			"percent": 100,
+			"hz": 144,
+			"mobile": true
+		},
+		{
+			"user": 4259113654,
+			"link": "https://youtu.be/Qt-a285Og8M",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": 3673453578,
+			"link": "https://youtu.be/TZby0AdoRL8",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

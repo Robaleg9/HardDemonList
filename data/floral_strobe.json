@@ -1,104 +1,104 @@
 {
-    "id": 96182791,
-    "name": "FLORAL STROBE",
-    "author": "ImMaxX1",
-    "creators": [],
-    "verifier": "ImMaxX1",
-    "verification": "https://youtu.be/QOmZDKSAS5I?si=dt8dpqvkEjfC3OQy",
-    "percentToQualify": 100,
-    "password": "Free to Copy",
-    "records" : [
-        {
-            "user": "[FAIRY] Fawxu",
-            "link": "https://youtu.be/OIb1S9IGV7w?si=dZXt97SA5dzByFTk",
-            "percent": 100,
-            "hz": 240
-    },
-    {
-        "user": "tomm",
-        "link": "https://youtu.be/0wUJleNo2Ls",
-        "percent": 100,
-        "hz": 240
-},
-{
-    "user": "[RBR] JoacoPe",
-    "link": "https://youtu.be/GZynIzaR9zA",
-    "percent": 100,
-    "hz": 120
-},
-        {
-            "user": "lllSafeSpacelll",
-            "link": "https://www.youtube.com/watch?v=eldxcw4YuIw",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/Ln_i5qG2iC8",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://youtu.be/pTVgamzrcaQ",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/lU8vzQ_3c4E?si=qikmPGxsx9eBAiR4&t=100",
-            "percent": 100,
-            "hz": 321
-        },
-        {
-            "user": "maskangel1000",
-            "link": "https://youtu.be/AMk_LG1sIR4",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "[ZUZU] Leckylecks",
-            "link": "https://youtu.be/Vz_jc7M6gss?si=jGRttLIgdvG90uLl",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "CherrimPlushie",
-            "link": "https://youtu.be/8h2XTYdGkd4?si=lBLFZl5roSUEwjf2",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Necrois",
-            "link": "https://youtu.be/wsqFb8BWvq8?si=AxvWIbFqO7tQRf7V",
-            "percent": 100,
-            "hz": 120,
-            "mobile": true
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://youtu.be/SiFr69M0aO8",
-            "percent": 100,
-            "hz": 240
-    },
-        {
-            "user": "rodrigtz26",
-            "link": "https://youtu.be/NSn5ItRmfCM?feature=shared",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "[FAIRY] deadbush",
-            "link": "https://youtu.be/TzG3YtfDPes",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "[FAIRY] Azaelf",
-            "link": "https://www.youtube.com/watch?v=Y5RNlBAFFSY",
-            "percent": 100,
-            "hz": 144
-    }
-    ]
+	"id": 96182791,
+	"name": "FLORAL STROBE",
+	"author": 1113873943,
+	"creators": [],
+	"verifier": 1113873943,
+	"verification": "https://youtu.be/QOmZDKSAS5I?si=dt8dpqvkEjfC3OQy",
+	"percentToQualify": 100,
+	"password": "Free to Copy",
+	"records": [
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/OIb1S9IGV7w?si=dZXt97SA5dzByFTk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 2844796713,
+			"link": "https://youtu.be/0wUJleNo2Ls",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/GZynIzaR9zA",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 1450116809,
+			"link": "https://www.youtube.com/watch?v=eldxcw4YuIw",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 3755458723,
+			"link": "https://youtu.be/Ln_i5qG2iC8",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/pTVgamzrcaQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/lU8vzQ_3c4E?si=qikmPGxsx9eBAiR4&t=100",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": 3230549913,
+			"link": "https://youtu.be/AMk_LG1sIR4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3562703691,
+			"link": "https://youtu.be/Vz_jc7M6gss?si=jGRttLIgdvG90uLl",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2781995184,
+			"link": "https://youtu.be/8h2XTYdGkd4?si=lBLFZl5roSUEwjf2",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3632254053,
+			"link": "https://youtu.be/wsqFb8BWvq8?si=AxvWIbFqO7tQRf7V",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": 8779464283,
+			"link": "https://youtu.be/SiFr69M0aO8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9967912720,
+			"link": "https://youtu.be/NSn5ItRmfCM?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 4787982136,
+			"link": "https://youtu.be/TzG3YtfDPes",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 4939656754,
+			"link": "https://www.youtube.com/watch?v=Y5RNlBAFFSY",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

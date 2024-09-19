@@ -1,124 +1,124 @@
 {
-    "id": 68984570,
-    "name": "Extreme AnnoPark",
-    "author": "Annon",
-    "creators": [],
-    "verifier": "Annon",
-    "verification": "https://youtu.be/vhUl9qpt6uA",
-    "percentToQualify": 100,
-    "password": "127845",
-    "records": [
-      {
-          "user": "HexagonGD",
-          "link": "https://youtu.be/ZCN1MMHtihA",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "Wyldfire",
-          "link": "https://youtu.be/Fbm9JxHu3DQ",
-          "percent": 100,
-          "hz": 60
-        },
-        {
-          "user": "Pizzabote6h",
-          "link": "https://youtu.be/TWYljM8RDyQ",
-          "percent": 100,
-          "hz": 280
-        },
-        {
-          "user": "Robaleg9",
-          "link": "https://youtu.be/2z5IeJkZXKw",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "Redcrystal",
-          "link": "https://youtu.be/GmEEVr2U3m0",
-          "percent": 100,
-          "hz": 144
-        },
-        {
-          "user": "DankDrew",
-          "link": "https://www.youtube.com/watch?v=SRaEaRLeKuA",
-          "percent": 100,
-          "hz": 360
-        },
-        {
-          "user": "RoboBear04",
-          "link": "https://youtu.be/8VzxDnBjips",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "lllSafeSpacelll",
-          "link": "https://www.youtube.com/watch?v=0YqikJcAcMw&list=PLnAjn67OBop9OFUlBj6nqisiNMdLsJq10&index=16",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "DenyZr",
-          "link": "https://youtu.be/msR8c6CEoUQ",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "Omnin",
-          "link": "https://youtu.be/F5tL-jEpXr0",
-          "percent": 100,
-          "hz": 60
-        },
-        {
-          "user": "Wolvyy",
-          "link": "https://www.youtube.com/watch?v=c9PQkIpwcdA",
-          "percent": 100,
-          "hz": 280
-        },
-        {
-          "user": "SmileBullet",
-          "link": "https://www.youtube.com/watch?v=NuKwsCQuLnY&t=3s",
-          "percent": 100,
-          "hz": 60,
-          "mobile" : true
-        },
-        {
-          "user": "KJ3DRay",
-          "link": "https://youtu.be/oo6vFq95aS0",
-          "percent": 100,
-          "hz": 60
-        },
-        {
-          "user": "Landet",
-          "link": "https://youtu.be/2rvGHnit8LA",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
-        },
-         {
-            "user": "Kubus",
-            "link": "https://youtu.be/ul78IAcgUbk?si=YvpQY5-VzAiOeTCQ",
-            "percent": 100,
-            "hz": 120,
-            "mobile": true
-         },
-        {
-            "user": "RobR10",
-            "link": "https://m.youtube.com/watch?v=kNcMzOGoZG4&t=4s",
-            "percent": 100,
-            "hz": 120,
-            "mobile": true
-        },
-        {
-          "user": "Willow",
-          "link": "https://youtu.be/O1O4ltx3T7I",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "SoftMuffin76",
-          "link": "https://www.youtube.com/watch?v=k9jwEsfyxTM",
-          "percent": 100,
-          "hz": 144
-        }
-      ]
+	"id": 68984570,
+	"name": "Extreme AnnoPark",
+	"author": 2351008289,
+	"creators": [],
+	"verifier": 2351008289,
+	"verification": "https://youtu.be/vhUl9qpt6uA",
+	"percentToQualify": 100,
+	"password": "127845",
+	"records": [
+		{
+			"user": 8228105796,
+			"link": "https://youtu.be/ZCN1MMHtihA",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 4926668522,
+			"link": "https://youtu.be/Fbm9JxHu3DQ",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 5942958095,
+			"link": "https://youtu.be/TWYljM8RDyQ",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/2z5IeJkZXKw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9282140616,
+			"link": "https://youtu.be/GmEEVr2U3m0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 6230395717,
+			"link": "https://www.youtube.com/watch?v=SRaEaRLeKuA",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5348566145,
+			"link": "https://youtu.be/8VzxDnBjips",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 1450116809,
+			"link": "https://www.youtube.com/watch?v=0YqikJcAcMw&list=PLnAjn67OBop9OFUlBj6nqisiNMdLsJq10&index=16",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/msR8c6CEoUQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9951683780,
+			"link": "https://youtu.be/F5tL-jEpXr0",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 7416518476,
+			"link": "https://www.youtube.com/watch?v=c9PQkIpwcdA",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": 8891318092,
+			"link": "https://www.youtube.com/watch?v=NuKwsCQuLnY&t=3s",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 3183562075,
+			"link": "https://youtu.be/oo6vFq95aS0",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 1753875501,
+			"link": "https://youtu.be/2rvGHnit8LA",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 2563854316,
+			"link": "https://youtu.be/ul78IAcgUbk?si=YvpQY5-VzAiOeTCQ",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": 1940327267,
+			"link": "https://m.youtube.com/watch?v=kNcMzOGoZG4&t=4s",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": 3124851309,
+			"link": "https://youtu.be/O1O4ltx3T7I",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5619481577,
+			"link": "https://www.youtube.com/watch?v=k9jwEsfyxTM",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

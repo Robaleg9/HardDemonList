@@ -1,85 +1,85 @@
 {
-    "id": 13081515,
-    "name": "DeCodeX",
-    "author": "Rek3dge",
-    "creators": [],
-    "verifier": "Rek3dge",
-    "verification": "https://youtu.be/5sBfYkCM5uQ?si=k8cYWlewP0dB84Iu",
-    "percentToQualify": 100,
-    "password": "115107",
-    "records": [
-        {
-        "user": "[RBR] JoacoPe",
-        "link": "https://youtu.be/V04SUhjAtkY?si=kF6qsEnkGuonME33",
-        "percent": 100,
-        "hz": 120
-        },
-        {
-            "user": "nico27",
-            "link": "https://youtu.be/C-ohENIVwOE?si=5x8QAp6fH1DhtXo_",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "[FAIRY] Fawxu",
-            "link": "https://youtu.be/oK8hL4PjmKs?si=u95jhVPSFn0rkU_v",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "AdutzHD",
-            "link": "https://youtu.be/xCpcS05dS14?si=E3jbl6i8vyurp_i_",
-            "percent": 100,
-            "hz": 144,
-            "mobile": true
-        },
-        {
-            "user": "FroteGD",
-            "link": "https://youtu.be/xxRJMOQPDYA?si=cNuxvKmrINOcGu3R",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "L1GHTNING",
-            "link": "https://youtu.be/KGU8vER0-lI",
-            "percent": 100,
-            "hz": 165
-        },
-        {
-            "user": "Sloudy",
-            "link": "https://youtu.be/hGOmkyUFJZg",
-            "percent": 100,
-            "hz": 288
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://youtu.be/pWM_977ZULs?si=yCIRGgBPOYP587q6",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://youtu.be/iQ0AkCVxzl8",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/NNu6ASQS10M",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/81MmB-Lx95Y",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "[FAIRY] deadbush",
-            "link": "https://youtu.be/0f08aZgrwPQ",
-            "percent": 100,
-            "hz": 144
-        }
-    ]
+	"id": 13081515,
+	"name": "DeCodeX",
+	"author": 2840595037,
+	"creators": [],
+	"verifier": 2840595037,
+	"verification": "https://youtu.be/5sBfYkCM5uQ?si=k8cYWlewP0dB84Iu",
+	"percentToQualify": 100,
+	"password": "115107",
+	"records": [
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/V04SUhjAtkY?si=kF6qsEnkGuonME33",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 5654750017,
+			"link": "https://youtu.be/C-ohENIVwOE?si=5x8QAp6fH1DhtXo_",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/oK8hL4PjmKs?si=u95jhVPSFn0rkU_v",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 4868807329,
+			"link": "https://youtu.be/xCpcS05dS14?si=E3jbl6i8vyurp_i_",
+			"percent": 100,
+			"hz": 144,
+			"mobile": true
+		},
+		{
+			"user": 9781667383,
+			"link": "https://youtu.be/xxRJMOQPDYA?si=cNuxvKmrINOcGu3R",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 4449448457,
+			"link": "https://youtu.be/KGU8vER0-lI",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": 5185647113,
+			"link": "https://youtu.be/hGOmkyUFJZg",
+			"percent": 100,
+			"hz": 288
+		},
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/pWM_977ZULs?si=yCIRGgBPOYP587q6",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 8779464283,
+			"link": "https://youtu.be/iQ0AkCVxzl8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/NNu6ASQS10M",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3755458723,
+			"link": "https://youtu.be/81MmB-Lx95Y",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 4787982136,
+			"link": "https://youtu.be/0f08aZgrwPQ",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

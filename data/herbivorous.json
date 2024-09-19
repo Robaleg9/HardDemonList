@@ -1,48 +1,50 @@
 {
-    "id": 40144191,
-    "name": "Herbivorous (Insane Demon)",
-    "author": "VolteX",
-    "creators": ["savka65x, IShadI, nibblr, Dawnf4ll, Akro, NyamLock, VolteX, Filaret, Konsi, St1ck, yarikchaynik, bra1k"],
-    "verifier": "Fire1337",
-    "verification": "https://www.youtube.com/watch?v=0F1WVG7oWDE",
-    "percentToQualify": 100,
-    "password": "159753",
-    "records": [
-        {
-            "user": "[FAIRY] Fawxu",
-            "link": "https://www.youtube.com/watch?v=cKmsHGm9mZM",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://www.youtube.com/watch?v=EmGl6mH011A",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "[ZUZU] Leckylecks",
-            "link": "https://www.youtube.com/watch?v=sWzTO4GDjgI",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://www.youtube.com/watch?v=Nd-hyatTukg",
-            "percent": 100,
-            "hz": 321
-        },
-        {
-            "user": "[RBR] JoacoPe",
-            "link": "https://www.youtube.com/watch?v=ErwjTu65XIY",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "helvetica",
-            "link": "https://www.youtube.com/watch?v=RwanxQXizJE",
-            "percent": 100,
-            "hz": 120
-        }
-    ]
+	"id": 40144191,
+	"name": "Herbivorous (Insane Demon)",
+	"author": 5867669669,
+	"creators": [
+		7650418129
+	],
+	"verifier": 2133185303,
+	"verification": "https://www.youtube.com/watch?v=0F1WVG7oWDE",
+	"percentToQualify": 100,
+	"password": "159753",
+	"records": [
+		{
+			"user": 5683993420,
+			"link": "https://www.youtube.com/watch?v=cKmsHGm9mZM",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 8273227525,
+			"link": "https://www.youtube.com/watch?v=EmGl6mH011A",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 3562703691,
+			"link": "https://www.youtube.com/watch?v=sWzTO4GDjgI",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9709466874,
+			"link": "https://www.youtube.com/watch?v=Nd-hyatTukg",
+			"percent": 100,
+			"hz": 321
+		},
+		{
+			"user": 9992430374,
+			"link": "https://www.youtube.com/watch?v=ErwjTu65XIY",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 5639094469,
+			"link": "https://www.youtube.com/watch?v=RwanxQXizJE",
+			"percent": 100,
+			"hz": 120
+		}
+	]
 }

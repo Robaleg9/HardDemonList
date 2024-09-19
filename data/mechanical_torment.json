@@ -1,127 +1,131 @@
 {
-    "id": 19134395,
-    "name": "Mechanical Torment",
-    "author": "Aquatias",
-    "creators": ["Aquatias","Terron","herozombie80"],
-    "verifier": "GDSpeed",
-    "verification": "https://www.youtube.com/watch?v=XYgBovqnwTw",
-    "percentToQualify": 100,
-    "password": "258580",
-    "records": [
-        {
-            "user": "Flood",
-            "link": "https://youtu.be/7dnI3LN40c4",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "IgongDae",
-            "link": "https://youtu.be/BD6MEkO0KKo",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Robaleg9",
-            "link": "https://www.youtube.com/watch?v=e4S-imK0ARw&ab_channel=Robaleg9",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "MinicMioda",
-            "link": "https://www.youtube.com/watch?v=Tb7PNIEbEY0",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/idYIH_PmDHk",
-            "percent": 100,
-            "hz": 300
-        },
-        {
-           "user": "Electro325",
-           "link": "https://youtu.be/dNBzW4BLUyQ",
-           "percent": 100,
-           "hz": 240
-        },
-        {
-           "user": "DenyZr",
-           "link": "https://youtu.be/kGjSAbHKb-M",
-           "percent": 100,
-           "hz": 240
-        },
-         {
-           "user": "Frogs65",
-           "link": "https://youtu.be/4OsriT52BLE",
-           "percent": 100,
-           "hz": 60
-        },
-         {
-            "user": "[FAIRY] Fawxu",
-            "link": "https://youtu.be/aWnZG8CDRhA",
-            "percent": 100,
-            "hz": 240
-        },
-         {
-            "user": "Galaxy4567",
-            "link": "https://www.youtube.com/watch?v=hDG0uxSwlN0",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "NewDark",
-            "link": "https://youtu.be/etxYxTa8gfw",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "[ZUZU] Leckylecks",
-            "link": "https://youtu.be/9rTYQGSw648",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "[RBR] JoacoPe",
-            "link": "https://youtu.be/pTLgBxHmsKg",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "arcanin",
-            "link": "https://www.youtube.com/watch?v=Hz0jLt802gI",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Leven",
-            "link": "https://youtu.be/GLDu99FJZm4",
-            "percent": 100,
-            "hz": 75
-        },
-        {
-            "user": "Subperfect",
-            "link": "https://youtu.be/9mv5JdpKH6Q?feature=shared",
-            "percent": 100,
-            "hz": 60,
-            "mobile": true
-        },
-        {
-            "user": "Abeginner",
-            "link": "https://youtu.be/Hg9dizsmc8U?si=XWx9g9IAV_Bj5pyO",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "[FAIRY] deadbush",
-            "link": "https://youtu.be/UPKkLylook0",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Shroomy!!!",
-            "link": "https://youtu.be/-rIibfB9rP8",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+	"id": 19134395,
+	"name": "Mechanical Torment",
+	"author": 6110011743,
+	"creators": [
+		6110011743,
+		3435665073,
+		9787537643
+	],
+	"verifier": 6712147268,
+	"verification": "https://www.youtube.com/watch?v=XYgBovqnwTw",
+	"percentToQualify": 100,
+	"password": "258580",
+	"records": [
+		{
+			"user": 8663151987,
+			"link": "https://youtu.be/7dnI3LN40c4",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 8875488601,
+			"link": "https://youtu.be/BD6MEkO0KKo",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 8273227525,
+			"link": "https://www.youtube.com/watch?v=e4S-imK0ARw&ab_channel=Robaleg9",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 8786691631,
+			"link": "https://www.youtube.com/watch?v=Tb7PNIEbEY0",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/idYIH_PmDHk",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": 6269979558,
+			"link": "https://youtu.be/dNBzW4BLUyQ",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/kGjSAbHKb-M",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5106732325,
+			"link": "https://youtu.be/4OsriT52BLE",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/aWnZG8CDRhA",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 1635185257,
+			"link": "https://www.youtube.com/watch?v=hDG0uxSwlN0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 1343385086,
+			"link": "https://youtu.be/etxYxTa8gfw",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 3562703691,
+			"link": "https://youtu.be/9rTYQGSw648",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/pTLgBxHmsKg",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 9995066886,
+			"link": "https://www.youtube.com/watch?v=Hz0jLt802gI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 3755458723,
+			"link": "https://youtu.be/GLDu99FJZm4",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": 1275755034,
+			"link": "https://youtu.be/9mv5JdpKH6Q?feature=shared",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 2485541444,
+			"link": "https://youtu.be/Hg9dizsmc8U?si=XWx9g9IAV_Bj5pyO",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 4787982136,
+			"link": "https://youtu.be/UPKkLylook0",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 8779464283,
+			"link": "https://youtu.be/-rIibfB9rP8",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }

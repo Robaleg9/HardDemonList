@@ -1,108 +1,108 @@
 {
-    "id": 11382238,
-    "name": "Laser Box",
-    "author": "Pennutoh",
-    "creators": [],
-    "verifier": "Pennutoh",
-    "verification": "https://youtu.be/bxmKuWynWM8",
-    "percentToQualify": 100,
-    "password": "745390",
-    "records": [
-      {
-          "user": "Robaleg9",
-          "link": "https://www.youtube.com/watch?v=du3b10382xY",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "[FAIRY] Fawxu",
-          "link": "https://www.youtube.com/watch?v=9wafNgTmqL8",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "hytklfsq",
-          "link": "https://youtu.be/dYCHULuNsJc",
-          "percent": 100,
-          "hz": 280
-        },
-        {
-          "user": "Pizzabote6h",
-          "link": "https://www.youtube.com/watch?v=n7mDvcgQx00",
-          "percent": 100,
-          "hz": 280
-        },
-        {
-          "user": "DenyZr",
-          "link": "https://youtu.be/l_YzRvHkjhg",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "[ZUZU] Leckylecks",
-          "link": "https://youtu.be/kP65wR5rgz4",
-          "percent": 100,
-          "hz": 360
-        },
-        {
-          "user": "L1GHTNING",
-          "link": "https://youtu.be/MBZZ6blTK_U",
-          "percent": 100,
-          "hz": 144
-        },
-        {
-          "user": "Willow",
-          "link": "https://youtu.be/Rmd3iKZp-Gc",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-            "user": "SoftMuffin76",
-            "link": "https://www.youtube.com/watch?v=HAVBreRyyfM",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "nTimaw",
-            "link": "https://youtu.be/jvNMMno4rxg",
-            "percent": 100,
-            "hz": 300
-        },
-        {
-            "user": "[RBR] JoacoPe",
-            "link": "https://youtu.be/fUz689ltJ4s",
-            "percent": 100,
-            "hz": 120
-        },
-        {
-            "user": "arcanin",
-            "link": "https://youtu.be/0Lsgdqdv1IQ?t=606",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "tomm",
-            "link": "https://www.youtube.com/watch?v=d8V5DAUUDUI",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Electro325",
-            "link": "https://www.youtube.com/watch?v=gI8RJkI7kiI",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Ready Red Panda",
-            "link": "https://youtu.be/oP50AHE73R0",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Leven",
-            "link": "https://www.youtube.com/watch?v=bXQWZeKLGcY",
-            "percent": 100,
-            "hz": 60
-        }
-      ]
+	"id": 11382238,
+	"name": "Laser Box",
+	"author": 4352272983,
+	"creators": [],
+	"verifier": 4352272983,
+	"verification": "https://youtu.be/bxmKuWynWM8",
+	"percentToQualify": 100,
+	"password": "745390",
+	"records": [
+		{
+			"user": 8273227525,
+			"link": "https://www.youtube.com/watch?v=du3b10382xY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5683993420,
+			"link": "https://www.youtube.com/watch?v=9wafNgTmqL8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3671542699,
+			"link": "https://youtu.be/dYCHULuNsJc",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": 5942958095,
+			"link": "https://www.youtube.com/watch?v=n7mDvcgQx00",
+			"percent": 100,
+			"hz": 280
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/l_YzRvHkjhg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3562703691,
+			"link": "https://youtu.be/kP65wR5rgz4",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4449448457,
+			"link": "https://youtu.be/MBZZ6blTK_U",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 3124851309,
+			"link": "https://youtu.be/Rmd3iKZp-Gc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5619481577,
+			"link": "https://www.youtube.com/watch?v=HAVBreRyyfM",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/jvNMMno4rxg",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/fUz689ltJ4s",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 9995066886,
+			"link": "https://youtu.be/0Lsgdqdv1IQ?t=606",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 2844796713,
+			"link": "https://www.youtube.com/watch?v=d8V5DAUUDUI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 6269979558,
+			"link": "https://www.youtube.com/watch?v=gI8RJkI7kiI",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 3597066972,
+			"link": "https://youtu.be/oP50AHE73R0",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3755458723,
+			"link": "https://www.youtube.com/watch?v=bXQWZeKLGcY",
+			"percent": 100,
+			"hz": 60
+		}
+	]
 }

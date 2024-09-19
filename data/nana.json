@@ -1,74 +1,91 @@
 {
-    "id": 62661780,
-    "name": "Nana (Insane Demon)",
-    "author": "Kirzok",
-    "creators": ["Hyp3rlink","Elvii","SirZaiss","Enrix","Maitnary","Andr1x","Jamscone","Chaeyeon","Zuku","FjScope","Teddy","Rynoxious","ORte","Zipixbox","Flosia","IvanPercie"],
-    "verifier": "Mix991",
-    "verification": "https://www.youtube.com/watch?v=LBJzBlfUmJ8",
-    "percentToQualify": 100,
-    "password": "568712",
-    "records": [
-    {
-          "user": "HexagonGD",
-          "link": "https://www.youtube.com/watch?v=AESKTK7aYoU",
-          "percent": 100,
-          "hz": 60
-        },
-        {
-          "user": "Omnin",
-          "link": "https://www.youtube.com/watch?v=niFNiVPkBd0",
-          "percent": 100,
-          "hz": 60
-        },
-        {
-          "user": "AlphaXIV",
-          "link": "https://youtu.be/_Rm-ATlJYjA",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
-        },
-        {
-          "user": "Frostbite564",
-          "link": "https://www.youtube.com/watch?v=iRUhbBV_s1Q",
-          "percent": 100,
-          "hz": 60,
-          "mobile": true
-        },
-        {
-          "user": "Hydrogenation",
-          "link": "https://youtu.be/V77LgzofZy4",
-          "percent": 100,
-          "hz": 75
-        },
-        {
-          "user": "SaveTheMarsh",
-          "link": "https://youtu.be/6DigWZ_3fYc",
-          "percent": 100,
-          "hz": 165
-        },
-        {
-          "user": "aespha",
-          "link": "https://youtu.be/yjpBVeooJIg",
-          "percent": 100,
-          "hz": 144
-        },
-        {
-          "user": "Willow",
-          "link": "https://www.youtube.com/watch?v=qmjB2_upubI",
-          "percent": 100,
-          "hz": 240
-        },
-        {
-          "user": "Robaleg9",
-          "link": "https://www.youtube.com/watch?v=qgzrFltT7Vs",
-          "percent": 100,
-          "hz": 120
-        },
-        {
-          "user": "DenyZr",
-          "link": "https://youtu.be/oMK95a-A_Lw",
-          "percent": 100,
-          "hz": 240
-        }
-    ]
- }
+	"id": 62661780,
+	"name": "Nana (Insane Demon)",
+	"author": 1931913728,
+	"creators": [
+		5142083390,
+		9086543417,
+		9048474897,
+		5085124613,
+		9928452134,
+		9925249426,
+		4027979873,
+		6542776961,
+		6514846672,
+		4751691717,
+		3476759808,
+		1582252544,
+		1702575847,
+		4589315019,
+		6650317035,
+		7226623170
+	],
+	"verifier": 9281200161,
+	"verification": "https://www.youtube.com/watch?v=LBJzBlfUmJ8",
+	"percentToQualify": 100,
+	"password": "568712",
+	"records": [
+		{
+			"user": 8228105796,
+			"link": "https://www.youtube.com/watch?v=AESKTK7aYoU",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 9951683780,
+			"link": "https://www.youtube.com/watch?v=niFNiVPkBd0",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 2116367696,
+			"link": "https://youtu.be/_Rm-ATlJYjA",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 4500377731,
+			"link": "https://www.youtube.com/watch?v=iRUhbBV_s1Q",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 9089004247,
+			"link": "https://youtu.be/V77LgzofZy4",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": 8970102860,
+			"link": "https://youtu.be/6DigWZ_3fYc",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": 5063990208,
+			"link": "https://youtu.be/yjpBVeooJIg",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 3124851309,
+			"link": "https://www.youtube.com/watch?v=qmjB2_upubI",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 8273227525,
+			"link": "https://www.youtube.com/watch?v=qgzrFltT7Vs",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 5767651898,
+			"link": "https://youtu.be/oMK95a-A_Lw",
+			"percent": 100,
+			"hz": 240
+		}
+	]
+}
