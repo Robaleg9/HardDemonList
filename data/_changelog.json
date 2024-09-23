@@ -7,5 +7,14 @@
 		"from_rank": null,
 		"above": "flow",
 		"below": "the_ultimate_core"
+	},
+	{
+		"date": 1727100772,
+		"action": "placed",
+		"name": "kostok_mode",
+		"to_rank": 289,
+		"from_rank": null,
+		"above": null,
+		"below": "wily"
 	}
 ]
