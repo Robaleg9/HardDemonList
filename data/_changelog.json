@@ -16,5 +16,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "wily"
+	},
+	{
+		"date": 1727100964,
+		"action": "placed",
+		"name": "detonate_weekly",
+		"to_rank": 290,
+		"from_rank": null,
+		"above": null,
+		"below": "kostok_mode"
 	}
 ]
