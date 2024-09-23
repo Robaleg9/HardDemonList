@@ -135,6 +135,24 @@
 			"link": "https://www.youtube.com/watch?v=2X0r_ey1vTc",
 			"percent": 100,
 			"hz": 120
+		},
+		{
+			"user": 2589833933,
+			"link": "https://youtu.be/kW6R6fpUFA4?si=6UACWH5Du_PczX-h",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3755458723,
+			"link": "https://youtu.be/vL79hJwv8Lw?si=XC8Cfc8Vzzz3N9bS",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 2603629810,
+			"link": "https://youtu.be/Sj_upykV-CA?feature=shared",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }

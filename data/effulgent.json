@@ -124,6 +124,13 @@
 			"link": "https://youtu.be/d4BgB8B6y4k",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 6203184044,
+			"link": "https://youtu.be/yXPlpgHw58Q?si=Qx0Q-k5sY2ZlpK94",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
