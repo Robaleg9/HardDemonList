@@ -311,6 +311,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 5185647113,
+			"link": "https://youtu.be/bdXLSVNvdIs",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }

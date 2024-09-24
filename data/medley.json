@@ -2,10 +2,75 @@
 	"id": 61351079,
 	"name": "Medley",
 	"author": 5603201863,
-	"creators": [5603201863,7149064416,8671327225],
+	"creators": [
+		5603201863,
+		7149064416,
+		8671327225
+	],
 	"verifier": 5603201863,
 	"verification": "https://www.youtube.com/watch?v=2T8Lq57UpDk",
 	"percentToQualify": 100,
 	"password": "Not Copyable",
-	"records" : []
+	"records": [
+		{
+			"user": 9555541620,
+			"link": "https://youtu.be/8qHVjgtjCR8?si=oVaJiSo2QSmRVYxO",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9538645593,
+			"link": "https://youtu.be/bicb-7E4IeM?si=OAZP9cInfdy2y-Py",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/udEj0hQA55s?si=839Yfhx5ADTc241m",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 2844796713,
+			"link": "https://www.youtube.com/watch?v=KiSvD7zcXhk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 2147715229,
+			"link": "https://youtu.be/DWWSCyO7I54?si=nIoSNyJEXgYVdrN0",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/wes5EaKbqEM",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 5106732325,
+			"link": "https://youtu.be/A98n63coOcI",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 7889380663,
+			"link": "https://youtu.be/jAanrOoKg2I?si=wlXJ-sI7I7ZWNsHS",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/8khZYZ4B2Hc?si=p61Txxf5T4IdX4vk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 2781995184,
+			"link": "https://youtu.be/xEm1047ER14?si=7tDZWPJUwAxmN9y-",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
