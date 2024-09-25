@@ -7,5 +7,12 @@
 	"verification": "https://www.youtube.com/watch?v=YAwgL_7GgdM",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 2781995184,
+			"link": "https://youtu.be/ZzbbfuowLS8?si=xlfnT0xhRywriZo4",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
