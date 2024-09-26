@@ -664,6 +664,12 @@
 			"link": "https://www.youtube.com/watch?v=gBBCoyJXyh4",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": 7193228060,
+			"link": "https://youtu.be/XE3oeH2Ktqg",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
