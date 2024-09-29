@@ -217,6 +217,13 @@
 			"link": "https://youtu.be/fjw0B-KF_Jw?feature=shared",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": 8968247320,
+			"link": "https://www.youtube.com/watch?v=JWQNQ41MjK0&list=PLBec0xVuyInjbXn0UuXCt3sTn5kWRt7d9&index=13&pp=gAQBiAQB",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
