@@ -61,5 +61,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "osanda_verdict"
+	},
+	{
+		"date": 1727737912,
+		"action": "placed",
+		"name": "scorched",
+		"to_rank": 144,
+		"from_rank": null,
+		"above": "c1u6",
+		"below": "warzone"
 	}
 ]
