@@ -43,5 +43,14 @@
 		"from_rank": null,
 		"above": "keygen",
 		"below": "nerves"
+	},
+	{
+		"date": 1727716407,
+		"action": "placed",
+		"name": "osanda_verdict",
+		"to_rank": 293,
+		"from_rank": null,
+		"above": null,
+		"below": "detonate_weekly"
 	}
 ]
