@@ -52,5 +52,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "detonate_weekly"
+	},
+	{
+		"date": 1727716881,
+		"action": "placed",
+		"name": "frenzy",
+		"to_rank": 294,
+		"from_rank": null,
+		"above": null,
+		"below": "osanda_verdict"
 	}
 ]
