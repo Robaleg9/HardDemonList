@@ -37,6 +37,13 @@
 			"link": "https://www.youtube.com/watch?v=UilTxyYIOjE",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 6939625545,
+			"link": "https://youtu.be/JU1sd9IbhAs?si=hADDgvzkCF8lo1uM",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
