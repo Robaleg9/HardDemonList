@@ -2,10 +2,110 @@
 	"id": 50903192,
 	"name": "Scorched",
 	"author": 5767390038,
-	"creators": [5767390038,2404245719,9521697279,1390122392,1983577005,8586070060,6661065440,8808925024],
+	"creators": [
+		5767390038,
+		2404245719,
+		9521697279,
+		1390122392,
+		1983577005,
+		8586070060,
+		6661065440,
+		8808925024
+	],
 	"verifier": 3259956742,
 	"verification": "https://www.youtube.com/watch?v=2oqX81h_ZoI",
 	"percentToQualify": 100,
 	"password": "071218",
-	"records" : []
+	"records": [
+		{
+			"user": 2603629810,
+			"link": "https://youtu.be/5x7P3S2QKMs",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 9225850785,
+			"link": "https://www.youtube.com/watch?v=E7DcL_d5dV4",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 2147715229,
+			"link": "https://youtu.be/tLLEUttYfB0",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": 9538645593,
+			"link": "https://youtu.be/lHx1tRD-Hok?si=ZyA9_5Br-RFfDIt4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/7JurlGZIwrA",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 8273227525,
+			"link": "https://youtu.be/qXjTXJwihH8?si=BXbUT1OENkO6c0hc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/0KNggJOx5iA?si=rHRUdLSe0g0zNdxX",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 4449448457,
+			"link": "https://youtu.be/UNDBHsryYYw",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": 7889380663,
+			"link": "https://youtu.be/mrMOf_IwtGg",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9555541620,
+			"link": "https://youtu.be/LUukqPBYsOM?si=HlaTBuMnu46Si5eF",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5106732325,
+			"link": "https://www.youtube.com/watch?v=T1kSNM5AdH4",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 4787982136,
+			"link": "https://youtu.be/I6rgwTgtukQ?si=suzOJG650K7diZx5",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 2781995184,
+			"link": "https://youtu.be/NTvJzl4FDaY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 2844796713,
+			"link": "https://youtu.be/6lG18Cg6u6M",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3562703691,
+			"link": "https://youtu.be/TxY3gCTLLow?si=vq42942C-lcjGGdo&t=2m17s",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }

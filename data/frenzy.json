@@ -50,6 +50,19 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 6503027036,
+			"link": "https://youtu.be/n7cdYm8TgPY?si=MeTFwTQwfHfa8-O6",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 2781995184,
+			"link": "https://youtu.be/cRBORWtnE74",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }

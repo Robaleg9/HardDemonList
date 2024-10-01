@@ -520,6 +520,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 9781667383,
+			"link": "https://www.youtube.com/watch?v=N8kCPm9QjTI",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }
