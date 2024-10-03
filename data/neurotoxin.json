@@ -221,6 +221,13 @@
 			"link": "https://youtu.be/9ye-fwZGBdE",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 4955808981,
+			"link": "https://youtu.be/wACKwE56iT4?si=LlkqsS9eXqVHpmfO",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
