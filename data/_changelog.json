@@ -70,5 +70,14 @@
 		"from_rank": null,
 		"above": "c1u6",
 		"below": "warzone"
+	},
+	{
+		"date": 1727973921,
+		"action": "lowered",
+		"name": "damage",
+		"to_rank": 269,
+		"from_rank": 68,
+		"above": "deltafunk",
+		"below": "castle_dedede"
 	}
 ]
