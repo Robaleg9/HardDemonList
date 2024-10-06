@@ -79,5 +79,14 @@
 		"from_rank": 68,
 		"above": "deltafunk",
 		"below": "castle_dedede"
+	},
+	{
+		"date": 1728221245,
+		"action": "raised",
+		"name": "detonate_weekly",
+		"to_rank": 110,
+		"from_rank": 293,
+		"above": "wonder_cosm",
+		"below": "shrill_manor"
 	}
 ]
