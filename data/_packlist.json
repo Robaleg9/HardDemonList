@@ -563,7 +563,7 @@
         "name": "Nuclear Meltdown Pack",
         "levels": [
             "the_ultimate_core",
-            "detonate",
+            "detonate_weekly",
             "fusion",
             "ablaze",
             "e_v_a_c_u_a_t_i_o_n",
