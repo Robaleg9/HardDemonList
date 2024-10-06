@@ -88,5 +88,14 @@
 		"from_rank": 293,
 		"above": "wonder_cosm",
 		"below": "shrill_manor"
+	},
+	{
+		"date": 1728240033,
+		"action": "raised",
+		"name": "kostok_mode",
+		"to_rank": 128,
+		"from_rank": 293,
+		"above": "droppy",
+		"below": "life"
 	}
 ]
