@@ -185,6 +185,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 9555541620,
+			"link": "https://youtu.be/VMETTnFUjXg?si=20jpxRdqRX1hyRa2&t=12",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
