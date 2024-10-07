@@ -97,5 +97,14 @@
 		"from_rank": 293,
 		"above": "droppy",
 		"below": "life"
+	},
+	{
+		"date": 1728305681,
+		"action": "placed",
+		"name": "arcanum_weekly",
+		"to_rank": 296,
+		"from_rank": null,
+		"above": null,
+		"below": "frenzy"
 	}
 ]
