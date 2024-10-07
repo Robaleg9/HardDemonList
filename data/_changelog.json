@@ -106,5 +106,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "frenzy"
+	},
+	{
+		"date": 1728305909,
+		"action": "placed",
+		"name": "arcanine_weekly",
+		"to_rank": 297,
+		"from_rank": null,
+		"above": null,
+		"below": "arcanum_weekly"
 	}
 ]
