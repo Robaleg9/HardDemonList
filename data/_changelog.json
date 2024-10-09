@@ -115,5 +115,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "arcanum_weekly"
+	},
+	{
+		"date": 1728493887,
+		"action": "raised",
+		"name": "frenzy",
+		"to_rank": 149,
+		"from_rank": 295,
+		"above": "system_rift",
+		"below": "k_a_n_g"
 	}
 ]
