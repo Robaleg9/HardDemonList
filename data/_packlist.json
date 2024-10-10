@@ -26,7 +26,8 @@
             "kilpac",
             "late",
             "milkshake_draft",
-            "night_of_demon",
+            "new_beginning_ii",
+            "osanda_verdict",
             "pulsar",
             "quantum_variations",
             "rainfall_iii",
@@ -46,7 +47,7 @@
             "xes",
             "snap",
             "majesty",
-            "queerios"
+            "meeting_with_diana"
         ],
         "colour": "linear-gradient(60deg, rgba(255,0,0,1) 0%, rgba(255,128,0,1) 20%, rgba(255,255,0,1) 40%, rgba(0,255,0,1) 60%, rgba(0,0,255,1) 80%, rgba(76,0,153,1) 100%)"
     },
@@ -111,7 +112,8 @@
         "levels": [
             "distorzona",
             "snap",
-            "el_eyon"
+            "el_eyon",
+            "anya_ii"
         ],
         "colour": "#ffd700"
     },
@@ -316,8 +318,7 @@
             "pinball_panic",
             "breakneck",
             "splendid_mold",
-            "the_game",
-            "shambolic"
+            "the_game"
         ],
         "colour": "#c0c0c0"
     },
@@ -410,7 +411,8 @@
             "proxima",
             "euphoria",
             "effulgent",
-            "the_tempest"
+            "the_tempest",
+            "everything"
         ],
         "colour": "#c0c0c0"
     },
@@ -536,6 +538,7 @@
             "surgeragon",
             "cyber_dream",
             "effulgent",
+            "meeting_with_diana",
             "neurotoxin",
             "mechanical_realm",
             "droppy",
