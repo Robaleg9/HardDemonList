@@ -7,5 +7,49 @@
 	"verification": "https://www.youtube.com/watch?v=CYIuWi6LUGs",
 	"percentToQualify": 100,
 	"password": "113344",
-	"records" : []
+	"records": [
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/OB-6nNezCh0?si=V2iHkUWZ1PfLf8Vx",
+			"percent": 100,
+			"hz": 450
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/wuB120qtFgg?si=I-DxAg6wKzrxRfT7",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/69KfRKBpHdA?si=C0oVhpqmJ0vve2my",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 8018264993,
+			"link": "https://youtu.be/iRzKWIjTklk?feature=shared",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
+		},
+		{
+			"user": 2147715229,
+			"link": "https://youtu.be/57YS8U39pfA?si=nF5MjTndOkXQTPgC",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": 9225850785,
+			"link": "https://www.youtube.com/watch?v=aNT0UuK-XO8",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 9538645593,
+			"link": "https://youtu.be/rnOSiMZtBcE?si=h753zjOm8afkTWma",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
