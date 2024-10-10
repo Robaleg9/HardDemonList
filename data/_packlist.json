@@ -241,6 +241,18 @@
         "colour": "#ffd700"
     },
     {
+        "name": "Roman Numeral Pack",
+        "levels": [
+            "rainfall_iii",
+            "new_beginning_ii",
+            "toxin_lab_iii",
+            "beast_mayhem_ii",
+            "circus_dash_ii",
+            "anya_ii"
+        ],
+        "colour": "#ffd700"
+    },
+    {
         "name": "RyanAB Pack",
         "levels": [
             "switchblade",
@@ -334,6 +346,16 @@
             "kilpac",
             "circus_dash_ii",
             "anya_ii"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
+        "name": "Dorami Pack",
+        "levels": [
+            "flow",
+            "a747",
+            "osanda_verdict",
+            "theory_of_intercept"
         ],
         "colour": "#c0c0c0"
     },
@@ -529,6 +551,15 @@
             "warzone",
             "sharp",
             "neurotoxin"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
+        "name": "Darwin Pack",
+        "levels": [
+            "quantum_variations",
+            "deadbeat",
+            "araneo"
         ],
         "colour": "#cd7f32"
     },
