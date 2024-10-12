@@ -384,6 +384,12 @@
 			"link": "https://www.youtube.com/watch?v=glPV_sPc5to",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 4388500320,
+			"link": "https://youtu.be/8sg9RNriDO8",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }

@@ -600,6 +600,13 @@
 			"link": "https://youtu.be/EXYD-oUqLmM?si=TuCaGhig1NMQ3VIt&t=273",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 1042594867,
+			"link": "https://youtu.be/HOxhT0ynauk?feature=shared",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }

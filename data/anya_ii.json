@@ -290,6 +290,18 @@
 			"link": "https://youtu.be/1QSCyGNAZIU?si=mMcC_2tcC4N1_db7",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": 1026770669,
+			"link": "https://www.youtube.com/watch?v=Ytrv24QA0QY",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5986557959,
+			"link": "https://youtu.be/xBSKjsHzjZ8",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
