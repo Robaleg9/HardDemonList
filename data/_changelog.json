@@ -124,5 +124,14 @@
 		"from_rank": 295,
 		"above": "system_rift",
 		"below": "k_a_n_g"
+	},
+	{
+		"date": 1728917873,
+		"action": "placed",
+		"name": "elucidator",
+		"to_rank": 298,
+		"from_rank": null,
+		"above": null,
+		"below": "arcanine_weekly"
 	}
 ]
