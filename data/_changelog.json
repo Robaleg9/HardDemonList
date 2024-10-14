@@ -133,5 +133,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "arcanine_weekly"
+	},
+	{
+		"date": 1728918512,
+		"action": "placed",
+		"name": "nucleo",
+		"to_rank": 299,
+		"from_rank": null,
+		"above": null,
+		"below": "elucidator"
 	}
 ]
