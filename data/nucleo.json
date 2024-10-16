@@ -2,10 +2,61 @@
 	"id": 105920590,
 	"name": "NUCLEO (Weekly)",
 	"author": 6149567144,
-	"creators": [1547907105,3656271303,6149567144,6539475369,9161023374,2237104723,8956471949,1578042915,8405831441,6749808484,5141350466,9458675515,8134471534,4654574219,9221868448,3970229410,2092832412,1115593854],
+	"creators": [
+		1547907105,
+		3656271303,
+		6149567144,
+		6539475369,
+		9161023374,
+		2237104723,
+		8956471949,
+		1578042915,
+		8405831441,
+		6749808484,
+		5141350466,
+		9458675515,
+		8134471534,
+		4654574219,
+		9221868448,
+		3970229410,
+		2092832412,
+		1115593854
+	],
 	"verifier": 6149567144,
 	"verification": "https://www.youtube.com/watch?v=3jLPvXQs0r4",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/f__Z_KKUHlM?si=ypGtWAegWn0w0R0p",
+			"percent": 100,
+			"hz": 450
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/QGPAZw0DuIs?si=4uT_4_2b_z3eLGuP",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 9225850785,
+			"link": "https://www.youtube.com/watch?v=qE45wTSGTK0",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/sTYxrS0lMhI?si=fL92pLcnyQDUWbwq",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 6939625545,
+			"link": "https://youtu.be/it9CF59YNyU?si=fhz1rdQ0wohBsrp2",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		}
+	]
 }
