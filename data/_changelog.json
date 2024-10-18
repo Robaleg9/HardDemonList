@@ -151,5 +151,14 @@
 		"from_rank": 297,
 		"above": "kostok_mode",
 		"below": "life"
+	},
+	{
+		"date": 1729279010,
+		"action": "raised",
+		"name": "sharp",
+		"to_rank": 122,
+		"from_rank": 155,
+		"above": "ebony",
+		"below": "jajagarasu"
 	}
 ]
