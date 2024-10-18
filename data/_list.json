@@ -1,4 +1,5 @@
-[ "spacial_rift",
+[
+	"spacial_rift",
 	"silence",
 	"azure_paralyzer",
 	"tsuki",
@@ -126,6 +127,7 @@
 	"fusion",
 	"cant_let_fly",
 	"life",
+	"arcanine_weekly",
 	"kostok_mode",
 	"droppy",
 	"theory_of_intercept",
@@ -294,7 +296,6 @@
 	"vitouxic",
 	"wily",
 	"arcanum_weekly",
-	"arcanine_weekly",
 	"elucidator",
 	"nucleo"
 ]

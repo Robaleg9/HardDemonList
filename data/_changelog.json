@@ -142,5 +142,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "elucidator"
+	},
+	{
+		"date": 1729278701,
+		"action": "raised",
+		"name": "arcanine_weekly",
+		"to_rank": 129,
+		"from_rank": 297,
+		"above": "kostok_mode",
+		"below": "life"
 	}
 ]
