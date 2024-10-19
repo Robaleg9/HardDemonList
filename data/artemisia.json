@@ -422,6 +422,13 @@
 			"link": "https://www.youtube.com/watch?v=dtSvDdZUMW4",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 4432701762,
+			"link": "https://youtu.be/vjpUcJVxdhQ?si=JqUHmrje5eYSpHSb",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
