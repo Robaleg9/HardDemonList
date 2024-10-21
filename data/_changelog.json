@@ -169,5 +169,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "nucleo"
+	},
+	{
+		"date": 1729523885,
+		"action": "placed",
+		"name": "milky_caverns",
+		"to_rank": 300,
+		"from_rank": null,
+		"above": null,
+		"below": "arachnid_temple"
 	}
 ]
