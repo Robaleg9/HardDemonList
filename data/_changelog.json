@@ -160,5 +160,14 @@
 		"from_rank": 155,
 		"above": "ebony",
 		"below": "jajagarasu"
+	},
+	{
+		"date": 1729523744,
+		"action": "placed",
+		"name": "arachnid_temple",
+		"to_rank": 299,
+		"from_rank": null,
+		"above": null,
+		"below": "nucleo"
 	}
 ]
