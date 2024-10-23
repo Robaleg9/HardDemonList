@@ -2,10 +2,38 @@
 	"id": 16557570,
 	"name": "Arachnid Temple",
 	"author": 8776315158,
-	"creators": [8776315158,7523853861],
+	"creators": [
+		8776315158,
+		7523853861
+	],
 	"verifier": 8776315158,
 	"verification": "https://www.youtube.com/watch?v=BF9th20xWx4",
 	"percentToQualify": 100,
 	"password": "666789",
-	"records" : []
+	"records": [
+		{
+			"user": 4449448457,
+			"link": "https://youtu.be/Cj1joTMAkfo",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/XfyftyQf3WU?t=324",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 9555541620,
+			"link": "https://youtu.be/FmjEIYk0sx4?si=A_qd3oi6EH-dX2ui",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/4W2_WUPDlo0?si=RdPL0wJHCcDrY1GJ",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
