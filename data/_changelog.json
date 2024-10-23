@@ -187,5 +187,14 @@
 		"from_rank": 70,
 		"above": "pinball_panic",
 		"below": "immortal_ichor"
+	},
+	{
+		"date": 1729722045,
+		"action": "raised",
+		"name": "elucidator",
+		"to_rank": 123,
+		"from_rank": 297,
+		"above": "ebony",
+		"below": "sharp"
 	}
 ]
