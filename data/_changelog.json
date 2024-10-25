@@ -205,5 +205,14 @@
 		"from_rank": 28,
 		"above": "serpent",
 		"below": "advance3"
+	},
+	{
+		"date": 1729852923,
+		"action": "raised",
+		"name": "adrenaline_chamber",
+		"to_rank": 55,
+		"from_rank": 96,
+		"above": "valkyrie",
+		"below": "evasion"
 	}
 ]
