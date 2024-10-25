@@ -196,5 +196,14 @@
 		"from_rank": 297,
 		"above": "ebony",
 		"below": "sharp"
+	},
+	{
+		"date": 1729833677,
+		"action": "raised",
+		"name": "toxin_lab_iii",
+		"to_rank": 10,
+		"from_rank": 28,
+		"above": "serpent",
+		"below": "advance3"
 	}
 ]
