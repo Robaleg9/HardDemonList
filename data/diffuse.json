@@ -1144,6 +1144,13 @@
 			"link": "https://m.youtube.com/watch?v=aEw4Z3IT71w",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 3160369915,
+			"link": "https://medal.tv/games/geometry-dash/clips/iWvpgmLmDCUtz_86v/d13376YnQ4VJ?invite=cr-MSxLeFUsMTY2Mjg3MDAs",
+			"percent": 100,
+			"hz": 240,
+			"mobile": true
 		}
 	]
 }
