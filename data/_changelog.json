@@ -223,5 +223,14 @@
 		"from_rank": 64,
 		"above": "ripplez",
 		"below": "wonder_cosm"
+	},
+	{
+		"date": 1730056370,
+		"action": "raised",
+		"name": "epoch",
+		"to_rank": 57,
+		"from_rank": 69,
+		"above": "cubic_force",
+		"below": "valkyrie"
 	}
 ]
