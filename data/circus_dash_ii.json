@@ -162,6 +162,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 4251172295,
+			"link": "https://drive.google.com/drive/folders/1G2IDOdq6xo2HtZfJE8q5dSs0k3rpcj7W?usp=drive_link",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
