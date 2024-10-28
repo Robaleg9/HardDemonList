@@ -232,5 +232,14 @@
 		"from_rank": 69,
 		"above": "cubic_force",
 		"below": "valkyrie"
+	},
+	{
+		"date": 1730077052,
+		"action": "lowered",
+		"name": "watch_the_throne",
+		"to_rank": 32,
+		"from_rank": 15,
+		"above": "hibernal",
+		"below": "dead_beat"
 	}
 ]
