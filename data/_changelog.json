@@ -268,5 +268,14 @@
 		"from_rank": 299,
 		"above": "viridica",
 		"below": "danaes_button"
+	},
+	{
+		"date": 1730277324,
+		"action": "raised",
+		"name": "arachnid_temple",
+		"to_rank": 114,
+		"from_rank": 299,
+		"above": "ripplez",
+		"below": "cyber_dream"
 	}
 ]
