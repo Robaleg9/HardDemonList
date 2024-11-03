@@ -277,5 +277,14 @@
 		"from_rank": 299,
 		"above": "ripplez",
 		"below": "cyber_dream"
+	},
+	{
+		"date": 1730597339,
+		"action": "raised",
+		"name": "final_conflux",
+		"to_rank": 113,
+		"from_rank": 119,
+		"above": "cyber_dream",
+		"below": "wonder_cosm"
 	}
 ]
