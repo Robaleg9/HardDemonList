@@ -286,5 +286,14 @@
 		"from_rank": 119,
 		"above": "cyber_dream",
 		"below": "wonder_cosm"
+	},
+	{
+		"date": 1730652793,
+		"action": "placed",
+		"name": "demonic_clubstep",
+		"to_rank": 302,
+		"from_rank": null,
+		"above": null,
+		"below": "execute_phase_001"
 	}
 ]
