@@ -322,5 +322,14 @@
 		"from_rank": 143,
 		"above": "scorched",
 		"below": "warzone"
+	},
+	{
+		"date": 1731012875,
+		"action": "raised",
+		"name": "valkyrie",
+		"to_rank": 28,
+		"from_rank": 57,
+		"above": "shadow_temple",
+		"below": "elemental_stones"
 	}
 ]
