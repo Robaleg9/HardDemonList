@@ -331,5 +331,14 @@
 		"from_rank": 57,
 		"above": "shadow_temple",
 		"below": "elemental_stones"
+	},
+	{
+		"date": 1731105291,
+		"action": "raised",
+		"name": "words_words_words",
+		"to_rank": 150,
+		"from_rank": 301,
+		"above": "warzone",
+		"below": "panical"
 	}
 ]
