@@ -349,5 +349,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "where_flowers_lead"
+	},
+	{
+		"date": 1731247223,
+		"action": "placed",
+		"name": "regret",
+		"to_rank": 305,
+		"from_rank": null,
+		"above": null,
+		"below": "freedom_travel"
 	}
 ]
