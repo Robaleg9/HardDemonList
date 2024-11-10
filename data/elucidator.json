@@ -148,6 +148,12 @@
 			"link": "https://youtu.be/UKVka1eeNNE",
 			"percent": 100,
 			"hz": 165
+		},
+		{
+			"user": 2325511594,
+			"link": "https://www.bilibili.com/video/BV1464y1778m/?spm_id_from=333.999.0.0&vd_source=875ea89b252671205e14e21be31b0099",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }
