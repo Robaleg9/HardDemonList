@@ -340,5 +340,14 @@
 		"from_rank": 301,
 		"above": "warzone",
 		"below": "panical"
+	},
+	{
+		"date": 1731247139,
+		"action": "placed",
+		"name": "freedom_travel",
+		"to_rank": 304,
+		"from_rank": null,
+		"above": null,
+		"below": "where_flowers_lead"
 	}
 ]
