@@ -358,5 +358,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "freedom_travel"
+	},
+	{
+		"date": 1731361989,
+		"action": "raised",
+		"name": "majesty",
+		"to_rank": 46,
+		"from_rank": 73,
+		"above": "execute_phase_001",
+		"below": "weirdmaggedon"
 	}
 ]
