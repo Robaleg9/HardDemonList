@@ -367,5 +367,14 @@
 		"from_rank": 73,
 		"above": "execute_phase_001",
 		"below": "weirdmaggedon"
+	},
+	{
+		"date": 1731427181,
+		"action": "raised",
+		"name": "demonic_clubstep",
+		"to_rank": 134,
+		"from_rank": 302,
+		"above": "arcanine_weekly",
+		"below": "life"
 	}
 ]
