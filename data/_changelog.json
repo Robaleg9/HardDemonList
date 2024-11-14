@@ -376,5 +376,14 @@
 		"from_rank": 302,
 		"above": "arcanine_weekly",
 		"below": "life"
+	},
+	{
+		"date": 1731589125,
+		"action": "raised",
+		"name": "ribbit",
+		"to_rank": 55,
+		"from_rank": 96,
+		"above": "ultra_circles",
+		"below": "e_v_a_c_u_a_t_i_o_n"
 	}
 ]
