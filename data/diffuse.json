@@ -1163,6 +1163,12 @@
 			"link": "https://www.youtube.com/watch?v=YGaa2moaQms&ab_channel=vSequeL",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 2355624437,
+			"link": "https://www.youtube.com/watch?v=xF6hT8UP3LI",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
