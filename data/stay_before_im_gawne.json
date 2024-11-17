@@ -2,10 +2,33 @@
 	"id": 50611528,
 	"name": "Stay Before Im Gawne",
 	"author": 3413013980,
-	"creators": [3413013980,2632766411],
+	"creators": [
+		3413013980,
+		2632766411
+	],
 	"verifier": 3413013980,
 	"verification": "https://www.youtube.com/watch?v=vChsT1ldvQM",
 	"percentToQualify": 100,
 	"password": "Not Copyable",
-	"records" : []
+	"records": [
+		{
+			"user": 4955808981,
+			"link": "https://youtu.be/1NhSMznWG3U?si=2UE07Mk6_xGC6l4z",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/sDFjNpQrqQs?si=FYKD-Pc6VwpOm7SR",
+			"percent": 100,
+			"hz": 450
+		},
+		{
+			"user": 2485541444,
+			"link": "https://youtu.be/nyDLA87GEgw?si=OhvZ63wPtqK8y56j",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
