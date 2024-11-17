@@ -403,5 +403,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "regret"
+	},
+	{
+		"date": 1731847781,
+		"action": "placed",
+		"name": "stay_before_im_gawne",
+		"to_rank": 307,
+		"from_rank": null,
+		"above": null,
+		"below": "luminavance"
 	}
 ]
