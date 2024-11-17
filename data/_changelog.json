@@ -412,5 +412,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "luminavance"
+	},
+	{
+		"date": 1731868154,
+		"action": "raised",
+		"name": "jajagarasu",
+		"to_rank": 82,
+		"from_rank": 124,
+		"above": "elemental_melons",
+		"below": "chaoz_twilight"
 	}
 ]
