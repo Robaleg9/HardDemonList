@@ -421,5 +421,14 @@
 		"from_rank": 124,
 		"above": "elemental_melons",
 		"below": "chaoz_twilight"
+	},
+	{
+		"date": 1731904591,
+		"action": "raised",
+		"name": "infernity",
+		"to_rank": 90,
+		"from_rank": 148,
+		"above": "milky_caverns",
+		"below": "danaes_button"
 	}
 ]
