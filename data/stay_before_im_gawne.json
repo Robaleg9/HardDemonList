@@ -59,6 +59,26 @@
 			"link": "https://www.youtube.com/watch?v=hOVI86MyLbQ",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 6939625545,
+			"link": "https://youtu.be/R2go9nO-AcY?si=wljdWFNMGzDE0nLT",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 3562703691,
+			"link": "https://youtu.be/1O07Q2GGrPE?si=Esn1SxspsKSNBVin&t=13m31s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9403457434,
+			"link": "https://youtu.be/xXfRlJB3hQE?si=u-VtWRmDpfvlArVi",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
