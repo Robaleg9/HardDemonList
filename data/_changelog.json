@@ -430,5 +430,14 @@
 		"from_rank": 148,
 		"above": "milky_caverns",
 		"below": "danaes_button"
+	},
+	{
+		"date": 1732028168,
+		"action": "raised",
+		"name": "freedom_travel",
+		"to_rank": 120,
+		"from_rank": 304,
+		"above": "night_of_demon",
+		"below": "ripplez"
 	}
 ]
