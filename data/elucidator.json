@@ -154,6 +154,18 @@
 			"link": "https://www.bilibili.com/video/BV1464y1778m/?spm_id_from=333.999.0.0&vd_source=875ea89b252671205e14e21be31b0099",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 9272775599,
+			"link": "https://m.youtube.com/watch?v=Lpr_QLTczys",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9781667383,
+			"link": "https://youtu.be/Gh-LUr-gBgE?si=LmTAOSdXf_RSTe5A",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }
