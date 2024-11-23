@@ -79,6 +79,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 2781995184,
+			"link": "https://youtu.be/L4gc5jLTVsc?si=Cbt4PpGQ4DRTl8QF",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
