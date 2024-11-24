@@ -439,5 +439,14 @@
 		"from_rank": 304,
 		"above": "night_of_demon",
 		"below": "ripplez"
+	},
+	{
+		"date": 1732455669,
+		"action": "placed",
+		"name": "aquarius",
+		"to_rank": 307,
+		"from_rank": null,
+		"above": null,
+		"below": "stay_before_im_gawne"
 	}
 ]
