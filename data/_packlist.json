@@ -2,11 +2,11 @@
     {
         "name": "Top 5 Pack",
         "levels": [
+            "luminavance",
             "spacial_rift",
             "silence",
             "azure_paralyzer",
-            "tsuki",
-            "stereophonic_system"
+            "tsuki"
         ],
         "colour": "#000000"
     },
