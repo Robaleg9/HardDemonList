@@ -457,5 +457,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "aquarius"
+	},
+	{
+		"date": 1732483430,
+		"action": "raised",
+		"name": "luminavance",
+		"to_rank": 1,
+		"from_rank": 305,
+		"above": "spacial_rift",
+		"below": null
 	}
 ]
