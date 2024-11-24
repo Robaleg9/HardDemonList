@@ -466,5 +466,14 @@
 		"from_rank": 305,
 		"above": "spacial_rift",
 		"below": null
+	},
+	{
+		"date": 1732483614,
+		"action": "raised",
+		"name": "luminavance",
+		"to_rank": 1,
+		"from_rank": 1,
+		"above": "spacial_rift",
+		"below": null
 	}
 ]
