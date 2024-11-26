@@ -692,8 +692,7 @@
         "name": "Purple Pack",
         "levels": [
             "blrpl_lghts",
-            "shadow_temple",
-            "sweet_dreams"
+            "shadow_temple"
         ],
         "colour": "#a200ff"
     },
