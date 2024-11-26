@@ -475,5 +475,14 @@
 		"from_rank": 1,
 		"above": "spacial_rift",
 		"below": null
+	},
+	{
+		"date": 1732631130,
+		"action": "lowered",
+		"name": "effulgent",
+		"to_rank": 151,
+		"from_rank": 104,
+		"above": "danksgiving",
+		"below": "araneo"
 	}
 ]
