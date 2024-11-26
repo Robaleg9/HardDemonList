@@ -373,8 +373,7 @@
         "name": "Early 2.1 Pack",
         "levels": [
             "serpent",
-            "evasion",
-            "araneo"
+            "evasion"
         ],
         "colour": "#c0c0c0"
     },
