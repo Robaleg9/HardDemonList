@@ -282,7 +282,7 @@
         "colour": "#ffd700"
     },
     {
-        "name": "SHOUTING PACK 3",
+        "name": "SHOUTING PACK 2",
         "levels": [
             "blrpl_lghts",
             "big_floppa",
@@ -503,13 +503,13 @@
         "colour": "#c0c0c0"
     },
     {
-        "name": "SHOUTING PACK 2",
+        "name": "SHOUTING PACK 1",
         "levels": [
             "hash",
             "exhaust",
             "ablaze",
             "e_v_a_c_u_a_t_i_o_n",
-            "warzone"
+            "buz_bam"
         ],
         "colour": "#c0c0c0"
     },
@@ -562,8 +562,7 @@
         "levels": [
             "quantum_variations",
             "space_dementia",
-            "deadbeat",
-            "araneo"
+            "deadbeat"
         ],
         "colour": "#cd7f32"
     },
@@ -589,7 +588,7 @@
         "name": "Memory Pack 1",
         "levels": [
             "ebony",
-            "araneo",
+            "where_flowers_lead",
             "theory_of_intercept"
         ],
         "colour": "#cd7f32"
@@ -611,7 +610,6 @@
         "levels": [
             "diffuse",
             "the_furious",
-            "araneo",
             "toxin_lab_iii",
             "sharp_minor"
         ],
@@ -625,16 +623,6 @@
             "artillery",
             "total_oblivion",
             "sharp"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
-        "name": "SHOUTING PACK 1",
-        "levels": [
-            "k_a_n_g",
-            "araneo",
-            "panical",
-            "noem"
         ],
         "colour": "#cd7f32"
     },
@@ -705,8 +693,7 @@
         "levels": [
             "blrpl_lghts",
             "shadow_temple",
-            "sweet_dreams",
-            "araneo"
+            "sweet_dreams"
         ],
         "colour": "#a200ff"
     },
