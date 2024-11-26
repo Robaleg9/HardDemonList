@@ -2,10 +2,36 @@
 	"id": 75096619,
 	"name": "Action (MarshMarlow)",
 	"author": 4913903231,
-	"creators": [4913903231,1196152378,5107386153,4080446666,6168444985,2775413938,6708421283,1173093901,7161331513,3808722281,1931913728,6649472390],
+	"creators": [
+		4913903231,
+		1196152378,
+		5107386153,
+		4080446666,
+		6168444985,
+		2775413938,
+		6708421283,
+		1173093901,
+		7161331513,
+		3808722281,
+		1931913728,
+		6649472390
+	],
 	"verifier": 1197264582,
 	"verification": "https://www.youtube.com/watch?v=k8FOKwpy-28",
 	"percentToQualify": 100,
 	"password": "Free to Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/gj1n84TV6iw?si=cl3-6KV78hBSJuBj",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/3zVeKsY-_aQ",
+			"percent": 100,
+			"hz": 120
+		}
+	]
 }
