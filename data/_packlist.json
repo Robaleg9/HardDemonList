@@ -473,8 +473,7 @@
         "levels": [
             "advance3",
             "sideways_8",
-            "a747",
-            "c1u6"
+            "a747"
         ],
         "colour": "#c0c0c0"
     },
@@ -495,7 +494,6 @@
             "cubic_force",
             "night_of_demon",
             "club_chamber",
-            "c1u6",
             "cant_let_fly"
         ],
         "colour": "#c0c0c0"
