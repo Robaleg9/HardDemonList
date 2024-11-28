@@ -173,6 +173,13 @@
 			"link": "https://www.youtube.com/watch?v=ZjYZpb4R_5g",
 			"percent": 100,
 			"hz": 120
+		},
+		{
+			"user": 8891318092,
+			"link": "https://youtu.be/uKo_UunDHU0?si=-8VBGNg2XLRNadKC",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
