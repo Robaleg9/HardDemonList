@@ -493,5 +493,14 @@
 		"from_rank": 152,
 		"above": "kostok_mode",
 		"below": "arcanine_weekly"
+	},
+	{
+		"date": 1732997497,
+		"action": "raised",
+		"name": "fusion",
+		"to_rank": 98,
+		"from_rank": 133,
+		"above": "apache",
+		"below": "tormenta"
 	}
 ]
