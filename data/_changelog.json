@@ -484,5 +484,14 @@
 		"from_rank": 104,
 		"above": "danksgiving",
 		"below": "araneo"
+	},
+	{
+		"date": 1732960196,
+		"action": "raised",
+		"name": "danksgiving",
+		"to_rank": 138,
+		"from_rank": 152,
+		"above": "kostok_mode",
+		"below": "arcanine_weekly"
 	}
 ]
