@@ -93,6 +93,13 @@
 			"link": "https://b23.tv/MXRIQyy",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 4955808981,
+			"link": "https://www.youtube.com/watch?v=Yntv95Ic8HU",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
