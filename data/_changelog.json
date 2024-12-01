@@ -511,5 +511,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "action_marshmarlow"
+	},
+	{
+		"date": 1733071465,
+		"action": "placed",
+		"name": "plasma_dominator",
+		"to_rank": 309,
+		"from_rank": null,
+		"above": null,
+		"below": "color_flashin"
 	}
 ]
