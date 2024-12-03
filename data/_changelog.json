@@ -520,5 +520,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "color_flashin"
+	},
+	{
+		"date": 1733239485,
+		"action": "raised",
+		"name": "alien_invazion",
+		"to_rank": 129,
+		"from_rank": 222,
+		"above": "elucidator",
+		"below": "sharp"
 	}
 ]
