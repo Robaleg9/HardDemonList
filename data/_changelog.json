@@ -529,5 +529,14 @@
 		"from_rank": 222,
 		"above": "elucidator",
 		"below": "sharp"
+	},
+	{
+		"date": 1733275127,
+		"action": "raised",
+		"name": "club_chamber",
+		"to_rank": 115,
+		"from_rank": 126,
+		"above": "detonate_weekly",
+		"below": "shrill_manor"
 	}
 ]
