@@ -547,5 +547,14 @@
 		"from_rank": 307,
 		"above": "reminiscence",
 		"below": "where_flowers_lead"
+	},
+	{
+		"date": 1733674939,
+		"action": "placed",
+		"name": "euvector",
+		"to_rank": 310,
+		"from_rank": null,
+		"above": null,
+		"below": "plasma_dominator"
 	}
 ]
