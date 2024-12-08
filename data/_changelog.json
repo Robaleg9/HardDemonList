@@ -556,5 +556,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "plasma_dominator"
+	},
+	{
+		"date": 1733675398,
+		"action": "placed",
+		"name": "frostbound",
+		"to_rank": 311,
+		"from_rank": null,
+		"above": null,
+		"below": "euvector"
 	}
 ]
