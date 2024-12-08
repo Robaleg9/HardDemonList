@@ -565,5 +565,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "euvector"
+	},
+	{
+		"date": 1733676142,
+		"action": "raised",
+		"name": "aquarius",
+		"to_rank": 109,
+		"from_rank": 307,
+		"above": "neurotoxin",
+		"below": "brimstone"
 	}
 ]
