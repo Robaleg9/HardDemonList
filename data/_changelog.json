@@ -574,5 +574,14 @@
 		"from_rank": 307,
 		"above": "neurotoxin",
 		"below": "brimstone"
+	},
+	{
+		"date": 1733783921,
+		"action": "raised",
+		"name": "plasma_dominator",
+		"to_rank": 124,
+		"from_rank": 309,
+		"above": "night_of_demon",
+		"below": "freedom_travel"
 	}
 ]
