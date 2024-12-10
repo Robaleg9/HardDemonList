@@ -583,5 +583,14 @@
 		"from_rank": 309,
 		"above": "night_of_demon",
 		"below": "freedom_travel"
+	},
+	{
+		"date": 1733845516,
+		"action": "lowered",
+		"name": "luminavance",
+		"to_rank": 294,
+		"from_rank": 1,
+		"above": "mirror_tempest",
+		"below": "love_syndrome"
 	}
 ]
