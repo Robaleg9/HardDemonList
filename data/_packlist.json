@@ -434,7 +434,9 @@
         "levels": [
             "distorzona",
             "cubic_force",
-            "efetis_belis"
+            "efetis_belis",
+            "shrill_manor",
+            "club_chamber"
         ],
         "colour": "#c0c0c0"
     },
