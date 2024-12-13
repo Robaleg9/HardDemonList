@@ -491,6 +491,15 @@
         "colour": "#c0c0c0"
     },
     {
+        "name": "Short and Sweet Pack",
+        "levels": [
+            "brisban",
+            "hibernal",
+            "found"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
         "name": "SHOUTING PACK 1",
         "levels": [
             "hash",
