@@ -18,7 +18,7 @@
             "crimson_flare",
             "distorzona",
             "elemental_stones",
-            "fortitude",
+            "flow",
             "great_goblet",
             "hibernal",
             "impetus",
@@ -34,7 +34,7 @@
             "spacial_rift",
             "tsuki",
             "universal_perception",
-            "viridica",
+            "valkryie",
             "watch_the_throne",
             "xes"
         ],
@@ -645,7 +645,8 @@
         "levels": [
             "fusion",
             "ablaze",
-            "infernity"
+            "infernity",
+            "sharp_minor"
         ],
         "colour": "#ffa500"
     },
