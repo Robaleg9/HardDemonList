@@ -186,8 +186,7 @@
             "artemisia",
             "i_cant_fix_you",
             "exhaust",
-            "breakneck",
-            "reminiscence"
+            "breakneck"
         ],
         "colour": "#ffd700"
     },
@@ -618,9 +617,9 @@
     {
         "name": "whispering pack 1",
         "levels": [
-            "keygen",
-            "reminiscence",
-            "found"
+            "keygen",           
+            "found",
+            "tipo_b"
         ],
         "colour": "#cd7f32"
     },
