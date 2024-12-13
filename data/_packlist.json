@@ -375,7 +375,8 @@
         "levels": [
             "serpent",
             "evasion",
-            "jajagarasu"
+            "jajagarasu",
+            "terror_factory"
         ],
         "colour": "#c0c0c0"
     },
@@ -383,8 +384,8 @@
         "name": "France Pack",
         "levels": [
             "quantum_variations",
-            "deadbeat",
-            "sharp"
+            "sharp",
+            "space_dementia"
         ],
         "colour": "#c0c0c0"
     },
@@ -402,7 +403,7 @@
         "levels": [
             "xes",
             "eternal_flame",
-            "deadbeat"
+            "final_conflux"
         ],
         "colour": "#c0c0c0"
     },
