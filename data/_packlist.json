@@ -2,11 +2,11 @@
     {
         "name": "Top 5 Pack",
         "levels": [
-            "luminavance",
             "spacial_rift",
             "silence",
             "azure_paralyzer",
-            "tsuki"
+            "tsuki",
+            "stereophonic_system"
         ],
         "colour": "#000000"
     },
@@ -85,10 +85,10 @@
     {
         "name": "Awful Pack",
         "levels": [
-            "azure_paralyzer",
             "big_floppa",
             "dead_beat",
             "flow",
+            "meeting_with_diana",
             "total_oblivion",
             "ultra_circles"
         ],
@@ -345,6 +345,8 @@
         "levels": [
             "kilpac",
             "circus_dash_ii",
+            "fortitude",
+            "new_beginning_ii",
             "anya_ii"
         ],
         "colour": "#c0c0c0"
@@ -409,7 +411,6 @@
         "levels": [
             "proxima",
             "euphoria",
-            "effulgent",
             "the_tempest",
             "everything"
         ],
@@ -487,16 +488,6 @@
         "colour": "#c0c0c0"
     },
     {
-        "name": "Official Song Pack",
-        "levels": [
-            "cubic_force",
-            "night_of_demon",
-            "club_chamber",
-            "cant_let_fly"
-        ],
-        "colour": "#c0c0c0"
-    },
-    {
         "name": "SHOUTING PACK 1",
         "levels": [
             "hash",
@@ -531,7 +522,6 @@
         "levels": [
             "surgeragon",
             "cyber_dream",
-            "effulgent",
             "meeting_with_diana",
             "neurotoxin",
             "mechanical_realm",
@@ -547,15 +537,6 @@
             "ablaze",
             "sharp",
             "neurotoxin"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
-        "name": "Darwin Pack",
-        "levels": [
-            "quantum_variations",
-            "space_dementia",
-            "deadbeat"
         ],
         "colour": "#cd7f32"
     },
@@ -595,6 +576,17 @@
             "ablaze",
             "e_v_a_c_u_a_t_i_o_n",
             "infernity"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
+        "name": "Official Song Pack",
+        "levels": [
+            "cubic_force",
+            "night_of_demon",
+            "club_chamber",
+            "cant_let_fly",
+            "demonic_clubstep"
         ],
         "colour": "#cd7f32"
     },
@@ -681,7 +673,9 @@
         "name": "Purple Pack",
         "levels": [
             "blrpl_lghts",
-            "shadow_temple"
+            "shadow_temple",
+            "skywanderers",
+            "fortitude"
         ],
         "colour": "#a200ff"
     },
