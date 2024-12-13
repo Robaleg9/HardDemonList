@@ -316,7 +316,8 @@
             "pinball_panic",
             "breakneck",
             "splendid_mold",
-            "the_game"
+            "the_game",
+            "mechanical_realm"
         ],
         "colour": "#c0c0c0"
     },
@@ -619,7 +620,8 @@
         "levels": [
             "keygen",           
             "found",
-            "tipo_b"
+            "tipo_b",
+            "demonic_clubstep"
         ],
         "colour": "#cd7f32"
     },
