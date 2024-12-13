@@ -478,13 +478,12 @@
         "colour": "#c0c0c0"
     },
     {
-        "name": "Object Heavy Pack",
+        "name": "Popular Pack",
         "levels": [
-            "surgeragon",
-            "droppy",
-            "coreosious",
-            "universal_perception",
-            "neurotoxin"
+            "diffuse",
+            "the_furious",
+            "toxin_lab_iii",
+            "sharp_minor"
         ],
         "colour": "#c0c0c0"
     },
@@ -581,6 +580,17 @@
         "colour": "#cd7f32"
     },
     {
+        "name": "Object Heavy Pack",
+        "levels": [
+            "surgeragon",
+            "droppy",
+            "coreosious",
+            "universal_perception",
+            "neurotoxin"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
         "name": "Official Song Pack",
         "levels": [
             "cubic_force",
@@ -588,16 +598,6 @@
             "club_chamber",
             "cant_let_fly",
             "demonic_clubstep"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
-        "name": "Popular Pack",
-        "levels": [
-            "diffuse",
-            "the_furious",
-            "toxin_lab_iii",
-            "sharp_minor"
         ],
         "colour": "#cd7f32"
     },
