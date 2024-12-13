@@ -453,7 +453,8 @@
         "name": "Memory Pack 2",
         "levels": [
             "crispy_reaction",
-            "night_of_demon",
+            "danaes_button",
+            "tremble",
             "club_chamber"
         ],
         "colour": "#c0c0c0"
@@ -565,7 +566,8 @@
         "levels": [
             "ebony",
             "where_flowers_lead",
-            "theory_of_intercept"
+            "theory_of_intercept",
+            "night_of_demon"
         ],
         "colour": "#cd7f32"
     },
