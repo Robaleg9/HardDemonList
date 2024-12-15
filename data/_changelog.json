@@ -619,5 +619,14 @@
 		"from_rank": 106,
 		"above": "breakneck",
 		"below": "the_ultimate_core"
+	},
+	{
+		"date": 1734268326,
+		"action": "placed",
+		"name": "pixel_rush",
+		"to_rank": 312,
+		"from_rank": null,
+		"above": null,
+		"below": "frostbound"
 	}
 ]
