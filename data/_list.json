@@ -65,6 +65,7 @@
 	"diffuse",
 	"pressure_chamber",
 	"meeting_with_diana",
+	"frostbound",
 	"late",
 	"dark_tides",
 	"terror_factory",
@@ -309,6 +310,5 @@
 	"wily",
 	"color_flashin",
 	"euvector",
-	"frostbound",
 	"pixel_rush"
 ]

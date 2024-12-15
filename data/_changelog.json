@@ -646,5 +646,14 @@
 		"from_rank": 73,
 		"above": "fortitude",
 		"below": "magnolia"
+	},
+	{
+		"date": 1734298720,
+		"action": "raised",
+		"name": "frostbound",
+		"to_rank": 67,
+		"from_rank": 311,
+		"above": "late",
+		"below": "meeting_with_diana"
 	}
 ]
