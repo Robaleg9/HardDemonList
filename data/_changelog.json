@@ -655,5 +655,14 @@
 		"from_rank": 311,
 		"above": "late",
 		"below": "meeting_with_diana"
+	},
+	{
+		"date": 1734371790,
+		"action": "raised",
+		"name": "euvector",
+		"to_rank": 120,
+		"from_rank": 311,
+		"above": "final_conflux",
+		"below": "wonder_cosm"
 	}
 ]
