@@ -664,5 +664,14 @@
 		"from_rank": 311,
 		"above": "final_conflux",
 		"below": "wonder_cosm"
+	},
+	{
+		"date": 1734478392,
+		"action": "raised",
+		"name": "sharp_minor",
+		"to_rank": 101,
+		"from_rank": 106,
+		"above": "apache",
+		"below": "theory_of_intercept"
 	}
 ]
