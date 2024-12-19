@@ -115,6 +115,70 @@
 			"percent": 100,
 			"hz": 120,
 			"mobile": true
+		},
+		{
+			"user": 2844796713,
+			"link": "https://youtu.be/ddtmfrXo_mg",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 7889380663,
+			"link": "https://youtu.be/Ej_Fn2ZiQvM?si=XGvY0LpBDpg0F7h1",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 6939625545,
+			"link": "https://youtu.be/PqUNlZbw3xI?si=967R4bmdfBSnf3Sf",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 9555541620,
+			"link": "https://youtu.be/LnrgalteSS8",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9225850785,
+			"link": "https://www.youtube.com/watch?v=IJnrh-waWV4",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 4955808981,
+			"link": "https://youtu.be/ozNIaJOxfEY",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 2485541444,
+			"link": "https://youtu.be/b0u7k6DeY9s",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/RXsTDHsDE74?si=jj07F8bix4800mux",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 8018264993,
+			"link": "https://youtu.be/I4Srcxk_LxQ?feature=shared",
+			"percent": 100,
+			"hz": 90,
+			"mobile": true
+		},
+		{
+			"user": 1798348615,
+			"link": "https://youtu.be/w7ZEW2jZVRU?si=mvHUPIpcjcTxio6d",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }

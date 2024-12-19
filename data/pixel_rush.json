@@ -2,10 +2,65 @@
 	"id": 86233756,
 	"name": "Pixel Rush",
 	"author": 6144873187,
-	"creators": [7607125964,6144873187,1614197332,9239739404,8720957023,9613022438,5274945862,4994613873,1741991403,9747185289],
+	"creators": [
+		7607125964,
+		6144873187,
+		1614197332,
+		9239739404,
+		8720957023,
+		9613022438,
+		5274945862,
+		4994613873,
+		1741991403,
+		9747185289
+	],
 	"verifier": 8014824329,
 	"verification": "https://www.youtube.com/watch?v=ig6Gqgpj4ig",
 	"percentToQualify": 100,
 	"password": "444444",
-	"records" : []
+	"records": [
+		{
+			"user": 7889380663,
+			"link": "https://youtu.be/vHLiZoOJMkM?si=zav6BIWCM27L3ioB",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/-PfJoh9s6Ew?si=KJYZMnw7p3Azx1N9",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 4955808981,
+			"link": "https://youtu.be/LU6-BtpAVKo?si=9HAV4k5SnFGxZVYa",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 3562703691,
+			"link": "https://youtu.be/xZKEtK9KjcA?si=crK1xM1AirKQ4fef&t=21m35s",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5106732325,
+			"link": "https://www.youtube.com/watch?v=tQzNSVIcfys",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/PIs_Ss33QUs",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": 9992430374,
+			"link": "https://www.youtube.com/watch?v=psSrSAbuJqk",
+			"percent": 100,
+			"hz": 120
+		}
+	]
 }
