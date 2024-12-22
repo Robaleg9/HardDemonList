@@ -682,5 +682,14 @@
 		"from_rank": 55,
 		"above": "elemental_stones",
 		"below": "new_beginning_ii"
+	},
+	{
+		"date": 1734872818,
+		"action": "placed",
+		"name": "armadyne",
+		"to_rank": 312,
+		"from_rank": null,
+		"above": null,
+		"below": "pixel_rush"
 	}
 ]
