@@ -691,5 +691,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "pixel_rush"
+	},
+	{
+		"date": 1734872928,
+		"action": "placed",
+		"name": "armageddon",
+		"to_rank": 313,
+		"from_rank": null,
+		"above": null,
+		"below": "armadyne"
 	}
 ]
