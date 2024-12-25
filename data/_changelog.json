@@ -709,5 +709,14 @@
 		"from_rank": 235,
 		"above": "majesty",
 		"below": "weirdmaggedon"
+	},
+	{
+		"date": 1735133998,
+		"action": "lowered",
+		"name": "toxin_lab_iii",
+		"to_rank": 307,
+		"from_rank": 10,
+		"above": "vengeance",
+		"below": "time_decay"
 	}
 ]
