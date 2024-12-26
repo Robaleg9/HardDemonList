@@ -2,10 +2,68 @@
 	"id": 12272493,
 	"name": "Armadyne",
 	"author": 3746623092,
-	"creators": [3746623092,8646612154],
+	"creators": [
+		3746623092,
+		8646612154
+	],
 	"verifier": 3746623092,
 	"verification": "https://www.youtube.com/watch?v=Va8CGkMXPyY",
 	"percentToQualify": 100,
 	"password": "258147",
-	"records" : []
+	"records": [
+		{
+			"user": 9538645593,
+			"link": "https://youtu.be/1bFv_J5dRew",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/wJZhiuGI9-E?si=QNV2wJjbFrP1lnSC",
+			"percent": 100,
+			"hz": 450
+		},
+		{
+			"user": 2485541444,
+			"link": "https://youtu.be/iaZH1di16N4?si=3gBrvPEu0oEnmsaq",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/lI3WmNIDQMA?si=RtN6rvI2YLOwcrEV",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9555541620,
+			"link": "https://youtu.be/A8rgv27VDnI?t=298&si=LZ66fBEwUGc49Bm7",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 8779464283,
+			"link": "https://www.youtube.com/watch?v=OHGY3oj4NFw&t=60s",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 2147715229,
+			"link": "https://youtu.be/vUWipxZ12UI?si=T4tIJXuw6FSdsUkb",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/8XSijXu-Es0",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": 3657021263,
+			"link": "https://www.youtube.com/watch?v=AVuawrbxVgw",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

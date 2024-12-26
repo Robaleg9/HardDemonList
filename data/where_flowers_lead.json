@@ -113,6 +113,13 @@
 			"link": "https://youtu.be/rwAjjwyhRtQ",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 5732580552,
+			"link": "https://youtu.be/bxV3TgWIX_8?si=kysMSxaiShc2c8RC",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
