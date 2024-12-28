@@ -727,5 +727,14 @@
 		"from_rank": 14,
 		"above": "elemental_stones",
 		"below": "circus_dash_ii"
+	},
+	{
+		"date": 1735426800,
+		"action": "raised",
+		"name": "superior_sequence",
+		"to_rank": 25,
+		"from_rank": 26,
+		"above": "circus_dash_ii",
+		"below": "new_beginning_ii"
 	}
 ]
