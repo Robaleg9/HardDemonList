@@ -718,5 +718,14 @@
 		"from_rank": 10,
 		"above": "vengeance",
 		"below": "time_decay"
+	},
+	{
+		"date": 1735426733,
+		"action": "lowered",
+		"name": "superior_sequence",
+		"to_rank": 26,
+		"from_rank": 14,
+		"above": "elemental_stones",
+		"below": "circus_dash_ii"
 	}
 ]
