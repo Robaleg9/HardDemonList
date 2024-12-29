@@ -745,5 +745,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "armageddon"
+	},
+	{
+		"date": 1735483011,
+		"action": "placed",
+		"name": "chromatic_winter",
+		"to_rank": 315,
+		"from_rank": null,
+		"above": null,
+		"below": "whimsy"
 	}
 ]
