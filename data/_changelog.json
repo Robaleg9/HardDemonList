@@ -763,5 +763,14 @@
 		"from_rank": 313,
 		"above": "kostok_mode",
 		"below": "danksgiving"
+	},
+	{
+		"date": 1736017204,
+		"action": "lowered",
+		"name": "a747",
+		"to_rank": 119,
+		"from_rank": 87,
+		"above": "wonder_cosm",
+		"below": "detonate_weekly"
 	}
 ]
