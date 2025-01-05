@@ -790,5 +790,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "chromatic_winter"
+	},
+	{
+		"date": 1736084862,
+		"action": "placed",
+		"name": "pokemon_showdown_ii",
+		"to_rank": 317,
+		"from_rank": null,
+		"above": null,
+		"below": "unlocked"
 	}
 ]
