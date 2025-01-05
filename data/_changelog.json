@@ -781,5 +781,14 @@
 		"from_rank": 313,
 		"above": "hyped_up",
 		"below": "found"
+	},
+	{
+		"date": 1736084711,
+		"action": "placed",
+		"name": "unlocked",
+		"to_rank": 316,
+		"from_rank": null,
+		"above": null,
+		"below": "chromatic_winter"
 	}
 ]
