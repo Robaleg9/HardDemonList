@@ -772,5 +772,14 @@
 		"from_rank": 87,
 		"above": "wonder_cosm",
 		"below": "detonate_weekly"
+	},
+	{
+		"date": 1736084492,
+		"action": "raised",
+		"name": "armadyne",
+		"to_rank": 138,
+		"from_rank": 313,
+		"above": "hyped_up",
+		"below": "found"
 	}
 ]
