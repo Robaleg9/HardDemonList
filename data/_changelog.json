@@ -799,5 +799,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "unlocked"
+	},
+	{
+		"date": 1736276350,
+		"action": "raised",
+		"name": "whimsy",
+		"to_rank": 125,
+		"from_rank": 314,
+		"above": "ripplez",
+		"below": "arachnid_temple"
 	}
 ]
