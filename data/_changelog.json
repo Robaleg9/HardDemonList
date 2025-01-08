@@ -808,5 +808,14 @@
 		"from_rank": 314,
 		"above": "ripplez",
 		"below": "arachnid_temple"
+	},
+	{
+		"date": 1736379326,
+		"action": "raised",
+		"name": "chromatic_winter",
+		"to_rank": 84,
+		"from_rank": 315,
+		"above": "jajagarasu",
+		"below": "chaoz_twilight"
 	}
 ]
