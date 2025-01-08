@@ -2,10 +2,50 @@
 	"id": 26638962,
 	"name": "pokemon showdown II",
 	"author": 4285396222,
-	"creators": [4285396222,9349024820],
+	"creators": [
+		4285396222,
+		9349024820
+	],
 	"verifier": 4285396222,
 	"verification": "https://www.youtube.com/watch?v=-Cs8KFm3INA",
 	"percentToQualify": 100,
 	"password": "6089",
-	"records" : []
+	"records": [
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/g-BdBcWvzRs?si=Y1vpQeBc4CnzeZMm",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9992430374,
+			"link": "https://www.youtube.com/watch?v=TnoewKhKrBo",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 4449448457,
+			"link": "https://youtu.be/uLwoJeE--Zs",
+			"percent": 100,
+			"hz": 165
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/UKBkaP4PKs8",
+			"percent": 100,
+			"hz": 450
+		},
+		{
+			"user": 2844796713,
+			"link": "https://youtu.be/i91SHJEqezs",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 2603629810,
+			"link": "https://youtu.be/nH0Kenoff34",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }

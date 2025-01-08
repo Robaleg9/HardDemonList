@@ -2,10 +2,38 @@
 	"id": 18240610,
 	"name": "Unlocked",
 	"author": 9556420137,
-	"creators": [9556420137,6340364105],
+	"creators": [
+		9556420137,
+		6340364105
+	],
 	"verifier": 6340364105,
 	"verification": "https://www.youtube.com/watch?v=6Rgsx7MJUsk",
 	"percentToQualify": 100,
 	"password": "750901",
-	"records" : []
+	"records": [
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/u91xqhoYo44?si=zVP6rZpFnziquvJc",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9992430374,
+			"link": "https://www.youtube.com/watch?v=mYe3NqUOsBs",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/VFDM8blyfC0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2844796713,
+			"link": "https://youtu.be/8dNo4HT-2Lg",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
