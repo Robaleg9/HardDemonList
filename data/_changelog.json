@@ -817,5 +817,14 @@
 		"from_rank": 315,
 		"above": "jajagarasu",
 		"below": "chaoz_twilight"
+	},
+	{
+		"date": 1736637399,
+		"action": "raised",
+		"name": "chasing_light",
+		"to_rank": 16,
+		"from_rank": 23,
+		"above": "i_love_lasagna",
+		"below": "dualviper"
 	}
 ]
