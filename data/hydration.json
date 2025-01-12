@@ -2,10 +2,60 @@
 	"id": 61081283,
 	"name": "Hydration",
 	"author": 7681754830,
-	"creators": [7681754830,8680726715,9541874812,9002447621,4035771667,3563451640,5236819293,9086543417,3564204048,8544543161,5886178102],
+	"creators": [
+		7681754830,
+		8680726715,
+		9541874812,
+		9002447621,
+		4035771667,
+		3563451640,
+		5236819293,
+		9086543417,
+		3564204048,
+		8544543161,
+		5886178102
+	],
 	"verifier": 2733163403,
 	"verification": "https://www.youtube.com/watch?v=8I7l40Erzmg",
 	"percentToQualify": 100,
 	"password": "069420",
-	"records" : []
+	"records": [
+		{
+			"user": 5106732325,
+			"link": "https://youtu.be/v3KIoOyl6pE?si=SjZp56WNBpQC-xhs&t=462",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 4955808981,
+			"link": "https://youtu.be/pTxKex2uBnQ?si=zgIojGH6cr_XSSTl",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/j55vEsGpsDE?si=0rBFvEGc5udzKtax",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9555541620,
+			"link": "https://youtu.be/w1vDE2rVCqI?t=191&si=uIVyXn9N26uITWzW",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/p5Q_yiwcmXg?si=4AbHv4tXTyMe73jt",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 2844796713,
+			"link": "https://youtu.be/GoOormB-1fs",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
