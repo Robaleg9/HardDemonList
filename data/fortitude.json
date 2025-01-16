@@ -370,6 +370,19 @@
 			"link": "https://youtu.be/H0Cv8By17zU?si=hHt7KvUGO_N4Fc3K",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 7021495266,
+			"link": "https://youtu.be/EG0FD0KHlnA?si=3Jh1s_AhoU7Sv_3w",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6318413640,
+			"link": "https://youtu.be/96Ii79VMQRU",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
