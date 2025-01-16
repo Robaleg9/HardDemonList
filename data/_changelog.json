@@ -853,5 +853,14 @@
 		"from_rank": 316,
 		"above": "hash",
 		"below": "euphoria"
+	},
+	{
+		"date": 1736989225,
+		"action": "lowered",
+		"name": "snap",
+		"to_rank": 75,
+		"from_rank": 54,
+		"above": "breakneck",
+		"below": "mechanical_realm"
 	}
 ]
