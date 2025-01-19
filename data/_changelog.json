@@ -871,5 +871,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "cyber_fight"
+	},
+	{
+		"date": 1737296499,
+		"action": "placed",
+		"name": "hallownest",
+		"to_rank": 319,
+		"from_rank": null,
+		"above": null,
+		"below": "three_blocks_wide"
 	}
 ]
