@@ -36,6 +36,7 @@
 	"despair",
 	"immortal_ichor",
 	"backlines",
+	"hydration",
 	"flow",
 	"pinball_panic",
 	"classical_rayoriens",
@@ -305,7 +306,7 @@
 	"scarlet_pulse",
 	"standoff",
 	"steel_gear",
-    "stereophonic_system",
+	"stereophonic_system",
 	"technicolor",
 	"tendo",
 	"terminate_mold",
@@ -314,7 +315,6 @@
 	"vengeance",
 	"vitouxic",
 	"wily",
-	"hydration",
 	"three_blocks_wide",
 	"hallownest"
 ]
