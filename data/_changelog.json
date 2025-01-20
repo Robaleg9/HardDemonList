@@ -889,5 +889,14 @@
 		"from_rank": 316,
 		"above": "flow",
 		"below": "backlines"
+	},
+	{
+		"date": 1737390515,
+		"action": "lowered",
+		"name": "tsuki",
+		"to_rank": 313,
+		"from_rank": 4,
+		"above": "vengeance",
+		"below": "toxin_lab_iii"
 	}
 ]
