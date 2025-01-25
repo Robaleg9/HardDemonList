@@ -898,5 +898,14 @@
 		"from_rank": 4,
 		"above": "vengeance",
 		"below": "toxin_lab_iii"
+	},
+	{
+		"date": 1737830996,
+		"action": "raised",
+		"name": "tipo_b",
+		"to_rank": 136,
+		"from_rank": 153,
+		"above": "elucidator",
+		"below": "alien_invazion"
 	}
 ]
