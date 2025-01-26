@@ -907,5 +907,14 @@
 		"from_rank": 153,
 		"above": "elucidator",
 		"below": "alien_invazion"
+	},
+	{
+		"date": 1737903734,
+		"action": "lowered",
+		"name": "silence",
+		"to_rank": 304,
+		"from_rank": 2,
+		"above": "standoff",
+		"below": "scarlet_pulse"
 	}
 ]
