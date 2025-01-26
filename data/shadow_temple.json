@@ -270,6 +270,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 7432392385,
+			"link": "https://youtu.be/CMrBqJsaC_4",
+			"percent": 100,
+			"hz": 120
 		}
 	]
 }
