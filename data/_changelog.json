@@ -961,5 +961,14 @@
 		"from_rank": 6,
 		"above": "rainfall_iii",
 		"below": "advance3"
+	},
+	{
+		"date": 1738011601,
+		"action": "lowered",
+		"name": "serpent",
+		"to_rank": 9,
+		"from_rank": 6,
+		"above": "artemisia",
+		"below": "blrpl_lghts"
 	}
 ]
