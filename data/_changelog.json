@@ -952,5 +952,14 @@
 		"from_rank": 4,
 		"above": "advance3",
 		"below": "distorzona"
+	},
+	{
+		"date": 1738011574,
+		"action": "raised",
+		"name": "serpent",
+		"to_rank": 6,
+		"from_rank": 6,
+		"above": "rainfall_iii",
+		"below": "advance3"
 	}
 ]
