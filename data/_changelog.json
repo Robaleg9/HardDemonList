@@ -943,5 +943,14 @@
 		"from_rank": 3,
 		"above": "impetus",
 		"below": "blrpl_lghts"
+	},
+	{
+		"date": 1738011534,
+		"action": "raised",
+		"name": "milkshake_draft",
+		"to_rank": 4,
+		"from_rank": 4,
+		"above": "advance3",
+		"below": "distorzona"
 	}
 ]
