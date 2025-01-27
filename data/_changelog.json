@@ -934,5 +934,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "agon"
+	},
+	{
+		"date": 1738011503,
+		"action": "lowered",
+		"name": "artemisia",
+		"to_rank": 10,
+		"from_rank": 3,
+		"above": "impetus",
+		"below": "blrpl_lghts"
 	}
 ]
