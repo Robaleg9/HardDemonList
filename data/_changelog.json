@@ -979,5 +979,14 @@
 		"from_rank": 5,
 		"above": "distorzona",
 		"below": "azure_paralyzer"
+	},
+	{
+		"date": 1738011702,
+		"action": "raised",
+		"name": "milkshake_draft",
+		"to_rank": 4,
+		"from_rank": 5,
+		"above": "distorzona",
+		"below": "advance3"
 	}
 ]
