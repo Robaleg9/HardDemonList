@@ -970,5 +970,14 @@
 		"from_rank": 6,
 		"above": "artemisia",
 		"below": "blrpl_lghts"
+	},
+	{
+		"date": 1738011649,
+		"action": "raised",
+		"name": "advance3",
+		"to_rank": 3,
+		"from_rank": 5,
+		"above": "distorzona",
+		"below": "azure_paralyzer"
 	}
 ]
