@@ -988,5 +988,14 @@
 		"from_rank": 5,
 		"above": "distorzona",
 		"below": "advance3"
+	},
+	{
+		"date": 1738174112,
+		"action": "raised",
+		"name": "love_syndrome",
+		"to_rank": 122,
+		"from_rank": 296,
+		"above": "cyber_dream",
+		"below": "final_conflux"
 	}
 ]
