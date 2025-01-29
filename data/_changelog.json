@@ -997,5 +997,14 @@
 		"from_rank": 296,
 		"above": "cyber_dream",
 		"below": "final_conflux"
+	},
+	{
+		"date": 1738177213,
+		"action": "raised",
+		"name": "three_blocks_wide",
+		"to_rank": 78,
+		"from_rank": 317,
+		"above": "eternal_flame",
+		"below": "the_game"
 	}
 ]
