@@ -1006,5 +1006,14 @@
 		"from_rank": 317,
 		"above": "eternal_flame",
 		"below": "the_game"
+	},
+	{
+		"date": 1738360737,
+		"action": "raised",
+		"name": "time_decay",
+		"to_rank": 47,
+		"from_rank": 311,
+		"above": "hibernal",
+		"below": "majesty"
 	}
 ]
