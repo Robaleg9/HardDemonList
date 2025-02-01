@@ -1015,5 +1015,14 @@
 		"from_rank": 311,
 		"above": "hibernal",
 		"below": "majesty"
+	},
+	{
+		"date": 1738436905,
+		"action": "raised",
+		"name": "exhaust",
+		"to_rank": 99,
+		"from_rank": 134,
+		"above": "theory_of_intercept",
+		"below": "fusion"
 	}
 ]
