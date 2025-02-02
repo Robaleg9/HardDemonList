@@ -2,10 +2,38 @@
 	"id": 18388332,
 	"name": "Techno Blast",
 	"author": 4214104922,
-	"creators": [4214104922,7927103714],
+	"creators": [
+		4214104922,
+		7927103714
+	],
 	"verifier": 4214104922,
 	"verification": "https://www.youtube.com/watch?v=XijQinFD7LA",
 	"percentToQualify": 100,
 	"password": "Free to Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/5gLhiqB5dQM?si=7Y_fG4l-LOL62qPU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/_rE4ZgEyZV0",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/OepI9p7xQFE",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": 9555541620,
+			"link": "https://youtu.be/VW1ijjVnjUQ?si=KU0iZZwyqHz67_-A",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
