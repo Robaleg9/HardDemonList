@@ -1051,5 +1051,14 @@
 		"from_rank": 13,
 		"above": "damage",
 		"below": "castle_dedede"
+	},
+	{
+		"date": 1738531224,
+		"action": "raised",
+		"name": "jeopardous",
+		"to_rank": 130,
+		"from_rank": 319,
+		"above": "plasma_dominator",
+		"below": "freedom_travel"
 	}
 ]
