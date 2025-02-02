@@ -1042,5 +1042,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "techno_blast"
+	},
+	{
+		"date": 1738514366,
+		"action": "lowered",
+		"name": "chasing_light",
+		"to_rank": 290,
+		"from_rank": 13,
+		"above": "damage",
+		"below": "castle_dedede"
 	}
 ]
