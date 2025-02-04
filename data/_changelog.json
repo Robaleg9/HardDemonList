@@ -1060,5 +1060,14 @@
 		"from_rank": 319,
 		"above": "plasma_dominator",
 		"below": "freedom_travel"
+	},
+	{
+		"date": 1738702812,
+		"action": "raised",
+		"name": "crispy_reaction",
+		"to_rank": 46,
+		"from_rank": 93,
+		"above": "hibernal",
+		"below": "time_decay"
 	}
 ]
