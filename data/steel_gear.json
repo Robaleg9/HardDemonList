@@ -223,6 +223,37 @@
 			"link": "https://youtu.be/dMe-cCq18Wk",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 7889380663,
+			"link": "https://youtu.be/FLz8kiOAwuU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9225850785,
+			"link": "https://www.youtube.com/watch?v=aqDfci_d1Y4",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 5185647113,
+			"link": "https://youtu.be/7UVcGVIx3kQ?si=lrJ6ZaduCbiXlH7x",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 2074289182,
+			"link": "https://youtu.be/TbjwwGF0HI4?si=9D0q1PezCgxkJVaD",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 6939625545,
+			"link": "https://youtu.be/FknWtumiNz8?si=HLm9fRAiV3KBEp18",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
