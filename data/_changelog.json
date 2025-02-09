@@ -1069,5 +1069,14 @@
 		"from_rank": 93,
 		"above": "hibernal",
 		"below": "time_decay"
+	},
+	{
+		"date": 1739130926,
+		"action": "raised",
+		"name": "steel_gear",
+		"to_rank": 33,
+		"from_rank": 309,
+		"above": "hydration",
+		"below": "backlines"
 	}
 ]
