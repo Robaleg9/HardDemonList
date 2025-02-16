@@ -1141,5 +1141,14 @@
 		"from_rank": 78,
 		"above": "toxin_lab_iii",
 		"below": "terminate_mold"
+	},
+	{
+		"date": 1739723056,
+		"action": "placed",
+		"name": "blood_menace",
+		"to_rank": 323,
+		"from_rank": null,
+		"above": null,
+		"below": "evil_gameboy"
 	}
 ]
