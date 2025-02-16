@@ -1123,5 +1123,14 @@
 		"from_rank": 61,
 		"above": "ribbit",
 		"below": "e_v_a_c_u_a_t_i_o_n"
+	},
+	{
+		"date": 1739668218,
+		"action": "lowered",
+		"name": "elucidator",
+		"to_rank": 297,
+		"from_rank": 139,
+		"above": "enlightenment",
+		"below": "drop_zone"
 	}
 ]
