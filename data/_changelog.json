@@ -1159,5 +1159,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "blood_menace"
+	},
+	{
+		"date": 1739992218,
+		"action": "raised",
+		"name": "shrill_manor",
+		"to_rank": 89,
+		"from_rank": 115,
+		"above": "infernity",
+		"below": "danaes_button"
 	}
 ]
