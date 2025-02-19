@@ -2,10 +2,26 @@
 	"id": 12616848,
 	"name": "Blood Menace",
 	"author": 7664062279,
-	"creators": [7664062279,8010164477],
+	"creators": [
+		7664062279,
+		8010164477
+	],
 	"verifier": 9912075453,
 	"verification": "https://www.youtube.com/watch?v=Kr752BTrOfw",
 	"percentToQualify": 100,
 	"password": "427927",
-	"records" : []
+	"records": [
+		{
+			"user": 2844796713,
+			"link": "https://youtu.be/iRnRo8SmOiU",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/sGYjh3-zg8E?si=ZIbuBiKMj2vfcDX_",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
