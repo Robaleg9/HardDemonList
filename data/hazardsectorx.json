@@ -25,19 +25,25 @@
 			"link": "https://youtu.be/4mQuZJa3ZYU",
 			"percent": 100,
 			"hz": 60,
-			"mobile": true	
+			"mobile": true
 		},
-        {
+		{
 			"user": 2147715229,
 			"link": "https://youtu.be/hDD5vFleo48",
 			"percent": 100,
 			"hz": 360
 		},
-        {
-            "user": 9538645593,
-            "link": "https://youtu.be/kETUBRBU8oI?si=ycYZyWG0n2BjccK8",
-            "percent": 100,
-            "hz": 300
-        }
+		{
+			"user": 9538645593,
+			"link": "https://youtu.be/kETUBRBU8oI?si=ycYZyWG0n2BjccK8",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": 7889380663,
+			"link": "https://youtu.be/xxa-IPH2w1Q?si=F0m5ViwDL0SeRO43",
+			"percent": 100,
+			"hz": 240
+		}
 	]
 }
