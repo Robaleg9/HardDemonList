@@ -1168,5 +1168,14 @@
 		"from_rank": 115,
 		"above": "infernity",
 		"below": "danaes_button"
+	},
+	{
+		"date": 1740114877,
+		"action": "raised",
+		"name": "anya_ii",
+		"to_rank": 64,
+		"from_rank": 101,
+		"above": "frostbound",
+		"below": "meeting_with_diana"
 	}
 ]
