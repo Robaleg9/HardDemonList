@@ -435,7 +435,7 @@
             "crispy_reaction",
             "danaes_button",
             "tremble",
-            "club_chamber"
+            "blood menace"
         ],
         "colour": "#c0c0c0"
     },
@@ -553,7 +553,8 @@
         "levels": [
             "ebony",
             "theory_of_intercept",
-            "night_of_demon"
+            "night_of_demon",
+            "club_chamber"
         ],
         "colour": "#cd7f32"
     },
