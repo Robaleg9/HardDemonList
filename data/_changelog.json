@@ -1186,5 +1186,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "hazardsectorx"
+	},
+	{
+		"date": 1740319551,
+		"action": "placed",
+		"name": "prismatic_domain",
+		"to_rank": 324,
+		"from_rank": null,
+		"above": null,
+		"below": "accelerate"
 	}
 ]
