@@ -56,8 +56,7 @@
         "levels": [
             "blrpl_lghts",
             "i_love_lasagna",
-            "somniare",
-            "the_game"
+            "somniare"
         ],
         "colour": "#afe6ed"
     },
@@ -300,7 +299,6 @@
             "pinball_panic",
             "breakneck",
             "splendid_mold",
-            "the_game",
             "mechanical_realm"
         ],
         "colour": "#c0c0c0"
