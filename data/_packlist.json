@@ -627,7 +627,6 @@
     {
         "name": "Red Pack",
         "levels": [
-            "silence",
             "weirdmaggedon",
             "in_limbo",
             "pressure_chamber",
