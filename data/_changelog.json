@@ -1177,5 +1177,14 @@
 		"from_rank": 101,
 		"above": "frostbound",
 		"below": "meeting_with_diana"
+	},
+	{
+		"date": 1740318833,
+		"action": "placed",
+		"name": "accelerate",
+		"to_rank": 323,
+		"from_rank": null,
+		"above": null,
+		"below": "hazardsectorx"
 	}
 ]
