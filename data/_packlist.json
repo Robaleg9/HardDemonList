@@ -231,8 +231,6 @@
         "name": "Roman Numeral Pack",
         "levels": [
             "rainfall_iii",
-            "new_beginning_ii",
-            "toxin_lab_iii",
             "beast_mayhem_ii",
             "circus_dash_ii",
             "anya_ii"
@@ -333,7 +331,6 @@
             "kilpac",
             "circus_dash_ii",
             "fortitude",
-            "new_beginning_ii",
             "anya_ii"
         ],
         "colour": "#c0c0c0"
