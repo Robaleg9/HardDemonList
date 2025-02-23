@@ -289,7 +289,6 @@
         "name": "Xtrullor Song Pack 2",
         "levels": [
             "immortal_ichor",
-            "toxin_lab_iii",
             "in_limbo",
             "ribbit"
         ],
@@ -468,7 +467,6 @@
         "levels": [
             "diffuse",
             "the_furious",
-            "toxin_lab_iii",
             "sharp_minor"
         ],
         "colour": "#c0c0c0"
@@ -651,7 +649,6 @@
         "name": "Green Pack",
         "levels": [
             "superior_sequence",
-            "toxin_lab_iii",
             "viridica",
             "neurotoxin"
         ],
