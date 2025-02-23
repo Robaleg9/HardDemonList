@@ -427,7 +427,8 @@
         "levels": [
             "viridica",
             "adrenaline_chamber",
-            "neurotoxin"
+            "neurotoxin",
+            "jajagarasu"
         ],
         "colour": "#c0c0c0"
     },
@@ -546,7 +547,8 @@
         "name": "Megacollab Pack 1",
         "levels": [
             "hyped_up",
-            "universal_perception"
+            "universal_perception",
+            "shrill_manor"
         ],
         "colour": "#cd7f32"
     },
