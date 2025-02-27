@@ -54,6 +54,7 @@
 	"pressure_chamber",
 	"ribbit",
 	"ultra_circles",
+	"blood_menace",
 	"sideways_8",
 	"evasion",
 	"adrenaline_chamber",
@@ -137,7 +138,7 @@
 	"sharp",
 	"alien_invazion",
 	"tipo_b",
-    "elucidator",
+	"elucidator",
 	"ebony",
 	"sulfuric_acid",
 	"found",
@@ -320,7 +321,6 @@
 	"vengeance",
 	"vitouxic",
 	"wily",
-	"blood_menace",
 	"accelerate_xvainaja",
 	"prismatic_domain"
 ]

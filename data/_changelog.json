@@ -1204,5 +1204,14 @@
 		"from_rank": 322,
 		"above": "the_tempest",
 		"below": "apache"
+	},
+	{
+		"date": 1740677547,
+		"action": "raised",
+		"name": "blood_menace",
+		"to_rank": 56,
+		"from_rank": 322,
+		"above": "sideways_8",
+		"below": "ultra_circles"
 	}
 ]
