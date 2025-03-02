@@ -1231,5 +1231,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "prismatic_domain"
+	},
+	{
+		"date": 1740929862,
+		"action": "placed",
+		"name": "lock_in",
+		"to_rank": 326,
+		"from_rank": null,
+		"above": null,
+		"below": "spitzer"
 	}
 ]
