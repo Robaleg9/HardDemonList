@@ -1222,5 +1222,14 @@
 		"from_rank": 141,
 		"above": "kostok_mode",
 		"below": "armageddon"
+	},
+	{
+		"date": 1740929565,
+		"action": "placed",
+		"name": "spitzer",
+		"to_rank": 325,
+		"from_rank": null,
+		"above": null,
+		"below": "prismatic_domain"
 	}
 ]
