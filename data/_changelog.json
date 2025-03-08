@@ -1249,5 +1249,14 @@
 		"from_rank": 324,
 		"above": "hash",
 		"below": "unlocked"
+	},
+	{
+		"date": 1741441323,
+		"action": "raised",
+		"name": "accelerate_xvainaja",
+		"to_rank": 140,
+		"from_rank": 324,
+		"above": "tipo_b",
+		"below": "alien_invazion"
 	}
 ]
