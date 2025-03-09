@@ -1276,5 +1276,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "lock_in"
+	},
+	{
+		"date": 1741530330,
+		"action": "placed",
+		"name": "lazer_city_ii",
+		"to_rank": 328,
+		"from_rank": null,
+		"above": null,
+		"below": "mythical_descent"
 	}
 ]
