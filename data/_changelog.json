@@ -1285,5 +1285,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "mythical_descent"
+	},
+	{
+		"date": 1741555444,
+		"action": "raised",
+		"name": "spitzer",
+		"to_rank": 76,
+		"from_rank": 325,
+		"above": "breakneck",
+		"below": "snap"
 	}
 ]
