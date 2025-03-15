@@ -1294,5 +1294,14 @@
 		"from_rank": 325,
 		"above": "breakneck",
 		"below": "snap"
+	},
+	{
+		"date": 1742062309,
+		"action": "lowered",
+		"name": "somniare",
+		"to_rank": 25,
+		"from_rank": 14,
+		"above": "watch_the_throne",
+		"below": "dead_beat"
 	}
 ]
