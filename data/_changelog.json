@@ -1303,5 +1303,14 @@
 		"from_rank": 14,
 		"above": "watch_the_throne",
 		"below": "dead_beat"
+	},
+	{
+		"date": 1742135595,
+		"action": "placed",
+		"name": "mirai_harbinger",
+		"to_rank": 329,
+		"from_rank": null,
+		"above": null,
+		"below": "lazer_city_ii"
 	}
 ]
