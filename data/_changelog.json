@@ -1321,5 +1321,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "mirai_harbinger"
+	},
+	{
+		"date": 1742149677,
+		"action": "raised",
+		"name": "mythical_descent",
+		"to_rank": 117,
+		"from_rank": 327,
+		"above": "hash",
+		"below": "prismatic_domain"
 	}
 ]
