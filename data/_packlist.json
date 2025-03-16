@@ -154,8 +154,7 @@
             "i_love_lasagna",
             "crispy_reaction",
             "hash",
-            "elemental_melons",
-            "danksgiving"
+            "elemental_melons"
         ],
         "colour": "#ffd700"
     },
@@ -543,7 +542,7 @@
         "levels": [
             "hibernal",
             "night_of_demon",
-            "danksgiving"
+            "frostbound"
         ],
         "colour": "#cd7f32"
     },
@@ -559,7 +558,6 @@
     {
         "name": "Memory Pack 1",
         "levels": [
-            "ebony",
             "theory_of_intercept",
             "night_of_demon",
             "club_chamber"
@@ -594,8 +592,7 @@
             "cubic_force",
             "night_of_demon",
             "club_chamber",
-            "cant_let_fly",
-            "demonic_clubstep"
+            "cant_let_fly"
         ],
         "colour": "#cd7f32"
     },
@@ -614,8 +611,7 @@
         "levels": [        
             "found",
             "tipo_b",
-            "burh",
-            "demonic_clubstep"
+            "burh"
         ],
         "colour": "#cd7f32"
     },
