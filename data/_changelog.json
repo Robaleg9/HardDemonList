@@ -1312,5 +1312,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "lazer_city_ii"
+	},
+	{
+		"date": 1742136002,
+		"action": "placed",
+		"name": "gleam_starmiki",
+		"to_rank": 330,
+		"from_rank": null,
+		"above": null,
+		"below": "mirai_harbinger"
 	}
 ]
