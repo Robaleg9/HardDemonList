@@ -1339,5 +1339,14 @@
 		"from_rank": 146,
 		"above": "club_chamber",
 		"below": "universal_perception"
+	},
+	{
+		"date": 1742507228,
+		"action": "raised",
+		"name": "new_beginning_ii",
+		"to_rank": 23,
+		"from_rank": 311,
+		"above": "space_dementia",
+		"below": "action_lyal"
 	}
 ]
