@@ -1366,5 +1366,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "backstreet_boy"
+	},
+	{
+		"date": 1742899313,
+		"action": "lowered",
+		"name": "skywanderers",
+		"to_rank": 58,
+		"from_rank": 51,
+		"above": "sideways_8",
+		"below": "blood_menace"
 	}
 ]
