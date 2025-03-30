@@ -1384,5 +1384,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "supernova_zanek184"
+	},
+	{
+		"date": 1743357710,
+		"action": "placed",
+		"name": "dizzy_spell",
+		"to_rank": 334,
+		"from_rank": null,
+		"above": null,
+		"below": "rapture_poetry"
 	}
 ]
