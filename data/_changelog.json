@@ -1375,5 +1375,14 @@
 		"from_rank": 51,
 		"above": "sideways_8",
 		"below": "blood_menace"
+	},
+	{
+		"date": 1743357592,
+		"action": "placed",
+		"name": "rapture_poetry",
+		"to_rank": 333,
+		"from_rank": null,
+		"above": null,
+		"below": "supernova_zanek184"
 	}
 ]
