@@ -1501,5 +1501,14 @@
 		"from_rank": null,
 		"above": "dead_beat",
 		"below": "big_floppa"
+	},
+	{
+		"date": 1743483098,
+		"action": "placed",
+		"name": "afterlocked_x",
+		"to_rank": 4,
+		"from_rank": null,
+		"above": "antichamber",
+		"below": "spunch"
 	}
 ]
