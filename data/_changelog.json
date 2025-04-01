@@ -1537,5 +1537,14 @@
 		"from_rank": null,
 		"above": "antichamber",
 		"below": "spunch"
+	},
+	{
+		"date": 1743547523,
+		"action": "placed",
+		"name": "barbaros_finale",
+		"to_rank": 20,
+		"from_rank": null,
+		"above": "total_oblivion",
+		"below": "meeting_with_diana"
 	}
 ]
