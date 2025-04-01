@@ -1429,5 +1429,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "dizzy_spell"
+	},
+	{
+		"date": 1743479532,
+		"action": "placed",
+		"name": "mongolia",
+		"to_rank": 335,
+		"from_rank": null,
+		"above": "antichamber",
+		"below": "dizzy_spell"
 	}
 ]
