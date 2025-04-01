@@ -1519,5 +1519,14 @@
 		"from_rank": null,
 		"above": "ice_let_go",
 		"below": "volken_turbo"
+	},
+	{
+		"date": 1743483350,
+		"action": "raised",
+		"name": "afterlocked_x",
+		"to_rank": 2,
+		"from_rank": 4,
+		"above": "bastion_adventure",
+		"below": "line_apocalypse"
 	}
 ]
