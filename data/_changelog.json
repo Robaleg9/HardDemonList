@@ -1483,5 +1483,14 @@
 		"from_rank": null,
 		"above": "ice_let_go",
 		"below": "dizzy_spell"
+	},
+	{
+		"date": 1743481194,
+		"action": "placed",
+		"name": "santa_fe",
+		"to_rank": 11,
+		"from_rank": null,
+		"above": "big_floppa",
+		"below": "collect_all_ickababy"
 	}
 ]
