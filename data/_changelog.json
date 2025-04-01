@@ -1528,5 +1528,14 @@
 		"from_rank": 4,
 		"above": "bastion_adventure",
 		"below": "line_apocalypse"
+	},
+	{
+		"date": 1743485158,
+		"action": "placed",
+		"name": "secret_underground_house_and_temple_water_slide_swimming_pool_underground",
+		"to_rank": 5,
+		"from_rank": null,
+		"above": "antichamber",
+		"below": "spunch"
 	}
 ]
