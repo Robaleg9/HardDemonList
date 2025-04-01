@@ -1438,5 +1438,14 @@
 		"from_rank": null,
 		"above": "antichamber",
 		"below": "dizzy_spell"
+	},
+	{
+		"date": 1743479635,
+		"action": "placed",
+		"name": "pathetic_fallacy",
+		"to_rank": 335,
+		"from_rank": null,
+		"above": "mongolia",
+		"below": "dizzy_spell"
 	}
 ]
