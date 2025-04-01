@@ -1510,5 +1510,14 @@
 		"from_rank": null,
 		"above": "antichamber",
 		"below": "spunch"
+	},
+	{
+		"date": 1743483183,
+		"action": "placed",
+		"name": "omnir_release",
+		"to_rank": 10,
+		"from_rank": null,
+		"above": "ice_let_go",
+		"below": "volken_turbo"
 	}
 ]
