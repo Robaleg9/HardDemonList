@@ -1393,5 +1393,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "rapture_poetry"
+	},
+	{
+		"date": 1743478991,
+		"action": "placed",
+		"name": "line_apocalypse",
+		"to_rank": 335,
+		"from_rank": null,
+		"above": null,
+		"below": "dizzy_spell"
 	}
 ]
