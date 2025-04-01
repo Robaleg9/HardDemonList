@@ -13,6 +13,19 @@
 			"link": "https://m.youtube.com/watch?v=BOROfPqBdPw",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": 9555541620,
+			"link": "https://youtu.be/kfePFfcnjbM?si=URLVR3NvM6nhzH9q&t=868",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 4329953225,
+			"link": "https://youtu.be/ABA_ixJ8TPk?si=qTDB32YaI4r-cH0z",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
