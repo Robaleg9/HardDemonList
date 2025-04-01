@@ -1402,5 +1402,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "dizzy_spell"
+	},
+	{
+		"date": 1743479180,
+		"action": "placed",
+		"name": "bastion_adventure",
+		"to_rank": 335,
+		"from_rank": null,
+		"above": null,
+		"below": "dizzy_spell"
 	}
 ]
