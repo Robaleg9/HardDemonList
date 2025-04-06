@@ -1564,5 +1564,14 @@
 		"from_rank": 332,
 		"above": "freedom_travel",
 		"below": "burh"
+	},
+	{
+		"date": 1743952756,
+		"action": "lowered",
+		"name": "spacial_rift",
+		"to_rank": 317,
+		"from_rank": 1,
+		"above": "standoff",
+		"below": "silence"
 	}
 ]
