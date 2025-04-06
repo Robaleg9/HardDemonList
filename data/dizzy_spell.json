@@ -2,10 +2,31 @@
 	"id": 1059607,
 	"name": "Dizzy Spell",
 	"author": 6813588397,
-	"creators": [6813588397],
+	"creators": [
+		6813588397
+	],
 	"verifier": 6813588397,
 	"verification": "https://www.youtube.com/watch?v=G2Np7x-ZIh0",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 2147715229,
+			"link": "https://youtu.be/bJGd-On4Cas?si=YKogzhOZEOudO9gO",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/cw-QZljeiZ0?si=o9GOCDZjt2KUcFHC",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 6479617565,
+			"link": "https://youtu.be/x4hwDxmtl-U",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
