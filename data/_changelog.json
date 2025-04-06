@@ -1573,5 +1573,14 @@
 		"from_rank": 1,
 		"above": "standoff",
 		"below": "silence"
+	},
+	{
+		"date": 1743952813,
+		"action": "lowered",
+		"name": "spacial_rift",
+		"to_rank": 319,
+		"from_rank": 317,
+		"above": "technicolor",
+		"below": "stereophonic_system"
 	}
 ]
