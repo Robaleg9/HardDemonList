@@ -378,6 +378,12 @@
 			"link": "https://www.youtube.com/watch?v=31ATgMr-t5Q",
 			"percent": 100,
 			"hz": 1000
+		},
+		{
+			"user": 2350763901,
+			"link": "https://youtu.be/RUB1vaWLxxQ?si=mhaQLdbsel8kma2D",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
