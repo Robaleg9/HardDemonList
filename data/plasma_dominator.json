@@ -130,6 +130,12 @@
 			"link": "https://www.youtube.com/watch?v=bOYnKtSDSr8",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 8273227525,
+			"link": "https://www.youtube.com/watch?v=bIDbKsIJz14&t=1199",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
