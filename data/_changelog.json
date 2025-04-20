@@ -1627,5 +1627,14 @@
 		"from_rank": 177,
 		"above": "backstreet_boy",
 		"below": "burh"
+	},
+	{
+		"date": 1745163005,
+		"action": "placed",
+		"name": "chaoz_implosion",
+		"to_rank": 333,
+		"from_rank": null,
+		"above": null,
+		"below": "omnir_release"
 	}
 ]
