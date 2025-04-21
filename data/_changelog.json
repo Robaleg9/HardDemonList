@@ -1645,5 +1645,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "chaoz_implosion"
+	},
+	{
+		"date": 1745249540,
+		"action": "raised",
+		"name": "omnir_release",
+		"to_rank": 141,
+		"from_rank": 332,
+		"above": "plasma_dominator",
+		"below": "jeopardous"
 	}
 ]
