@@ -1654,5 +1654,14 @@
 		"from_rank": 332,
 		"above": "plasma_dominator",
 		"below": "jeopardous"
+	},
+	{
+		"date": 1745465680,
+		"action": "raised",
+		"name": "weirdmaggedon",
+		"to_rank": 25,
+		"from_rank": 41,
+		"above": "somniare",
+		"below": "dead_beat"
 	}
 ]
