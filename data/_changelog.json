@@ -1690,5 +1690,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "polychoron"
+	},
+	{
+		"date": 1745778326,
+		"action": "placed",
+		"name": "crystal_light",
+		"to_rank": 336,
+		"from_rank": null,
+		"above": null,
+		"below": "radiant_expanse"
 	}
 ]
