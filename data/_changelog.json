@@ -1681,5 +1681,14 @@
 		"from_rank": 135,
 		"above": "club_chamber",
 		"below": "found"
+	},
+	{
+		"date": 1745778176,
+		"action": "placed",
+		"name": "radiant_expanse",
+		"to_rank": 335,
+		"from_rank": null,
+		"above": null,
+		"below": "polychoron"
 	}
 ]
