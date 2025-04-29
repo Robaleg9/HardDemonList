@@ -1699,5 +1699,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "radiant_expanse"
+	},
+	{
+		"date": 1745953858,
+		"action": "raised",
+		"name": "spectra",
+		"to_rank": 113,
+		"from_rank": 119,
+		"above": "nadji",
+		"below": "neurotoxin"
 	}
 ]
