@@ -195,6 +195,12 @@
 			"link": "https://www.youtube.com/watch?v=cZHJVc3OXR0",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 2603629810,
+			"link": "https://youtu.be/cwsuifJyN9c",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }
