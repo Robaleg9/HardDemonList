@@ -1726,5 +1726,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "crystal_light"
+	},
+	{
+		"date": 1746373324,
+		"action": "placed",
+		"name": "psicho_forest",
+		"to_rank": 335,
+		"from_rank": null,
+		"above": null,
+		"below": "super_of_everything"
 	}
 ]
