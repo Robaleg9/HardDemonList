@@ -1708,5 +1708,14 @@
 		"from_rank": 119,
 		"above": "nadji",
 		"below": "neurotoxin"
+	},
+	{
+		"date": 1746372220,
+		"action": "raised",
+		"name": "chaoz_implosion",
+		"to_rank": 137,
+		"from_rank": 330,
+		"above": "sweet_dreams",
+		"below": "burh"
 	}
 ]
