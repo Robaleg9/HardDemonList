@@ -1735,5 +1735,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "super_of_everything"
+	},
+	{
+		"date": 1746689701,
+		"action": "raised",
+		"name": "radiant_expanse",
+		"to_rank": 118,
+		"from_rank": 332,
+		"above": "mythical_descent",
+		"below": "prismatic_domain"
 	}
 ]
