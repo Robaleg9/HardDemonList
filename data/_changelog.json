@@ -1744,5 +1744,14 @@
 		"from_rank": 332,
 		"above": "mythical_descent",
 		"below": "prismatic_domain"
+	},
+	{
+		"date": 1746983404,
+		"action": "placed",
+		"name": "kanade",
+		"to_rank": 336,
+		"from_rank": null,
+		"above": null,
+		"below": "psicho_forest"
 	}
 ]
