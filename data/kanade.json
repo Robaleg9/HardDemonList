@@ -2,10 +2,36 @@
 	"id": 44796159,
 	"name": "Kanade",
 	"author": 2404245719,
-	"creators": [5012741171,4356160526,5282489102,2404245719,4757075609,4225844965],
+	"creators": [
+		5012741171,
+		4356160526,
+		5282489102,
+		2404245719,
+		4757075609,
+		4225844965
+	],
 	"verifier": 7148469164,
 	"verification": "https://www.youtube.com/watch?v=lcKqqU2OkXI",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 2844796713,
+			"link": "https://youtu.be/dK-QEC_DlsQ",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/xWE95ayayRg?si=1y0oyzism8YC7Omf&t=91",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/5aPLcBpdFzo?si=i2fPqQ3kXNTPojsm",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
