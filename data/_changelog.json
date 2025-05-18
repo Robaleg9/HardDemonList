@@ -1771,5 +1771,14 @@
 		"from_rank": 71,
 		"above": "spitzer",
 		"below": "snap"
+	},
+	{
+		"date": 1747588368,
+		"action": "raised",
+		"name": "super_of_everything",
+		"to_rank": 134,
+		"from_rank": 334,
+		"above": "leffe_leiffsky",
+		"below": "arachnid_temple"
 	}
 ]
