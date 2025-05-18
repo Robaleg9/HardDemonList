@@ -1762,5 +1762,14 @@
 		"from_rank": null,
 		"above": "kanade",
 		"below": "psicho_forest"
+	},
+	{
+		"date": 1747541405,
+		"action": "lowered",
+		"name": "i_cant_fix_you",
+		"to_rank": 75,
+		"from_rank": 71,
+		"above": "spitzer",
+		"below": "snap"
 	}
 ]
