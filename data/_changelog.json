@@ -1780,5 +1780,14 @@
 		"from_rank": 334,
 		"above": "leffe_leiffsky",
 		"below": "arachnid_temple"
+	},
+	{
+		"date": 1747588722,
+		"action": "placed",
+		"name": "tileset_null",
+		"to_rank": 338,
+		"from_rank": null,
+		"above": null,
+		"below": "kanade"
 	}
 ]
