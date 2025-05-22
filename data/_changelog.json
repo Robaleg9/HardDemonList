@@ -1807,5 +1807,14 @@
 		"from_rank": 336,
 		"above": "sharp_minor",
 		"below": "theory_of_intercept"
+	},
+	{
+		"date": 1747950153,
+		"action": "raised",
+		"name": "tormenta",
+		"to_rank": 44,
+		"from_rank": 98,
+		"above": "majesty",
+		"below": "the_voidlands"
 	}
 ]
