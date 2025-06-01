@@ -1852,5 +1852,14 @@
 		"from_rank": 336,
 		"above": "nadji",
 		"below": "spectra"
+	},
+	{
+		"date": 1748806065,
+		"action": "placed",
+		"name": "evorsus",
+		"to_rank": 339,
+		"from_rank": null,
+		"above": null,
+		"below": "voltage"
 	}
 ]
