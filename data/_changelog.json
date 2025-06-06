@@ -1879,5 +1879,14 @@
 		"from_rank": 340,
 		"above": "evorsus",
 		"below": "voltage"
+	},
+	{
+		"date": 1749204222,
+		"action": "raised",
+		"name": "dead_beat",
+		"to_rank": 11,
+		"from_rank": 24,
+		"above": "i_love_lasagna",
+		"below": "actino_rise"
 	}
 ]
