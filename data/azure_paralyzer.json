@@ -714,6 +714,13 @@
 			"link": "https://youtu.be/VgPQodNI9Bo?si=adArpEgeqFQr9eEk",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": 7478451999,
+			"link": "https://youtu.be/QgBgrVJ6_YI?si=dRH_ChfzPLZ4SSOD",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
