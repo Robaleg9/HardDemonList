@@ -1915,5 +1915,14 @@
 		"from_rank": 336,
 		"above": "leffe_leiffsky",
 		"below": "super_of_everything"
+	},
+	{
+		"date": 1749917761,
+		"action": "raised",
+		"name": "meeting_with_diana",
+		"to_rank": 42,
+		"from_rank": 65,
+		"above": "evasion",
+		"below": "fortitude"
 	}
 ]
