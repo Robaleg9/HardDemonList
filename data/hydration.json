@@ -147,6 +147,13 @@
 			"link": "https://youtu.be/dWhICBw-Mvg?si=53qFFnFXoyTRpqCs",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": 2563854316,
+			"link": "https://youtu.be/NPZQ8uqScMM?si=ZgAKmjJ1oC-GFvxJ",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
