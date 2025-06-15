@@ -1924,5 +1924,14 @@
 		"from_rank": 65,
 		"above": "evasion",
 		"below": "fortitude"
+	},
+	{
+		"date": 1750022205,
+		"action": "placed",
+		"name": "rgbwheregisgold",
+		"to_rank": 339,
+		"from_rank": null,
+		"above": null,
+		"below": "emerald_run"
 	}
 ]
