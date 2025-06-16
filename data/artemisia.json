@@ -521,6 +521,18 @@
 			"link": "https://www.youtube.com/watch?v=yhWGrL4vd6Q&lc=UgzqoGvHBnBJ1OE-UTt4AaABAg",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 5859249481,
+			"link": "https://youtu.be/ovXyfYieeS4?si=x-nD2jKwotaJ55DL",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 7948555274,
+			"link": "https://www.youtube.com/watch?v=CROeSls8_pE",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
