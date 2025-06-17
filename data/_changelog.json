@@ -1933,5 +1933,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "emerald_run"
+	},
+	{
+		"date": 1750199304,
+		"action": "raised",
+		"name": "translucent",
+		"to_rank": 132,
+		"from_rank": 337,
+		"above": "final_conflux",
+		"below": "euvector"
 	}
 ]
