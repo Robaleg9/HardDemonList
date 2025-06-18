@@ -1942,5 +1942,14 @@
 		"from_rank": 337,
 		"above": "final_conflux",
 		"below": "euvector"
+	},
+	{
+		"date": 1750269720,
+		"action": "raised",
+		"name": "sharp",
+		"to_rank": 49,
+		"from_rank": 152,
+		"above": "hibernal",
+		"below": "crispy_reaction"
 	}
 ]
