@@ -1960,5 +1960,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "rgbwheregisgold"
+	},
+	{
+		"date": 1750686379,
+		"action": "lowered",
+		"name": "total_oblivion",
+		"to_rank": 122,
+		"from_rank": 98,
+		"above": "hash",
+		"below": "mythical_descent"
 	}
 ]
