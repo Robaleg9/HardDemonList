@@ -243,6 +243,13 @@
 			"link": "https://youtu.be/sVlMAxPe6sM",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 9403457434,
+			"link": "https://youtu.be/pAb_WGeLP70?si=ZbwBaCCsGckY0ISX",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
