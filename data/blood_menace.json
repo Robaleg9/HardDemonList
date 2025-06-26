@@ -163,6 +163,13 @@
 			"link": "https://www.youtube.com/watch?v=bIDbKsIJz14&t=3220",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 5148118396,
+			"link": "https://www.youtube.com/watch?v=LMjutR5tqu8",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
