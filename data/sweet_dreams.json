@@ -484,6 +484,12 @@
 			"link": "https://www.youtube.com/watch?v=J94elhUkajw",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": 6143414279,
+			"link": "https://www.youtube.com/watch?v=8HycI2B4RtQ&t=25s",
+			"percent": 100,
+			"hz": 480
 		}
 	]
 }

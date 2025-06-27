@@ -1255,6 +1255,24 @@
 			"link": "https://www.youtube.com/watch?v=3Zoz8-FqunA&ab_channel=kubaq30gb",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": 6143414279,
+			"link": "https://www.youtube.com/watch?v=EpnrCavTVBM&t=76s",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": 4557603946,
+			"link": "https://youtu.be/F63CkTS3EeM?si=4kYdEphfwULzf-LQ",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": 5984390293,
+			"link": "https://youtu.be/S-C_pNG4pFw",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
