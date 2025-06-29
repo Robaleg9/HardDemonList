@@ -2005,5 +2005,14 @@
 		"from_rank": 80,
 		"above": "spitzer",
 		"below": "i_cant_fix_you"
+	},
+	{
+		"date": 1751224197,
+		"action": "placed",
+		"name": "bnuy_level",
+		"to_rank": 341,
+		"from_rank": null,
+		"above": null,
+		"below": "dark_incantation"
 	}
 ]
