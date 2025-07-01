@@ -30,7 +30,7 @@
             "pulsar",
             "quantum_variations",
             "rainfall_iii",
-            "spacial_rift",
+            "serpent",
             "the_ultimate_core",
             "universal_perception",
             "valkyrie",
@@ -161,7 +161,6 @@
     {
         "name": "Gas Station Pack",
         "levels": [
-            "spacial_rift",
             "sideways_8",
             "pressure_chamber",
             "adrenaline_chamber",
@@ -212,7 +211,6 @@
     {
         "name": "Megacollab Pack 3",
         "levels": [
-            "spacial_rift",
             "sonic_chamber",
             "artemisia",
             "sideways_8",
