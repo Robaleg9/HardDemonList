@@ -2014,5 +2014,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "dark_incantation"
+	},
+	{
+		"date": 1751399539,
+		"action": "raised",
+		"name": "dark_incantation",
+		"to_rank": 125,
+		"from_rank": 340,
+		"above": "universal_perception",
+		"below": "hash"
 	}
 ]
