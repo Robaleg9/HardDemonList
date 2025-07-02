@@ -2023,5 +2023,14 @@
 		"from_rank": 340,
 		"above": "universal_perception",
 		"below": "hash"
+	},
+	{
+		"date": 1751428966,
+		"action": "raised",
+		"name": "arachnid_temple",
+		"to_rank": 120,
+		"from_rank": 140,
+		"above": "prismatic_domain",
+		"below": "unlocked"
 	}
 ]
