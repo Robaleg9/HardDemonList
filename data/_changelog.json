@@ -2032,5 +2032,14 @@
 		"from_rank": 140,
 		"above": "prismatic_domain",
 		"below": "unlocked"
+	},
+	{
+		"date": 1751435408,
+		"action": "raised",
+		"name": "voidless",
+		"to_rank": 142,
+		"from_rank": 255,
+		"above": "evorsus",
+		"below": "super_of_everything"
 	}
 ]
