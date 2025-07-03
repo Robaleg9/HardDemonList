@@ -2041,5 +2041,14 @@
 		"from_rank": 255,
 		"above": "evorsus",
 		"below": "super_of_everything"
+	},
+	{
+		"date": 1751575096,
+		"action": "raised",
+		"name": "evorsus",
+		"to_rank": 139,
+		"from_rank": 143,
+		"above": "love_syndrome",
+		"below": "final_conflux"
 	}
 ]
