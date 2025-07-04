@@ -2050,5 +2050,14 @@
 		"from_rank": 143,
 		"above": "love_syndrome",
 		"below": "final_conflux"
+	},
+	{
+		"date": 1751659798,
+		"action": "lowered",
+		"name": "love_syndrome",
+		"to_rank": 319,
+		"from_rank": 140,
+		"above": "luminavance",
+		"below": "land_of_frogs"
 	}
 ]
