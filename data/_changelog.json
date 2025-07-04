@@ -2059,5 +2059,14 @@
 		"from_rank": 140,
 		"above": "luminavance",
 		"below": "land_of_frogs"
+	},
+	{
+		"date": 1751666612,
+		"action": "raised",
+		"name": "detonate_weekly",
+		"to_rank": 103,
+		"from_rank": 131,
+		"above": "rgbwheregisgold",
+		"below": "theory_of_intercept"
 	}
 ]
