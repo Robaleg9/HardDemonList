@@ -2086,5 +2086,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "cyber_illusion"
+	},
+	{
+		"date": 1751921544,
+		"action": "raised",
+		"name": "arcanine_weekly",
+		"to_rank": 125,
+		"from_rank": 166,
+		"above": "total_oblivion",
+		"below": "mythical_descent"
 	}
 ]
