@@ -2095,5 +2095,14 @@
 		"from_rank": 166,
 		"above": "total_oblivion",
 		"below": "mythical_descent"
+	},
+	{
+		"date": 1752478983,
+		"action": "placed",
+		"name": "rattlesnake",
+		"to_rank": 344,
+		"from_rank": null,
+		"above": null,
+		"below": "thing_five"
 	}
 ]
