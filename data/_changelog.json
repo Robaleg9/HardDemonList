@@ -2104,5 +2104,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "thing_five"
+	},
+	{
+		"date": 1752541687,
+		"action": "raised",
+		"name": "araneo",
+		"to_rank": 120,
+		"from_rank": 181,
+		"above": "unlocked",
+		"below": "euphoria"
 	}
 ]
