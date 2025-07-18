@@ -2131,5 +2131,14 @@
 		"from_rank": 160,
 		"above": "theory_of_intercept",
 		"below": "exhaust"
+	},
+	{
+		"date": 1752866519,
+		"action": "lowered",
+		"name": "supernova_zanek184",
+		"to_rank": 151,
+		"from_rank": 140,
+		"above": "chaoz_implosion",
+		"below": "burh"
 	}
 ]
