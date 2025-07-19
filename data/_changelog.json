@@ -2149,5 +2149,14 @@
 		"from_rank": 97,
 		"above": "three_blocks_wide",
 		"below": "quantum_variations"
+	},
+	{
+		"date": 1752968315,
+		"action": "lowered",
+		"name": "artemisia",
+		"to_rank": 20,
+		"from_rank": 7,
+		"above": "shadow_temple",
+		"below": "valkyrie"
 	}
 ]
