@@ -2140,5 +2140,14 @@
 		"from_rank": 140,
 		"above": "chaoz_implosion",
 		"below": "burh"
+	},
+	{
+		"date": 1752889624,
+		"action": "raised",
+		"name": "milky_caverns",
+		"to_rank": 84,
+		"from_rank": 97,
+		"above": "three_blocks_wide",
+		"below": "quantum_variations"
 	}
 ]
