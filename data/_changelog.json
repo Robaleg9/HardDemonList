@@ -2158,5 +2158,14 @@
 		"from_rank": 7,
 		"above": "shadow_temple",
 		"below": "valkyrie"
+	},
+	{
+		"date": 1753046735,
+		"action": "raised",
+		"name": "beast_mayhem_ii",
+		"to_rank": 33,
+		"from_rank": 52,
+		"above": "steel_gear",
+		"below": "backlines"
 	}
 ]
