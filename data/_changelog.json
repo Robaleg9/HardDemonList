@@ -2176,5 +2176,14 @@
 		"from_rank": 247,
 		"above": "translucent",
 		"below": "euvector"
+	},
+	{
+		"date": 1753140551,
+		"action": "raised",
+		"name": "rattlesnake",
+		"to_rank": 24,
+		"from_rank": 344,
+		"above": "space_dementia",
+		"below": "new_beginning_ii"
 	}
 ]
