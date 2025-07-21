@@ -2167,5 +2167,14 @@
 		"from_rank": 52,
 		"above": "steel_gear",
 		"below": "backlines"
+	},
+	{
+		"date": 1753116638,
+		"action": "raised",
+		"name": "acid_rush_iii",
+		"to_rank": 141,
+		"from_rank": 247,
+		"above": "translucent",
+		"below": "euvector"
 	}
 ]
