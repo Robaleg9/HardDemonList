@@ -2194,5 +2194,14 @@
 		"from_rank": 83,
 		"above": "el_eyon",
 		"below": "spitzer"
+	},
+	{
+		"date": 1753210280,
+		"action": "raised",
+		"name": "efetis_belis",
+		"to_rank": 81,
+		"from_rank": 82,
+		"above": "spitzer",
+		"below": "breakneck"
 	}
 ]
