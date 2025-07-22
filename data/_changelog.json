@@ -2185,5 +2185,14 @@
 		"from_rank": 344,
 		"above": "space_dementia",
 		"below": "new_beginning_ii"
+	},
+	{
+		"date": 1753210162,
+		"action": "raised",
+		"name": "efetis_belis",
+		"to_rank": 82,
+		"from_rank": 83,
+		"above": "el_eyon",
+		"below": "spitzer"
 	}
 ]
