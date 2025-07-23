@@ -2203,5 +2203,14 @@
 		"from_rank": 82,
 		"above": "spitzer",
 		"below": "breakneck"
+	},
+	{
+		"date": 1753303103,
+		"action": "raised",
+		"name": "burh",
+		"to_rank": 122,
+		"from_rank": 152,
+		"above": "araneo",
+		"below": "euphoria"
 	}
 ]
