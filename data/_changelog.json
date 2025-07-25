@@ -2212,5 +2212,14 @@
 		"from_rank": 152,
 		"above": "araneo",
 		"below": "euphoria"
+	},
+	{
+		"date": 1753403199,
+		"action": "raised",
+		"name": "doomed",
+		"to_rank": 81,
+		"from_rank": 314,
+		"above": "efetis_belis",
+		"below": "breakneck"
 	}
 ]
