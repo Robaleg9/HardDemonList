@@ -2221,5 +2221,14 @@
 		"from_rank": 314,
 		"above": "efetis_belis",
 		"below": "breakneck"
+	},
+	{
+		"date": 1753494577,
+		"action": "raised",
+		"name": "super_of_everything",
+		"to_rank": 124,
+		"from_rank": 149,
+		"above": "araneo",
+		"below": "burh"
 	}
 ]
