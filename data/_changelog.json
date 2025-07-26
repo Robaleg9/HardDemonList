@@ -2230,5 +2230,14 @@
 		"from_rank": 149,
 		"above": "araneo",
 		"below": "burh"
+	},
+	{
+		"date": 1753496874,
+		"action": "lowered",
+		"name": "frostbound",
+		"to_rank": 83,
+		"from_rank": 70,
+		"above": "el_eyon",
+		"below": "spitzer"
 	}
 ]
