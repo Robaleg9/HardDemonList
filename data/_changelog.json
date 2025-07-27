@@ -2239,5 +2239,14 @@
 		"from_rank": 70,
 		"above": "el_eyon",
 		"below": "spitzer"
+	},
+	{
+		"date": 1753633227,
+		"action": "placed",
+		"name": "intensity",
+		"to_rank": 345,
+		"from_rank": null,
+		"above": null,
+		"below": "cyber_illusion"
 	}
 ]
