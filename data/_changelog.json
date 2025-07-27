@@ -2257,5 +2257,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "intensity"
+	},
+	{
+		"date": 1753652210,
+		"action": "raised",
+		"name": "final_conflux",
+		"to_rank": 125,
+		"from_rank": 147,
+		"above": "araneo",
+		"below": "super_of_everything"
 	}
 ]
