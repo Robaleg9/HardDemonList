@@ -101,7 +101,6 @@
         "levels": [
             "beast_mayhem_ii",
             "surgeragon",
-            "sulfuric_acid",
             "fusion",
             "mechanical_realm",
             "coreosious"
@@ -449,8 +448,7 @@
             "ultra_circles",
             "sharp_minor",
             "sharp",
-            "infernity",
-            "tipo_b"
+            "infernity"
         ],
         "colour": "#c0c0c0"
     },
@@ -488,7 +486,6 @@
             "exhaust",
             "ablaze",
             "e_v_a_c_u_a_t_i_o_n",
-            "buz_bam"
         ],
         "colour": "#c0c0c0"
     },
@@ -526,7 +523,6 @@
     {
         "name": "Dangerous Pack",
         "levels": [
-            "sulfuric_acid",
             "ablaze",
             "sharp",
             "neurotoxin"
@@ -537,7 +533,8 @@
         "name": "Holiday Pack",
         "levels": [
             "hibernal",
-            "night_of_demon",
+            "araneo",
+            "arachnid_temple",
             "frostbound"
         ],
         "colour": "#cd7f32"
@@ -545,9 +542,9 @@
     {
         "name": "Megacollab Pack 1",
         "levels": [
-            "hyped_up",
             "universal_perception",
-            "shrill_manor"
+            "shrill_manor",
+            "acid_rush_iii"
         ],
         "colour": "#cd7f32"
     },
@@ -604,8 +601,9 @@
     {
         "name": "whispering pack 1",
         "levels": [        
+            "wave_and_also_ufo",
+            "life",
             "found",
-            "tipo_b",
             "burh"
         ],
         "colour": "#cd7f32"
@@ -624,8 +622,7 @@
         "levels": [
             "weirdmaggedon",
             "in_limbo",
-            "pressure_chamber",
-            "tipo_b"
+            "pressure_chamber"
         ],
         "colour": "#ff0000"
     },
