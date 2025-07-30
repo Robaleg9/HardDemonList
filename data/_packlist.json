@@ -99,6 +99,7 @@
         "name": "Bossfight Pack",
         "levels": [
             "beast_mayhem_ii",
+            "the_voidlands",
             "surgeragon",
             "fusion",
             "mechanical_realm",
@@ -210,6 +211,7 @@
         "levels": [
             "sonic_chamber",
             "artemisia",
+            "steel_gear",
             "sideways_8",
             "crimson_flare"
         ],
@@ -424,6 +426,7 @@
     {
         "name": "Megacollab Pack 2",
         "levels": [
+            "hydration",
             "viridica",
             "adrenaline_chamber",
             "neurotoxin",
@@ -464,6 +467,7 @@
     {
         "name": "Popular Pack",
         "levels": [
+            "doomed",
             "diffuse",
             "the_furious",
             "sharp_minor"
@@ -475,6 +479,7 @@
         "levels": [
             "brisban",
             "hibernal",
+            "doomed",
             "found"
         ],
         "colour": "#c0c0c0"
@@ -652,6 +657,7 @@
             "azure_paralyzer",
             "serpent",
             "hibernal",
+            "tormenta",
             "universal_perception",
             "ripplez"
         ],
