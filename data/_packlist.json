@@ -25,7 +25,7 @@
             "kilpac",
             "late",
             "milkshake_draft",  
-            "neurotoxin",
+            "new_beginning_ii",
             "osanda_verdict",
             "pulsar",
             "quantum_variations",
@@ -34,7 +34,7 @@
             "the_ultimate_core",
             "universal_perception",
             "valkyrie",
-            "watch_the_throne",
+            "weirdmaggedon",
             "xes"
         ],
         "colour": "#000000"
@@ -230,6 +230,7 @@
         "name": "Roman Numeral Pack",
         "levels": [
             "rainfall_iii",
+            "new_beginning_ii",
             "beast_mayhem_ii",
             "circus_dash_ii",
             "anya_ii"
@@ -381,6 +382,7 @@
     {
         "name": "Glow Solo Pack",
         "levels": [
+            "rattlesnake",
             "xes",
             "eternal_flame",
             "final_conflux"
@@ -500,6 +502,7 @@
     {
         "name": "whispering pack 2",
         "levels": [
+            "rattlesnake",
             "xes",
             "sharp",
             "life"
