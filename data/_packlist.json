@@ -46,7 +46,8 @@
             "xes",
             "snap",
             "majesty",
-            "meeting_with_diana"
+            "meeting_with_diana",
+            "prismatic_domain"
         ],
         "colour": "linear-gradient(60deg, rgba(255,0,0,1) 0%, rgba(255,128,0,1) 20%, rgba(255,255,0,1) 40%, rgba(0,255,0,1) 60%, rgba(0,0,255,1) 80%, rgba(76,0,153,1) 100%)"
     },
@@ -67,7 +68,7 @@
             "cyber_dream",
             "blrpl_lghts",
             "watch_the_throne",
-            "weirdmaggedon",
+            "switchblade",
             "diffuse"
         ],
         "colour": "#afe6ed"
@@ -143,7 +144,8 @@
         "levels": [
             "somniare",
             "hibernal",
-            "sideways_8"
+            "sideways_8",
+            "arcanine"
         ],
         "colour": "#ffd700"
     },
@@ -414,7 +416,8 @@
             "proxima",
             "euphoria",
             "the_tempest",
-            "everything"
+            "everything",
+            "radiant_expanse"
         ],
         "colour": "#c0c0c0"
     },
@@ -540,7 +543,8 @@
             "meeting_with_diana",
             "neurotoxin",
             "mechanical_realm",
-            "life"
+            "life",
+            "prismatic_domain"
         ],
         "colour": "#c0c0c0"
     },
