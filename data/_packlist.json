@@ -132,7 +132,8 @@
         "levels": [
             "pulsar",
             "magnolia",
-            "flow"
+            "flow",
+            "rgbwheregisgold"
         ],
         "colour": "#ffd700"
     },
@@ -173,6 +174,7 @@
             "sonic_chamber",
             "artemisia",
             "i_cant_fix_you",
+            "three_blocks_wide",
             "exhaust",
             "breakneck"
         ],
@@ -224,6 +226,7 @@
             "magnolia",
             "late",
             "exhaust",
+            "alien_invazion",
             "ripplez"
         ],
         "colour": "#ffd700"
@@ -282,6 +285,7 @@
             "weirdmaggedon",
             "immortal_ichor",
             "terror_factory",
+            "alien_invazion",
             "wonder_cosm"
         ],
         "colour": "#ffd700"
@@ -330,6 +334,7 @@
             "kilpac",
             "circus_dash_ii",
             "fortitude",
+            "spitzer",
             "anya_ii"
         ],
         "colour": "#c0c0c0"
@@ -347,6 +352,7 @@
     {
         "name": "Early 2.0 Pack",
         "levels": [
+            "milky_caverns",
             "artillery",
             "wonder_cosm",
             "actino_rise"
@@ -438,6 +444,7 @@
         "name": "Memory Pack 2",
         "levels": [
             "crispy_reaction",
+            "milky_caverns",
             "danaes_button",
             "tremble",
             "blood_menace"
