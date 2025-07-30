@@ -507,7 +507,7 @@
         "levels": [
             "xes",
             "sharp",
-            "life",
+            "life"
         ],
         "colour": "#c0c0c0"
     },
@@ -587,7 +587,7 @@
         "levels": [
             "cubic_force",
             "night_of_demon",
-            "club_chamber",
+            "club_chamber"
         ],
         "colour": "#cd7f32"
     },
