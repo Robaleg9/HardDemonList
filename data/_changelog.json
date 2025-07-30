@@ -2275,5 +2275,14 @@
 		"from_rank": 11,
 		"above": "somniare",
 		"below": "weirdmaggedon"
+	},
+	{
+		"date": 1753912455,
+		"action": "raised",
+		"name": "shadow_temple",
+		"to_rank": 20,
+		"from_rank": 20,
+		"above": "action_lyal",
+		"below": "artemisia"
 	}
 ]
