@@ -133,7 +133,8 @@
             "pulsar",
             "magnolia",
             "flow",
-            "rgbwheregisgold"
+            "rgbwheregisgold",
+            "aquarius"
         ],
         "colour": "#ffd700"
     },
@@ -160,9 +161,9 @@
     {
         "name": "Gas Station Pack",
         "levels": [
-            "sideways_8",
             "pressure_chamber",
             "adrenaline_chamber",
+            "brimstone",
             "total_oblivion"
         ],
         "colour": "#ffd700"
@@ -204,7 +205,8 @@
         "levels": [
             "azure_paralyzer",
             "dualviper",
-            "i_cant_fix_you"
+            "i_cant_fix_you",
+            "spectra"
         ],
         "colour": "#ffd700"
     },
@@ -366,6 +368,15 @@
             "evasion",
             "jajagarasu",
             "terror_factory"
+        ],
+        "colour": "#c0c0c0"
+    },
+     {
+        "name": "F3lixram Pack",
+        "levels": [
+            "artemisia",
+            "elevatia",
+            "nadji"
         ],
         "colour": "#c0c0c0"
     },
@@ -565,7 +576,7 @@
         "name": "Memory Pack 1",
         "levels": [
             "theory_of_intercept",
-            "hazardsector_x",
+            "hazardsectorx",
             "club_chamber"
         ],
         "colour": "#cd7f32"
@@ -635,7 +646,9 @@
         "levels": [
             "weirdmaggedon",
             "in_limbo",
-            "pressure_chamber"
+            "pressure_chamber",
+            "make_it_5top",
+            "brimstone"
         ],
         "colour": "#ff0000"
     },
