@@ -46,7 +46,7 @@
             "xes",
             "snap",
             "majesty",
-            "meeting_with_diana",
+            "meeting_with_diana"
         ],
         "colour": "linear-gradient(60deg, rgba(255,0,0,1) 0%, rgba(255,128,0,1) 20%, rgba(255,255,0,1) 40%, rgba(0,255,0,1) 60%, rgba(0,0,255,1) 80%, rgba(76,0,153,1) 100%)"
     },
@@ -112,7 +112,7 @@
             "snap",
             "el_eyon",
             "anya_ii",
-            "chromatic_winter",
+            "chromatic_winter"
         ],
         "colour": "#ffd700"
     },
