@@ -47,7 +47,6 @@
             "snap",
             "majesty",
             "meeting_with_diana",
-            "love_syndrome"
         ],
         "colour": "linear-gradient(60deg, rgba(255,0,0,1) 0%, rgba(255,128,0,1) 20%, rgba(255,255,0,1) 40%, rgba(0,255,0,1) 60%, rgba(0,0,255,1) 80%, rgba(76,0,153,1) 100%)"
     },
@@ -114,7 +113,6 @@
             "el_eyon",
             "anya_ii",
             "chromatic_winter",
-            "whimsy"
         ],
         "colour": "#ffd700"
     },
@@ -552,7 +550,7 @@
         "name": "Memory Pack 1",
         "levels": [
             "theory_of_intercept",
-            "night_of_demon",
+            "hazardsector_x",
             "club_chamber"
         ],
         "colour": "#cd7f32"
@@ -583,7 +581,9 @@
         "name": "Official Song Pack",
         "levels": [
             "cubic_force",
-            "night_of_demon",
+            "hazardsector_x",
+            "super_of_everything",
+            "unlocked",
             "club_chamber"
         ],
         "colour": "#cd7f32"
@@ -591,7 +591,6 @@
     {
         "name": "Potato Pack",
         "levels": [
-            "night_of_demon",
             "artillery",
             "total_oblivion",
             "sharp"
