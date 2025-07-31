@@ -2284,5 +2284,14 @@
 		"from_rank": 20,
 		"above": "action_lyal",
 		"below": "artemisia"
+	},
+	{
+		"date": 1753995371,
+		"action": "raised",
+		"name": "action_lyal",
+		"to_rank": 20,
+		"from_rank": 21,
+		"above": "shadow_temple",
+		"below": "artemisia"
 	}
 ]
