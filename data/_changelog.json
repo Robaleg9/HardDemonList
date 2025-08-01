@@ -2293,5 +2293,14 @@
 		"from_rank": 21,
 		"above": "shadow_temple",
 		"below": "artemisia"
+	},
+	{
+		"date": 1754085525,
+		"action": "raised",
+		"name": "coreosious",
+		"to_rank": 60,
+		"from_rank": 116,
+		"above": "ultra_circles",
+		"below": "neurotoxin"
 	}
 ]
