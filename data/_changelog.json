@@ -2302,5 +2302,14 @@
 		"from_rank": 116,
 		"above": "ultra_circles",
 		"below": "neurotoxin"
+	},
+	{
+		"date": 1754160378,
+		"action": "raised",
+		"name": "dualviper",
+		"to_rank": 3,
+		"from_rank": 8,
+		"above": "milkshake_draft",
+		"below": "advance3"
 	}
 ]
