@@ -2311,5 +2311,14 @@
 		"from_rank": 8,
 		"above": "milkshake_draft",
 		"below": "advance3"
+	},
+	{
+		"date": 1754225351,
+		"action": "placed",
+		"name": "second_science",
+		"to_rank": 347,
+		"from_rank": null,
+		"above": null,
+		"below": "hemmalugn"
 	}
 ]
