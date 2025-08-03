@@ -2329,5 +2329,14 @@
 		"from_rank": 17,
 		"above": "i_love_lasagna",
 		"below": "weirdmaggedon"
+	},
+	{
+		"date": 1754255763,
+		"action": "raised",
+		"name": "artillery",
+		"to_rank": 58,
+		"from_rank": 76,
+		"above": "ribbit",
+		"below": "pressure_chamber"
 	}
 ]
