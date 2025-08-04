@@ -2338,5 +2338,14 @@
 		"from_rank": 76,
 		"above": "ribbit",
 		"below": "pressure_chamber"
+	},
+	{
+		"date": 1754339457,
+		"action": "lowered",
+		"name": "universal_perception",
+		"to_rank": 140,
+		"from_rank": 137,
+		"above": "a747",
+		"below": "club_chamber"
 	}
 ]
