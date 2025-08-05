@@ -2347,5 +2347,14 @@
 		"from_rank": 137,
 		"above": "a747",
 		"below": "club_chamber"
+	},
+	{
+		"date": 1754402189,
+		"action": "raised",
+		"name": "cyber_dream",
+		"to_rank": 127,
+		"from_rank": 149,
+		"above": "unlocked",
+		"below": "araneo"
 	}
 ]
