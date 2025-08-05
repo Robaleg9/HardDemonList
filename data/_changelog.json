@@ -2356,5 +2356,14 @@
 		"from_rank": 149,
 		"above": "unlocked",
 		"below": "araneo"
+	},
+	{
+		"date": 1754420183,
+		"action": "raised",
+		"name": "terror_factory",
+		"to_rank": 49,
+		"from_rank": 74,
+		"above": "time_decay",
+		"below": "majesty"
 	}
 ]
