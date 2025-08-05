@@ -2365,5 +2365,14 @@
 		"from_rank": 74,
 		"above": "time_decay",
 		"below": "majesty"
+	},
+	{
+		"date": 1754425723,
+		"action": "lowered",
+		"name": "rainfall_iii",
+		"to_rank": 325,
+		"from_rank": 5,
+		"above": "refulgent",
+		"below": "no_concept"
 	}
 ]
