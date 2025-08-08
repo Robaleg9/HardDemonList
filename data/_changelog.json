@@ -2374,5 +2374,14 @@
 		"from_rank": 5,
 		"above": "refulgent",
 		"below": "no_concept"
+	},
+	{
+		"date": 1754619607,
+		"action": "raised",
+		"name": "backlines",
+		"to_rank": 21,
+		"from_rank": 32,
+		"above": "rattlesnake",
+		"below": "new_beginning_ii"
 	}
 ]
