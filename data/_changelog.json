@@ -2383,5 +2383,14 @@
 		"from_rank": 32,
 		"above": "rattlesnake",
 		"below": "new_beginning_ii"
+	},
+	{
+		"date": 1754740778,
+		"action": "lowered",
+		"name": "dark_incantation",
+		"to_rank": 151,
+		"from_rank": 136,
+		"above": "whimsy",
+		"below": "techno_blast"
 	}
 ]
