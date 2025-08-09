@@ -2401,5 +2401,14 @@
 		"from_rank": 121,
 		"above": "hazardsectorx",
 		"below": "apache"
+	},
+	{
+		"date": 1754760789,
+		"action": "raised",
+		"name": "chaoz_implosion",
+		"to_rank": 144,
+		"from_rank": 154,
+		"above": "euvector",
+		"below": "thing_five"
 	}
 ]
