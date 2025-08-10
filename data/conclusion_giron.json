@@ -2,10 +2,26 @@
 	"id": 12034598,
 	"name": "Conclusion (Giron)",
 	"author": 3746623092,
-	"creators": [8010164477,3746623092],
+	"creators": [
+		8010164477,
+		3746623092
+	],
 	"verifier": 3746623092,
 	"verification": "https://www.youtube.com/watch?v=QynoJYmz06Q",
 	"percentToQualify": 100,
 	"password": "147258",
-	"records" : []
+	"records": [
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/JP8nATo-lko?si=3LqGIN_TkbhiOe2p",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9555541620,
+			"link": "https://youtu.be/yOBP0ltTgV4?si=NBfpotFnfXp3rPTU&t=577",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
