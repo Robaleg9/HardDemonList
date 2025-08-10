@@ -2410,5 +2410,14 @@
 		"from_rank": 154,
 		"above": "euvector",
 		"below": "thing_five"
+	},
+	{
+		"date": 1754838765,
+		"action": "raised",
+		"name": "njorun",
+		"to_rank": 139,
+		"from_rank": 183,
+		"above": "universal_perception",
+		"below": "club_chamber"
 	}
 ]
