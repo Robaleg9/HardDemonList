@@ -2419,5 +2419,14 @@
 		"from_rank": 183,
 		"above": "universal_perception",
 		"below": "club_chamber"
+	},
+	{
+		"date": 1754839565,
+		"action": "placed",
+		"name": "conclusion_giron",
+		"to_rank": 344,
+		"from_rank": null,
+		"above": null,
+		"below": "second_science"
 	}
 ]
