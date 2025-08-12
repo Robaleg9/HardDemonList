@@ -2437,5 +2437,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "conclusion_giron"
+	},
+	{
+		"date": 1755004932,
+		"action": "raised",
+		"name": "brimstone",
+		"to_rank": 100,
+		"from_rank": 117,
+		"above": "viridica",
+		"below": "infernity"
 	}
 ]
