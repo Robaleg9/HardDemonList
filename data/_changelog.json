@@ -2446,5 +2446,14 @@
 		"from_rank": 117,
 		"above": "viridica",
 		"below": "infernity"
+	},
+	{
+		"date": 1755092296,
+		"action": "raised",
+		"name": "afterlocked",
+		"to_rank": 106,
+		"from_rank": 221,
+		"above": "theory_of_intercept",
+		"below": "alien_invazion"
 	}
 ]
