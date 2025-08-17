@@ -2473,5 +2473,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "snubby"
+	},
+	{
+		"date": 1755440984,
+		"action": "placed",
+		"name": "revelations_zatexdoom",
+		"to_rank": 347,
+		"from_rank": null,
+		"above": null,
+		"below": "before_machinery"
 	}
 ]
