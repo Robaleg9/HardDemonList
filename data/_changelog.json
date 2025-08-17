@@ -2464,5 +2464,14 @@
 		"from_rank": 192,
 		"above": "brimstone",
 		"below": "infernity"
+	},
+	{
+		"date": 1755440862,
+		"action": "placed",
+		"name": "before_machinery",
+		"to_rank": 346,
+		"from_rank": null,
+		"above": null,
+		"below": "snubby"
 	}
 ]
