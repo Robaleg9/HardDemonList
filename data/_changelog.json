@@ -2455,5 +2455,14 @@
 		"from_rank": 221,
 		"above": "theory_of_intercept",
 		"below": "alien_invazion"
+	},
+	{
+		"date": 1755435132,
+		"action": "raised",
+		"name": "k_a_n_g",
+		"to_rank": 100,
+		"from_rank": 192,
+		"above": "brimstone",
+		"below": "infernity"
 	}
 ]
