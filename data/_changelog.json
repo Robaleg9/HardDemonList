@@ -2491,5 +2491,14 @@
 		"from_rank": 75,
 		"above": "tremble",
 		"below": "adrenaline_chamber"
+	},
+	{
+		"date": 1755542002,
+		"action": "raised",
+		"name": "valkyrie",
+		"to_rank": 14,
+		"from_rank": 16,
+		"above": "superior_sequence",
+		"below": "pulsar"
 	}
 ]
