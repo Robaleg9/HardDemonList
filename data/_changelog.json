@@ -2482,5 +2482,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "before_machinery"
+	},
+	{
+		"date": 1755517602,
+		"action": "raised",
+		"name": "switchblade",
+		"to_rank": 67,
+		"from_rank": 75,
+		"above": "tremble",
+		"below": "adrenaline_chamber"
 	}
 ]
