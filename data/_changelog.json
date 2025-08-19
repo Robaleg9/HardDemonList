@@ -2500,5 +2500,14 @@
 		"from_rank": 16,
 		"above": "superior_sequence",
 		"below": "pulsar"
+	},
+	{
+		"date": 1755620035,
+		"action": "lowered",
+		"name": "sonic_chamber",
+		"to_rank": 34,
+		"from_rank": 11,
+		"above": "hydration",
+		"below": "steel_gear"
 	}
 ]
