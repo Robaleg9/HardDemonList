@@ -2509,5 +2509,14 @@
 		"from_rank": 11,
 		"above": "hydration",
 		"below": "steel_gear"
+	},
+	{
+		"date": 1755699536,
+		"action": "raised",
+		"name": "diffuse",
+		"to_rank": 58,
+		"from_rank": 71,
+		"above": "artillery",
+		"below": "pressure_chamber"
 	}
 ]
