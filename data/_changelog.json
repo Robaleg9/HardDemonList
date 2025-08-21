@@ -2518,5 +2518,14 @@
 		"from_rank": 71,
 		"above": "artillery",
 		"below": "pressure_chamber"
+	},
+	{
+		"date": 1755801614,
+		"action": "raised",
+		"name": "fusion",
+		"to_rank": 83,
+		"from_rank": 104,
+		"above": "frostbound",
+		"below": "spitzer"
 	}
 ]
