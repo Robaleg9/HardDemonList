@@ -2527,5 +2527,14 @@
 		"from_rank": 104,
 		"above": "frostbound",
 		"below": "spitzer"
+	},
+	{
+		"date": 1756030267,
+		"action": "placed",
+		"name": "glass_eyes",
+		"to_rank": 348,
+		"from_rank": null,
+		"above": null,
+		"below": "revelations_zatexdoom"
 	}
 ]
