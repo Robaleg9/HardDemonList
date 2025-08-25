@@ -2554,5 +2554,14 @@
 		"from_rank": 346,
 		"above": "azure_paralyzer",
 		"below": null
+	},
+	{
+		"date": 1756116555,
+		"action": "raised",
+		"name": "aquarius",
+		"to_rank": 104,
+		"from_rank": 121,
+		"above": "viridica",
+		"below": "brimstone"
 	}
 ]
