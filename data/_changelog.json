@@ -2563,5 +2563,14 @@
 		"from_rank": 121,
 		"above": "viridica",
 		"below": "brimstone"
+	},
+	{
+		"date": 1756168700,
+		"action": "lowered",
+		"name": "chromatic_winter",
+		"to_rank": 311,
+		"from_rank": 93,
+		"above": "damage",
+		"below": "chasing_light"
 	}
 ]
