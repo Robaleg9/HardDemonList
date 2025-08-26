@@ -103,8 +103,7 @@
         "levels": [
             "snap",
             "el_eyon",
-            "anya_ii",
-            "chromatic_winter"
+            "anya_ii"
         ],
         "colour": "#ffd700"
     },
@@ -721,3 +720,4 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
     }
 ]
+
