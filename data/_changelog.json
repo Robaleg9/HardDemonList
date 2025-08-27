@@ -2572,5 +2572,14 @@
 		"from_rank": 93,
 		"above": "damage",
 		"below": "chasing_light"
+	},
+	{
+		"date": 1756331682,
+		"action": "lowered",
+		"name": "late",
+		"to_rank": 116,
+		"from_rank": 74,
+		"above": "the_tempest",
+		"below": "hazardsectorx"
 	}
 ]
