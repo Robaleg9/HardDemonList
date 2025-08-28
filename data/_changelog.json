@@ -2581,5 +2581,14 @@
 		"from_rank": 74,
 		"above": "the_tempest",
 		"below": "hazardsectorx"
+	},
+	{
+		"date": 1756422365,
+		"action": "lowered",
+		"name": "brisban",
+		"to_rank": 35,
+		"from_rank": 29,
+		"above": "hydration",
+		"below": "sonic_chamber"
 	}
 ]
