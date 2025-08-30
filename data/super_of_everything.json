@@ -124,6 +124,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 7484912053,
+			"link": "https://www.youtube.com/watch?v=FwzB5Quv_vU",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
