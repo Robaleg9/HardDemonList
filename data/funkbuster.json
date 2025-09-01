@@ -7,5 +7,18 @@
 	"verification": "https://youtu.be/pKDm9yrsf8s",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/fqSFZ9-9NmE",
+			"percent": 100,
+			"hz": 150
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/nNN-J2MRaGQ?si=QdCEM4KP3nSv71rW",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
