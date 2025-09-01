@@ -2599,5 +2599,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "common_loon"
+	},
+	{
+		"date": 1756738167,
+		"action": "raised",
+		"name": "glass_eyes",
+		"to_rank": 115,
+		"from_rank": 348,
+		"above": "hazardsectorx",
+		"below": "euphoria"
 	}
 ]
