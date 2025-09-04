@@ -300,6 +300,12 @@
 			"link": "https://www.youtube.com/watch?v=4ax_OlgEKw0",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 8092629412,
+			"link": "https://youtu.be/pQdPBrIogJ8",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }
