@@ -775,6 +775,12 @@
 			"link": "https://www.youtube.com/watch?v=qZ8HOyrM9iE",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": 6554453047,
+			"link": "https://www.youtube.com/watch?v=wdKvjSqYv7Y&t=2s",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
