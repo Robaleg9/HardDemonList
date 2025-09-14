@@ -2644,5 +2644,14 @@
 		"from_rank": 19,
 		"above": "magnolia",
 		"below": "elevatia"
+	},
+	{
+		"date": 1757867493,
+		"action": "raised",
+		"name": "noir",
+		"to_rank": 141,
+		"from_rank": 215,
+		"above": "njorun",
+		"below": "club_chamber"
 	}
 ]
