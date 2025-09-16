@@ -484,6 +484,13 @@
 			"link": "https://www.youtube.com/watch?v=-Txtzvx9aFk",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 5582495154,
+			"link": "https://youtu.be/Pu3EzR74KP4?si=Wr7V61EL6-nCRnEI",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
