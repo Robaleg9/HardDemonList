@@ -2662,5 +2662,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "hot_flash"
+	},
+	{
+		"date": 1758024434,
+		"action": "lowered",
+		"name": "the_furious",
+		"to_rank": 113,
+		"from_rank": 104,
+		"above": "glass_eyes",
+		"below": "euphoria"
 	}
 ]
