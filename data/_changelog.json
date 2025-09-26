@@ -2698,5 +2698,14 @@
 		"from_rank": 115,
 		"above": "euvector",
 		"below": "chaoz_implosion"
+	},
+	{
+		"date": 1758908413,
+		"action": "lowered",
+		"name": "glass_eyes",
+		"to_rank": 151,
+		"from_rank": 150,
+		"above": "acid_rush_iii",
+		"below": "euvector"
 	}
 ]
