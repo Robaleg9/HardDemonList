@@ -2689,5 +2689,14 @@
 		"from_rank": 324,
 		"above": "sharp_minor",
 		"below": "rgbwheregisgold"
+	},
+	{
+		"date": 1758908315,
+		"action": "lowered",
+		"name": "glass_eyes",
+		"to_rank": 150,
+		"from_rank": 115,
+		"above": "euvector",
+		"below": "chaoz_implosion"
 	}
 ]
