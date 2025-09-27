@@ -2707,5 +2707,14 @@
 		"from_rank": 150,
 		"above": "acid_rush_iii",
 		"below": "euvector"
+	},
+	{
+		"date": 1758942294,
+		"action": "raised",
+		"name": "quantum_variations",
+		"to_rank": 80,
+		"from_rank": 86,
+		"above": "doomed",
+		"below": "breakneck"
 	}
 ]
