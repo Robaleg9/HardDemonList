@@ -500,6 +500,13 @@
 			"link": "https://youtu.be/wqUDGhCqbqA",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": 9860864136,
+			"link": "https://youtu.be/dAAlqat6bOA?si=PMGmwcyOLpHEmE2o",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
