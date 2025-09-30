@@ -7,5 +7,12 @@
 	"verification": "https://www.youtube.com/watch?v=PByvM3VrjEc",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 9555541620,
+			"link": "https://youtu.be/8AXqv2DuKzU?si=djd07mM7-KQaLXfB",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
