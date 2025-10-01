@@ -2743,5 +2743,14 @@
 		"from_rank": 88,
 		"above": "final_conflux",
 		"below": "super_of_everything"
+	},
+	{
+		"date": 1759348580,
+		"action": "raised",
+		"name": "cant_let_fly",
+		"to_rank": 129,
+		"from_rank": 175,
+		"above": "unlocked",
+		"below": "cyber_dream"
 	}
 ]
