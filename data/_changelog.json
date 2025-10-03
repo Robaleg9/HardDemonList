@@ -2752,5 +2752,14 @@
 		"from_rank": 175,
 		"above": "unlocked",
 		"below": "cyber_dream"
+	},
+	{
+		"date": 1759527137,
+		"action": "raised",
+		"name": "pressure_chamber",
+		"to_rank": 44,
+		"from_rank": 58,
+		"above": "meeting_with_diana",
+		"below": "fortitude"
 	}
 ]
