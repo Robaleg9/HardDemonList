@@ -2761,5 +2761,14 @@
 		"from_rank": 58,
 		"above": "meeting_with_diana",
 		"below": "fortitude"
+	},
+	{
+		"date": 1759697072,
+		"action": "placed",
+		"name": "lomhi",
+		"to_rank": 356,
+		"from_rank": null,
+		"above": null,
+		"below": "amelanchier"
 	}
 ]
