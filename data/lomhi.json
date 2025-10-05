@@ -2,10 +2,26 @@
 	"id": 88395173,
 	"name": "lomhi",
 	"author": 1674694175,
-	"creators": [8692787273,9448361434,4702501223,5121299898,1627820429,9376301154,6471858087,1196664327],
+	"creators": [
+		8692787273,
+		9448361434,
+		4702501223,
+		5121299898,
+		1627820429,
+		9376301154,
+		6471858087,
+		1196664327
+	],
 	"verifier": 1674694175,
 	"verification": "https://www.youtube.com/watch?v=BbqbvLJ5R2U",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/I0Eqnw4tvqk",
+			"percent": 100,
+			"hz": 150
+		}
+	]
 }
