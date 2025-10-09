@@ -2779,5 +2779,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "lomhi"
+	},
+	{
+		"date": 1760014570,
+		"action": "raised",
+		"name": "kirbys_meltdown",
+		"to_rank": 129,
+		"from_rank": 212,
+		"above": "cant_let_fly",
+		"below": "cyber_dream"
 	}
 ]
