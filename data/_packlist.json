@@ -94,7 +94,8 @@
             "surgeragon",
             "fusion",
             "mechanical_realm",
-            "coreosious"
+            "coreosious",
+            "k_a_n_g"
         ],
         "colour": "#ffd700"
     },
@@ -288,6 +289,7 @@
             "immortal_ichor",
             "terror_factory",
             "alien_invazion",
+            "afterlocked",
             "wonder_cosm"
         ],
         "colour": "#ffd700"
@@ -300,7 +302,7 @@
             "xes",
             "sharp"
         ],
-        "colour": "#c0c0c0"
+        "colour": "#afe6ed"
     },
     {
         "name": "Xtrullor Song Pack 2",
@@ -377,7 +379,8 @@
             "milky_caverns",
             "artillery",
             "wonder_cosm",
-            "actino_rise"
+            "actino_rise",
+            "afterlocked"
         ],
         "colour": "#c0c0c0"
     },
@@ -588,6 +591,7 @@
     {
         "name": "Memory Pack 1",
         "levels": [
+            "k_a_n_g",
             "theory_of_intercept",
             "hazardsectorx",
             "club_chamber"
@@ -692,6 +696,7 @@
             "serpent",
             "hibernal",
             "tormenta",
+            "k_a_n_g",
             "universal_perception",
             "ripplez"
         ],
@@ -722,5 +727,6 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
     }
 ]
+
 
 
