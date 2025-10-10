@@ -2,10 +2,10 @@
     {
         "name": "Top 5 Pack",
         "levels": [
+            "before_machinery",
             "azure_paralyzer",
             "advance3",
             "milkshake_draft",
-            "rainfall_iii",
             "blrpl_lghts"
         ],
         "colour": "#000000"
@@ -14,7 +14,7 @@
         "name": "HDL Alphabet",
         "levels": [
             "azure_paralyzer",
-            "blrpl_lghts",
+            "before_machinery",
             "crimson_flare",
             "dualviper",
             "elemental_stones",
@@ -292,6 +292,16 @@
         ],
         "colour": "#ffd700"
     },
+        {
+        "name": "whispering pack 2",
+        "levels": [
+            "p_0_t_p_0_c",
+            "rattlesnake",
+            "xes",
+            "sharp"
+        ],
+        "colour": "#c0c0c0"
+    },
     {
         "name": "Xtrullor Song Pack 2",
         "levels": [
@@ -534,18 +544,9 @@
         "colour": "#c0c0c0"
     },
     {
-        "name": "whispering pack 2",
-        "levels": [
-            "rattlesnake",
-            "xes",
-            "sharp",
-            "life"
-        ],
-        "colour": "#c0c0c0"
-    },
-    {
         "name": "XXL Pack",
         "levels": [
+            "p_0_t_p_0_c",
             "surgeragon",
             "cyber_dream",
             "meeting_with_diana",
@@ -640,7 +641,8 @@
         "levels": [        
             "wave_and_also_ufo",
             "found",
-            "burh"
+            "burh",
+            "life"
         ],
         "colour": "#cd7f32"
     },
@@ -720,4 +722,5 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
     }
 ]
+
 
