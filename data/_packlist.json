@@ -302,7 +302,7 @@
             "xes",
             "sharp"
         ],
-        "colour": "#afe6ed"
+        "colour": "#ffd700"
     },
     {
         "name": "Xtrullor Song Pack 2",
@@ -319,7 +319,8 @@
             "pinball_panic",
             "breakneck",
             "splendid_mold",
-            "mechanical_realm"
+            "mechanical_realm",
+            "kirbys_meltdown"
         ],
         "colour": "#c0c0c0"
     },
@@ -337,6 +338,7 @@
         "name": "Car Crash Pack",
         "levels": [
             "snap",
+            "detonate",
             "i_cant_fix_you",
             "despair"
         ],
@@ -727,6 +729,7 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
     }
 ]
+
 
 
 
