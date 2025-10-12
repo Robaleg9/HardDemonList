@@ -2797,5 +2797,14 @@
 		"from_rank": 354,
 		"above": "i_love_lasagna",
 		"below": "elemental_stones"
+	},
+	{
+		"date": 1760278213,
+		"action": "raised",
+		"name": "exhaust",
+		"to_rank": 94,
+		"from_rank": 104,
+		"above": "evermore",
+		"below": "elemental_melons"
 	}
 ]
