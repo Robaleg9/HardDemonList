@@ -190,6 +190,18 @@
 			"link": "https://www.youtube.com/watch?v=Hcg-5T3UkPM",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 5348566145,
+			"link": "https://youtu.be/Pz6itzeCk1A",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6680530516,
+			"link": "https://youtu.be/8KL_Gfxg3zY",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
