@@ -2815,5 +2815,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "level_hearts"
+	},
+	{
+		"date": 1760571610,
+		"action": "raised",
+		"name": "fortitude",
+		"to_rank": 32,
+		"from_rank": 44,
+		"above": "beast_mayhem_ii",
+		"below": "immortal_ichor"
 	}
 ]
