@@ -2824,5 +2824,14 @@
 		"from_rank": 44,
 		"above": "beast_mayhem_ii",
 		"below": "immortal_ichor"
+	},
+	{
+		"date": 1760639627,
+		"action": "lowered",
+		"name": "flow",
+		"to_rank": 88,
+		"from_rank": 38,
+		"above": "eternal_flame",
+		"below": "milky_caverns"
 	}
 ]
