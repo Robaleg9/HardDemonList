@@ -2833,5 +2833,14 @@
 		"from_rank": 38,
 		"above": "eternal_flame",
 		"below": "milky_caverns"
+	},
+	{
+		"date": 1760783402,
+		"action": "lowered",
+		"name": "p_0_t_p_0_c",
+		"to_rank": 328,
+		"from_rank": 25,
+		"above": "rainfall_iii",
+		"below": "no_concept"
 	}
 ]
