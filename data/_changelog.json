@@ -2851,5 +2851,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "prototype"
+	},
+	{
+		"date": 1760956513,
+		"action": "placed",
+		"name": "seclusion",
+		"to_rank": 360,
+		"from_rank": null,
+		"above": null,
+		"below": "thevoicesarecoming"
 	}
 ]
