@@ -2860,5 +2860,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "thevoicesarecoming"
+	},
+	{
+		"date": 1761238280,
+		"action": "lowered",
+		"name": "evermore",
+		"to_rank": 122,
+		"from_rank": 94,
+		"above": "burh",
+		"below": "nadji"
 	}
 ]
