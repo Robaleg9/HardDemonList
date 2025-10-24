@@ -559,16 +559,6 @@
         "colour": "#c0c0c0"
     },
     {
-        "name": "XXL Pack 1",
-        "levels": [
-            "surgeragon",
-            "cyber_dream",
-            "life",
-            "prismatic_domain"
-        ],
-        "colour": "#c0c0c0"
-    },
-    {
         "name": "Dangerous Pack",
         "levels": [
             "ablaze",
@@ -668,6 +658,16 @@
         "colour": "#cd7f32"
     },
     {
+        "name": "XXL Pack 1",
+        "levels": [
+            "surgeragon",
+            "cyber_dream",
+            "life",
+            "prismatic_domain"
+        ],
+        "colour": "#cd7f32"
+    },
+    {
         "name": "Red Pack",
         "levels": [
             "weirdmaggedon",
@@ -735,6 +735,7 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
     }
 ]
+
 
 
 
