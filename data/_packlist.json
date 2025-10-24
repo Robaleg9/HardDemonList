@@ -314,6 +314,16 @@
         "colour": "#ffd700"
     },
     {
+        "name": "XXL Pack 2",
+        "levels": [
+            "before_machinery",
+            "meeting_with_diana",
+            "neurotoxin",
+            "mechanical_realm"
+        ],
+        "colour": "#ffd700"
+    },
+    {
         "name": "Acid-Notation Song Pack",
         "levels": [
             "pinball_panic",
@@ -549,14 +559,10 @@
         "colour": "#c0c0c0"
     },
     {
-        "name": "XXL Pack",
+        "name": "XXL Pack 1",
         "levels": [
-            "p_0_t_p_0_c",
             "surgeragon",
             "cyber_dream",
-            "meeting_with_diana",
-            "neurotoxin",
-            "mechanical_realm",
             "life",
             "prismatic_domain"
         ],
@@ -729,6 +735,7 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
     }
 ]
+
 
 
 
