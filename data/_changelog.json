@@ -2869,5 +2869,14 @@
 		"from_rank": 94,
 		"above": "burh",
 		"below": "nadji"
+	},
+	{
+		"date": 1761510259,
+		"action": "placed",
+		"name": "esper",
+		"to_rank": 348,
+		"from_rank": null,
+		"above": null,
+		"below": "seclusion"
 	}
 ]
