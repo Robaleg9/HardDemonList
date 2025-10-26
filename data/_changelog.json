@@ -2878,5 +2878,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "seclusion"
+	},
+	{
+		"date": 1761510421,
+		"action": "placed",
+		"name": "fe",
+		"to_rank": 349,
+		"from_rank": null,
+		"above": null,
+		"below": "esper"
 	}
 ]
