@@ -370,7 +370,8 @@
             "circus_dash_ii",
             "fortitude",
             "spitzer",
-            "anya_ii"
+            "anya_ii",
+            "prototype"
         ],
         "colour": "#c0c0c0"
     },
@@ -543,7 +544,8 @@
             "hash",
             "exhaust",
             "ablaze",
-            "e_v_a_c_u_a_t_i_o_n"
+            "e_v_a_c_u_a_t_i_o_n",
+            "spitzer"
         ],
         "colour": "#c0c0c0"
     },
@@ -640,6 +642,7 @@
     {
         "name": "whispering pack 1",
         "levels": [        
+            "prototype",
             "wave_and_also_ufo",
             "found",
             "burh",
@@ -734,6 +737,7 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
     }
 ]
+
 
 
 
