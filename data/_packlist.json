@@ -5,8 +5,8 @@
             "before_machinery",
             "azure_paralyzer",
             "advance3",
-            "milkshake_draft",
-            "blrpl_lghts"
+            "dualviper",
+            "milkshake_draft"
         ],
         "colour": "#000000"
     },
@@ -737,6 +737,7 @@
         "colour": "linear-gradient(45deg, rgba(0,0,0,1) 33%, rgba(212,208,208,1) 66%, rgba(255,255,255,1) 100%)"
     }
 ]
+
 
 
 
