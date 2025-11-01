@@ -805,6 +805,12 @@
 			"link": "https://www.youtube.com/watch?v=4O9mLkIF3XA",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 8064734006,
+			"link": "https://youtu.be/vdzHSouoG-k?si=F1NO9tQWBzHIyLc1",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }
