@@ -2914,5 +2914,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "fe"
+	},
+	{
+		"date": 1762121844,
+		"action": "placed",
+		"name": "shred_the_bone",
+		"to_rank": 351,
+		"from_rank": null,
+		"above": null,
+		"below": "over_the_horizon"
 	}
 ]
