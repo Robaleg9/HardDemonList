@@ -2923,5 +2923,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "over_the_horizon"
+	},
+	{
+		"date": 1762143973,
+		"action": "lowered",
+		"name": "big_floppa",
+		"to_rank": 20,
+		"from_rank": 11,
+		"above": "rattlesnake",
+		"below": "backlines"
 	}
 ]
