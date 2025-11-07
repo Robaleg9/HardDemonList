@@ -909,6 +909,12 @@
 			"link": "https://www.youtube.com/watch?v=c43wjnRSULk",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 4338779962,
+			"link": "https://youtu.be/ctbBRsDzoa0",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
