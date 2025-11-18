@@ -150,6 +150,19 @@
 			"link": "https://youtu.be/Kj-jxt4PLIA",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": 9538645593,
+			"link": "https://youtu.be/6jf7zHOigMw?si=2R5MUApxcbY2Nd8y",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": 6939625545,
+			"link": "https://youtu.be/0U8cVtTxfzE?si=C6bxFevg9_wKHM6z",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
