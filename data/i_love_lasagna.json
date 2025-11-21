@@ -513,6 +513,13 @@
 			"link": "https://www.youtube.com/watch?v=SxnspNijseY",
 			"percent": 100,
 			"hz": 288
+		},
+		{
+			"user": 7752895385,
+			"link": "https://m.youtube.com/watch?v=GdRi0iUhZPE",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
