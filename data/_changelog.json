@@ -2968,5 +2968,14 @@
 		"from_rank": 56,
 		"above": "blood_menace",
 		"below": "ultra_circles"
+	},
+	{
+		"date": 1763906013,
+		"action": "lowered",
+		"name": "hydration",
+		"to_rank": 51,
+		"from_rank": 36,
+		"above": "sharp",
+		"below": "crispy_reaction"
 	}
 ]
