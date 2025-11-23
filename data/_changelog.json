@@ -2977,5 +2977,14 @@
 		"from_rank": 36,
 		"above": "sharp",
 		"below": "crispy_reaction"
+	},
+	{
+		"date": 1763909656,
+		"action": "placed",
+		"name": "fearless_psynapse",
+		"to_rank": 354,
+		"from_rank": null,
+		"above": null,
+		"below": "spilled_milk"
 	}
 ]
