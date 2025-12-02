@@ -3004,5 +3004,14 @@
 		"from_rank": 352,
 		"above": "evermore",
 		"below": "nadji"
+	},
+	{
+		"date": 1764705030,
+		"action": "placed",
+		"name": "ampere",
+		"to_rank": 356,
+		"from_rank": null,
+		"above": null,
+		"below": "haywire"
 	}
 ]
