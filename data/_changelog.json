@@ -3013,5 +3013,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "haywire"
+	},
+	{
+		"date": 1764705086,
+		"action": "placed",
+		"name": "lightshow",
+		"to_rank": 357,
+		"from_rank": null,
+		"above": null,
+		"below": "ampere"
 	}
 ]
