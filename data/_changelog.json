@@ -3022,5 +3022,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "ampere"
+	},
+	{
+		"date": 1765062522,
+		"action": "lowered",
+		"name": "osanda_verdict",
+		"to_rank": 121,
+		"from_rank": 117,
+		"above": "pae_ki",
+		"below": "nadji"
 	}
 ]
