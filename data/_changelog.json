@@ -3040,5 +3040,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "lightshow"
+	},
+	{
+		"date": 1765141094,
+		"action": "placed",
+		"name": "metal_shock_iii",
+		"to_rank": 359,
+		"from_rank": null,
+		"above": null,
+		"below": "corruption"
 	}
 ]
