@@ -3049,5 +3049,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "corruption"
+	},
+	{
+		"date": 1765312554,
+		"action": "raised",
+		"name": "proxima",
+		"to_rank": 79,
+		"from_rank": 93,
+		"above": "quantum_variations",
+		"below": "breakneck"
 	}
 ]
