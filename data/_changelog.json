@@ -3058,5 +3058,14 @@
 		"from_rank": 93,
 		"above": "quantum_variations",
 		"below": "breakneck"
+	},
+	{
+		"date": 1765396155,
+		"action": "raised",
+		"name": "ampere",
+		"to_rank": 139,
+		"from_rank": 356,
+		"above": "total_oblivion",
+		"below": "arcanine"
 	}
 ]
