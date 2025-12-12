@@ -3067,5 +3067,14 @@
 		"from_rank": 356,
 		"above": "total_oblivion",
 		"below": "arcanine"
+	},
+	{
+		"date": 1765564444,
+		"action": "raised",
+		"name": "fearless_psynapse",
+		"to_rank": 148,
+		"from_rank": 355,
+		"above": "njorun",
+		"below": "noir"
 	}
 ]
