@@ -167,6 +167,12 @@
 			"link": "https://www.youtube.com/watch?v=Y5CyU9RRv5s",
 			"percent": 100,
 			"hz": 480
+		},
+		{
+			"user": 2711867901,
+			"link": "https://youtu.be/spjvd6W3gsk?t=190",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
