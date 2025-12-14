@@ -3076,5 +3076,14 @@
 		"from_rank": 355,
 		"above": "njorun",
 		"below": "noir"
+	},
+	{
+		"date": 1765731670,
+		"action": "placed",
+		"name": "eroci",
+		"to_rank": 360,
+		"from_rank": null,
+		"above": null,
+		"below": "metal_shock_iii"
 	}
 ]
