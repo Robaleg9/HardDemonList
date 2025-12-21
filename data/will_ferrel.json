@@ -7,5 +7,25 @@
 	"verification": "https://www.youtube.com/watch?v=ESAplOOWCtI",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 6318413640,
+			"link": "https://youtu.be/bzJJifAi9s0",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 9555541620,
+			"link": "https://youtu.be/aPICeeycoGw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5683993420,
+			"link": "https://youtu.be/TokaiAgJZcY?si=BbUe1pJZ0ooU9nxi",
+			"percent": 100,
+			"hz": 240
+		}
+	]
 }
