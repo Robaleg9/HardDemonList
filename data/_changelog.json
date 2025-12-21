@@ -3094,5 +3094,14 @@
 		"from_rank": 143,
 		"above": "three_blocks_wide",
 		"below": "super_of_everything"
+	},
+	{
+		"date": 1766350850,
+		"action": "placed",
+		"name": "will_ferrel",
+		"to_rank": 361,
+		"from_rank": null,
+		"above": null,
+		"below": "eroci"
 	}
 ]
