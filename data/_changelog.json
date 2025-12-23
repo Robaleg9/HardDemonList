@@ -3103,5 +3103,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "eroci"
+	},
+	{
+		"date": 1766456957,
+		"action": "raised",
+		"name": "nerves",
+		"to_rank": 135,
+		"from_rank": 187,
+		"above": "prismatic_domain",
+		"below": "arachnid_temple"
 	}
 ]
