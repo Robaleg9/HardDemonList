@@ -854,6 +854,13 @@
 			"link": "https://youtu.be/QqGmldPLors?si=au3IGPYn8jBbcLud",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 6115282569,
+			"link": "https://youtu.be/-CxXhIbDWGc",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
