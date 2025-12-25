@@ -3112,5 +3112,14 @@
 		"from_rank": 187,
 		"above": "prismatic_domain",
 		"below": "arachnid_temple"
+	},
+	{
+		"date": 1766683801,
+		"action": "raised",
+		"name": "surgeragon",
+		"to_rank": 93,
+		"from_rank": 117,
+		"above": "exhaust",
+		"below": "jajagarasu"
 	}
 ]
