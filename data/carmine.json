@@ -2,10 +2,27 @@
 	"id": 77308301,
 	"name": "CARMINE",
 	"author": 4213704356,
-	"creators": [3762139516,6863714739,8848853693,2594193095,8405831441,5051388311,1760799051,1497769697,2428676535],
+	"creators": [
+		3762139516,
+		6863714739,
+		8848853693,
+		2594193095,
+		8405831441,
+		5051388311,
+		1760799051,
+		1497769697,
+		2428676535
+	],
 	"verifier": 3762139516,
 	"verification": "https://www.youtube.com/watch?v=XqCCJ6pSTP8",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/5C7A__BTYtE?si=RYc_Jr7Eh1ShEsQE&t=249",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
