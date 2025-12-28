@@ -3121,5 +3121,14 @@
 		"from_rank": 117,
 		"above": "exhaust",
 		"below": "jajagarasu"
+	},
+	{
+		"date": 1766929708,
+		"action": "placed",
+		"name": "carmine",
+		"to_rank": 362,
+		"from_rank": null,
+		"above": null,
+		"below": "will_ferrell"
 	}
 ]
