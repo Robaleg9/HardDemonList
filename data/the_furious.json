@@ -1378,6 +1378,19 @@
 			"link": "https://www.youtube.com/watch?v=WSp4jSEuImE",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": 4841236732,
+			"link": "https://www.youtube.com/watch?v=enxCqwR0fX4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 5518368759,
+			"link": "https://youtu.be/-874vokj6kQ?si=_EOOhA9mGmK8kKvI",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
