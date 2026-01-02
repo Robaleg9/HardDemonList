@@ -134,6 +134,13 @@
 			"link": "https://youtu.be/B_J6sSd_zUg",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": 6596254960,
+			"link": "https://youtu.be/Ks6Z7FIHIYQ?si=UbSOfjt9J3IR2Net",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
