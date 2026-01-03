@@ -3148,5 +3148,14 @@
 		"from_rank": null,
 		"above": "techno_blast",
 		"below": "leffe_leiffsky"
+	},
+	{
+		"date": 1767452530,
+		"action": "lowered",
+		"name": "driproom",
+		"to_rank": 363,
+		"from_rank": 163,
+		"above": null,
+		"below": "carmine"
 	}
 ]
