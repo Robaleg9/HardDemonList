@@ -3139,5 +3139,14 @@
 		"from_rank": 1,
 		"above": "breakthroughx",
 		"below": "zephyrs_madness"
+	},
+	{
+		"date": 1767452502,
+		"action": "placed",
+		"name": "driproom",
+		"to_rank": 163,
+		"from_rank": null,
+		"above": "techno_blast",
+		"below": "leffe_leiffsky"
 	}
 ]
