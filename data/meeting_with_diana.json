@@ -177,6 +177,13 @@
 			"link": "https://youtu.be/92PNSel1x-0?si=yEb7Kzr_q31AP5II",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": 1281868731,
+			"link": "https://youtu.be/_nsF_P99SZw",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
