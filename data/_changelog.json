@@ -3157,5 +3157,14 @@
 		"from_rank": 163,
 		"above": null,
 		"below": "carmine"
+	},
+	{
+		"date": 1767559520,
+		"action": "lowered",
+		"name": "pae_ki",
+		"to_rank": 132,
+		"from_rank": 121,
+		"above": "arachnid_temple",
+		"below": "unlocked"
 	}
 ]
