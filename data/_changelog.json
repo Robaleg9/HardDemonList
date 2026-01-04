@@ -3166,5 +3166,14 @@
 		"from_rank": 121,
 		"above": "arachnid_temple",
 		"below": "unlocked"
+	},
+	{
+		"date": 1767564952,
+		"action": "raised",
+		"name": "leffe_leiffsky",
+		"to_rank": 144,
+		"from_rank": 162,
+		"above": "flow_sirhadoken",
+		"below": "hazardsectorx"
 	}
 ]
