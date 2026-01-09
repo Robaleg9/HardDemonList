@@ -247,6 +247,13 @@
 			"link": "https://youtu.be/sGnya7RGQ_Q",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 9252196341,
+			"link": "https://youtu.be/DNbU0S-DCPU",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
