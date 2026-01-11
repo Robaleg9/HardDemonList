@@ -3175,5 +3175,14 @@
 		"from_rank": 162,
 		"above": "flow_sirhadoken",
 		"below": "hazardsectorx"
+	},
+	{
+		"date": 1768105481,
+		"action": "placed",
+		"name": "z_zanie",
+		"to_rank": 350,
+		"from_rank": null,
+		"above": null,
+		"below": "driproom"
 	}
 ]
