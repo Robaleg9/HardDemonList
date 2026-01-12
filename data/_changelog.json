@@ -3202,5 +3202,14 @@
 		"from_rank": 9,
 		"above": "milkshake_draft",
 		"below": "azure_paralyzer"
+	},
+	{
+		"date": 1768234611,
+		"action": "raised",
+		"name": "valkyrie",
+		"to_rank": 6,
+		"from_rank": 12,
+		"above": "blrpl_lghts",
+		"below": "milkshake_draft"
 	}
 ]
