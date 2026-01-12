@@ -3211,5 +3211,14 @@
 		"from_rank": 12,
 		"above": "blrpl_lghts",
 		"below": "milkshake_draft"
+	},
+	{
+		"date": 1768234666,
+		"action": "raised",
+		"name": "actino_rise",
+		"to_rank": 7,
+		"from_rank": 10,
+		"above": "blrpl_lghts",
+		"below": "valkyrie"
 	}
 ]
