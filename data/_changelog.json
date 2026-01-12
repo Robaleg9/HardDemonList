@@ -3229,5 +3229,14 @@
 		"from_rank": 10,
 		"above": "serpent",
 		"below": "blrpl_lghts"
+	},
+	{
+		"date": 1768234743,
+		"action": "raised",
+		"name": "pulsar",
+		"to_rank": 9,
+		"from_rank": 12,
+		"above": "impetus",
+		"below": "blrpl_lghts"
 	}
 ]
