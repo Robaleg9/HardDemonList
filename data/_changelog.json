@@ -3193,5 +3193,14 @@
 		"from_rank": 1,
 		"above": "milkshake_draft",
 		"below": "dualviper"
+	},
+	{
+		"date": 1768234580,
+		"action": "raised",
+		"name": "dead_beat",
+		"to_rank": 4,
+		"from_rank": 9,
+		"above": "milkshake_draft",
+		"below": "azure_paralyzer"
 	}
 ]
