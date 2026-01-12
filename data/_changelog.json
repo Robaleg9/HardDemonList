@@ -3184,5 +3184,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "driproom"
+	},
+	{
+		"date": 1768234552,
+		"action": "lowered",
+		"name": "azure_paralyzer",
+		"to_rank": 3,
+		"from_rank": 1,
+		"above": "milkshake_draft",
+		"below": "dualviper"
 	}
 ]
