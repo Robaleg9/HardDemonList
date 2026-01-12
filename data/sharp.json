@@ -681,6 +681,12 @@
 			"link": "https://youtu.be/qcQC5_A4nVM",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 8500933848,
+			"link": "https://www.youtube.com/watch?v=RW1lZI0h-X4&t=119s",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
