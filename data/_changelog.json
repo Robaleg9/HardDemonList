@@ -3220,5 +3220,14 @@
 		"from_rank": 10,
 		"above": "blrpl_lghts",
 		"below": "valkyrie"
+	},
+	{
+		"date": 1768234704,
+		"action": "raised",
+		"name": "impetus",
+		"to_rank": 9,
+		"from_rank": 10,
+		"above": "serpent",
+		"below": "blrpl_lghts"
 	}
 ]
