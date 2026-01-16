@@ -3238,5 +3238,14 @@
 		"from_rank": 12,
 		"above": "impetus",
 		"below": "blrpl_lghts"
+	},
+	{
+		"date": 1768530574,
+		"action": "raised",
+		"name": "spectra",
+		"to_rank": 92,
+		"from_rank": 117,
+		"above": "surgeragon",
+		"below": "jajagarasu"
 	}
 ]
