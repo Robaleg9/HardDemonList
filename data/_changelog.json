@@ -3247,5 +3247,14 @@
 		"from_rank": 117,
 		"above": "surgeragon",
 		"below": "jajagarasu"
+	},
+	{
+		"date": 1768710456,
+		"action": "placed",
+		"name": "animatronics_ii",
+		"to_rank": 350,
+		"from_rank": null,
+		"above": null,
+		"below": "z_zanie"
 	}
 ]
