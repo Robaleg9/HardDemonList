@@ -3256,5 +3256,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "z_zanie"
+	},
+	{
+		"date": 1769194395,
+		"action": "lowered",
+		"name": "pinball_panic",
+		"to_rank": 36,
+		"from_rank": 35,
+		"above": "elevatia",
+		"below": "classical_rayoriens"
 	}
 ]
