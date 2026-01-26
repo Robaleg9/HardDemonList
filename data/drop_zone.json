@@ -175,6 +175,37 @@
 			"link": "https://youtu.be/zQav9rIYcMY",
 			"percent": 100,
 			"hz": 0
+		},
+		{
+			"user": 2485541444,
+			"link": "https://youtu.be/IV9eQMuoQ1g",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 9538645593,
+			"link": "https://youtu.be/0JDVSGIRA4Q",
+			"percent": 100,
+			"hz": 300
+		},
+		{
+			"user": 9992430374,
+			"link": "https://www.youtube.com/watch?v=g-lA-y6Zzts",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 5106732325,
+			"link": "https://youtu.be/Nzoxh4Bnp34?si=i4Etcynh_liRQHhN",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 5272751500,
+			"link": "https://www.youtube.com/watch?v=pxt4HXsnlQs",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
