@@ -3292,5 +3292,14 @@
 		"from_rank": 99,
 		"above": "rainfall_iii",
 		"below": "p_0_t_p_0_c"
+	},
+	{
+		"date": 1769984570,
+		"action": "lowered",
+		"name": "the_tempest",
+		"to_rank": 123,
+		"from_rank": 115,
+		"above": "three_blocks_wide",
+		"below": "found"
 	}
 ]
