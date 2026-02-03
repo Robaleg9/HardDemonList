@@ -699,6 +699,13 @@
 			"link": "https://youtu.be/19OTfK0QLLE?si=abDYlhHu1kUF6CHX&t=184",
 			"percent": 100,
 			"hz": 180
+		},
+		{
+			"user": 9844901727,
+			"link": "https://youtu.be/JGRgiHJMEW8?si=lhSKwLtInScM-dY2",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
