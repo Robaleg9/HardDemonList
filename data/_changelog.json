@@ -3301,5 +3301,14 @@
 		"from_rank": 115,
 		"above": "three_blocks_wide",
 		"below": "found"
+	},
+	{
+		"date": 1770499313,
+		"action": "raised",
+		"name": "kilpac",
+		"to_rank": 45,
+		"from_rank": 54,
+		"above": "tormenta",
+		"below": "the_voidlands"
 	}
 ]
