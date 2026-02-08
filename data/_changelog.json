@@ -3310,5 +3310,14 @@
 		"from_rank": 54,
 		"above": "tormenta",
 		"below": "the_voidlands"
+	},
+	{
+		"date": 1770561847,
+		"action": "placed",
+		"name": "power_grid",
+		"to_rank": 350,
+		"from_rank": null,
+		"above": null,
+		"below": "dfx"
 	}
 ]
