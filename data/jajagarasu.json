@@ -485,6 +485,13 @@
 			"link": "https://youtu.be/uDmNmBGvw9M?si=LOplwCaD3r6xBuCE",
 			"percent": 100,
 			"hz": 180
+		},
+		{
+			"user": 6707507279,
+			"link": "https://youtu.be/UI4eApDqnak?si=c0B8SxFkj1UdUMFn",
+			"percent": 100,
+			"hz": 74,
+			"mobile": true
 		}
 	]
 }
