@@ -3319,5 +3319,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "dfx"
+	},
+	{
+		"date": 1771047231,
+		"action": "lowered",
+		"name": "viridica",
+		"to_rank": 125,
+		"from_rank": 102,
+		"above": "araneo",
+		"below": "final_conflux"
 	}
 ]
