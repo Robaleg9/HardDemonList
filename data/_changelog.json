@@ -3337,5 +3337,14 @@
 		"from_rank": 148,
 		"above": "medley",
 		"below": "wonder_cosm"
+	},
+	{
+		"date": 1771130591,
+		"action": "placed",
+		"name": "war_of_the_worlds",
+		"to_rank": 350,
+		"from_rank": null,
+		"above": null,
+		"below": "power_grid"
 	}
 ]
