@@ -3328,5 +3328,14 @@
 		"from_rank": 102,
 		"above": "araneo",
 		"below": "final_conflux"
+	},
+	{
+		"date": 1771119971,
+		"action": "lowered",
+		"name": "fearless_psynapse",
+		"to_rank": 152,
+		"from_rank": 148,
+		"above": "medley",
+		"below": "wonder_cosm"
 	}
 ]
