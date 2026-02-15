@@ -2,10 +2,26 @@
 	"id": 60533253,
 	"name": "War Of The Worlds",
 	"author": 8624423654,
-	"creators": [8624423654,1483063609],
+	"creators": [
+		8624423654,
+		1483063609
+	],
 	"verifier": 9792877492,
 	"verification": "https://www.youtube.com/watch?v=Ep_hRVfwky0",
 	"percentToQualify": 100,
 	"password": "249145",
-	"records" : []
+	"records": [
+		{
+			"user": 5148118396,
+			"link": "https://youtu.be/fA7qOsUdthA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 3657021263,
+			"link": "https://www.youtube.com/watch?v=QQ8JsCoqgYs",
+			"percent": 100,
+			"hz": 144
+		}
+	]
 }
