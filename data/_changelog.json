@@ -3346,5 +3346,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "power_grid"
+	},
+	{
+		"date": 1771341205,
+		"action": "placed",
+		"name": "sdm6",
+		"to_rank": 350,
+		"from_rank": null,
+		"above": null,
+		"below": "war_of_the_worlds"
 	}
 ]
