@@ -280,6 +280,13 @@
 			"link": "https://youtu.be/jllmu8eEnNA",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 6318413640,
+			"link": "https://youtu.be/WBl8cDoSGIM",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }

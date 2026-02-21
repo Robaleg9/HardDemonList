@@ -723,6 +723,33 @@
 			"link": "https://www.youtube.com/watch?v=AB-dOytk67g",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 1798348615,
+			"link": "https://youtu.be/yjDa2FGV_sU?si=BpSGq1fSuOrrPHk1",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 5582495154,
+			"link": "https://youtu.be/8QRmUOTk0JE?si=CMIf_n2i3Wz2Lbfw",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 7984044692,
+			"link": "https://youtu.be/ndtxosXDOIo?si=CLRn7bqHWjxk6aQf",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": 3447851795,
+			"link": "https://www.youtube.com/watch?v=3IxxeKE9QJU",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
