@@ -3373,5 +3373,14 @@
 		"from_rank": 82,
 		"above": "mechanical_realm",
 		"below": "splendid_mold"
+	},
+	{
+		"date": 1771713048,
+		"action": "raised",
+		"name": "sdm6",
+		"to_rank": 3,
+		"from_rank": 350,
+		"above": "azure_paralyzer",
+		"below": "dualviper"
 	}
 ]
