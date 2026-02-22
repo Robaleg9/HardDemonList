@@ -3382,5 +3382,14 @@
 		"from_rank": 350,
 		"above": "azure_paralyzer",
 		"below": "dualviper"
+	},
+	{
+		"date": 1771733755,
+		"action": "placed",
+		"name": "self",
+		"to_rank": 351,
+		"from_rank": null,
+		"above": null,
+		"below": "war_of_the_worlds"
 	}
 ]
