@@ -3409,5 +3409,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "self"
+	},
+	{
+		"date": 1772376762,
+		"action": "raised",
+		"name": "sideways_8",
+		"to_rank": 46,
+		"from_rank": 67,
+		"above": "tormenta",
+		"below": "kilpac"
 	}
 ]
