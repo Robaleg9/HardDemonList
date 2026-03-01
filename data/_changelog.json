@@ -3400,5 +3400,14 @@
 		"from_rank": 45,
 		"above": "blood_menace",
 		"below": "in_limbo"
+	},
+	{
+		"date": 1772336070,
+		"action": "placed",
+		"name": "acidulus_8",
+		"to_rank": 351,
+		"from_rank": null,
+		"above": null,
+		"below": "self"
 	}
 ]
