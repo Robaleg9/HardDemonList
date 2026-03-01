@@ -1429,11 +1429,18 @@
 			"hz": 120,
 			"mobile": true
 		},
-        {
-            "user": 1310046103,
-            "link": "https://www.youtube.com/watch?v=wwbTUdy1-C4",
-            "percent": 100,
-            "hz": 60
-        }
+		{
+			"user": 1310046103,
+			"link": "https://www.youtube.com/watch?v=wwbTUdy1-C4",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": 8454696989,
+			"link": "https://youtu.be/1cmcafp1BiY?si=dYpw1iPlKKTf8FbO",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		}
 	]
 }
