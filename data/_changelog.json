@@ -3418,5 +3418,14 @@
 		"from_rank": 67,
 		"above": "tormenta",
 		"below": "kilpac"
+	},
+	{
+		"date": 1772481493,
+		"action": "lowered",
+		"name": "rgbwheregisgold",
+		"to_rank": 109,
+		"from_rank": 107,
+		"above": "apache",
+		"below": "sharp_minor"
 	}
 ]
