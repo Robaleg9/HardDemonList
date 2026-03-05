@@ -3436,5 +3436,14 @@
 		"from_rank": 3,
 		"above": "silence",
 		"below": "scarlet_pulse"
+	},
+	{
+		"date": 1772734292,
+		"action": "lowered",
+		"name": "e_v_a_c_u_a_t_i_o_n",
+		"to_rank": 61,
+		"from_rank": 56,
+		"above": "ultra_circles",
+		"below": "coreosious"
 	}
 ]
