@@ -1438,6 +1438,12 @@
 			"link": "https://www.youtube.com/watch?v=eVfKthJIIWw",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 8012676288,
+			"link": "https://youtu.be/4_R20afF56Y?si=Y0hAA3cg_EE_sVhq",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }

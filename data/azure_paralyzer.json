@@ -997,6 +997,13 @@
 			"link": "https://www.youtube.com/watch?v=LgcAxpC3Ol8",
 			"percent": 100,
 			"hz": 120
+		},
+		{
+			"user": 6763064596,
+			"link": "https://youtu.be/CCs-EN4Q8i4?si=aWOFRRdoRskkvHrR",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
