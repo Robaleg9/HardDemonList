@@ -3445,5 +3445,14 @@
 		"from_rank": 56,
 		"above": "ultra_circles",
 		"below": "coreosious"
+	},
+	{
+		"date": 1772900774,
+		"action": "raised",
+		"name": "damage",
+		"to_rank": 23,
+		"from_rank": 317,
+		"above": "elemental_stones",
+		"below": "weirdmaggedon"
 	}
 ]
