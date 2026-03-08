@@ -3454,5 +3454,14 @@
 		"from_rank": 317,
 		"above": "elemental_stones",
 		"below": "weirdmaggedon"
+	},
+	{
+		"date": 1772974364,
+		"action": "placed",
+		"name": "ascension_to_walmart",
+		"to_rank": 351,
+		"from_rank": null,
+		"above": null,
+		"below": "acidulus_8"
 	}
 ]
