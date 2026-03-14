@@ -3,12 +3,37 @@
 	"name": "ascension to walmart",
 	"author": 2773376757,
 	"creators": [
-        2773376757,
-        7392445402
-    ],
+		2773376757,
+		7392445402
+	],
 	"verifier": 2773376757,
 	"verification": "https://www.youtube.com/watch?v=IdvuIvcIUqY",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/ZtMYwIDa6ks?si=GlG3H0Kkzr52Z33j&t=471",
+			"percent": 100,
+			"hz": 450
+		},
+		{
+			"user": 9555541620,
+			"link": "https://youtu.be/SsllBoRNtoQ?si=rkItUaIgzruHVaw4",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3532593286,
+			"link": "https://youtu.be/IJjKAL_d55Y",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": 8012676288,
+			"link": "https://youtu.be/S4In_XpWZzc?si=bkkC29vbNJHNV8qK",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
