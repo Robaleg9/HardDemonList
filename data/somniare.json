@@ -744,6 +744,12 @@
 			"link": "https://www.youtube.com/watch?v=zqqghk9n5fA",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": 5775068813,
+			"link": "https://youtu.be/cOUbXpHElE8",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }
