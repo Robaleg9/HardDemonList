@@ -70,6 +70,24 @@
 			"link": "https://youtu.be/SeNzprMidtQ",
 			"percent": 100,
 			"hz": 1000
+		},
+		{
+			"user": 5106732325,
+			"link": "https://youtu.be/SJzUUOWXGOY?si=MamHWDKgPgXBkQTf&t=179",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 2147715229,
+			"link": "https://youtu.be/AH2gVVVRA4U?si=_sKRAJ90U8xwFdxJ",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 2485541444,
+			"link": "https://youtu.be/EatRvCPfz4o?si=l7yN9W729_GuwLUS",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
