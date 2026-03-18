@@ -17,8 +17,8 @@
 	},
     {
 		"role": "trial",
-		"name": 8273227525,
-		"link": "https://www.youtube.com/@robaleg9"
+		"name": 7934142788,
+		"link": "https://www.youtube.com/@bonezizdum"
 	},
 	{
 		"role": "trial",
@@ -31,14 +31,14 @@
 		"link": "https://www.youtube.com/@frogs65xiwin87"
 	},
     {
-		"role": "helper",
-		"name": 7934142788,
-		"link": "https://www.youtube.com/@bonezizdum"
-	},
-    {
-		"role": "helper",
+		"role": "trial",
 		"name": 3657021263,
 		"link": "https://www.youtube.com/@GDDwibble"
+    },
+    {
+		"role": "trial",
+		"name": 8273227525,
+		"link": "https://www.youtube.com/@robaleg9"
 	},
 	{
 		"role": "dev",
