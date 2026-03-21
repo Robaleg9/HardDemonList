@@ -3481,5 +3481,14 @@
 		"from_rank": 132,
 		"above": "spitzer",
 		"below": "splendid_mold"
+	},
+	{
+		"date": 1774123558,
+		"action": "raised",
+		"name": "neurotoxin",
+		"to_rank": 30,
+		"from_rank": 60,
+		"above": "immortal_ichor",
+		"below": "despair"
 	}
 ]
