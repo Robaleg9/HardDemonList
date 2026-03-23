@@ -3490,5 +3490,14 @@
 		"from_rank": 60,
 		"above": "immortal_ichor",
 		"below": "despair"
+	},
+	{
+		"date": 1774278154,
+		"action": "raised",
+		"name": "jajagarasu",
+		"to_rank": 76,
+		"from_rank": 93,
+		"above": "spitzer",
+		"below": "pae_ki"
 	}
 ]
