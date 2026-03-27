@@ -359,6 +359,13 @@
 			"link": "https://youtu.be/23kgchn8JLI",
 			"percent": 100,
 			"hz": 144
+		},
+		{
+			"user": 1738079116,
+			"link": "https://www.reddit.com/r/Dissmo/comments/1s5c225/cimson_flare/",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
