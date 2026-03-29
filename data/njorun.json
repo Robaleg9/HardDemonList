@@ -626,6 +626,12 @@
 			"link": "https://www.youtube.com/watch?v=TtOSblUKmzw",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 2556196842,
+			"link": "https://youtu.be/7iof-ETBjak",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
