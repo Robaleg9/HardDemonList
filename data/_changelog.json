@@ -3508,5 +3508,14 @@
 		"from_rank": 352,
 		"above": "blood_menace",
 		"below": "the_voidlands"
+	},
+	{
+		"date": 1774791282,
+		"action": "placed",
+		"name": "toxicpower",
+		"to_rank": 353,
+		"from_rank": null,
+		"above": null,
+		"below": "ascension_to_walmart"
 	}
 ]
