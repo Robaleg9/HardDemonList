@@ -3535,5 +3535,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "toxicpower"
+	},
+	{
+		"date": 1775053451,
+		"action": "placed",
+		"name": "hard_machine",
+		"to_rank": 356,
+		"from_rank": null,
+		"above": null,
+		"below": "hard_demon"
 	}
 ]
