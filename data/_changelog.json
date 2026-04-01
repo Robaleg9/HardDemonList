@@ -3526,5 +3526,14 @@
 		"from_rank": null,
 		"above": "love_syndrome",
 		"below": null
+	},
+	{
+		"date": 1775053275,
+		"action": "placed",
+		"name": "hard_demon",
+		"to_rank": 355,
+		"from_rank": null,
+		"above": null,
+		"below": "toxicpower"
 	}
 ]
