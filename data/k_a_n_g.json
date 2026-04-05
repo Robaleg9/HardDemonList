@@ -316,6 +316,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 6648097017,
+			"link": "https://youtu.be/AfBhpYHZ3PU?si=ctQ3dvGa56ynfky0",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }

@@ -535,6 +535,19 @@
 			"link": "https://youtu.be/rLT7NquLxPg",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": 6648097017,
+			"link": "https://youtu.be/4OI_pa_CrdY?si=71EYUCsYM2AmgW65",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 1281868731,
+			"link": "https://youtu.be/e4QeeYfyvI0",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
