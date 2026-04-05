@@ -3553,5 +3553,14 @@
 		"from_rank": 233,
 		"above": "club_chamber",
 		"below": "ripplez"
+	},
+	{
+		"date": 1775425476,
+		"action": "placed",
+		"name": "acid_ruins",
+		"to_rank": 354,
+		"from_rank": null,
+		"above": null,
+		"below": "toxicpower"
 	}
 ]
