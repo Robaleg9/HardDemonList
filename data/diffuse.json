@@ -1450,6 +1450,12 @@
 			"link": "https://www.youtube.com/watch?v=mIAPYBNgqBU",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 5429548895,
+			"link": "https://www.youtube.com/watch?v=u7S9wLckhik",
+			"percent": 100,
+			"hz": 480
 		}
 	]
 }
