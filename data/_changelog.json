@@ -3562,5 +3562,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "toxicpower"
+	},
+	{
+		"date": 1775966650,
+		"action": "placed",
+		"name": "iloveyou",
+		"to_rank": 355,
+		"from_rank": null,
+		"above": null,
+		"below": "acid_ruins"
 	}
 ]
