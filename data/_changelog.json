@@ -3571,5 +3571,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "acid_ruins"
+	},
+	{
+		"date": 1776104840,
+		"action": "raised",
+		"name": "adrenaline_chamber",
+		"to_rank": 53,
+		"from_rank": 69,
+		"above": "hydration",
+		"below": "crispy_reaction"
 	}
 ]
