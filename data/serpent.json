@@ -404,6 +404,18 @@
 			"link": "https://www.youtube.com/watch?v=sG3bxj2dZJg",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 6203184044,
+			"link": "https://youtu.be/jLl4xhtCfkg?si=wuBqrxmiEfFtaqLY&t=58",
+			"percent": 100,
+			"hz": 180
+		},
+		{
+			"user": 3439407199,
+			"link": "https://youtu.be/Rv9zUxP5TiM",
+			"percent": 100,
+			"hz": 360
 		}
 	]
 }
