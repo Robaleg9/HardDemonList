@@ -141,6 +141,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 6455539359,
+			"link": "https://youtu.be/Rft3kwNUc2g?si=fzxe6OJX1gRV69mB",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }
