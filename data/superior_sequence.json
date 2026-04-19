@@ -507,6 +507,19 @@
 			"link": "https://www.youtube.com/watch?v=uWyuRTdZsZo",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": 1738079116,
+			"link": "https://youtube.com/shorts/XPCy1N65STU?si=XhyAVkhUGeGuMXOY",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": 6648097017,
+			"link": "https://youtu.be/CT6DatKZu_Y",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }
