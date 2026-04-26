@@ -3616,5 +3616,14 @@
 		"from_rank": 94,
 		"above": "elemental_melons",
 		"below": "milky_caverns"
+	},
+	{
+		"date": 1777210366,
+		"action": "placed",
+		"name": "the_vigor",
+		"to_rank": 357,
+		"from_rank": null,
+		"above": null,
+		"below": "magical_funk"
 	}
 ]
