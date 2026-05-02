@@ -3625,5 +3625,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "magical_funk"
+	},
+	{
+		"date": 1777743283,
+		"action": "raised",
+		"name": "time_decay",
+		"to_rank": 50,
+		"from_rank": 51,
+		"above": "terror_factory",
+		"below": "majesty"
 	}
 ]
