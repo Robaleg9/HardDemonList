@@ -3634,5 +3634,14 @@
 		"from_rank": 51,
 		"above": "terror_factory",
 		"below": "majesty"
+	},
+	{
+		"date": 1777929170,
+		"action": "lowered",
+		"name": "snap",
+		"to_rank": 89,
+		"from_rank": 81,
+		"above": "milky_caverns",
+		"below": "frostbound"
 	}
 ]
