@@ -3643,5 +3643,14 @@
 		"from_rank": 81,
 		"above": "milky_caverns",
 		"below": "frostbound"
+	},
+	{
+		"date": 1777988413,
+		"action": "lowered",
+		"name": "damage",
+		"to_rank": 318,
+		"from_rank": 23,
+		"above": "deltafunk",
+		"below": "chromatic_winter"
 	}
 ]
