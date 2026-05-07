@@ -460,6 +460,12 @@
 			"link": "https://www.youtube.com/watch?v=a8XJRDHRR3I",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 2753913638,
+			"link": "https://youtu.be/Yj6Vs8t7imU",
+			"percent": 100,
+			"hz": 120
 		}
 	]
 }
