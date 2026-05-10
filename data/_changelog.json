@@ -3652,5 +3652,14 @@
 		"from_rank": 23,
 		"above": "deltafunk",
 		"below": "chromatic_winter"
+	},
+	{
+		"date": 1778414653,
+		"action": "placed",
+		"name": "ice_hell_escape",
+		"to_rank": 358,
+		"from_rank": null,
+		"above": null,
+		"below": "the_vigor"
 	}
 ]
