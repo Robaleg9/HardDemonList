@@ -685,6 +685,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 3077614234,
+			"link": "https://youtu.be/4lRusmo_A4s?si=QmSl31I6fqCajhg2",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
