@@ -3661,5 +3661,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "the_vigor"
+	},
+	{
+		"date": 1778594538,
+		"action": "raised",
+		"name": "freedom_travel",
+		"to_rank": 116,
+		"from_rank": 170,
+		"above": "late",
+		"below": "el_eyon"
 	}
 ]
