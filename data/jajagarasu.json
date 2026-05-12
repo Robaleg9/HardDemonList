@@ -543,6 +543,13 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 7346988450,
+			"link": "https://youtu.be/kGIYIj9USvk?si=yUH-CAb3UdbY_ics",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
