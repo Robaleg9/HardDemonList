@@ -598,7 +598,7 @@
         "name": "Nuclear Meltdown Pack",
         "levels": [
             "the_ultimate_core",
-            "detonate_weekly",
+            "detonate",
             "fusion",
             "ablaze",
             "e_v_a_c_u_a_t_i_o_n",
@@ -620,7 +620,7 @@
         "name": "Official Song Pack",
         "levels": [
             "cubic_force",
-            "hazardsector_x",
+            "hazardsectorx",
             "super_of_everything",
             "unlocked",
             "club_chamber"
