@@ -391,7 +391,6 @@
         "levels": [
             "milky_caverns",
             "artillery",
-            "wonder_cosm",
             "actino_rise",
             "afterlocked"
         ],
@@ -517,7 +516,7 @@
         "levels": [
             "advance3",
             "sideways_8",
-            "a747"
+            "execute_phase_001"
         ],
         "colour": "#c0c0c0"
     },
