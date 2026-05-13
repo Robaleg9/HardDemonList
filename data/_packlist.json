@@ -237,21 +237,22 @@
         "colour": "#ffd700"
     },
     {
+        "name": "Object Heavy Pack",
+        "levels": [
+            "surgeragon",
+            "coreosious",
+            "meeting_with_diana",
+            "neurotoxin"
+        ],
+        "colour": "#ffd700"
+    },
+    {
         "name": "Roman Numeral Pack",
         "levels": [
             "new_beginning_ii",
             "beast_mayhem_ii",
             "circus_dash_ii",
             "anya_ii"
-        ],
-        "colour": "#ffd700"
-    },
-    {
-        "name": "RyanAB Pack",
-        "levels": [
-            "switchblade",
-            "artillery",
-            "chaoz_twilight"
         ],
         "colour": "#ffd700"
     },
@@ -544,6 +545,15 @@
         "colour": "#c0c0c0"
     },
     {
+        "name": "RyanAB Pack",
+        "levels": [
+            "switchblade",
+            "artillery",
+            "chaoz_twilight"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
         "name": "Short n' Sweet Pack",
         "levels": [
             "brisban",
@@ -613,16 +623,6 @@
             "ablaze",
             "e_v_a_c_u_a_t_i_o_n",
             "infernity"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
-        "name": "Object Heavy Pack",
-        "levels": [
-            "surgeragon",
-            "coreosious",
-            "meeting_with_diana",
-            "neurotoxin"
         ],
         "colour": "#cd7f32"
     },
