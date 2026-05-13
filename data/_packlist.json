@@ -2,10 +2,10 @@
     {
         "name": "Top 5 Pack",
         "levels": [
-            "before_machinery",
-            "azure_paralyzer",
             "advance3",
             "dualviper",
+            "azure_paralyzer",
+            "dead_beat",
             "milkshake_draft"
         ],
         "colour": "#000000"
@@ -14,11 +14,11 @@
         "name": "HDL Alphabet",
         "levels": [
             "azure_paralyzer",
-            "before_machinery",
+            "blrpl_lghts",
             "crimson_flare",
             "dualviper",
             "elemental_stones",
-            "flow",
+            "fortitude",
             "hydration",
             "impetus",
             "jajagarasu",
@@ -29,10 +29,10 @@
             "osanda_verdict",
             "pulsar",
             "quantum_variations",
-            "rainfall_iii",
+            "rattlesnake",
             "serpent",
             "the_ultimate_core",
-            "universal_perception",
+            "ultra_circles",
             "valkyrie",
             "weirdmaggedon",
             "xes"
@@ -47,7 +47,8 @@
             "snap",
             "majesty",
             "meeting_with_diana",
-            "prismatic_domain"
+            "prismatic_domain",
+            "simply_all_good"
         ],
         "colour": "linear-gradient(60deg, rgba(255,0,0,1) 0%, rgba(255,128,0,1) 20%, rgba(255,255,0,1) 40%, rgba(0,255,0,1) 60%, rgba(0,0,255,1) 80%, rgba(76,0,153,1) 100%)"
     },
@@ -80,7 +81,7 @@
             "dead_beat",
             "flow",
             "meeting_with_diana",
-            "ultra_circles",
+            "neurotoxin",
             "super_of_everything",
             "mythical_descent"
         ],
@@ -109,19 +110,20 @@
         "colour": "#ffd700"
     },
     {
-        "name": "Creo Song Pack",
+        "name": "Creo Song Pack 2",
         "levels": [
             "advance3",
-            "artemisia",
-            "dark_tides",
-            "xes"
+            "valkyrie",
+            "artemesia",
+            "xes",
+            "time_decay"
         ],
         "colour": "#ffd700"
     },
     {
         "name": "Difficulty Spike Pack",
         "levels": [
-            "pulsar",
+            "evasion",
             "magnolia",
             "flow",
             "rgbwheregisgold",
@@ -228,7 +230,6 @@
     {
         "name": "Roman Numeral Pack",
         "levels": [
-            "rainfall_iii",
             "new_beginning_ii",
             "beast_mayhem_ii",
             "circus_dash_ii",
@@ -289,8 +290,7 @@
             "immortal_ichor",
             "terror_factory",
             "alien_invazion",
-            "afterlocked",
-            "wonder_cosm"
+            "afterlocked"
         ],
         "colour": "#ffd700"
     },
@@ -308,14 +308,15 @@
         "levels": [
             "immortal_ichor",
             "in_limbo",
-            "ribbit"
+            "ribbit",
+            "crispy_reaction",
+            "fusion"
         ],
         "colour": "#ffd700"
     },
     {
         "name": "XXL Pack 2",
         "levels": [
-            "before_machinery",
             "meeting_with_diana",
             "neurotoxin",
             "mechanical_realm"
@@ -371,7 +372,6 @@
             "fortitude",
             "spitzer",
             "anya_ii",
-            "prototype",
             "pae_ki"
         ],
         "colour": "#c0c0c0"
@@ -380,7 +380,7 @@
         "name": "Dorami Pack",
         "levels": [
             "flow",
-            "a747",
+            "mythical_descent",
             "osanda_verdict",
             "theory_of_intercept"
         ],
@@ -408,7 +408,7 @@
         "colour": "#c0c0c0"
     },
      {
-        "name": "F3lixram Pack",
+        "name": "f3lixsram Pack",
         "levels": [
             "artemisia",
             "elevatia",
@@ -451,7 +451,8 @@
             "euphoria",
             "the_tempest",
             "everything",
-            "radiant_expanse"
+            "radiant_expanse",
+            "flow_sirhadoken"
         ],
         "colour": "#c0c0c0"
     },
@@ -484,7 +485,8 @@
             "viridica",
             "adrenaline_chamber",
             "neurotoxin",
-            "jajagarasu"
+            "jajagarasu",
+            "shrill_manor"
         ],
         "colour": "#c0c0c0"
     },
@@ -525,7 +527,9 @@
             "doomed",
             "diffuse",
             "the_furious",
-            "sharp_minor"
+            "sharp_minor",
+            "jajagarasu",
+            "i_cant_fix_you"
         ],
         "colour": "#c0c0c0"
     },
@@ -581,15 +585,6 @@
         "colour": "#cd7f32"
     },
     {
-        "name": "Megacollab Pack 1",
-        "levels": [
-            "universal_perception",
-            "shrill_manor",
-            "acid_rush_iii"
-        ],
-        "colour": "#cd7f32"
-    },
-    {
         "name": "Memory Pack 1",
         "levels": [
             "k_a_n_g",
@@ -616,7 +611,7 @@
         "levels": [
             "surgeragon",
             "coreosious",
-            "universal_perception",
+            "meeting_with_diana",
             "neurotoxin"
         ],
         "colour": "#cd7f32"
@@ -644,7 +639,6 @@
     {
         "name": "whispering pack 1",
         "levels": [        
-            "prototype",
             "wave_and_also_ufo",
             "found",
             "burh",
@@ -652,13 +646,6 @@
         ],
         "colour": "#cd7f32"
     },
-    {
-        "name": "Xtrullor Song Pack 1",
-        "levels": [
-            "crispy_reaction",
-            "wonder_cosm",
-            "fusion"
-        ],
         "colour": "#cd7f32"
     },
     {
@@ -668,7 +655,6 @@
             "cyber_dream",
             "life",
             "prismatic_domain",
-            "pae_ki"
         ],
         "colour": "#cd7f32"
     },
@@ -698,7 +684,8 @@
         "levels": [
             "superior_sequence",
             "viridica",
-            "neurotoxin"
+            "neurotoxin",
+            "forrest_gamp"
         ],
         "colour": "#0bb300"
     },
@@ -710,7 +697,6 @@
             "hibernal",
             "tormenta",
             "k_a_n_g",
-            "universal_perception",
             "ripplez"
         ],
         "colour": "#0072fa"
@@ -733,7 +719,6 @@
             "sideways_8",
             "dead_beat",
             "execute_phase_001",
-            "el_eyon",
             "torment",
             "found"
         ],
