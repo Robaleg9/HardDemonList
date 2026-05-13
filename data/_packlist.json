@@ -228,6 +228,15 @@
         "colour": "#ffd700"
     },
     {
+        "name": "Number Name Pack",
+        "levels": [
+            "advance3",
+            "sideways_8",
+            "execute_phase_001"
+        ],
+        "colour": "#ffd700"
+    },
+    {
         "name": "Roman Numeral Pack",
         "levels": [
             "new_beginning_ii",
@@ -508,15 +517,6 @@
             "sharp_minor",
             "sharp",
             "infernity"
-        ],
-        "colour": "#c0c0c0"
-    },
-    {
-        "name": "Number Name Pack",
-        "levels": [
-            "advance3",
-            "sideways_8",
-            "execute_phase_001"
         ],
         "colour": "#c0c0c0"
     },
