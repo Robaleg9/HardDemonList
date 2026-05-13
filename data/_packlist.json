@@ -13,7 +13,7 @@
     {
         "name": "HDL Alphabet",
         "levels": [
-            "azure_paralyzer",
+            "advance3",
             "blrpl_lghts",
             "crimson_flare",
             "dualviper",
@@ -205,7 +205,7 @@
         "colour": "#ffd700"
     },
     {
-        "name": "Megacollab Pack 3",
+        "name": "Megacollab Pack 2",
         "levels": [
             "sonic_chamber",
             "artemisia",
@@ -304,7 +304,7 @@
         "colour": "#ffd700"
     },
     {
-        "name": "Xtrullor Song Pack 2",
+        "name": "Xtrullor Song Pack",
         "levels": [
             "immortal_ichor",
             "in_limbo",
@@ -479,7 +479,7 @@
         "colour": "#c0c0c0"
     },
     {
-        "name": "Megacollab Pack 2",
+        "name": "Megacollab Pack 1",
         "levels": [
             "hydration",
             "viridica",
@@ -644,8 +644,6 @@
             "burh",
             "life"
         ],
-        "colour": "#cd7f32"
-    },
         "colour": "#cd7f32"
     },
     {
