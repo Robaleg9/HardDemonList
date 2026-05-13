@@ -386,6 +386,17 @@
         "colour": "#c0c0c0"
     },
     {
+        "name": "Creo Song Pack 1",
+        "levels": [
+            "dark_tides",
+            "frostbound",
+            "ablaze",
+            "euphoria",
+            "mythical_descent"
+        ],
+        "colour": "#c0c0c0"
+    },
+    {
         "name": "Dorami Pack",
         "levels": [
             "flow",
