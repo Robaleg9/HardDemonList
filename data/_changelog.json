@@ -3670,5 +3670,14 @@
 		"from_rank": 170,
 		"above": "late",
 		"below": "el_eyon"
+	},
+	{
+		"date": 1778724952,
+		"action": "raised",
+		"name": "evasion",
+		"to_rank": 32,
+		"from_rank": 44,
+		"above": "beast_mayhem_ii",
+		"below": "fortitude"
 	}
 ]
