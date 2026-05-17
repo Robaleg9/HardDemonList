@@ -3679,5 +3679,14 @@
 		"from_rank": 44,
 		"above": "beast_mayhem_ii",
 		"below": "fortitude"
+	},
+	{
+		"date": 1779023627,
+		"action": "placed",
+		"name": "dryin_out",
+		"to_rank": 359,
+		"from_rank": null,
+		"above": null,
+		"below": "ice_hell_escape"
 	}
 ]
