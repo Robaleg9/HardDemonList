@@ -463,6 +463,12 @@
 			"link": "https://www.youtube.com/watch?v=5Mz1pzxLMsg",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 7484912053,
+			"link": "https://youtu.be/ck1s11boAKs",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
