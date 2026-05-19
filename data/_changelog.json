@@ -3688,5 +3688,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "ice_hell_escape"
+	},
+	{
+		"date": 1779234571,
+		"action": "raised",
+		"name": "theory_of_intercept",
+		"to_rank": 86,
+		"from_rank": 106,
+		"above": "fusion",
+		"below": "efetis_belis"
 	}
 ]
