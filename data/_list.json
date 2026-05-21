@@ -1,7 +1,4 @@
 [
-	"advance3",
-	"dualviper",
-	"azure_paralyzer",
 	"dead_beat",
 	"milkshake_draft",
 	"valkyrie",
@@ -310,6 +307,8 @@
 	"mechanic_megaforce",
 	"extreme_annopark",
 	"zephyrs_madness",
+	"advance3",
+	"azure_paralyzer",
 	"before_machinery",
 	"breakthroughx",
 	"buh",
@@ -320,6 +319,7 @@
 	"deltafunk",
 	"distorzona",
 	"drop_zone",
+	"dualviper",
 	"enlightenment",
 	"gjnwsrn",
 	"great_goblet",
@@ -349,13 +349,6 @@
 	"vengeance",
 	"vitouxic",
 	"wily",
-	"acidulus_8",
-	"ascension_to_walmart",
-	"toxicpower",
-	"acid_ruins",
-	"iloveyou",
-	"magical_funk",
-	"the_vigor",
 	"ice_hell_escape",
 	"dryin_out"
 ]
