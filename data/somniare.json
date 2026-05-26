@@ -780,6 +780,12 @@
 			"link": "https://www.youtube.com/watch?v=uDsmL0CI_GE",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 3703859499,
+			"link": "https://www.youtube.com/watch?v=wgzx9mHEcPE&t=200s",
+			"percent": 100,
+			"hz": 288
 		}
 	]
 }
