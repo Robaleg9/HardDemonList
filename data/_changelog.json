@@ -3697,5 +3697,14 @@
 		"from_rank": 106,
 		"above": "fusion",
 		"below": "efetis_belis"
+	},
+	{
+		"date": 1780168338,
+		"action": "lowered",
+		"name": "wave_and_also_ufo",
+		"to_rank": 128,
+		"from_rank": 115,
+		"above": "kirbys_meltdown",
+		"below": "cyber_dream"
 	}
 ]
