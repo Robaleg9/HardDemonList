@@ -3706,5 +3706,14 @@
 		"from_rank": 115,
 		"above": "kirbys_meltdown",
 		"below": "cyber_dream"
+	},
+	{
+		"date": 1780236144,
+		"action": "placed",
+		"name": "syncopation",
+		"to_rank": 360,
+		"from_rank": null,
+		"above": null,
+		"below": "dryin_out"
 	}
 ]
