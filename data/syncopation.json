@@ -7,5 +7,32 @@
 	"verification": "https://youtu.be/YGXzk3E7TQs?si=GkFDbP9iYMii91HE",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 3532593286,
+			"link": "https://youtu.be/D9ItFNEWx28?si=CMBOufYSs5I_5E3E",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": 2844796713,
+			"link": "https://youtube.com/shorts/EGRUFcrrmTg?si=vVe38OgNLnuVmdXU",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 8307896376,
+			"link": "https://youtu.be/QV_ZK5MT200?si=Xnv20foVwAO1wX9B",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 5272751500,
+			"link": "https://youtu.be/Uvd3PvBlNpo?si=fp7o21y8hOdRWszj",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		}
+	]
 }
