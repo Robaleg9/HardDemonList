@@ -33,6 +33,37 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 5106732325,
+			"link": "https://youtu.be/-XEljGgzcCI",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 3243302041,
+			"link": "https://youtu.be/HfcIWN8cvNE?si=r-_RRj5SL8n0Ni1t",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/sUdLEFJX0DM",
+			"percent": 100,
+			"hz": 150
+		},
+		{
+			"user": 9538645593,
+			"link": "https://youtu.be/Q_FB1wNigBI",
+			"percent": 100,
+			"hz": 75
+		},
+		{
+			"user": 6648097017,
+			"link": "https://youtu.be/qHOT8Gv0cUM",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }
