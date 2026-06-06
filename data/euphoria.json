@@ -270,6 +270,13 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 8792248691,
+			"link": "https://youtu.be/oRkjQtM-XUI?si=vAsyth_Ov8Me4EdU",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
