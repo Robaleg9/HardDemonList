@@ -61,7 +61,6 @@
 	"ultra_circles",
 	"in_limbo",
 	"the_voidlands",
-	"simply_all_good",
 	"blood_menace",
 	"skywanderers",
 	"switchblade",
@@ -95,6 +94,7 @@
 	"exhaust",
 	"ablaze",
 	"danaes_button",
+	"simply_all_good",
 	"shrill_manor",
 	"infernity",
 	"k_a_n_g",
@@ -359,5 +359,5 @@
 	"ice_hell_escape",
 	"dryin_out",
 	"syncopation",
-    "volken_turbo"
+	"volken_turbo"
 ]
