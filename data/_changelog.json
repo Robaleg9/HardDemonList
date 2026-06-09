@@ -3724,5 +3724,14 @@
 		"from_rank": 63,
 		"above": "shrill_manor",
 		"below": "danaes_button"
+	},
+	{
+		"date": 1781038185,
+		"action": "raised",
+		"name": "syncopation",
+		"to_rank": 123,
+		"from_rank": 360,
+		"above": "three_blocks_wide",
+		"below": "the_tempest"
 	}
 ]
