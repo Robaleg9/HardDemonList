@@ -3733,5 +3733,14 @@
 		"from_rank": 360,
 		"above": "three_blocks_wide",
 		"below": "the_tempest"
+	},
+	{
+		"date": 1781445598,
+		"action": "placed",
+		"name": "credits",
+		"to_rank": 362,
+		"from_rank": null,
+		"above": null,
+		"below": "volken_turbo"
 	}
 ]
