@@ -237,6 +237,13 @@
 			"link": "https://youtu.be/RtuvRgChhwI",
 			"percent": 100,
 			"hz": 360
+		},
+		{
+			"user": 5272751500,
+			"link": "https://www.youtube.com/watch?v=uSNwOFwTtVg",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
