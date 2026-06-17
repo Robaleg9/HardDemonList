@@ -3742,5 +3742,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "volken_turbo"
+	},
+	{
+		"date": 1781703208,
+		"action": "raised",
+		"name": "ablaze",
+		"to_rank": 64,
+		"from_rank": 94,
+		"above": "skywanderers",
+		"below": "blood_menace"
 	}
 ]
