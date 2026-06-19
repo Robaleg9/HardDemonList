@@ -716,6 +716,13 @@
 			"link": "https://youtu.be/cwVWML2wISg",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 8307896376,
+			"link": "https://youtu.be/QHYo9CWWwwI?si=uChSfw9mPyjIocWB",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
