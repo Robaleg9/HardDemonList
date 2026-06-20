@@ -3751,5 +3751,14 @@
 		"from_rank": 94,
 		"above": "skywanderers",
 		"below": "blood_menace"
+	},
+	{
+		"date": 1781918903,
+		"action": "lowered",
+		"name": "rattlesnake",
+		"to_rank": 40,
+		"from_rank": 17,
+		"above": "meeting_with_diana",
+		"below": "pressure_chamber"
 	}
 ]
