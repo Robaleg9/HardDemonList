@@ -3760,5 +3760,14 @@
 		"from_rank": 17,
 		"above": "meeting_with_diana",
 		"below": "pressure_chamber"
+	},
+	{
+		"date": 1782423224,
+		"action": "lowered",
+		"name": "infernity",
+		"to_rank": 105,
+		"from_rank": 98,
+		"above": "sharp_minor",
+		"below": "make_it_5top"
 	}
 ]
