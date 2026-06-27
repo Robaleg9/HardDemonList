@@ -1503,6 +1503,13 @@
 			"percent": 100,
 			"hz": 120,
 			"mobile": true
+		},
+		{
+			"user": 5272751500,
+			"link": "https://youtu.be/QuS0kHvcnuI?si=xfOhd9qMTKBuIcD0",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
