@@ -3778,5 +3778,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "credits"
+	},
+	{
+		"date": 1782919639,
+		"action": "raised",
+		"name": "credits",
+		"to_rank": 110,
+		"from_rank": 362,
+		"above": "euphoria",
+		"below": "apache"
 	}
 ]
