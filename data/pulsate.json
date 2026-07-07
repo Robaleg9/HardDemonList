@@ -7,5 +7,20 @@
 	"verification": "https://www.youtube.com/watch?v=471sLhsIUaI",
 	"percentToQualify": 100,
 	"password": "No Copy",
-	"records" : []
+	"records": [
+		{
+			"user": 5272751500,
+			"link": "https://youtu.be/TJKuXMAK8dk?si=pLeH0Ls4qLmQZ1_5",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 8307896376,
+			"link": "https://youtu.be/Y0-b2PWkgEY?si=veqpouw_sx3qmIdr",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		}
+	]
 }
