@@ -691,6 +691,13 @@
 			"link": "https://youtu.be/4lRusmo_A4s?si=QmSl31I6fqCajhg2",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 6318413640,
+			"link": "https://youtu.be/nyeozIs2uFM",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
