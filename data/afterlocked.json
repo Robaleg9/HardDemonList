@@ -313,6 +313,19 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 9774019925,
+			"link": "https://www.youtube.com/watch?v=m5ot8-L41Nw",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 3243302041,
+			"link": "https://m.youtube.com/watch?v=KwY6J2LmFxw&t=480s&pp=2AHgA5ACAYoIAkAB&ra=m",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
