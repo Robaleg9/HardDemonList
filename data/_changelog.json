@@ -3796,5 +3796,14 @@
 		"from_rank": null,
 		"above": null,
 		"below": "evvk"
+	},
+	{
+		"date": 1785979696,
+		"action": "raised",
+		"name": "chasing_light",
+		"to_rank": 1,
+		"from_rank": 318,
+		"above": "dead_beat",
+		"below": null
 	}
 ]

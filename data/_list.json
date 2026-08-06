@@ -1,4 +1,5 @@
 [
+	"chasing_light",
 	"dead_beat",
 	"milkshake_draft",
 	"valkyrie",
@@ -124,7 +125,7 @@
 	"the_tempest",
 	"syncopation",
 	"three_blocks_wide",
-    "rabbitspaceadventure",
+	"rabbitspaceadventure",
 	"final_conflux",
 	"viridica",
 	"araneo",
@@ -316,7 +317,6 @@
 	"breakthroughx",
 	"buh",
 	"castle_dedede",
-	"chasing_light",
 	"chromatic_winter",
 	"damage",
 	"deltafunk",
@@ -364,6 +364,6 @@
 	"volken_turbo",
 	"evvk",
 	"pulsate",
-    "enter_the_limitless",
-    "serendipity"
+	"enter_the_limitless",
+	"serendipity"
 ]
