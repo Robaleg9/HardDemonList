@@ -101,6 +101,25 @@
 			"link": "https://youtu.be/Yuf-Q8nn5SE",
 			"percent": 100,
 			"hz": 150
+		},
+		{
+			"user": 3243302041,
+			"link": "https://m.youtube.com/watch?v=LBqYKyuJDoI",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 4296173695,
+			"link": "https://youtu.be/IKPTkUtVsEc",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 6648097017,
+			"link": "https://youtu.be/rqwLvC2m06o?si=NmSCOgBYVcc7BHv-",
+			"percent": 100,
+			"hz": 144
 		}
 	]
 }
