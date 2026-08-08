@@ -928,6 +928,13 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 6763064596,
+			"link": "https://youtu.be/LO7kZ27E1e0?si=4vDtelukS03onVYQ",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
