@@ -743,6 +743,12 @@
 			"percent": 100,
 			"hz": 60,
 			"mobile": true
+		},
+		{
+			"user": 6868197140,
+			"link": "https://youtu.be/MgHqE5olHUc",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }

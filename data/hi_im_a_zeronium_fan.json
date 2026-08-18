@@ -1,12 +1,77 @@
 {
-    "id": 113131124,
-    "name": "hi im a zeronium fan",
-    "author": "Chronomic",
-    "creators": [
-],
-    "verifier": "swampgd",
-    "verification": "https://www.youtube.com/watch?v=ZhdzLcP65ck",
-    "percentToQualify": 100,
-    "records": [
-    ]
+	"id": 113131124,
+	"name": "hi im a zeronium fan",
+	"author": "Chronomic",
+	"creators": [],
+	"verifier": "swampgd",
+	"verification": "https://www.youtube.com/watch?v=ZhdzLcP65ck",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": 3532593286,
+			"link": "https://youtu.be/PLTCE5UwKH0?si=CE_JKsmMF036Jcgt",
+			"percent": 100,
+			"hz": 1000
+		},
+		{
+			"user": 6939625545,
+			"link": "https://youtu.be/aOJo0jgCPMk",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 6648097017,
+			"link": "https://youtu.be/cLZ8CSzhPak?si=0IV_Enmjf3uBUCYA",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 5429548895,
+			"link": "https://www.youtube.com/watch?v=BvvYaJ7y_0k",
+			"percent": 100,
+			"hz": 480
+		},
+		{
+			"user": 5106732325,
+			"link": "https://youtu.be/m5w3peK_gKo?si=DTCfA87y3Qd3RdXg&t=98",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": 2603629810,
+			"link": "https://youtu.be/zEq1zj1oknM?is=xks8VlmUTZD7sZyQ",
+			"percent": 100,
+			"hz": 144
+		},
+		{
+			"user": 9992430374,
+			"link": "https://youtu.be/2J99hezNBes",
+			"percent": 100,
+			"hz": 150
+		},
+		{
+			"user": 2575341950,
+			"link": "https://youtu.be/dXTDnl3-O_o?si=dRI52pYUtAoITN4E",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 2074289182,
+			"link": "https://youtu.be/ydkLio-CBpw",
+			"percent": 100,
+			"hz": 676767676767
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/otJULXtPugY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4296173695,
+			"link": "https://youtu.be/4GQzETNYHTU",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
