@@ -1,12 +1,31 @@
 {
-    "id": 100945750,
-    "name": "Eternal W",
-    "author": "ElWena",
-    "creators": [
-],
-    "verifier": "ElWena",
-    "verification": "https://www.youtube.com/watch?v=trhj1SHTWvY",
-    "percentToQualify": 100,
-    "records": [
-    ]
+	"id": 100945750,
+	"name": "Eternal W",
+	"author": "ElWena",
+	"creators": [],
+	"verifier": "ElWena",
+	"verification": "https://www.youtube.com/watch?v=trhj1SHTWvY",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": 3243302041,
+			"link": "https://m.youtube.com/watch?v=ZkX9NZDZhl8",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 8307896376,
+			"link": "https://youtu.be/NijB6new-UE?si=e7mCyQsQNWAkJ2d_",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 4296173695,
+			"link": "https://youtu.be/VZqw4n9Sk_k",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
