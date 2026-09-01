@@ -941,6 +941,13 @@
 			"link": "https://www.youtube.com/watch?v=ZuBgPME3Bz0",
 			"percent": 100,
 			"hz": 240
+		},
+		{
+			"user": 1738079116,
+			"link": "https://www.bitchute.com/video/CXyPpHvMQOVV",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
 		}
 	]
 }
