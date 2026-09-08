@@ -1,12 +1,42 @@
 {
-    "id": 93077274,
-    "name": "Ti dichiaro fumato",
-    "author": "AAAAAlex",
-    "creators": [
-],
-    "verifier": "AAAAAlex",
-    "verification": "https://www.youtube.com/watch?v=VAPNGLC0Svs",
-    "percentToQualify": 100,
-    "records": [
-    ]
+	"id": 93077274,
+	"name": "Ti dichiaro fumato",
+	"author": "AAAAAlex",
+	"creators": [],
+	"verifier": "AAAAAlex",
+	"verification": "https://www.youtube.com/watch?v=VAPNGLC0Svs",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": 2147715229,
+			"link": "https://youtu.be/m3XsK6zXYF0",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 3015122921,
+			"link": "https://youtu.be/uuykJIykjJA?is=PuIniVLIQJSp_4N3",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": 4801808163,
+			"link": "https://youtu.be/saVFnoMJAVU?si=eMKzh12aqPX_55C8",
+			"percent": 100,
+			"hz": 120,
+			"mobile": true
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/pBWynHyAWgY",
+			"percent": 100,
+			"hz": 360
+		},
+		{
+			"user": 4296173695,
+			"link": "https://youtu.be/dPMXFzYS3nQ",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
