@@ -930,6 +930,13 @@
 			"percent": 100,
 			"hz": 120,
 			"mobile": true
+		},
+		{
+			"user": 1246830165,
+			"link": "https://youtu.be/jpB-VUZdr-0?si=O09zey9mFWPc3mVX",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
 		}
 	]
 }
