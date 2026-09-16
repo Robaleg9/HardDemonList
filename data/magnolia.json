@@ -555,6 +555,12 @@
 			"link": "https://www.youtube.com/watch?v=UCtwYVrAlkM",
 			"percent": 100,
 			"hz": 288
+		},
+		{
+			"user": 2753913638,
+			"link": "https://youtu.be/rs-PK5uVAtM",
+			"percent": 100,
+			"hz": 120
 		}
 	]
 }
