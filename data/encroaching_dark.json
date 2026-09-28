@@ -1,12 +1,24 @@
 {
-    "id": 99310008,
-    "name": "Encroaching Dark",
-    "author": "WallyWyvern",
-    "creators": [
-],
-    "verifier": "WallyWyvern",
-    "verification": "https://www.youtube.com/watch?v=UcUUj0ErOrE",
-    "percentToQualify": 100,
-    "records": [
-    ]
+	"id": 99310008,
+	"name": "Encroaching Dark",
+	"author": "WallyWyvern",
+	"creators": [],
+	"verifier": "WallyWyvern",
+	"verification": "https://www.youtube.com/watch?v=UcUUj0ErOrE",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": 5272751500,
+			"link": "https://www.youtube.com/watch?v=nW3y5yCqLDc",
+			"percent": 100,
+			"hz": 60,
+			"mobile": true
+		},
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/S-LFrxxF7i4?si=ikLYTb2Ibgwyz4OT&t=163",
+			"percent": 100,
+			"hz": 450
+		}
+	]
 }
