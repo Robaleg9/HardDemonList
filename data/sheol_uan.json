@@ -1,3 +1,4 @@
+{
     "id": 148904292,
     "name": "Sheol(uan)",
     "author": "uan",
@@ -8,8 +9,8 @@
     "FarawGD",
     "Jayzzen"
 ],
-    "verifier": "Level Verifier",
-    "verification": "Verification Video",
+    "verifier": "uan",
+    "verification": "https://www.youtube.com/watch?v=wMHSboC106A",
     "percentToQualify": 100,
     "records": [
     ]
