@@ -1,15 +1,21 @@
 {
-    "id": 77761740,
-    "name": "Neds World",
-    "author": "TheLasaga",
-    "creators": [
-    "TheLasaga",
-    "Zyl",
-    "fredjones"
-],
-    "verifier": "TheLasaga",
-    "verification": "https://www.youtube.com/watch?v=97Osq7ICw_0",
-    "percentToQualify": 100,
-    "records": [
-    ]
+	"id": 77761740,
+	"name": "Neds World",
+	"author": "TheLasaga",
+	"creators": [
+		"TheLasaga",
+		"Zyl",
+		"fredjones"
+	],
+	"verifier": "TheLasaga",
+	"verification": "https://www.youtube.com/watch?v=97Osq7ICw_0",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": 3703859499,
+			"link": "https://youtu.be/xqBTt-4D1dY",
+			"percent": 100,
+			"hz": 330
+		}
+	]
 }
