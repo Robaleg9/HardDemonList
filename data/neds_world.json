@@ -33,7 +33,8 @@
             "user": 3243302041,
             "link": "https://m.youtube.com/watch?v=wkJbfne6UYs",
             "percent": 100,
-            "hz": 60
+            "hz": 60,
+            "mobile": true
         }
 	]
 }
