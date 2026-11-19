@@ -150,6 +150,12 @@
 			"link": "https://www.youtube.com/watch?v=uIJx0ggeovU",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 3161285614,
+			"link": "https://youtu.be/X480tTPeTx0?is=UBSBVEkUUoAvOw9O",
+			"percent": 100,
+			"hz": 240
 		}
 	]
 }
