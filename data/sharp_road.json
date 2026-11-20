@@ -1,12 +1,17 @@
 {
-    "id": 9072281,
-    "name": "Sharp Road (Weekly)",
-    "author": "pg1004",
-    "creators": [
-],
-    "verifier": "pg1004",
-    "verification": "https://www.youtube.com/watch?v=zvTzikTn87w",
-    "percentToQualify": 100,
-    "records": [
-    ]
+	"id": 9072281,
+	"name": "Sharp Road (Weekly)",
+	"author": "pg1004",
+	"creators": [],
+	"verifier": "pg1004",
+	"verification": "https://www.youtube.com/watch?v=zvTzikTn87w",
+	"percentToQualify": 100,
+	"records": [
+		{
+			"user": 9709466874,
+			"link": "https://youtu.be/gFep2_nGNmQ?si=_lXWUILRKaeh3tX5&t=89",
+			"percent": 100,
+			"hz": 360
+		}
+	]
 }
