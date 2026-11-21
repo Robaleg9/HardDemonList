@@ -1570,6 +1570,12 @@
 			"link": "https://www.youtube.com/watch?v=aZEKRNUmnoI",
 			"percent": 100,
 			"hz": 60
+		},
+		{
+			"user": 2222304496,
+			"link": "https://youtu.be/AjbPJ9QKigc?is=F0VL9fpX65lXYy-p",
+			"percent": 100,
+			"hz": 60
 		}
 	]
 }
